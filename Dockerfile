@@ -28,11 +28,11 @@ ENV APACHE_PID_FILE /var/run/apache2.pid
 # Expose apache.
 EXPOSE 80
 
-# Copy this repo into place.
-ADD www /var/www
+# Set working directory
+WORKDIR /var/www/html
 
-# Clone the conf files into the docker container
-RUN cd /var/www && git clone https://repo
+# Copy app code (from repo, not git clone)
+COPY ./www/ /var/www/html/
 
 
 # Update the default apache site with the config we created.
