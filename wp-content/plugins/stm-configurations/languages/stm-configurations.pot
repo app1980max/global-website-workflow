@@ -1,0 +1,352 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: STM Configurations\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-26 04:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: events/events.php:141
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: events/events.php:93
+msgid "* All fields are required"
+msgstr ""
+
+#: megamenu/admin/includes/config.php:121
+#: megamenu/admin/includes/config.php:140
+msgid "Add image"
+msgstr ""
+
+#: megamenu/admin/includes/config.php:13
+msgid "Boxed"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:187
+msgid "Can't find the icon?"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:187
+msgid "Click here to upload"
+msgstr ""
+
+#: events/events.php:125
+msgid "Company Name *"
+msgstr ""
+
+#: events/events.php:304
+msgid "Date - End:"
+msgstr ""
+
+#: events/events.php:300
+msgid "Date - Start:"
+msgstr ""
+
+#: megamenu/admin/includes/config.php:25 megamenu/admin/includes/config.php:48
+#: megamenu/admin/includes/config.php:71 megamenu/admin/includes/config.php:94
+msgid "Default"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:136
+msgid "Default Icons"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:146
+msgid "Delete Icon Set"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:142
+msgid "Disable Icon Set"
+msgstr ""
+
+#: megamenu/admin/includes/config.php:12
+msgid "Disabled"
+msgstr ""
+
+#: events/events.php:241 events/events.php:251
+msgid "Download link: "
+msgstr ""
+
+#: events/events.php:109
+msgid "Email *"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:140
+msgid "Enable Icon Set"
+msgstr ""
+
+#: events/events.php:67
+msgid "Europe/London"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#: events/events.php:137
+msgid ""
+"I agree with the all additional <a href='http://stylemixthemes.com/' "
+"target='_blank'>Terms and Conditions</a>"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:189
+msgid "Icons found."
+msgstr ""
+
+#: events/events.php:288
+msgid "Information"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:76 iconloader/stm-custom-icons.php:187
+msgid "Insert Fonts Zip File"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:320
+msgid ""
+"It seems that the font with the same name is already exists! Please upload "
+"the font with different name."
+msgstr ""
+
+#: events/events.php:158
+msgid "join"
+msgstr ""
+
+#: events/events.php:324
+msgid "Latitude:"
+msgstr ""
+
+#: events/events.php:328
+msgid "Longitude:"
+msgstr ""
+
+#: events/events.php:296
+msgid "Max Participants:"
+msgstr ""
+
+#: megamenu/admin/includes/config.php:139
+msgid "Megamenu background"
+msgstr ""
+
+#: megamenu/admin/includes/config.php:66
+msgid "Megamenu child columns width"
+msgstr ""
+
+#: megamenu/admin/includes/config.php:43 megamenu/admin/includes/config.php:89
+msgid "Megamenu column width"
+msgstr ""
+
+#: megamenu/admin/includes/config.php:20
+msgid "Megamenu columns width"
+msgstr ""
+
+#: megamenu/admin/includes/config.php:112
+msgid "Megamenu icon"
+msgstr ""
+
+#: megamenu/admin/includes/config.php:120
+msgid "Megamenu image"
+msgstr ""
+
+#: megamenu/admin/includes/config.php:131
+msgid "Megamenu textarea"
+msgstr ""
+
+#: megamenu/admin/includes/config.php:7
+msgid "Megamenu type"
+msgstr ""
+
+#: events/events.php:102
+msgid "Name *"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:92
+msgid "No font icons uploaded. Upload some font icons to display here."
+msgstr ""
+
+#: events/events.php:279
+msgid "None"
+msgstr ""
+
+#: events/events.php:70
+msgid "Not indicated"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:72
+msgid "Pearl Custom Icons"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:615 iconloader/stm-custom-icons.php:616
+msgid "Pearl Icon Manager"
+msgstr ""
+
+#: events/events.php:118
+msgid "Phone *"
+msgstr ""
+
+#: events/events.php:230 events/events.php:247
+msgid "Please, check yor email"
+msgstr ""
+
+#: events/events.php:90
+msgid "register"
+msgstr ""
+
+#: events/events.php:233
+msgid "Registration completed successfully"
+msgstr ""
+
+#: megamenu/admin/includes/config.php:122
+#: megamenu/admin/includes/config.php:141
+msgid "Remove image"
+msgstr ""
+
+#: megamenu/admin/includes/config.php:123
+#: megamenu/admin/includes/config.php:142
+msgid "Replace image"
+msgstr ""
+
+#: events/events.php:72
+msgid "save event to calendar"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:303
+msgid ""
+"selection.json or SVG file not found. Was not able to create the necessary "
+"config files"
+msgstr ""
+
+#: events/events.php:291
+msgid "Speaker"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "STM Configurations"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:230
+msgid "stm_font_added:"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:242
+msgid "stm_font_removed"
+msgstr ""
+
+#. Author of the plugin
+msgid "Stylemix Themes"
+msgstr ""
+
+#: events/events.php:332
+msgid "Telephone:"
+msgstr ""
+
+#: importer/importer.php:44
+msgid "Theme options"
+msgstr ""
+
+#: events/events.php:316
+msgid "Time - End:"
+msgstr ""
+
+#: events/events.php:312
+msgid "Time - Start:"
+msgstr ""
+
+#: events/events.php:308
+msgid "Time - Text:"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:421
+msgid "Unable to add this font. Please try again."
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:280
+msgid "Unable to extract the file."
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:393
+msgid "Unable to write css. Upload icons downloaded only from icomoon"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:79
+msgid "Upload New Icons"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:74 iconloader/stm-custom-icons.php:187
+msgid "Upload/Select Fontello Font Zip"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:325
+msgid ""
+"Uploaded font is not from IcoMoon. Please upload fonts created with the "
+"IcoMoon App Only."
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:215
+msgid ""
+"Using this feature is reserved for Super Admins. You unfortunately don't "
+"have the necessary permissions."
+msgstr ""
+
+#: events/events.php:320
+msgid "Venue:"
+msgstr ""
+
+#: importer/importer.php:43
+msgid "View site"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:244
+msgid "Was not able to remove Font"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:228
+msgid "Was not able to retrieve the Font name from your Uploaded Folder"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:365 iconloader/stm-custom-icons.php:371
+msgid "Was not able to write a config file"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:257
+msgid "Wasn't able to create temp folder"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:290
+msgid "Wasn't able to work with Zip Archive"
+msgstr ""
+
+#: events/events.php:234
+msgid "Website: "
+msgstr ""
+
+#: megamenu/admin/includes/config.php:14
+msgid "Wide"
+msgstr ""
+
+#: events/events.php:167
+msgid "You already joined the event."
+msgstr ""
+
+#: events/events.php:240 events/events.php:250
+msgid "Your download is available"
+msgstr ""
+
+#: events/events.php:234
+msgid "Your login: "
+msgstr ""
+
+#: events/events.php:234
+msgid "Your password: "
+msgstr ""

@@ -1,0 +1,324 @@
+
+/*---------------------------------
+	Menu Management Settings
+-----------------------------------*/
+.wpstrmenu.ui-sortable-helper .wpstrmenu-wrap, 
+.wpstrmenu.ui-sortable-helper .wpstrmenusep,
+.wpstrmenu.ui-sortable-helper .wpstrsubmenu
+{
+	border: 1px solid #cccccc;
+	background-color: #eeeeee;
+}
+
+.wpstrmenu-wrap, .wpstrmenusep{
+	display: block;
+	width:460px;
+	padding: 0;
+	border: 1px solid #eeeeee;
+	background-color: #fafafa;
+	margin-bottom:3px;
+	font-size: 14px;
+	line-height: 23px;
+	cursor: move;
+}
+
+.wpstrsubmenu{
+	display: block;
+	width:420px;
+	padding:0;
+	border: 1px solid #eeeeee;
+	background-color: #f7f7f7;
+	margin-bottom:3px;
+	margin-left: 40px;
+	font-size: 14px;
+	line-height: 23px;
+	cursor: move;
+}
+
+.wpstricon:before{
+	display: inline-block;
+	width:23px;
+	height:23px;
+	background-color: transparent;
+	vertical-align: top;
+	margin-right:5px;
+	line-height: 46px;
+	font-size: 18px;
+}
+
+.uvalue .wpstricon:before{
+	line-height: 23px;
+	font-size: 21px;
+}
+
+.uvalue .wpstricon{
+	padding-left: 0px;
+	margin-left: -6px;
+}
+
+.wpstrtext{
+	font-size: 14px;
+	line-height: 23px;
+	display: inline-block;
+}
+
+.wpstrmenusep{
+	border: 1px solid #f1f1f1;
+	background-color: #f8f8f8;
+	padding: 0px;
+}
+
+.wpstrmenusep .wpstricon{
+	width:23px;
+	height:0px;
+	display: block;
+
+}
+
+.wpstricon, .wpstrtext, .wpstrtoggle, .wpstrsubtoggle, .wpstrdisplay, .wpstrsubdisplay, .wpstrmove, .ulrasubmove{
+	padding-top:12px;
+	padding-bottom: 11px;
+}
+
+.wpstricon{
+	padding-left: 12px;
+}
+
+.wpstrtoggle, .wpstrsubtoggle, .wpstrdisplay, .wpstrsubdisplay, .wpstrmove, .ulrasubmove{
+	padding-right: 12px;
+}
+
+.wpstrtoggle, .wpstrsubtoggle{
+	font-weight: 700;
+}
+
+.wpstrsubmenu .wpstrtext {
+	padding-top:12px;
+	padding-bottom: 11px;
+	padding-left: 12px;
+}
+
+
+.wpstr-connectedSortable{
+	width: 506px;
+	padding:23px;
+	min-height: 230px;
+	vertical-align: top;
+	float: left;
+	margin-right: 23px;
+}
+
+
+
+.wpstrtoggle, .wpstrsubtoggle, .wpstrdisplay, .wpstrsubdisplay, .wpstrmove, .ulrasubmove{
+	float: right;
+	font-size: 19px;
+	line-height: 23px;
+	cursor: hand;
+	cursor: pointer;
+	width: 23px;
+	text-align: center;
+}
+
+.wpstrdisplay, .wpstrsubdisplay{
+	font-size: 13px;
+	width: auto;
+}
+
+.wpstreditpanel.opened {
+	width: 100%;
+	min-height:100px;
+	display: block;
+	background-color: #fafafa;
+	padding: 12px 23px 11px 32px;
+	margin-bottom: 3px;
+	margin-top: -4px;
+	z-index:2;
+	position: relative;
+	border:1px solid #e8e8e8;
+}
+
+.wpstreditpanel.closed{
+	width: 100%;
+	display: none;
+}
+
+
+.wpstrsubmenu .wpstreditpanel.opened {
+	background-color: #fafafa;
+	padding: 12px 23px 11px 32px;
+	border:0px solid #e8e8e8;
+	border-top: 1px solid #e8e8e8;
+}
+
+.clearboth{
+	width: 100%;
+	display: block;
+	height: 0px;
+	clear: both;
+}
+
+.wpstreditpanel .ufield, .wpstreditpanel .uvalue{
+	height: 37px;
+	vertical-align: top;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+.wpstreditpanel .ufield{
+	width: 25%;
+	padding-top:6px;
+	display: inline-block;
+	color: #888888;
+	font-size: 13px;
+}
+
+.wpstreditpanel .uvalue{
+	width: 73%;
+	padding-top:6px;
+	display: inline-block;
+	color: #888888;
+	padding-left: 6px;
+	font-size: 13px;
+}
+
+.wpstreditpanel .uvalue input[type="text"]{
+	margin-top: -6px;
+	margin-left: -6px;
+	font-size: 13px;
+}
+
+.ui-state-highlight { height: 137px; line-height: 23px; 
+	border: 1px dashed #cccccc;
+	background: #eeeeee;
+	width: 100%;
+	margin-bottom: 3px;
+}
+
+.wpstrsubmenu-wrap .ui-state-highlight { 
+	height: 46px; line-height: 23px; 
+	border: 1px dashed #cccccc;
+	background: #e8e8e8;
+	width: 420px;
+	margin-left: 40px;
+	margin-bottom: 3px;
+}
+
+.wpstrdisplay, .wpstrsubdisplay{
+	float: right;
+}
+
+.wpstrsubmenu.disabled,
+.wpstrmenu.disabled{
+	opacity: 0.4;
+}
+
+.uvalue{
+	position: relative;
+}
+
+.wpstriconpanel{
+	position: absolute;
+	top:0;
+	right: auto;
+	left: 34px;
+	height: 345px;
+	width: 345px;
+	overflow: auto;	
+	border: 1px solid #eeeeee;
+	background-color: #ffffff;
+	display: none;
+	padding: 5px;
+
+}
+
+.wpstriconpanel .pickicon{
+	width: 36px;
+	height: 36px;
+	border: 1px solid #eeeeee;
+	background-color: #fcfcfc;
+	cursor: hand;
+	cursor: pointer;
+	line-height: 34px;
+	margin: 3px 0px 0 3px;
+	padding: 0 0 0 5px;
+	display: inline-block;
+	text-align: center;
+}
+
+.wpstriconpanel .pickicon:hover{
+	background-color: #777777;
+	border-color: #bbbbbb;
+	color: #ffffff;	
+}
+
+
+.wpstriconpanel .pickicon:before{
+	line-height: 36px;
+	text-align: center;
+}
+
+.wpstricons{
+	display: none;
+}
+
+.wpstricon{
+	cursor: hand;
+	cursor: pointer;
+}
+
+.wpstrtoggle, .wpstrsubtoggle,
+.wpstrmove, .wpstrsubmove,
+.wpstrdisplay, .wpstrsubdisplay{
+	padding: 0 12px 0 0;
+	height: 46px;
+	width: 30px;
+}
+
+.wpstrtoggle:before, .wpstrsubtoggle:before,
+.wpstrmove:before, .wpstrsubmove:before,
+.wpstrdisplay:before, .wpstrsubdisplay:before{
+	font-size: 15px;
+	color: #999999;
+	line-height: 50px;
+	width: 23px;
+}
+
+.wpstrdisplay:before, .wpstrsubdisplay:before{
+	line-height: 48px;
+}
+
+.wpstrmove:before, .wpstrsubmove:before{
+	font-size: 16px;
+}
+
+.wpstr-savearea{
+	float:left;
+	width: 460px;
+	padding: 23px;
+	margin-right: 23px;
+	color: #777777;
+	font-size: 14px;
+	line-height: 23px;
+}
+
+.wpstr-savearea .wp-menu-image, .wpstr-savearea .wp-menu-image:before{
+	line-height: 23px;
+	height:23px;
+	width: 23px;
+}
+
+.reduk-container-image_select ul.reduk-image-select li{
+	max-width: 270px;
+	margin-bottom: 15px !important;
+	text-align: center;
+}
+
+.wp-core-ui .welcome-panel .button.button-hero{
+	line-height: 44px !important;
+}
+
+#wpfooter a{
+	font-size: inherit;
+}
+

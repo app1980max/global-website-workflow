@@ -1,0 +1,33 @@
+.stm_currencies_simple_widget .scsl__single {
+  margin-bottom: 40px;
+}
+.stm_currencies_simple_widget .scsl__single .inner {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  color: #fff;
+}
+.stm_currencies_simple_widget .scsl__single .inner .scsl__name {
+  width: 50%;
+}
+.stm_currencies_simple_widget .scsl__single .inner .scsl__name .scsl__image {
+  display: inline-block;
+  vertical-align: top;
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+.stm_currencies_simple_widget .scsl__single .inner .scsl__price {
+  width: 30%;
+}
+.stm_currencies_simple_widget .scsl__single .inner .scsl__change_plus,
+.stm_currencies_simple_widget .scsl__single .inner .scsl__change_minus {
+  width: 20%;
+}
+.stm_currencies_simple_widget .scsl__single .inner .scsl__change_plus {
+  color: #98e2a2;
+}
+.stm_currencies_simple_widget .scsl__single .inner .scsl__change_minus {
+  color: #d70d0d;
+}

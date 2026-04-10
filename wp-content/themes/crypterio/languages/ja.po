@@ -1,0 +1,5249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Crypterio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-09 12:12+0000\n"
+"PO-Revision-Date: 2018-07-09 12:29+0000\n"
+"Language-Team: Japanese\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Last-Translator: William Wallace <timur@stylemix.net>\n"
+"Language: ja"
+
+#: woocommerce/loop/result-count.php:43
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid ""
+"Showing <strong>%1$d&ndash;%2$d</strong> of <strong>%3$d</strong> results"
+msgstr "<strong>%3$d</strong>結果のうち<strong>%1$d&ndash;%2$d</strong>を表示"
+
+#: inc/admin/product_registration/screens/system_status.php:138
+#: inc/admin/product_registration/screens/system_status.php:174
+#: inc/admin/product_registration/screens/system_status.php:203
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Max input vars limitation will truncate "
+"POST data such as menus. See: <a href=\"%3$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max input vars limit.</a>"
+msgstr ""
+"%1$s - 推奨値: %2$s.<br />最大入力変数制限によりメニュー等のPOSTデータを削除します。 参照: <a href=\"%3$s\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">最大入力変数制限を増やす</a>"
+
+#: inc/admin/product_registration/screens/system_status.php:218
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Post Max Value Length limitation may "
+"prohibit the Theme Options data from being saved to your database. See: <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">Suhosin "
+"Configuration Info</a>."
+msgstr ""
+"%1$s - 推奨値: %2$s.<br />Postの最大長さの制限のためテーマオプションのデータがデータベースに保存できないことがあります。 参照: "
+"<a href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">"
+"Suhosin設定情報</a>"
+
+#: inc/admin/product_registration/screens/system_status.php:106
+#, php-format
+msgid ""
+"%1$s - We recommend setting max execution time to at least 180. <br /> To "
+"import classic demo content, <strong>300</strong> seconds of max execution "
+"time is required.<br />See: <a href=\"%2$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max execution to PHP</a>"
+msgstr ""
+"%1$s -最大実行時間の設定を少なくとも180にすることを推奨します。<br />"
+"クラシックデモコンテンツをインポートするには、最大実行時間<strong>300</strong>秒が必要です。<br />参照<a "
+"href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">"
+"PHPで最大実行時間を増やす</a>"
+
+#: inc/tgm/tgm-plugin-activation.php:2242
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/extras.php:91
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%2$sの%1$s"
+
+#: inc/tgm/tgm-plugin-activation.php:3390
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s がインストール、有効化されました。"
+
+#: inc/tgm/tgm-plugin-activation.php:3396
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$sがインストールされました。"
+
+#: inc/tgm/tgm-plugin-activation.php:2519
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "%2$sを有効化"
+
+#: inc/tgm/tgm-plugin-activation.php:2510
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "%2$sをインストール"
+
+#: inc/tgm/tgm-plugin-activation.php:2514
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "%2$sを更新"
+
+#: inc/extras.php:405 partials/mini-cart.php:3
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] "%d"
+msgstr[1] ""
+
+#: partials/content-event-list-form.php:56
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: archive-stm_ico_listing.php:29
+#, php-format
+msgid "%s %s ICO"
+msgstr "%s %s ICO"
+
+#: inc/tgm/tgm-plugin-activation.php:1888
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: vc_templates/stm_post_slider.php:40 vc_templates/stm_post_slider.php:74
+#: partials/news/crypto-blog.php:17
+#, php-format
+msgid "%s by <strong>%s</strong>"
+msgstr "<strong>%s</strong>による%s"
+
+#: inc/admin/product_registration/screens/support.php:15
+#, php-format
+msgid ""
+"%s comes with 6 months of free support for every license you purchase. "
+"Support can be extended through subscriptions via ThemeForest."
+msgstr "%sは購入したライセンスごとに6ヶ月間の無料サポートが提されます。ThemeForest経由で購読することによりサポートが延長されます。"
+
+#: partials/vc_parts/ico_grid/upcoming.php:121
+#, php-format
+msgid "%s days left"
+msgstr "残り%s日"
+
+#: partials/vc_parts/ico_grid/finished.php:119
+#, php-format
+msgid "%s ended on"
+msgstr "%s終了"
+
+#: woocommerce/myaccount/my-orders.php:77
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s アイテムの%s"
+msgstr[1] ""
+
+#: archive-stm_ico_listing.php:12
+#, php-format
+msgid "%s ICO"
+msgstr "%s ICO"
+
+#: partials/ico_listing/parts/market_and_returns.php:35
+#, php-format
+msgid "%s token price"
+msgstr "%sトークンプライス"
+
+#: inc/visual_composer.php:2116
+msgid "(STM) Event Map"
+msgstr "(STM) イベントマップ"
+
+#: partials/content-event-list-form.php:16
+msgid "* All fields are required"
+msgstr "*すべての欄が必須です。"
+
+#: inc/customizer/google-fonts.php:8 inc/customizer/controls/post-type.php:15
+msgid "--- Default ---"
+msgstr "--- デフォルト ---"
+
+#: inc/extras.php:407 partials/mini-cart.php:5
+msgid "0"
+msgstr "0"
+
+#: inc/visual_composer.php:349
+msgid "0px"
+msgstr "0px"
+
+#: inc/customizer/registration.php:624
+msgid "1"
+msgstr "1"
+
+#: inc/crypterio/graph.php:38
+msgid "1 day"
+msgstr "1日"
+
+#: inc/crypterio/graph.php:40
+msgid "1 month"
+msgstr "1ヶ月"
+
+#: inc/crypterio/graph.php:39
+msgid "1 week"
+msgstr "1週間"
+
+#: inc/crypterio/graph.php:41
+msgid "1 year"
+msgstr "1年"
+
+#: inc/visual_composer.php:355
+msgid "10px"
+msgstr "10px"
+
+#: inc/visual_composer.php:356
+msgid "15px"
+msgstr "15px"
+
+#: inc/visual_composer.php:350
+msgid "1px"
+msgstr "1px"
+
+#: inc/customizer/registration.php:625
+msgid "2"
+msgstr "2"
+
+#: inc/visual_composer.php:357
+msgid "20px"
+msgstr "20px"
+
+#: inc/visual_composer.php:358
+msgid "25px"
+msgstr "25px"
+
+#: inc/visual_composer.php:351
+msgid "2px"
+msgstr "2px"
+
+#: inc/customizer/registration.php:626
+msgid "3"
+msgstr "3"
+
+#: inc/visual_composer.php:359
+msgid "30px"
+msgstr "30px"
+
+#: inc/visual_composer.php:360
+msgid "35px"
+msgstr "35px"
+
+#: inc/visual_composer.php:352
+msgid "3px"
+msgstr "3px"
+
+#: inc/customizer/registration.php:627
+msgid "4"
+msgstr "4"
+
+#: inc/visual_composer.php:361
+msgid "40px"
+msgstr "40px"
+
+#: inc/visual_composer.php:362
+msgid "45px"
+msgstr "45px"
+
+#: inc/visual_composer.php:353
+msgid "4px"
+msgstr "4px"
+
+#: inc/visual_composer.php:363
+msgid "50px"
+msgstr "50px"
+
+#: inc/visual_composer.php:364
+msgid "55px"
+msgstr "55px"
+
+#: inc/visual_composer.php:354
+msgid "5px"
+msgstr "5px"
+
+#: inc/visual_composer.php:365
+msgid "60px"
+msgstr "60px"
+
+#: inc/visual_composer.php:3056 inc/visual_composer.php:3062
+msgid ""
+"<a href=\"http://www.latlong.net/convert-address-to-lat-long.html\">Here is "
+"a tool</a> where you can find Latitude & Longitude of your location"
+msgstr ""
+"あなたの位置の緯度と経度を検索できる<a href=\"http://www.latlong.net/convert-address-to-lat-"
+"long.html\">ツールです</a>"
+
+#: inc/extras.php:101
+msgid "<i class=\"fa fa-reply\"></i> Reply"
+msgstr "<i class=\"fa fa-reply\"></i>返信"
+
+#: inc/admin/product_registration/screens/startup.php:72
+msgid ""
+"A new page will load with a token number in a box. Copy the token number "
+"then come back to this registration page and paste it into the field below "
+"and click the <strong>Submit</strong> button."
+msgstr ""
+"新しいページはボックスのトークンの数を読み込みます。トークン番号をコピーしこの登録ページに戻った後に以下の欄にペーストしてから<strong>"
+"送信</strong>ボタンをクリックしてください。"
+
+#: inc/visual_composer.php:1967
+msgid "About Author"
+msgstr "著者について"
+
+#: inc/visual_composer.php:2688
+msgid "About Vacancy"
+msgstr "空きについて"
+
+#: inc/crypterio/functions.php:620 partials/ico_listing/parts/token_sale.php:15
+msgid "Accepts"
+msgstr "承認"
+
+#: inc/admin/white_list/templates/i18n.php:6
+msgid "Actions"
+msgstr "アクション"
+
+#: inc/tgm/tgm-plugin-activation.php:2631
+msgid "Activate"
+msgstr "有効化"
+
+#: inc/crypterio/functions.php:433 inc/tgm/tgm-plugin-activation.php:2222
+msgid "Active"
+msgstr "有効"
+
+#: taxonomy-stm_ico_listing_category.php:64 archive-stm_ico_listing.php:68
+msgid "Active ICO"
+msgstr "アクティブなICO"
+
+#: inc/admin/product_registration/screens/system_status.php:250
+#: inc/admin/product_registration/screens/system_status.php:254
+msgid "Active Plugins"
+msgstr "有効なプラグイン"
+
+#: comments.php:50
+msgid "Add a Comment"
+msgstr "コメントを追加"
+
+#: inc/visual_composer.php:2769
+msgid "Add Category. If not added show all category"
+msgstr "カテゴリーを追加。追加されていない場合はすべてのカテゴリーを表示"
+
+#: inc/visual_composer.php:939
+msgid "Add link"
+msgstr "リンクを追加"
+
+#: woocommerce/single-product-reviews.php:104
+msgid "add review"
+msgstr "レビューを追加"
+
+#: woocommerce/checkout/form-shipping.php:64
+msgid "Additional Information"
+msgstr "追加情報"
+
+#: partials/ico_listing/parts/additional_links.php:7
+msgid "Additional links"
+msgstr "追加リンク"
+
+#: inc/customizer/registration.php:582
+msgid "Additional Widget Areas"
+msgstr "追加のウィジェットエリア"
+
+#: inc/post_types-config.php:364 inc/visual_composer.php:626
+#: inc/visual_composer.php:3025 inc/visual_composer.php:3039
+msgid "Address"
+msgstr "住所"
+
+#: inc/widgets/contacts.php:96
+msgid "Address:"
+msgstr "住所:"
+
+#: inc/visual_composer.php:169
+msgid ""
+"Adjust column for different screen sizes. Control width, offset and "
+"visibility settings."
+msgstr "違う画面サイズの場合に列を調整。幅、オフセットと表示設定をコントロール。"
+
+#: inc/admin/product_registration/screens/install_demo.php:34
+msgid "Advisor"
+msgstr "アドバイザー"
+
+#: inc/visual_composer.php:1835
+msgid "Advisors"
+msgstr "アドバイザー"
+
+#: inc/vc/modules/ico_countdown.php:267
+msgid "Agreement text 1"
+msgstr "同意テキスト 1"
+
+#: inc/vc/modules/ico_countdown.php:277
+msgid "Agreement text 2"
+msgstr "同意テキスト2"
+
+#: inc/visual_composer.php:739
+msgid "Align Center"
+msgstr "中央揃え"
+
+#: inc/visual_composer.php:850 inc/visual_composer.php:1134
+#: inc/visual_composer.php:2660
+msgid "Alignment"
+msgstr "アライメント"
+
+#: inc/visual_composer.php:439 inc/visual_composer.php:449
+#: inc/visual_composer.php:459 inc/visual_composer.php:469
+#: inc/visual_composer.php:479 inc/visual_composer.php:489
+#: vc_templates/stm_works.php:78 inc/crypterio/graph.php:42
+#: partials/ico_listing/categories.php:15
+#: inc/admin/white_list/templates/i18n.php:18
+msgid "All"
+msgstr "すべて"
+
+#: vc_templates/stm_crypto_charts.php:62
+msgid "all"
+msgstr "すべて"
+
+#: inc/post_types-config.php:24 inc/visual_composer.php:2005
+#: inc/customizer/registration.php:412
+msgid "All Events"
+msgstr "すべてのイベント"
+
+#: inc/post_types-config.php:7 inc/customizer/registration.php:220
+msgid "All ICO Listings"
+msgstr "すべてのICOリスト"
+
+#: inc/tgm/tgm-plugin-activation.php:3391
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールと有効化が完了しました。"
+
+#: inc/tgm/tgm-plugin-activation.php:3397
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+#: inc/customizer/registration.php:218 inc/customizer/registration.php:250
+#: inc/customizer/registration.php:282 inc/customizer/registration.php:314
+#: inc/customizer/registration.php:346 inc/customizer/registration.php:378
+#: inc/customizer/registration.php:410 inc/customizer/registration.php:442
+msgid "All Items"
+msgstr "すべてのアイテム"
+
+#: inc/tgm/tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグインのインストールと有効化が完了しました。%1$s"
+
+#: inc/post_types-config.php:91 inc/customizer/registration.php:444
+msgid "All Portfolio"
+msgstr "すべてのポートフォリオ"
+
+#: inc/post_types-config.php:39 inc/customizer/registration.php:252
+msgid "All Services"
+msgstr "すべてのサービス"
+
+#: inc/post_types-config.php:81
+msgid "All Sidebars"
+msgstr "すべてのサイドバー"
+
+#: inc/post_types-config.php:55 inc/customizer/registration.php:316
+msgid "All Staff"
+msgstr "すべてのスタッフ"
+
+#: inc/post_types-config.php:71 inc/customizer/registration.php:380
+msgid "All Testimonials"
+msgstr "すべてのお客様の声"
+
+#: inc/post_types-config.php:47 inc/customizer/registration.php:284
+msgid "All Vacancies"
+msgstr "すべての空き"
+
+#: inc/post_types-config.php:63 inc/customizer/registration.php:348
+msgid "All Works"
+msgstr "すべての仕事"
+
+#: inc/admin/white_list/templates/i18n.php:8
+msgid "Amount"
+msgstr "数"
+
+#: inc/tgm/tgm-plugin-activation.php:3384
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s: <strong>%2$s</strong>のインストール中にエラーが発生しました。"
+
+#: inc/visual_composer.php:1574
+msgid "Animation"
+msgstr "アニメーション"
+
+#: inc/visual_composer.php:1565
+msgid "Animation Block"
+msgstr "アニメーションブロック"
+
+#: inc/visual_composer.php:1587
+msgid "Animation Delay (s)"
+msgstr "アニメーションディレイ"
+
+#: inc/visual_composer.php:1580
+msgid "Animation Duration (s)"
+msgstr "アニメーションデュレーション"
+
+#: woocommerce/myaccount/form-login.php:102
+msgid "Anti-spam"
+msgstr "スパム対策"
+
+#: inc/crypterio/functions.php:347
+msgid "Application submitted"
+msgstr "アプリケーションが送信されました"
+
+#: woocommerce/checkout/form-coupon.php:39 woocommerce/cart/cart.php:133
+msgid "Apply Coupon"
+msgstr "クーポンを適用"
+
+#: partials/content-vacancy_bottom.php:5
+msgid "apply now"
+msgstr "今すぐ適用"
+
+#: inc/admin/white_list/templates/i18n.php:10
+msgid "Approve"
+msgstr "承認"
+
+#: inc/admin/white_list/white_list.php:113
+#: inc/admin/white_list/templates/i18n.php:11
+msgid "Approved"
+msgstr "承認"
+
+#: inc/customizer/registration.php:960
+msgid "Archive Pages"
+msgstr "アーカイブページ"
+
+#: inc/crypterio/functions.php:595
+msgid "Are you affiliated with the ICO?"
+msgstr "ICOとアフェリエイトしていますか？"
+
+#: inc/visual_composer.php:1218
+msgid "Arrows"
+msgstr "アロー"
+
+#: inc/tgm/tgm-plugin-activation.php:2378
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "不明"
+
+#: inc/crypterio/functions.php:654
+msgid "Attach Image (Min 760x422px)"
+msgstr "添付画像(最小 760x422px)"
+
+#: inc/visual_composer.php:1317
+msgid "Author Image"
+msgstr "著者の画像"
+
+#: inc/visual_composer.php:1322
+msgid "Author Name"
+msgstr "著者名"
+
+#: inc/visual_composer.php:1327
+msgid "Author Status"
+msgstr "著者のステータス"
+
+#: partials/content-about_author.php:8
+msgid "Author:"
+msgstr "著者:"
+
+#: inc/visual_composer.php:1238 inc/visual_composer.php:1674
+msgid "Autoplay interval timeout (in ms)."
+msgstr "オートプレイインターバルタイムアウト (in ms)"
+
+#: inc/visual_composer.php:1235 inc/visual_composer.php:1671
+msgid "Autoplay Timeout"
+msgstr "オートプレイタイムアウト"
+
+#: partials/ico_listing/parts/token_sale.php:9
+msgid "Available for Token Sale"
+msgstr "トークンセールで利用可能"
+
+#: inc/crypterio/functions.php:604
+msgid "Available for token sale"
+msgstr "トークンセールが利用可能"
+
+#: woocommerce/cart/cart.php:75
+msgid "Available on backorder"
+msgstr "バックオーダーで利用可能"
+
+#: inc/tgm/tgm-plugin-activation.php:2406
+msgid "Available version:"
+msgstr "利用可能なバージョン:"
+
+#: inc/post_types-config.php:249
+msgid "Background - Transparent (Work only with \"Boxed Mode\")"
+msgstr "背景 - 透明 (\"ボックスモード\"でのみ動作)"
+
+#: inc/post_types-config.php:204 inc/post_types-config.php:275
+#: inc/customizer/registration.php:169 inc/customizer/registration.php:490
+#: inc/vc/modules/ico_countdown.php:55
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/visual_composer.php:402
+msgid "Background On hover"
+msgstr "ホバー中の背景"
+
+#: inc/post_types-config.php:209 inc/customizer/registration.php:494
+msgid "Background Position"
+msgstr "背景画像の表示開始位置を指定"
+
+#: inc/post_types-config.php:219 inc/customizer/registration.php:502
+msgid "Background Repeat"
+msgstr "背景画像のリピートの指定"
+
+#: inc/post_types-config.php:214 inc/customizer/registration.php:498
+msgid "Background Size"
+msgstr "背景画像のサイズ"
+
+#: inc/visual_composer.php:2362
+msgid "Bar"
+msgstr "バー"
+
+#: inc/visual_composer.php:885 inc/visual_composer.php:986
+#: inc/visual_composer.php:1003 inc/visual_composer.php:1022
+#: inc/visual_composer.php:1335
+msgid "Base"
+msgstr "ベース"
+
+#: inc/customizer/registration.php:644
+msgid "Base Font Family"
+msgstr "ベースフォントファミリー"
+
+#: inc/tgm/tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "プラグインの有効化を開始"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "プラグインのインストールを開始"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "プラグインの更新を開始"
+msgstr[1] ""
+
+#: inc/extras.php:1331 inc/customizer/registration.php:22
+msgid "Behance"
+msgstr "Behance"
+
+#: inc/visual_composer.php:319
+msgid "Between Title and Subtitle"
+msgstr "タイトルとサブタイトルの間"
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "billing &amp; shipping"
+msgstr "請求 &amp; 配送"
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "billing details"
+msgstr "請求情報"
+
+#: inc/visual_composer.php:3078
+msgid "Bitcoin Price Chart Widget"
+msgstr "ビットコインプライスチャートウィジェット"
+
+#: inc/visual_composer.php:3068
+msgid "Bitcoin.com Widgets"
+msgstr "Bitcoin.comウィジェット"
+
+#: inc/visual_composer.php:337
+msgid "Black"
+msgstr "ブラック"
+
+#: inc/customizer/registration.php:1015
+msgid "Blog Ad HTML"
+msgstr "ブログ広告HTML"
+
+#: inc/customizer/registration.php:640
+msgid "Body"
+msgstr "本文"
+
+#: inc/visual_composer.php:336 inc/customizer/controls/font-weight.php:24
+msgid "Bold"
+msgstr "ボールド"
+
+#: inc/customizer/controls/font-weight.php:25
+msgid "Bold Italic"
+msgstr "ボールドイタリック"
+
+#: inc/customizer/controls/font-weight.php:16
+msgid "Book"
+msgstr "ブック"
+
+#: inc/customizer/controls/font-weight.php:17
+msgid "Book Italic"
+msgstr "ブックイタリック"
+
+#: inc/post_types-config.php:258 inc/customizer/registration.php:533
+msgid "Border Top - Hide"
+msgstr "ボーダートップ - 非表示"
+
+#: inc/visual_composer.php:296 inc/visual_composer.php:317
+#: inc/visual_composer.php:2380
+msgid "Bottom"
+msgstr "ボトム"
+
+#: inc/visual_composer.php:1954
+msgid "Bottom Info"
+msgstr "ボトムインフォ"
+
+#: inc/visual_composer.php:1332
+msgid "Box Color"
+msgstr "ボックスカラー"
+
+#: inc/crypterio/graph.php:92
+msgid "BTC chart border color"
+msgstr "BTCチャートボーダーカラー"
+
+#: inc/crypterio/graph.php:86
+msgid "BTC chart fill color"
+msgstr "BTCチャートフィルカラー"
+
+#: inc/crypterio/graph.php:67
+msgid "BTC price decimals number"
+msgstr "BTC価格10進数 "
+
+#: inc/visual_composer.php:1219
+msgid "Bullets"
+msgstr "箇条書き"
+
+#: inc/vc/modules/pricing_table.php:43
+msgid "Button"
+msgstr "ボタン"
+
+#: inc/visual_composer.php:2556
+msgid "Button for link to the archive page."
+msgstr "アーカイブページへのリンクボタン"
+
+#: inc/visual_composer.php:944 inc/visual_composer.php:2563
+msgid "Button link"
+msgstr "ボタンリンク"
+
+#: inc/crypterio/functions.php:836
+msgid "By"
+msgstr "による"
+
+#: inc/woocommerce_configuration.php:9
+msgid "by"
+msgstr "による"
+
+#: inc/admin/product_registration/screens/system_status.php:283
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr "%sによる"
+
+#: inc/crypterio/graph.php:116
+msgid "Cache expiration in ms"
+msgstr "msでのキャッシュの有効期限"
+
+#: woocommerce/cart/shipping-calculator.php:33
+msgid "Calculate Shipping"
+msgstr "配送を計算"
+
+#: woocommerce/myaccount/my-orders.php:92
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: inc/customizer/controls/text-transform.php:12
+msgid "Capitalize"
+msgstr "大文字　"
+
+#: inc/crypterio/functions.php:242 inc/crypterio/functions.php:684
+msgid "CAPTCHA verification failed."
+msgstr "キャプチャ認証に失敗しました。"
+
+#: woocommerce/single-product.php:37 woocommerce/archive-product.php:38
+#: partials/title_box.php:39 partials/title_box.php:40
+msgid "Careers"
+msgstr "キャリア"
+
+#: inc/visual_composer.php:1230 inc/visual_composer.php:1243
+#: inc/visual_composer.php:1253 inc/visual_composer.php:1261
+#: inc/visual_composer.php:1657 inc/visual_composer.php:1667
+#: inc/visual_composer.php:1679 inc/visual_composer.php:1689
+#: inc/visual_composer.php:1703 inc/visual_composer.php:1710
+#: inc/visual_composer.php:1718 inc/visual_composer.php:1726
+#: inc/visual_composer.php:1734 inc/visual_composer.php:1742
+#: inc/visual_composer.php:1833
+msgid "Carousel"
+msgstr "カルーセル"
+
+#: inc/visual_composer.php:1889
+msgid "Carousel - Show Arrows"
+msgstr "カルーセル - アローを表示"
+
+#: inc/visual_composer.php:1403
+msgid "Carousel autoplay"
+msgstr "カルーセルオートプレイ"
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart Totals"
+msgstr "カートの合計"
+
+#: inc/post_types-config.php:134 inc/post_types-config.php:135
+#: inc/post_types-config.php:136 inc/post_types-config.php:137
+#: inc/post_types-config.php:138 inc/post_types-config.php:139
+#: inc/post_types-config.php:140
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: inc/visual_composer.php:1209 inc/visual_composer.php:1373
+#: inc/visual_composer.php:1447 inc/visual_composer.php:1822
+#: inc/visual_composer.php:2010 inc/visual_composer.php:2330
+#: inc/visual_composer.php:2512
+msgid "Category"
+msgstr "カテゴリー"
+
+#: partials/content-post_details.php:11 partials/content-loop_list.php:12
+#: woocommerce/single-product/meta.php:35
+msgid "Category:"
+msgstr "カテゴリー："
+
+#: inc/visual_composer.php:844 inc/visual_composer.php:855
+#: inc/visual_composer.php:1139 inc/visual_composer.php:2665
+msgid "Center"
+msgstr "中央"
+
+#: inc/visual_composer.php:1624
+msgid "Centered Items"
+msgstr "中央のアイテム"
+
+#: inc/visual_composer.php:2351
+msgid "Charts"
+msgstr "チャート"
+
+#: inc/visual_composer.php:2892
+msgid "Check taxonomy to show posts"
+msgstr "投稿を表示する分類を確認"
+
+#: inc/visual_composer.php:2363
+msgid "Circle"
+msgstr "サークル"
+
+#: woocommerce/cart/shipping-calculator.php:85
+msgid "City"
+msgstr "市"
+
+#: inc/visual_composer.php:2020
+msgid "Classic"
+msgstr "クラシック"
+
+#: inc/visual_composer.php:392
+msgid "Classic Black"
+msgstr "クラシックブラック"
+
+#: inc/visual_composer.php:387
+msgid "Classic Blue"
+msgstr "クラシックブルー"
+
+#: inc/visual_composer.php:389
+msgid "Classic Green"
+msgstr "クラシックグリーン"
+
+#: inc/visual_composer.php:386
+msgid "Classic Grey"
+msgstr "クラシックグレイ"
+
+#: inc/visual_composer.php:385
+msgid "Classic Link"
+msgstr "クラシックリンク"
+
+#: inc/visual_composer.php:390
+msgid "Classic Orange"
+msgstr "クラシックオレンジ"
+
+#: inc/visual_composer.php:391
+msgid "Classic Red"
+msgstr "クラシックレッド"
+
+#: inc/visual_composer.php:388
+msgid "Classic Turquoise"
+msgstr "クラシックターコイズ"
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Click here to enter your code"
+msgstr "コードを入力するにはここをクリックしてください"
+
+#: woocommerce/checkout/form-login.php:27
+msgid "Click here to login"
+msgstr "ログインするにはここをクリックしてください"
+
+#: inc/admin/product_registration/screens/startup.php:70
+#, php-format
+msgid ""
+"Click on this <a href=\"%s\" target=\"_blank\">Generate A Personal Token</a> "
+"link. <strong>IMPORTANT:</strong> You must be logged into the same "
+"Themeforest account that purchased %s. If you are logged in already, look in "
+"the top menu bar to ensure it is the right account. If you are not logged in,"
+" you will be directed to login then directed back to the Create A Token Page."
+
+#: inc/visual_composer.php:2584 vc_templates/stm_portfolio_information.php:25
+msgid "Client"
+msgstr "クライアント"
+
+#: inc/visual_composer.php:1551
+msgid "Code"
+msgstr "コード"
+
+#: partials/vc_parts/ico_list/style_1.php:32
+msgid "Collected:"
+msgstr "収集:"
+
+#: inc/visual_composer.php:376 inc/visual_composer.php:1162
+#: inc/visual_composer.php:2439 inc/visual_composer.php:2487
+#: inc/vc/modules/token_structure.php:27 inc/vc/modules/token_structure.php:43
+msgid "Color"
+msgstr "カラー"
+
+#: inc/visual_composer.php:2814
+msgid "Cols"
+msgstr "列"
+
+#: comments.php:28
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: inc/visual_composer.php:1980
+msgid "Comments"
+msgstr "コメント"
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr "コメントが閉じられました。"
+
+#: inc/admin/product_registration/screens/support.php:84
+msgid "Community Forum"
+msgstr "コミュニティフォーラム"
+
+#: inc/post_types-config.php:271 inc/post_types-config.php:413
+msgid "Company"
+msgstr "会社"
+
+#: inc/visual_composer.php:498
+msgid "Company History"
+msgstr "会社の歴史"
+
+#: inc/post_types-config.php:312
+msgid "Compensation"
+msgstr "補償"
+
+#: partials/content-about_vacancy.php:41
+msgid "Compensation:"
+msgstr "補償:"
+
+#: inc/visual_composer.php:1471 inc/widgets/contacts.php:71
+msgid "Contact"
+msgstr "連絡先"
+
+#: partials/content-staff_bottom.php:2
+msgid "contact details"
+msgstr "連絡先の詳細"
+
+#: inc/post_types-config.php:398
+msgid "Contact Info"
+msgstr "連絡先情報"
+
+#: inc/post_types-config.php:316
+msgid "Contact Us Link"
+msgstr "連絡先のリンク"
+
+#. Base ID
+#: inc/visual_composer.php:602 inc/widgets/contacts.php:11
+msgid "Contacts"
+msgstr "連絡先"
+
+#: inc/widgets/contacts.php:12
+msgid "Contacts widget"
+msgstr "連絡先ウィジェット"
+
+#: inc/visual_composer.php:2887 inc/vc/modules/news.php:13
+#: inc/vc/modules/wave_roadmap.php:12 inc/vc/modules/cryptoticker.php:13
+#: inc/vc/modules/news_list.php:13 inc/vc/modules/token_structure.php:12
+#: inc/vc/modules/post_slider.php:13 inc/vc/modules/ratings.php:13
+#: inc/vc/modules/news_carousel.php:13 inc/vc/modules/news_widget.php:13
+#: inc/vc/modules/services_grid.php:13 inc/vc/modules/cryptowidget.php:13
+#: inc/vc/modules/panel_box.php:13 inc/vc/modules/pricing_table.php:13
+msgid "Content"
+msgstr "コンテンツ"
+
+#: inc/customizer/registration.php:528
+msgid "Content Background - Transparent"
+msgstr "コンテンツの背景- 透明"
+
+#: inc/post_types-config.php:245
+msgid "Content Options"
+msgstr "コンテンツオプション"
+
+#: inc/vc/modules/ico_countdown.php:24
+msgid "Contract"
+msgstr "契約"
+
+#: inc/vc/modules/ico_countdown.php:186
+msgid "Contract address"
+msgstr "契約先の住所"
+
+#: partials/vc_parts/ico_countdown/custom.php:235
+msgid "Copy address"
+msgstr "住所をコピー"
+
+#: inc/customizer/registration.php:602
+msgid "Copyright"
+msgstr "著作権"
+
+#: footer.php:21 inc/customizer/registration.php:603
+#: inc/customizer/registration.php:604
+msgid ""
+"Copyright &copy; 2012-2017 crypterio Theme by <a href='https://themeforest."
+"net/item/crypterio-business-finance-wordpress-theme/14740561' "
+"target='_blank'>Stylemix Themes</a>. All rights reserved"
+msgstr ""
+"<a href='https://themeforest.net/item/crypterio-business-finance-wordpress-"
+"theme/14740561' target='_blank'>Stylemix Themes</a>による2012-2017 "
+"crypterioテーマ。 All rights reserved"
+
+#: inc/admin/product_registration/screens/install_demo.php:37
+msgid "Corporate"
+msgstr "企業"
+
+#: inc/post_types-config.php:444
+msgid "Cost"
+msgstr "コスト"
+
+#: inc/admin/product_registration/screens/install_demo.php:40
+msgid "Counselor"
+msgstr "カウンセラー"
+
+#: inc/visual_composer.php:1182 inc/visual_composer.php:1379
+#: inc/visual_composer.php:1453 inc/visual_composer.php:1867
+#: inc/visual_composer.php:2783 inc/visual_composer.php:2791
+msgid "Count"
+msgstr "カウント"
+
+#: inc/visual_composer.php:2282 inc/vc/modules/ico_countdown.php:39
+msgid "Count to date"
+msgstr "日付までカウントダウン"
+
+#: inc/visual_composer.php:2275
+msgid "Countdown"
+msgstr "カウントダウン"
+
+#: inc/visual_composer.php:1103
+msgid "Counter Value"
+msgstr "カウンタ値"
+
+#: inc/visual_composer.php:1109
+msgid "Counter Value Prefix"
+msgstr "カウンタ値接頭辞"
+
+#: inc/visual_composer.php:1115
+msgid "Counter Value Suffix"
+msgstr "カウンタ値接尾辞"
+
+#: inc/crypterio/functions.php:162 inc/admin/white_list/templates/i18n.php:20
+msgid "Country"
+msgstr "国"
+
+#: partials/vc_parts/ico_countdown/contract.php:204
+msgid "Country of Citizenship"
+msgstr "市民権のある国"
+
+#: woocommerce/checkout/form-coupon.php:35 woocommerce/cart/cart.php:133
+msgid "Coupon code"
+msgstr "クーポンコード"
+
+#: inc/admin/product_registration/screens/support.php:16
+msgid "Create A Support Account"
+msgstr "サポートアカウントを作成"
+
+#: woocommerce/checkout/form-billing.php:70
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr "以下の情報を入力してアカウントを作成してください。すでに登録済みのお客様の場合にはページ上部からログインしてください。"
+
+#: woocommerce/checkout/form-billing.php:59
+msgid "Create an account?"
+msgstr "アカウントを作成しますか？"
+
+#: inc/admin/product_registration/screens/install_demo.php:22
+msgid "Creative ICO"
+msgstr "クリエイティブICO"
+
+#. Name of the theme
+#: inc/admin/product_registration/includes/admin_screens.php:24
+#: inc/admin/product_registration/includes/admin_screens.php:75
+#: inc/admin/product_registration/screens/install_demo.php:31
+msgid "Crypterio"
+msgstr "Crypterio"
+
+#: inc/vc/modules/news_carousel.php:8
+msgid "Crypterio News Carousel"
+msgstr "Crypterioニュースカルーセル"
+
+#: inc/vc/modules/news.php:8
+msgid "Crypterio News Grid"
+msgstr "Crypterioニュースグリッド"
+
+#: inc/vc/modules/news_list.php:8
+msgid "Crypterio News List"
+msgstr "Crypterioニュースリスト"
+
+#: inc/vc/modules/news_widget.php:8
+msgid "Crypterio News Widget"
+msgstr "Crypterioニュースウィジェット"
+
+#: inc/vc/modules/post_slider.php:8
+msgid "Crypterio Post Slider"
+msgstr "Crypterioポストスライダー"
+
+#: inc/vc/modules/pricing_table.php:8
+msgid "Crypterio Pricing Tables"
+msgstr "Crypterio価格テーブル"
+
+#: inc/vc/modules/cryptoticker.php:8
+msgid "Crypterio Ticker"
+msgstr "Crypterioティッカー"
+
+#: inc/visual_composer.php:2882
+msgid "Crypterio Timeline"
+msgstr "Crypterioタイムライン"
+
+#: inc/vc/modules/cryptowidget.php:8
+msgid "Crypterio Widget"
+msgstr "Crypterioウィジェット"
+
+#. Description of the theme
+msgid ""
+"Crypterio – theme for ICO Consulting, Bitcoin and Cryptocurrency experts and "
+"advisors.  Launch your consulting project featured by ICO landing page "
+"template, online cryptocurrency exchange rates, as well as special pages for "
+"services and cases."
+
+#: inc/admin/product_registration/screens/install_demo.php:25
+msgid "Crypto Blog"
+msgstr "Cryptoブログ"
+
+#: inc/vc/modules/cryptoticker.php:11
+msgid "Crypto Ticker"
+msgstr "Cryptoティッカー"
+
+#: inc/vc/modules/cryptowidget.php:11
+msgid "Crypto Widget"
+msgstr "Crypterioウィジェット"
+
+#: inc/customizer/registration.php:50 inc/customizer/registration.php:192
+msgid "Cryptocurrencies"
+msgstr "仮想通貨"
+
+#: inc/crypterio/graph.php:15
+msgid "Cryptocurrency charts"
+msgstr "仮想通貨チャート"
+
+#: inc/crypterio/converter.php:15
+msgid "Cryptocurrency converter"
+msgstr "仮想通貨コンバーター"
+
+#: inc/visual_composer.php:135 inc/visual_composer.php:185
+#: inc/visual_composer.php:267 inc/visual_composer.php:511
+#: inc/visual_composer.php:594 inc/visual_composer.php:704
+#: inc/visual_composer.php:800 inc/visual_composer.php:1076
+#: inc/visual_composer.php:1144 inc/visual_composer.php:1266
+#: inc/visual_composer.php:1349 inc/visual_composer.php:1432
+#: inc/visual_composer.php:1462 inc/visual_composer.php:1529
+#: inc/visual_composer.php:1557 inc/visual_composer.php:1746
+#: inc/visual_composer.php:1790 inc/visual_composer.php:1813
+#: inc/visual_composer.php:1926 inc/visual_composer.php:1947
+#: inc/visual_composer.php:1960 inc/visual_composer.php:1973
+#: inc/visual_composer.php:1986 inc/visual_composer.php:2078
+#: inc/visual_composer.php:2093 inc/visual_composer.php:2108
+#: inc/visual_composer.php:2135 inc/visual_composer.php:2175
+#: inc/visual_composer.php:2298 inc/visual_composer.php:2343
+#: inc/visual_composer.php:2497 inc/visual_composer.php:2529
+#: inc/visual_composer.php:2569 inc/visual_composer.php:2680
+#: inc/visual_composer.php:2694 inc/visual_composer.php:2707
+#: inc/visual_composer.php:2720 inc/visual_composer.php:2834
+#: inc/visual_composer.php:2865 inc/visual_composer.php:2950
+#: inc/visual_composer.php:3017 inc/crypterio/graph.php:110
+#: inc/vc/modules/news.php:34 inc/vc/modules/wave_roadmap.php:56
+#: inc/vc/modules/cryptoticker.php:19 inc/vc/modules/news_list.php:34
+#: inc/vc/modules/ico_countdown.php:291 inc/vc/modules/token_structure.php:51
+#: inc/vc/modules/post_slider.php:34 inc/vc/modules/ratings.php:41
+#: inc/vc/modules/news_carousel.php:51 inc/vc/modules/news_widget.php:51
+#: inc/vc/modules/services_grid.php:24 inc/vc/modules/cryptowidget.php:19
+#: inc/vc/modules/panel_box.php:48 inc/vc/modules/pricing_table.php:59
+msgid "Css"
+msgstr "Css"
+
+#: inc/admin/product_registration/screens/system_status.php:110
+msgid ""
+"Current time limit is sufficient, but if you need import demo content, the "
+"required time is <strong>300</strong>."
+msgstr "現在のタイムリミットは十分ですが、デモコンテンツをインポートしたい場合、必要な時間は<strong>300</strong>になります。"
+
+#: inc/visual_composer.php:888 inc/visual_composer.php:989
+#: inc/visual_composer.php:1006 inc/visual_composer.php:1025
+#: inc/visual_composer.php:1338 inc/vc/modules/ico_countdown.php:23
+msgid "Custom"
+msgstr "カスタム"
+
+#: inc/customizer/registration.php:139
+msgid "Custom Base Color"
+msgstr "ベースカラーをカスタム"
+
+#: inc/customizer/registration.php:180
+msgid "Custom Bg Image"
+msgstr "背景イメージをカスタム"
+
+#: inc/customizer/registration.php:129
+msgid "Custom Colors"
+msgstr "色をカスタム"
+
+#: inc/customizer/registration.php:1169
+msgid "Custom CSS"
+msgstr "CSSをカスタム"
+
+#: inc/visual_composer.php:1914 inc/visual_composer.php:1922
+msgid "Custom link"
+msgstr "カスタムリンク"
+
+#: inc/visual_composer.php:1900
+msgid "Custom link in list"
+msgstr "リストのカスタムリンク"
+
+#: inc/visual_composer.php:1632
+msgid "Custom links"
+msgstr "カスタムリンク"
+
+#: inc/customizer/registration.php:144
+msgid "Custom Secondary Color"
+msgstr "2番目の色をカスタム"
+
+#: inc/customizer/registration.php:149
+msgid "Custom Third Color"
+msgstr "3番目の色をカスタム"
+
+#: inc/visual_composer.php:3087
+msgid "Dark"
+msgstr "ダーク"
+
+#: inc/visual_composer.php:2209 inc/visual_composer.php:2590
+#: vc_templates/stm_vacancies.php:22
+#: vc_templates/stm_portfolio_information.php:31
+#: woocommerce/myaccount/my-orders.php:26 inc/vc/modules/wave_roadmap.php:21
+#: inc/vc/modules/wave_roadmap.php:34 inc/vc/modules/news_carousel.php:43
+#: inc/vc/modules/news_widget.php:43
+msgid "Date"
+msgstr "日"
+
+#: inc/visual_composer.php:2153
+msgid "Date Format"
+msgstr "日付フォーマット"
+
+#: vc_templates/stm_crypto_charts.php:46
+msgid "day"
+msgstr "日"
+
+#: partials/vc_parts/ico_countdown/custom.php:52
+#: partials/vc_parts/ico_countdown/contract.php:90
+msgid "Days"
+msgstr "日"
+
+#: partials/vc_parts/ico_grid/live.php:93
+msgid "Days left"
+msgstr "残り日数"
+
+#: inc/crypterio/functions.php:349
+#, php-format
+msgid ""
+"Dear, %s Your Application has been successfully submitted. <br/> We will "
+"contact you once Main ICO has been started."
+msgstr "%s様、あなたのアプリケーションは送信されました。 <br/>メインのICOが開始次第ご連絡致します。"
+
+#: inc/admin/white_list/templates/i18n.php:12
+msgid "Decline"
+msgstr "却下"
+
+#: inc/admin/white_list/white_list.php:110
+#: inc/admin/white_list/templates/i18n.php:13
+msgid "Declined"
+msgstr "却下"
+
+#: inc/post_types-config.php:429 inc/visual_composer.php:81
+#: inc/visual_composer.php:985 inc/visual_composer.php:1843
+#: inc/customizer/registration.php:128
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/crypterio/graph.php:35
+msgid "Default period"
+msgstr "デフォルトピリオド"
+
+#: inc/customizer/registration.php:66
+msgid "Default Settings"
+msgstr "デフォルト設定"
+
+#: inc/admin/product_registration/screens/system_status.php:212
+msgid ""
+"Defines the maximum length of a variable that is registered through a POST "
+"request."
+msgstr "POST要求によって登録される変数の最大の長さを定義。"
+
+#: inc/visual_composer.php:1590
+msgid "Delays the animation effect for seconds you enter above."
+msgstr "上記に入力した秒だけアニメーション効果が遅延されます。"
+
+#: inc/extras.php:1337 inc/customizer/registration.php:28
+msgid "Delicious"
+msgstr "Delicious"
+
+#: inc/admin/product_registration/screens/install_demo.php:106
+msgid "Demo content"
+msgstr "デモコンテンツ"
+
+#: inc/admin/product_registration/includes/admin_screens.php:45
+#: inc/admin/product_registration/includes/admin_screens.php:46
+msgid "Demo import"
+msgstr "デモインポート"
+
+#: inc/admin/product_registration/screens/install_demo.php:80
+msgid "Demo Installation"
+msgstr "デモインストール"
+
+#: inc/post_types-config.php:300 inc/post_types-config.php:360
+#: vc_templates/stm_vacancies.php:21
+msgid "Department"
+msgstr "部署"
+
+#: partials/content-about_vacancy.php:8
+msgid "Department:"
+msgstr "部署："
+
+#: inc/visual_composer.php:537 inc/visual_composer.php:584
+#: inc/visual_composer.php:1121 inc/visual_composer.php:2252
+#: inc/visual_composer.php:2288 inc/crypterio/functions.php:640
+#: inc/vc/modules/wave_roadmap.php:25 inc/vc/modules/wave_roadmap.php:39
+msgid "Description"
+msgstr "詳細"
+
+#: inc/visual_composer.php:2358
+msgid "Design"
+msgstr "デザイン"
+
+#: inc/visual_composer.php:2177
+msgid "Design Options"
+msgstr "デザインオプション"
+
+#: inc/visual_composer.php:137 inc/visual_composer.php:187
+#: inc/visual_composer.php:269 inc/visual_composer.php:513
+#: inc/visual_composer.php:596 inc/visual_composer.php:706
+#: inc/visual_composer.php:802 inc/visual_composer.php:1078
+#: inc/visual_composer.php:1146 inc/visual_composer.php:1268
+#: inc/visual_composer.php:1351 inc/visual_composer.php:1434
+#: inc/visual_composer.php:1464 inc/visual_composer.php:1531
+#: inc/visual_composer.php:1559 inc/visual_composer.php:1748
+#: inc/visual_composer.php:1792 inc/visual_composer.php:1928
+#: inc/visual_composer.php:2080 inc/visual_composer.php:2095
+#: inc/visual_composer.php:2110 inc/visual_composer.php:2137
+#: inc/visual_composer.php:2300 inc/visual_composer.php:2345
+#: inc/visual_composer.php:2499 inc/visual_composer.php:2531
+#: inc/visual_composer.php:2571 inc/visual_composer.php:2682
+#: inc/visual_composer.php:2836 inc/visual_composer.php:2867
+#: inc/visual_composer.php:2952 inc/visual_composer.php:3019
+#: inc/crypterio/graph.php:112 inc/vc/modules/news.php:36
+#: inc/vc/modules/wave_roadmap.php:58 inc/vc/modules/cryptoticker.php:21
+#: inc/vc/modules/news_list.php:36 inc/vc/modules/ico_countdown.php:293
+#: inc/vc/modules/token_structure.php:53 inc/vc/modules/post_slider.php:36
+#: inc/vc/modules/ratings.php:43 inc/vc/modules/news_carousel.php:53
+#: inc/vc/modules/news_widget.php:53 inc/vc/modules/services_grid.php:26
+#: inc/vc/modules/cryptowidget.php:21 inc/vc/modules/panel_box.php:50
+#: inc/vc/modules/pricing_table.php:61
+msgid "Design options"
+msgstr "デザインオプション"
+
+#: inc/visual_composer.php:1941 inc/admin/white_list/templates/i18n.php:5
+msgid "Details"
+msgstr "詳細"
+
+#: inc/extras.php:1083 inc/visual_composer.php:93 inc/visual_composer.php:253
+#: inc/customizer/registration.php:586
+msgid "Disable"
+msgstr "無効"
+
+#: inc/post_types-config.php:235 inc/customizer/registration.php:518
+msgid "Disable Breadcrumbs"
+msgstr "トピックパスを無効にする"
+
+#: inc/visual_composer.php:1411
+msgid "Disable Carousel"
+msgstr "カルーセルを無効にする"
+
+#: inc/visual_composer.php:3000
+msgid "Disable map zoom on mouse wheel scroll"
+msgstr "マウスホイールスクロール中のマップズームを無効にする"
+
+#: inc/visual_composer.php:1779
+msgid "Disable Preview Image"
+msgstr "プレビュー画像を無効にする"
+
+#: inc/post_types-config.php:230 inc/customizer/registration.php:513
+msgid "Disable Title"
+msgstr "タイトルを無効にする"
+
+#: inc/post_types-config.php:179 inc/customizer/registration.php:472
+msgid "Disable Title Box"
+msgstr "タイトルボックスを無効にする"
+
+#: inc/tgm/tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "通知を却下"
+
+#: inc/admin/product_registration/screens/system_status.php:58
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "WordPressがデバッグモードかどうかを表示"
+
+#: inc/admin/white_list/templates/i18n.php:17
+msgid "Doc2"
+msgstr "文書2"
+
+#: inc/admin/white_list/templates/i18n.php:16
+msgid "Document"
+msgstr "文書"
+
+#: inc/admin/product_registration/screens/support.php:47
+msgid "Documentation"
+msgstr "文書"
+
+#: inc/admin/white_list/templates/i18n.php:9
+msgid "Documents"
+msgstr "文書"
+
+#: vc_templates/stm_countdown.php:55
+msgid "Download now"
+msgstr "今すぐダウンロード"
+
+#: inc/extras.php:1332 inc/customizer/registration.php:23
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/extras.php:1338 inc/customizer/registration.php:29
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: inc/visual_composer.php:1128
+msgid "Duration"
+msgstr "デュレーション"
+
+#: inc/extras.php:142
+msgid "E-mail"
+msgstr "メール"
+
+#: inc/extras.php:106
+msgid "Edit"
+msgstr "編集"
+
+#: woocommerce/myaccount/my-address.php:51
+msgid "edit"
+msgstr "編集"
+
+#: inc/post_types-config.php:308
+msgid "Education"
+msgstr "学歴"
+
+#: partials/content-about_vacancy.php:30
+msgid "Education:"
+msgstr "学歴:"
+
+#: inc/post_types-config.php:376 inc/post_types-config.php:405
+#: inc/visual_composer.php:656 inc/visual_composer.php:1519
+#: inc/visual_composer.php:3049 inc/crypterio/functions.php:138
+#: inc/admin/white_list/templates/i18n.php:4
+msgid "Email"
+msgstr "メール"
+
+#: inc/widgets/contacts.php:108
+msgid "Email:"
+msgstr "メール："
+
+#: vc_templates/stm_contact.php:48
+msgid "Email: "
+msgstr "メール："
+
+#: inc/extras.php:1084 inc/visual_composer.php:94 inc/visual_composer.php:254
+msgid "Enable"
+msgstr "有効"
+
+#: inc/visual_composer.php:1226 inc/visual_composer.php:1663
+msgid "Enable autoplay mode."
+msgstr "オートプレイモードを有効にする"
+
+#: inc/customizer/registration.php:159
+msgid "Enable Boxed Layout"
+msgstr "ボックスレイアウトを有効にする"
+
+#: inc/visual_composer.php:2802
+msgid "Enable different grid tiles"
+msgstr "異なるグリッドタイルを有効にする"
+
+#: inc/extras.php:1080
+msgid "Enable fullwidth"
+msgstr "全角を有効にする"
+
+#: inc/post_types-config.php:240 inc/customizer/registration.php:523
+msgid "Enable Header Transparent"
+msgstr "透明ヘッダを有効にする"
+
+#: inc/visual_composer.php:912
+msgid "Enable Hexagon"
+msgstr "ヘキサゴンを有効にする"
+
+#: inc/visual_composer.php:921
+msgid "Enable Hexagon Hover Animation"
+msgstr "ヘキサゴンホバーアニメーションを有効にする"
+
+#: inc/visual_composer.php:1616
+msgid "Enable Opacity"
+msgstr "オパシティを有効にする"
+
+#: inc/customizer/registration.php:164
+msgid "Enable Preloader"
+msgstr "プリローダーを有効にする"
+
+#: inc/visual_composer.php:1695
+msgid "Enable previous and next arrows."
+msgstr "前と次のアローを有効にする。"
+
+#: inc/visual_composer.php:1249 inc/visual_composer.php:1685
+msgid "Enable slider loop mode."
+msgstr "スライダーループモードを有効にする"
+
+#: inc/post_types-config.php:184 inc/customizer/registration.php:477
+msgid "Enable Transparent"
+msgstr "透明を有効にする"
+
+#: inc/visual_composer.php:90
+msgid "Enable wave pulse"
+msgstr "ウエーブパルスを有効にする"
+
+#: inc/vc/modules/panel_box.php:42
+msgid "End Color"
+msgstr "エンドカラー"
+
+#: inc/crypterio/functions.php:435
+msgid "Ended"
+msgstr "終了"
+
+#: taxonomy-stm_ico_listing_category.php:68 archive-stm_ico_listing.php:72
+msgid "Ended ICO"
+msgstr "終了したICO"
+
+#: inc/admin/product_registration/screens/startup.php:71
+msgid ""
+"Enter a name for your token, then check the boxes for <strong>View Your "
+"Envato Account Username, Download Your Purchased Items, Verify Purchases "
+"You've Made</strong> and <strong>List Purchases You've Made</strong> from "
+"the permissions needed section. Check the box to agree to the terms and "
+"conditions, then click the <strong>Create Token button</strong>"
+msgstr ""
+"トークンの名前を入力し、許可が必要なセクションから<strong> "
+"Envatoアカウントのユーザー名を表示、購入したアイテムをダウンロード、購入したものを確認</ strong>と<strong>"
+"購入済みアイテムを一覧表示する</ strong> のボックスをチェックしてください。チェックボックスをオンにして利用規約に同意し、<strong>"
+"トークンの作成</ strong>をクリックしてください。"
+
+#: inc/customizer/registration.php:198
+msgid "Enter cryptocurrency name"
+msgstr "仮想通貨名を入力"
+
+#: inc/crypterio/functions.php:579
+msgid "Enter Facebook account"
+msgstr ""
+
+#: inc/visual_composer.php:870
+msgid "Enter font size in px"
+msgstr "pxのフォントサイズを入力"
+
+#: inc/crypterio/functions.php:592
+msgid "Enter Github account"
+msgstr "Githubアカウントを入力"
+
+#: inc/customizer/registration.php:1122
+msgid ""
+"Enter here the secret api key you have created on Google APIs. You can "
+"enable MAP API in Google APIs > Google Maps APIs > Google Maps JavaScript "
+"API."
+msgstr ""
+"Google APIに作成したシークレットAPIキーをここに入力してください。Google APIs > Google Maps APIs > "
+"Google Maps JavaScript APIからMAP APIを有効にできます。"
+
+#: inc/crypterio/functions.php:641
+msgid "Enter ICO description"
+msgstr ""
+
+#: inc/crypterio/functions.php:528
+msgid "Enter ICO name"
+msgstr "ICO名を入力"
+
+#: inc/crypterio/functions.php:558
+msgid "Enter ICO Website Url"
+msgstr "ICOウェブサイトのURLを入力"
+
+#: inc/visual_composer.php:1040
+msgid "Enter icon height in px"
+msgstr "pxのアイコンの高さを入力"
+
+#: inc/visual_composer.php:772
+msgid "Enter icon size in \"px\""
+msgstr "\"px\"のアイコンサイズを入力"
+
+#: inc/visual_composer.php:971
+msgid "Enter icon size in px"
+msgstr "pxのアイコンサイズを入力"
+
+#: inc/visual_composer.php:1051
+msgid "Enter icon width in px"
+msgstr "pxのアイコン幅を入力"
+
+#: inc/visual_composer.php:1062
+msgid "Enter icon wrapper width in px"
+msgstr "pxのアイコンラッパー幅を入力"
+
+#: inc/visual_composer.php:2945
+msgid "Enter image size in pixels: 200x100 (Width x Height)."
+msgstr "ピクセルで画像サイズを入力: 200x100 (幅 x 高さ)。"
+
+#: inc/visual_composer.php:580 inc/visual_composer.php:1498
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"default\" size."
+msgstr ""
+"画像サイズを入力。 例: \"サムネイル\"、\"中\"、\"大\"、 \"フル\" "
+"か現在のテーマで定義されているサイズを入力してください。あるいはピクセルで画像サイズを入力してください。: 200x100 (幅 x 高さ)。 "
+"\"デフォルト\"サイズの場合は、空にしてください。"
+
+#: inc/visual_composer.php:242
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"projects_gallery\" "
+"size."
+msgstr ""
+"画像サイズを入力。 例: \"サムネイル\"、 \"中\"、 \"大\"、\"フル\" "
+"か現在のテーマで定義されているサイズを入力してください。あるいはピクセルで画像サイズを入力してください。: 200x100 (幅 x 高さ)。 "
+"\"projects_gallery\"サイズの場合は空にしてください。"
+
+#: inc/visual_composer.php:1786
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use default size."
+msgstr ""
+"画像サイズを入力。 例: \"サムネイル\"、\"中\"、 \"大\"、 \"フル\" "
+"か現在のテーマで定義されているサイズを入力してください。あるいはピクセルで画像サイズを入力してください。: 200x100 (幅 x 高さ)"
+"。デフォルトサイズの場合は空にしてください。"
+
+#: inc/visual_composer.php:1641 inc/visual_composer.php:2056
+#: inc/visual_composer.php:2339 inc/visual_composer.php:2829
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use default size."
+msgstr ""
+"画像サイズを入力。 例: サムネイル、 "
+"中、大、フルか現在のテーマで定義されているサイズを入力してください。あるいはピクセルで画像サイズを入力してください。: 200x100 (幅 x 高さ)"
+"。デフォルトサイズの場合は空にしてください。"
+
+#: inc/visual_composer.php:877 inc/visual_composer.php:977
+msgid "Enter line-height in px"
+msgstr "pxのラインの高さを入力"
+
+#: inc/visual_composer.php:1634
+msgid ""
+"Enter links for each slide (Note: divide links with linebreaks (Enter))."
+msgstr "それぞれのスライドのリンクを入力(注: ラインブレイクのディバイドリンク (入力))。"
+
+#: inc/visual_composer.php:2125 inc/visual_composer.php:2131
+#: inc/visual_composer.php:2983
+msgid "Enter map height in px"
+msgstr "pxのマップの高さを入力"
+
+#: inc/crypterio/functions.php:613
+msgid "Enter Min/Max Personal Cap"
+msgstr "最小/最大パーソナルキャップを入力"
+
+#: inc/crypterio/functions.php:633
+msgid "Enter Number of team Members"
+msgstr "チームメンバーの数を入力"
+
+#: inc/visual_composer.php:1387
+msgid "Enter photo size 350x250"
+msgstr "画像サイズ350x250を入力"
+
+#: inc/crypterio/functions.php:637
+msgid "Enter Prototype name"
+msgstr "プロトタイプ名を入力"
+
+#: inc/crypterio/functions.php:569
+msgid "Enter Telegram group URL"
+msgstr "TelegramグループのURLを入力"
+
+#: inc/crypterio/functions.php:601
+msgid "Enter Ticker"
+msgstr "ティッカーを入力"
+
+#: inc/visual_composer.php:2429 inc/visual_composer.php:2477
+msgid "Enter title for chart dataset."
+msgstr "チャートデータセットのタイトルを入力"
+
+#: inc/crypterio/functions.php:625
+msgid "Enter token issue"
+msgstr "トークンの発行を入力"
+
+#: inc/crypterio/functions.php:543
+msgid "Enter Token Price (ETH)"
+msgstr "トークン価格 (ETH)を入力"
+
+#: inc/crypterio/functions.php:553
+msgid "Enter Token type"
+msgstr "トークンの種類を入力"
+
+#: inc/crypterio/functions.php:548
+msgid "Enter Total Tokens"
+msgstr "合計トークンを入力"
+
+#: inc/crypterio/functions.php:583
+msgid "Enter Twitter account"
+msgstr "Twitterアカウントを有効にする"
+
+#: inc/crypterio/functions.php:617
+msgid "Enter URL for ICO icon"
+msgstr ""
+
+#: inc/crypterio/functions.php:645
+msgid "Enter Whitepaper link"
+msgstr ""
+
+#: inc/crypterio/functions.php:523
+msgid "Enter Your E-mail"
+msgstr "メールアドレスを入力"
+
+#: vc_templates/stm_countdown.php:53
+msgid "Enter your Email"
+msgstr "メールを入力"
+
+#: inc/crypterio/functions.php:511
+msgid "Enter your full name"
+msgstr "氏名を入力してください"
+
+#: inc/crypterio/functions.php:149
+msgid "ERC-20 Wallet Address"
+msgstr ""
+
+#: inc/admin/product_registration/includes/theme.php:185
+msgid "Error occured"
+msgstr "エラーが発生しました"
+
+#: woocommerce/cart/cart-totals.php:70
+#, php-format
+msgid "estimated for %s"
+msgstr "%sの推定"
+
+#: partials/vc_parts/ico_countdown/contract.php:141
+msgid "ETH"
+msgstr "ETH"
+
+#: inc/post_types-config.php:22
+msgid "Event"
+msgstr "イベント"
+
+#: inc/visual_composer.php:2143
+msgid "Event Lesson"
+msgstr "イベントレッスン"
+
+#: inc/visual_composer.php:2197
+msgid "Event Lessons"
+msgstr "イベントレッスン"
+
+#: inc/customizer/registration.php:1021
+msgid "Event Pages"
+msgstr "イベントページ"
+
+#: inc/post_types-config.php:23 inc/visual_composer.php:1993
+#: inc/customizer/registration.php:396 inc/customizer/registration.php:402
+#: inc/customizer/registration.php:407
+msgid "Events"
+msgstr "イベント"
+
+#: inc/visual_composer.php:2101
+msgid "Events Form Box"
+msgstr "イベントフォームボックス"
+
+#: inc/visual_composer.php:2086
+msgid "Events Information"
+msgstr "イベント情報"
+
+#: inc/crypterio/functions.php:621
+msgid "Ex. ETH, BTC, USD"
+msgstr "例. ETH, BTC, USD"
+
+#: inc/visual_composer.php:735
+msgid "Example: Text - full, large, medium, Number - 340x200"
+msgstr "例: テキスト - フル、大、中、数 - 340x200"
+
+#: inc/crypterio/functions.php:143
+msgid "Expected ETH ICO Participation Amount"
+msgstr ""
+
+#: inc/vc/modules/ico_countdown.php:237
+msgid "Expected ETH ICO Participation Amount Description"
+msgstr "期待されるETH ICO参加数詳細"
+
+#: inc/tgm/tgm-plugin-activation.php:2196
+msgid "External Source"
+msgstr "外部ソース"
+
+#: inc/customizer/controls/font-weight.php:26
+msgid "Extra Bold"
+msgstr "エクストラボールド"
+
+#: inc/customizer/controls/font-weight.php:27
+msgid "Extra Bold Italic"
+msgstr "エクストラボールドイタリック"
+
+#: inc/visual_composer.php:697 inc/visual_composer.php:1645
+#: inc/visual_composer.php:2859 inc/visual_composer.php:3011
+msgid "Extra class name"
+msgstr "エクストラクラスネーム"
+
+#: inc/visual_composer.php:1298
+msgid "Extra Small Screen"
+msgstr "エクストラスモールスクリーン"
+
+#: inc/post_types-config.php:380 inc/extras.php:1325
+#: inc/visual_composer.php:667 inc/visual_composer.php:2613
+#: inc/customizer/registration.php:16
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/crypterio/functions.php:578
+msgid "Facebook account"
+msgstr ""
+
+#: inc/visual_composer.php:644
+msgid "Fax"
+msgstr "Fax"
+
+#: inc/widgets/contacts.php:104
+msgid "Fax:"
+msgstr "Fax:"
+
+#: inc/visual_composer.php:2219
+msgid "Field 1"
+msgstr "欄 1"
+
+#: inc/visual_composer.php:2223
+msgid "Field 2"
+msgstr "欄 2"
+
+#: inc/crypterio/functions.php:252 inc/crypterio/functions.php:263
+#: inc/crypterio/functions.php:274 inc/crypterio/functions.php:294
+msgid "Field is required"
+msgstr "フィールドは必須です。"
+
+#: inc/crypterio/functions.php:278 inc/crypterio/functions.php:710
+msgid "File size limit is 2 mB"
+msgstr "ファイルのサイズ制限は 2 mBです"
+
+#: inc/visual_composer.php:2000
+msgid "Filter Events"
+msgstr "イベントをフィルター"
+
+#: inc/admin/white_list/templates/i18n.php:19
+msgid "Filter:"
+msgstr "フィルター:"
+
+#: inc/crypterio/functions.php:128
+msgid "First name"
+msgstr ""
+
+#: inc/extras.php:1333 inc/customizer/registration.php:24
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/customizer/registration.php:662 inc/customizer/registration.php:683
+#: inc/customizer/registration.php:712 inc/customizer/registration.php:755
+#: inc/customizer/registration.php:798 inc/customizer/registration.php:841
+#: inc/customizer/registration.php:884 inc/customizer/registration.php:927
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+#: inc/customizer/registration.php:656 inc/customizer/registration.php:677
+#: inc/customizer/registration.php:706 inc/customizer/registration.php:749
+#: inc/customizer/registration.php:792 inc/customizer/registration.php:835
+#: inc/customizer/registration.php:878 inc/customizer/registration.php:921
+msgid "Font Weight"
+msgstr "フォント幅"
+
+#: inc/visual_composer.php:327
+msgid "Font weight"
+msgstr "フォント幅"
+
+#: inc/customizer/registration.php:54
+msgid "Footer"
+msgstr "フッター"
+
+#: functions.php:110
+msgid "Footer "
+msgstr "フッター"
+
+#: inc/post_types-config.php:254
+msgid "Footer Options"
+msgstr "フッターオプション"
+
+#: inc/customizer/registration.php:616
+msgid "Footer Socials"
+msgstr "フッターソーシャル"
+
+#: inc/customizer/registration.php:597
+msgid "Footer Text"
+msgstr "フッターテキスト"
+
+#: inc/customizer/registration.php:154
+msgid "Frontend Customizer"
+msgstr "フロントエンドカスタマイザー"
+
+#: partials/content-event-classic.php:105 partials/content-event-form.php:59
+msgid "fully booked"
+msgstr "すべて予約されています"
+
+#: partials/ico_listing/parts/token_sale.php:6
+msgid "Fundraising Goal"
+msgstr "ファンドレイジングゴール"
+
+#: inc/crypterio/functions.php:537
+msgid "Fundraising Hard Cap Goal"
+msgstr "ハードキャップゴールのファンドレイジング"
+
+#: inc/crypterio/functions.php:532
+msgid "Fundraising Soft Cap Goal"
+msgstr "ソフトキャップゴールのファンドレイジング"
+
+# this is not english so kept as it is
+#: inc/customizer/registration.php:599
+msgid ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst."
+msgstr ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst."
+
+#: footer.php:55
+msgid ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst. "
+msgstr ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst."
+
+#: inc/visual_composer.php:115
+msgid "Gallery type"
+msgstr "ギャラリータイプ"
+
+#: inc/visual_composer.php:346
+msgid "Gap"
+msgstr "Gap"
+
+#: inc/vc/modules/ico_countdown.php:20
+msgid "Get ICO data automatically from Contract"
+msgstr "契約から自動的にICOデータを取得"
+
+#: inc/extras.php:1334 inc/customizer/registration.php:25
+msgid "Git"
+msgstr "Git"
+
+#: inc/crypterio/functions.php:591
+msgid "Github account"
+msgstr "Githubアカウント"
+
+#: inc/crypterio/functions.php:367 inc/crypterio/functions.php:374
+msgid "Goal:"
+msgstr "ゴール:"
+
+#: inc/extras.php:1341 inc/customizer/registration.php:33
+msgid "Google"
+msgstr "Google"
+
+#: inc/visual_composer.php:2970
+msgid "Google Map"
+msgstr "Google Map"
+
+#: inc/customizer/registration.php:1120
+msgid "Google Map API Key"
+msgstr "Google Map APIキー"
+
+#: inc/customizer/registration.php:1115
+msgid "Google Map Api Settings"
+msgstr "Google Map Api設定"
+
+#: inc/customizer/registration.php:1137
+msgid "Google Recaptcha API Settings"
+msgstr "GoogleリキャプチャAPI設定"
+
+#: inc/post_types-config.php:388 inc/extras.php:1328
+#: inc/visual_composer.php:685 inc/visual_composer.php:2628
+#: inc/customizer/registration.php:19
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/crypterio/functions.php:155
+msgid "Government-Issued ID Card or Passport"
+msgstr ""
+
+#: inc/visual_composer.php:1832 inc/visual_composer.php:2019
+#: inc/visual_composer.php:2741
+msgid "Grid"
+msgstr "グリッド"
+
+#: inc/visual_composer.php:1840 inc/customizer/registration.php:967
+msgid "Grid View"
+msgstr "グリッド表示"
+
+#: inc/visual_composer.php:2742
+msgid "Grid with filter"
+msgstr "フィルターグリッド"
+
+#: inc/customizer/registration.php:702
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer/registration.php:745
+msgid "H2"
+msgstr "H2"
+
+#: inc/customizer/registration.php:788
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer/registration.php:831
+msgid "H4"
+msgstr "H4"
+
+#: inc/customizer/registration.php:874
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer/registration.php:917
+msgid "H6"
+msgstr "H6"
+
+#: inc/crypterio/functions.php:538
+msgid "Hard Cap value (ETH)"
+msgstr "ハードキャップ値 (ETH)"
+
+#: inc/vc/modules/ico_countdown.php:135
+msgid "Hardcap label"
+msgstr "ハードキャップラベル"
+
+#: inc/vc/modules/ico_countdown.php:140
+msgid "Hardcap label 2"
+msgstr "ハードキャップラベル 2"
+
+#: inc/vc/modules/ico_countdown.php:130
+msgid "Hardcap price (number format)"
+msgstr "ハードキャッププライス（ナンバーフォーマット）"
+
+#: woocommerce/myaccount/my-orders.php:67
+msgctxt "hash before order number"
+msgid "#"
+msgstr "#"
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Have a coupon?"
+msgstr "クーポンをお持ちですか？"
+
+#: inc/post_types-config.php:166
+msgid "Header Options"
+msgstr "ヘッダオプション"
+
+#: inc/crypterio/graph.php:48 inc/customizer/registration.php:95
+#: inc/customizer/registration.php:562
+msgid "Height"
+msgstr "高さ"
+
+#: inc/visual_composer.php:2391
+msgid "Height (px)"
+msgstr "高さ(px)"
+
+#: inc/admin/white_list/white_list.php:39
+#, php-format
+msgid ""
+"Hi! <br/> %s, your request to buy %s tokens has been approved. Please use "
+"your %s wallet for the purchase. <br/> We will send the contract address "
+"close to the token sale date."
+msgstr ""
+"こんにちは! <br/> %s様、%sトークン購入のリクエストが承認されました。購入には%sウォレットをご利用ください。<br/>"
+"トークンセール日に近くなりましたら契約先住所を送信いたします。"
+
+#: inc/visual_composer.php:320 inc/vc/modules/ico_countdown.php:164
+msgid "Hide"
+msgstr "非表示"
+
+#: inc/visual_composer.php:1419
+msgid "Hide Carousel Arrows"
+msgstr "カルーセルアローを非表示"
+
+#: inc/customizer/registration.php:574
+msgid "Hide Footer"
+msgstr "フッターを非表示"
+
+#: inc/customizer/registration.php:569
+msgid "Hide Logo"
+msgstr "ロゴを非表示"
+
+#: inc/visual_composer.php:903
+msgid "Hide Title Line"
+msgstr "タイトルラインを非表示"
+
+#: inc/post_types-config.php:431 inc/crypterio/functions.php:404
+msgid "High"
+msgstr "高さ"
+
+#: hb_templates/mobile/mobile.php:29
+msgid "Home"
+msgstr "ホーム"
+
+#: hb_templates/main.php:26
+msgid "Home page"
+msgstr "ホームページ"
+
+#: inc/admin/product_registration/screens/system_status.php:20
+msgid "Home URL:"
+msgstr "ホームURL:"
+
+#: 404.php:15
+msgid "homepage"
+msgstr "ホームページ"
+
+#: partials/vc_parts/ico_countdown/custom.php:53
+#: partials/vc_parts/ico_countdown/contract.php:91
+msgid "Hours"
+msgstr "時間"
+
+#: inc/visual_composer.php:1583
+msgid "How long the animation effect should last. Decides the speed of effect."
+msgstr "アニメーション効果の持続時間。効果スピードを決定。"
+
+#. URI of the theme
+msgid "http://crypterio.stylemixthemes.com/"
+msgstr "http://crypterio.stylemixthemes.com/"
+
+#. Author URI of the theme
+msgid "https://stylemixthemes.com/"
+msgstr "https://stylemixthemes.com/"
+
+#: partials/ico_listing/parts/rates.php:3
+msgid "Hype rate"
+msgstr "ハイプ率"
+
+#: partials/content-event-list-form.php:53
+#: partials/content-event-list-form.php:82 partials/content-event-form.php:76
+msgid ""
+"I agree with the all additional <a href='http://stylemixthemes.com/' "
+"target='_blank'>Terms and Conditions</a>"
+msgstr ""
+"追加されたすべての<a href='http://stylemixthemes.com/' target='_blank'>規約</a>に合意しました。"
+
+#: partials/content-event-classic.php:99 partials/content-event-form.php:53
+msgid "i am going"
+msgstr "私は"
+
+#: inc/admin/product_registration/screens/install_demo.php:10
+msgid "ICO"
+msgstr "ICO"
+
+#: inc/admin/product_registration/screens/install_demo.php:13
+msgid "ICO Agency"
+msgstr "ICOエージェンシー"
+
+#: inc/crypterio/functions.php:515
+msgid "ICO Category"
+msgstr "ICOカテゴリー"
+
+#: inc/vc/modules/ico_countdown.php:30
+msgid "ICO Contract address"
+msgstr "ICOの契約住所"
+
+#: inc/vc/modules/ico_countdown.php:9
+msgid "ICO Countdown"
+msgstr "ICOカウントダウン"
+
+#: archive-stm_ico_listing.php:12
+#: inc/admin/product_registration/screens/install_demo.php:19
+msgid "ICO Directory"
+msgstr "ICOディレクトリ"
+
+#: inc/post_types-config.php:5 inc/customizer/registration.php:204
+#: inc/customizer/registration.php:210
+#: inc/admin/product_registration/screens/install_demo.php:16
+msgid "ICO Listing"
+msgstr "ICOリスト"
+
+#: inc/post_types-config.php:6 inc/customizer/registration.php:215
+msgid "ICO Listings"
+msgstr "ICOリスト"
+
+#: inc/crypterio/functions.php:527
+msgid "ICO name"
+msgstr "ICO名"
+
+#: inc/admin/white_list/white_list.php:37
+msgid "ICO Participation"
+msgstr "ICO参加"
+
+#: partials/ico_listing/parts/token_sale.php:5
+msgid "ICO Token Price"
+msgstr "ICOトークン価格"
+
+#: inc/crypterio/functions.php:557
+msgid "ICO Website"
+msgstr "ICOウェブサイト"
+
+#: inc/visual_composer.php:276 inc/visual_composer.php:809
+#: inc/visual_composer.php:950 inc/visual_composer.php:2906
+#: inc/customizer/registration.php:228 inc/customizer/registration.php:260
+#: inc/customizer/registration.php:292 inc/customizer/registration.php:324
+#: inc/customizer/registration.php:356 inc/customizer/registration.php:388
+#: inc/customizer/registration.php:420 inc/customizer/registration.php:452
+msgid "Icon"
+msgstr "アイコン"
+
+#: inc/visual_composer.php:1000
+msgid "Icon - Background Color"
+msgstr "アイコン -背景色"
+
+#: inc/visual_composer.php:1019
+msgid "Icon - Border Color"
+msgstr "アイコン - ボーダー色"
+
+#: inc/visual_composer.php:1031
+msgid "Icon - Border Custom"
+msgstr "アイコン - ボーダーカスタム"
+
+#: inc/visual_composer.php:982
+msgid "Icon - Color"
+msgstr "アイコン - 色"
+
+#: inc/visual_composer.php:994 inc/visual_composer.php:1013
+msgid "Icon - Color Custom"
+msgstr "アイコン - 色カスタム"
+
+#: inc/visual_composer.php:975
+msgid "Icon - Line Height"
+msgstr "アイコン - ラインの高さ"
+
+#: inc/visual_composer.php:290 inc/visual_composer.php:956
+msgid "Icon - Position"
+msgstr "アイコン - 位置"
+
+#: inc/visual_composer.php:770
+msgid "Icon - Size"
+msgstr "アイコン - サイズ"
+
+#: inc/visual_composer.php:823
+msgid "Icon Box"
+msgstr "アイコンボックス"
+
+#: inc/visual_composer.php:413
+msgid "Icon Color"
+msgstr "アイコンの色"
+
+#: inc/visual_composer.php:1037
+msgid "Icon Height"
+msgstr "アイコンの高さ"
+
+#: inc/visual_composer.php:961
+msgid "Icon Left"
+msgstr "アイコン左"
+
+#: inc/visual_composer.php:962
+msgid "Icon Left Transparent"
+msgstr "アイコン左透明"
+
+#: inc/visual_composer.php:968
+msgid "Icon Size"
+msgstr "アイコンサイズ"
+
+#: inc/visual_composer.php:283
+msgid "Icon Size (px)"
+msgstr "アイコンサイズ(px)"
+
+#: inc/visual_composer.php:959
+msgid "Icon Top"
+msgstr "アイコントップ"
+
+#: inc/visual_composer.php:960
+msgid "Icon Top Transparent"
+msgstr "アイコントップ透明"
+
+#: inc/visual_composer.php:1048
+msgid "Icon Width"
+msgstr "アイコン幅"
+
+#: inc/visual_composer.php:1059
+msgid "Icon Wrapper Width"
+msgstr "アイコンラッパー幅"
+
+#: inc/visual_composer.php:2371
+msgid "If checked, chart will have legend."
+msgstr "チェックした場合、チャートがレジェンドを持ちます。"
+
+#: woocommerce/checkout/form-login.php:35
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer, please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+"すでに登録済みのお客様の場合、以下のボックスに詳細を記入してください。新規のお客様の場合には、請求&amp; 配送セクションにお進みください。"
+
+#: inc/visual_composer.php:700
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr "特定のコンテンツ要素を異なるものにする場合は、このフィールドを使用してクラス名を追加してからCSSファイルで参照してください。"
+
+#: inc/visual_composer.php:720 inc/visual_composer.php:1491
+#: inc/crypterio/functions.php:652
+msgid "Image"
+msgstr "画像"
+
+#: inc/visual_composer.php:1604
+msgid "Image Carousel"
+msgstr "画像カルーセル"
+
+#: inc/visual_composer.php:121
+msgid "Image full"
+msgstr "イメージフル"
+
+#: inc/visual_composer.php:118
+msgid "Image grid"
+msgstr "イメージグリッド"
+
+#: inc/visual_composer.php:240 inc/visual_composer.php:578
+#: inc/visual_composer.php:729 inc/visual_composer.php:1496
+#: inc/visual_composer.php:1784 inc/visual_composer.php:2942
+msgid "Image Size"
+msgstr "イメージサイズ"
+
+#: inc/visual_composer.php:1638 inc/visual_composer.php:2049
+#: inc/visual_composer.php:2336 inc/visual_composer.php:2826
+msgid "Image size"
+msgstr "イメージサイズ"
+
+#: inc/crypterio/functions.php:616
+msgid "Image Url"
+msgstr ""
+
+#: inc/visual_composer.php:1611
+msgid "Images"
+msgstr "イメージ"
+
+#: inc/admin/product_registration/screens/install_demo.php:68
+msgid "Import"
+msgstr "インポート"
+
+#: inc/admin/product_registration/screens/install_demo.php:229
+msgid "Imported"
+msgstr "インポート済み"
+
+#: inc/admin/product_registration/screens/install_demo.php:228
+msgid "Importing Demo"
+msgstr "デモをインポート"
+
+#: partials/vc_parts/ico_countdown/custom.php:147
+#, php-format
+msgid "in %s days"
+msgstr "%s日後"
+
+#: partials/vc_parts/ico_countdown/custom.php:149
+#, php-format
+msgid "in just %s hours"
+msgstr "ちょうど%s時間後"
+
+#: inc/visual_composer.php:2767
+msgid "Include Category"
+msgstr "カテゴリーを含める"
+
+#: inc/visual_composer.php:816
+msgid "Info Box"
+msgstr "情報ボックス"
+
+#: inc/post_types-config.php:280 inc/post_types-config.php:297
+#: inc/post_types-config.php:357 inc/post_types-config.php:437
+msgid "Information"
+msgstr "情報"
+
+#: inc/admin/product_registration/screens/system_status.php:85
+msgid "Information about the web server that is currently hosting your site."
+msgstr "現在あなたのサイトをホスティングしているウェブサーバーの情報"
+
+#: inc/extras.php:1327 inc/visual_composer.php:2623
+#: inc/customizer/registration.php:18
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/tgm/tgm-plugin-activation.php:2622
+msgid "Install"
+msgstr "インストール"
+
+#: inc/admin/product_registration/includes/admin_screens.php:155
+#: inc/admin/product_registration/includes/admin_screens.php:170
+msgid "Install Demos"
+msgstr "デモをインストール"
+
+#: inc/tgm/tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "プラグインをインストール"
+
+#: inc/tgm/tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "必要なプラグインをインストール"
+
+#: inc/admin/product_registration/screens/install_demo.php:65
+msgid "Installed"
+msgstr "インストール済み"
+
+#: inc/admin/product_registration/screens/install_demo.php:85
+#: inc/admin/product_registration/screens/install_demo.php:177
+msgid "Installed & Activated"
+msgstr "インストール済み＆アーカイブ済み"
+
+#: inc/tgm/tgm-plugin-activation.php:2220
+msgid "Installed But Not Activated"
+msgstr "インストールされましたが有効化されていません"
+
+#: inc/tgm/tgm-plugin-activation.php:2386
+msgid "Installed version:"
+msgstr "インストールバージョン"
+
+#: inc/admin/product_registration/screens/install_demo.php:176
+msgid "Installing"
+msgstr "インストール"
+
+#: inc/tgm/tgm-plugin-activation.php:3392
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグイン %1$s (%2$d/%3$d)のインストールと有効化"
+
+#: inc/tgm/tgm-plugin-activation.php:3398
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグイン%1$s (%2$d/%3$d)のインストール"
+
+#: inc/tgm/tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "プラグインをインストール: %s"
+
+#: inc/admin/product_registration/screens/startup.php:68
+msgid "Instructions For Generating A Token"
+msgstr "トークン作成のガイド"
+
+#: inc/crypterio/functions.php:265
+msgid "Invalid email format"
+msgstr "無効なメールフォーマットです"
+
+#: inc/crypterio/graph.php:98
+msgid "Inverse grid colors"
+msgstr "グリッド色を反転"
+
+#: inc/vc/modules/wave_roadmap.php:28 inc/vc/modules/wave_roadmap.php:44
+msgid "Is done"
+msgstr "が完了しました"
+
+#: inc/crypterio/functions.php:586
+msgid "Is ICO use Whitelist?"
+msgstr "ICOはホワイトリストを使用しますか？"
+
+#: partials/content-none.php:11
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "お探しのものを見つけられませんでした。検索をお試しください。"
+
+#: inc/visual_composer.php:520
+msgid "Item"
+msgstr "アイテム"
+
+#: inc/visual_composer.php:1714
+msgid "Items"
+msgstr "アイテム"
+
+#: inc/visual_composer.php:1738
+msgid "Items (Mobile)"
+msgstr "アイテム（モバイル）"
+
+#: inc/visual_composer.php:1722
+msgid "Items (Small Desktop)"
+msgstr "アイテム（スモールデスクトップ）"
+
+#: inc/visual_composer.php:1730
+msgid "Items (Tablet)"
+msgstr "アイテム（タブレット）"
+
+#: inc/visual_composer.php:840
+msgid "Items align"
+msgstr "アイテムアライン"
+
+#: inc/visual_composer.php:2853
+msgid "Items Count"
+msgstr "アイテムカウント"
+
+#: inc/visual_composer.php:1502
+msgid "Job"
+msgstr "仕事"
+
+#: vc_templates/stm_vacancies.php:19
+msgid "Job Posting Title"
+msgstr "仕事の投稿タイトル"
+
+#: partials/content-event-list-form.php:70
+msgid "join"
+msgstr "参加"
+
+#: partials/content-event-info.php:100
+msgid "join now"
+msgstr "いますぐ参加"
+
+#: partials/ico_listing/parts/token_sale.php:11
+msgid "Know Your Customer"
+msgstr "顧客を知る"
+
+#: inc/crypterio/functions.php:608
+msgid "Know your customer?"
+msgstr "お客様をご存知ですか？"
+
+#: inc/post_types-config.php:440 inc/vc/modules/token_structure.php:24
+#: inc/vc/modules/token_structure.php:38
+msgid "Label"
+msgstr "ラベル"
+
+#: inc/vc/modules/pricing_table.php:48
+msgid "Label Text"
+msgstr "ラベルテキスト"
+
+#: inc/admin/product_registration/screens/system_status.php:68
+msgid "Language:"
+msgstr "言語："
+
+#: inc/visual_composer.php:1280
+msgid "Large Screen"
+msgstr "大画面"
+
+#: inc/crypterio/functions.php:133
+msgid "Last name"
+msgstr ""
+
+#: inc/visual_composer.php:3054
+msgid "Latitude"
+msgstr "緯度"
+
+#: inc/customizer/registration.php:610 inc/customizer/registration.php:965
+msgid "Layout"
+msgstr "レイアウト"
+
+#: partials/news/ico.php:48
+#: inc/admin/product_registration/screens/support.php:53
+msgid "Learn more"
+msgstr "詳細"
+
+#: inc/visual_composer.php:293 inc/visual_composer.php:843
+#: inc/visual_composer.php:853 inc/visual_composer.php:1137
+#: inc/visual_composer.php:2663 inc/customizer/registration.php:1005
+#: inc/customizer/registration.php:1095
+msgid "Left"
+msgstr "左"
+
+#: functions.php:88
+msgid "Left Sidebar"
+msgstr "左のサイドバー"
+
+#: inc/visual_composer.php:2377
+msgid "Legend Position"
+msgstr "レジェンドポジション"
+
+#: inc/visual_composer.php:2215
+msgid "Lessons Info"
+msgstr "レッスン情報"
+
+#: inc/customizer/registration.php:728 inc/customizer/registration.php:771
+#: inc/customizer/registration.php:814 inc/customizer/registration.php:857
+#: inc/customizer/registration.php:900 inc/customizer/registration.php:943
+msgid "Letter Spacing"
+msgstr "文字間"
+
+#: inc/visual_composer.php:332 inc/visual_composer.php:3088
+#: inc/customizer/controls/font-weight.php:14
+msgid "Light"
+msgstr "右"
+
+#: inc/customizer/controls/font-weight.php:15
+msgid "Light Italic"
+msgstr "ライトイタリック"
+
+#: inc/visual_composer.php:2361
+msgid "Line"
+msgstr "ライン"
+
+#: inc/customizer/registration.php:691 inc/customizer/registration.php:720
+#: inc/customizer/registration.php:763 inc/customizer/registration.php:806
+#: inc/customizer/registration.php:849 inc/customizer/registration.php:892
+#: inc/customizer/registration.php:935
+msgid "Line Height"
+msgstr "ラインの高さ"
+
+#: inc/visual_composer.php:589 inc/visual_composer.php:785
+#: inc/visual_composer.php:1427 inc/visual_composer.php:1911
+msgid "Link"
+msgstr "リンク"
+
+#: inc/visual_composer.php:2293
+msgid "Link for download"
+msgstr "ダウンロードのリンク"
+
+#: inc/visual_composer.php:790
+msgid "Link Icon"
+msgstr "リンクアイコン"
+
+#: inc/post_types-config.php:392 inc/extras.php:1330
+#: inc/visual_composer.php:679 inc/customizer/registration.php:21
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/visual_composer.php:1831
+msgid "List"
+msgstr "リスト"
+
+#: inc/customizer/registration.php:968
+msgid "List View"
+msgstr "リスト表示"
+
+#: vc_templates/stm_events.php:86 vc_templates/stm_events.php:91
+#: vc_templates/stm_portfolio.php:41 vc_templates/stm_portfolio.php:48
+msgid "load more"
+msgstr "さらに読み込み"
+
+#: vc_templates/stm_news_list.php:42
+msgid "Load more posts"
+msgstr "投稿をさらに読み込み"
+
+#: vc_templates/stm_events.php:85 vc_templates/stm_events.php:90
+#: vc_templates/stm_portfolio.php:40 vc_templates/stm_portfolio.php:47
+msgid "loading..."
+msgstr "読み込み中..."
+
+#: inc/post_types-config.php:304 inc/visual_composer.php:2242
+#: vc_templates/stm_vacancies.php:20
+msgid "Location"
+msgstr "位置"
+
+#: woocommerce/global/form-login.php:45
+msgid "Login"
+msgstr "ログイン"
+
+#: woocommerce/myaccount/form-login.php:42
+msgid "login"
+msgstr "ログイン"
+
+#: inc/visual_composer.php:564 inc/customizer/registration.php:80
+#: inc/customizer/registration.php:551 hb_templates/elements/image/image.php:25
+msgid "Logo"
+msgstr "ロゴ"
+
+#: inc/customizer/registration.php:72
+msgid "Logo &amp; Title"
+msgstr "ロゴ &amp; タイトル"
+
+#: inc/visual_composer.php:3060
+msgid "Longitude"
+msgstr "経度"
+
+#: woocommerce/global/form-login.php:52
+msgid "Lost your password?"
+msgstr "パスワードをお忘れですか？"
+
+#: inc/crypterio/functions.php:406
+msgid "Low"
+msgstr "ロー"
+
+#: inc/customizer/controls/text-transform.php:13
+msgid "Lowercase"
+msgstr "小文字"
+
+#: inc/visual_composer.php:2122
+msgid "Map - Height"
+msgstr "マップ - 高さ"
+
+#: inc/visual_composer.php:2129
+msgid "Map - Zoom"
+msgstr "マップ -ズーム"
+
+#: inc/visual_composer.php:2980
+msgid "Map Height"
+msgstr "マップの高さ"
+
+#: inc/visual_composer.php:3007
+msgid "Map Style"
+msgstr "マップスタイル"
+
+#: inc/visual_composer.php:2987
+msgid "Map Zoom"
+msgstr "マップズーム"
+
+#: inc/customizer/registration.php:109
+msgid "Margin Bottom"
+msgstr "下マージンを指定"
+
+#: inc/customizer/registration.php:102
+msgid "Margin Top"
+msgstr "上マージンを指定"
+
+#: inc/vc/modules/ratings.php:19
+msgid "Mark"
+msgstr "マーク"
+
+#: inc/visual_composer.php:2993
+msgid "Marker Image"
+msgstr "マーカーイメージ"
+
+#: partials/ico_listing/parts/market_and_returns.php:18
+msgid "Market & Returns"
+msgstr "マーケット＆リターン"
+
+#: inc/vc/modules/ratings.php:26
+msgid "Max"
+msgstr "最大"
+
+#: inc/admin/product_registration/screens/system_status.php:243
+msgid "Max Upload Size:"
+msgstr "最大アップロードサイズ:"
+
+#: inc/visual_composer.php:334 inc/crypterio/functions.php:405
+#: inc/customizer/controls/font-weight.php:20
+msgid "Medium"
+msgstr "ミディアム"
+
+#: inc/customizer/controls/font-weight.php:21
+msgid "Medium Italic"
+msgstr "ミディアムイタリック"
+
+#: inc/visual_composer.php:1286
+msgid "Medium Screen"
+msgstr "ミディアムスクリーン"
+
+#: inc/post_types-config.php:30
+msgid "Member"
+msgstr "メンバー"
+
+#: inc/post_types-config.php:417
+msgid "Member ID"
+msgstr "メンバーID"
+
+#: inc/crypterio/functions.php:612 partials/ico_listing/parts/token_sale.php:13
+msgid "Min/Max Personal Cap"
+msgstr "最小/最大パーソナルキャップ"
+
+#: inc/tgm/tgm-plugin-activation.php:2394
+msgid "Minimum required version:"
+msgstr "最低必要なバージョン:"
+
+#: partials/vc_parts/ico_countdown/custom.php:54
+#: partials/vc_parts/ico_countdown/contract.php:92
+msgid "Minutes"
+msgstr "分"
+
+#: inc/customizer/registration.php:84
+msgid "Mobile Logo"
+msgstr "モバイルロゴ"
+
+#: inc/visual_composer.php:2021
+msgid "Modern"
+msgstr "モダン"
+
+#: vc_templates/stm_crypto_charts.php:54
+msgid "month"
+msgstr "月"
+
+#: inc/admin/product_registration/includes/admin_screens.php:35
+#: inc/admin/product_registration/includes/admin_screens.php:36
+msgid "My crypterio"
+msgstr "マイcrypterio"
+
+#: inc/admin/product_registration/screens/system_status.php:232
+msgid "MySQL Version:"
+msgstr "MySQLのバージョン:"
+
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgid_plural "Categories:"
+msgstr[0] "なし"
+msgstr[1] ""
+
+#: inc/post_types-config.php:401 inc/extras.php:137
+#: inc/visual_composer.php:1486 inc/admin/white_list/templates/i18n.php:3
+msgid "Name"
+msgstr "名前"
+
+#: inc/visual_composer.php:1215
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+#: inc/crypterio/functions.php:403
+msgid "Neutral"
+msgstr "ニュートラル"
+
+#: inc/crypterio/functions.php:778
+msgid "New ICO"
+msgstr "新規ICO"
+
+#: inc/crypterio/functions.php:341
+msgid "New ICO Participant"
+msgstr "新規のICO参加者"
+
+#: comments.php:34
+msgid "Newer Comments"
+msgstr "新着コメント"
+
+#: woocommerce/single-product.php:37 woocommerce/archive-product.php:38
+#: inc/visual_composer.php:1797 partials/title_box.php:39
+#: partials/title_box.php:40
+msgid "News"
+msgstr "ニュース"
+
+#: inc/vc/modules/news_carousel.php:11
+msgid "News Carousel"
+msgstr "ニュースカルーセル"
+
+#: inc/vc/modules/news.php:11
+msgid "News Grid"
+msgstr "ニュースグリッド"
+
+#: inc/vc/modules/news_list.php:11
+msgid "News List"
+msgstr "ニュースリスト"
+
+#: inc/vc/modules/news_widget.php:11
+msgid "News Widget"
+msgstr "ニュースウィジェット"
+
+#: vc_templates/stm_portfolio_pagination.php:76
+#: vc_templates/stm_portfolio_pagination.php:121
+msgid "next"
+msgstr "次へ"
+
+#: inc/visual_composer.php:2806
+msgid "No"
+msgstr "いいえ"
+
+#: inc/tgm/tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "何もアクションがありませんでした。プラグイン%1$sはすでにアクティブです。"
+
+#: inc/tgm/tgm-plugin-activation.php:2833
+msgid "No plugins are available to be activated at this time."
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "今回有効化できるプラグインがありません。"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2700
+msgid "No plugins are available to be installed at this time."
+msgstr "今回インストールできるプラグインはありません。"
+
+#: inc/tgm/tgm-plugin-activation.php:2702
+msgid "No plugins are available to be updated at this time."
+msgstr "今回更新できるプラグインはありません。"
+
+#: inc/tgm/tgm-plugin-activation.php:2430
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr "今回インストール、更新、有効にできるプラグインはありません。 <a href=\"%1$s\">ダッシュボードに戻る</a>"
+
+#: inc/tgm/tgm-plugin-activation.php:2807
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "有効化するプラグインが選択されていません。アクションがありませんでした。"
+
+#: inc/tgm/tgm-plugin-activation.php:2662
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "インストールするプラグインが選択されていません。アクションがありませんでした。"
+
+#: inc/tgm/tgm-plugin-activation.php:2664
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "更新するプラグインが選択されていません。アクションがありませんでした。"
+
+#: inc/post_types-config.php:223 inc/customizer/registration.php:507
+msgid "No Repeat"
+msgstr "繰り返しなし"
+
+#: inc/visual_composer.php:1007
+msgid "None"
+msgstr "なし"
+
+#: inc/customizer/controls/text-transform.php:15
+msgid "Normal"
+msgstr "通常"
+
+#: inc/tgm/tgm-plugin-activation.php:2216
+msgid "Not Installed"
+msgstr "インストールされていません"
+
+#: inc/admin/product_registration/screens/install_demo.php:85
+msgid "Not installed"
+msgstr "インストールされていません"
+
+#: inc/crypterio/functions.php:453
+msgid "Not rated"
+msgstr "評価されていません"
+
+#: inc/crypterio/functions.php:368
+msgid "Not set"
+msgstr "設定されていません"
+
+#: inc/vc/modules/wave_roadmap.php:47
+msgid "Not yet"
+msgstr "まだ"
+
+#: inc/extras.php:162
+msgctxt "noun"
+msgid "Message"
+msgstr "メッセージ"
+
+#: inc/visual_composer.php:1741
+msgid "Number of items the carousel will display. Default: at <479px - 1 item."
+msgstr "カルーセルが表示するアイテム数。デフォルト<479px - 1アイテム"
+
+#: inc/visual_composer.php:1733
+msgid ""
+"Number of items the carousel will display. Default: at <768px - 2 items."
+msgstr "カルーセルが表示するアイテム数。デフォルト<768px - 2アイテム"
+
+#: inc/visual_composer.php:1725
+msgid ""
+"Number of items the carousel will display. Default: at <980px - 3 items."
+msgstr "カルーセルが表示するアイテム数。 デフォルト:  <980px - 3アイテム"
+
+#: inc/vc/modules/services_grid.php:18
+msgid "Number of posts"
+msgstr "投稿数"
+
+#: inc/visual_composer.php:2919
+msgid "Number of posts to show"
+msgstr "表示する投稿数"
+
+#: inc/crypterio/functions.php:632
+#: partials/ico_listing/parts/short_review.php:3
+msgid "Number of team Members"
+msgstr "チームメンバーの数"
+
+#: inc/visual_composer.php:2028 inc/visual_composer.php:2313
+#: inc/visual_composer.php:2518
+msgid "Number Posts"
+msgstr "投稿数"
+
+#: inc/extras.php:1348 inc/customizer/registration.php:39
+msgid "Odnoklassniki"
+msgstr "Odnoklassniki"
+
+#: partials/ico_listing/parts/ico_date_and_image.php:38
+msgid "of"
+msgstr "中"
+
+#: comments.php:31
+msgid "Older Comments"
+msgstr "古いコメント"
+
+#: inc/visual_composer.php:2414 inc/visual_composer.php:2457
+msgid "One"
+msgstr "1"
+
+#: inc/crypterio/functions.php:254
+msgid "Only numbers"
+msgstr "数のみ"
+
+#: inc/visual_composer.php:250
+msgid "Open in Lightbox"
+msgstr "ライトボックスで開く"
+
+#: woocommerce/myaccount/my-orders.php:25
+msgid "Order"
+msgstr "オーダー"
+
+#: partials/ico_listing/parts/related.php:9
+#, php-format
+msgid "Other %s ICOs"
+msgstr "他の%sICO"
+
+#: inc/admin/product_registration/screens/support.php:87
+#, php-format
+msgid ""
+"Our forum is the best place for user to user interactions. Ask another %s "
+"user or share your experience with the community to help others."
+msgstr "私たちのフォーラムはユーザーたちのやりとりに最適な場所です。他の%s ユーザーに聞くか他の方のためにあなたの体験をシェアしませんか。"
+
+#: inc/admin/product_registration/screens/support.php:50
+#, php-format
+msgid ""
+"Our online documentaiton is a useful resource for learning the every aspect "
+"and features of %s."
+msgstr "私たちのオンラインドキュメントは、%sの機能のすべての側面を学習するのに最適なソースです。"
+
+#: inc/visual_composer.php:544
+msgid "Our Partner"
+msgstr "当社のパートナー"
+
+#: partials/ico_listing/parts/rates.php:35
+msgid "Our Rating"
+msgstr "当社の評価"
+
+#: vc_templates/stm_portfolio_information.php:49
+msgid "Our Role"
+msgstr "当社の役割"
+
+#: inc/visual_composer.php:2840
+msgid "Our Works"
+msgstr "当社の仕事"
+
+#: inc/extras.php:97
+msgid "out of 5"
+msgstr "中5"
+
+#: partials/content-page.php:24
+msgid "Page"
+msgstr "ページ"
+
+#: inc/extras.php:388
+msgid "Page not found"
+msgstr "ページが見つかりません"
+
+#: inc/post_types-config.php:163 inc/customizer/registration.php:460
+msgid "Page Setup"
+msgstr "ページ設定"
+
+#: partials/content-page.php:20 partials/content.php:90
+msgid "Pages:"
+msgstr "ページ:"
+
+#: inc/vc/modules/panel_box.php:8 inc/vc/modules/panel_box.php:11
+msgid "Panel Box"
+msgstr "パネルボックス"
+
+#: inc/vc/modules/panel_box.php:25 inc/vc/modules/panel_box.php:32
+msgid "Panel Subtitle"
+msgstr "パネルサブタイトル"
+
+#: inc/vc/modules/panel_box.php:18
+msgid "Panel Title"
+msgstr "パネルタイトル"
+
+#: inc/customizer/registration.php:673
+msgid "Paragraph"
+msgstr "パラグラフ"
+
+#: inc/post_types-config.php:353
+msgid "Participant Info"
+msgstr "参加者情報"
+
+#: inc/visual_composer.php:144 inc/visual_composer.php:155
+msgid "Particles background"
+msgstr "パーティクルバックグラウンド"
+
+#: inc/vc/modules/ico_countdown.php:257
+msgid "Passport Photo description"
+msgstr "パスポート写真の詳細"
+
+#: woocommerce/global/form-login.php:37
+msgid "Password"
+msgstr "パスワード"
+
+#: partials/content-event-classic.php:93 partials/content-event-form.php:46
+msgid "past event"
+msgstr "過去のイベント"
+
+#: inc/visual_composer.php:2004
+msgid "Past Events"
+msgstr "過去のイベント"
+
+#: woocommerce/myaccount/my-orders.php:84
+msgid "Pay"
+msgstr "支払い"
+
+#: woocommerce/checkout/payment.php:24
+msgid "payment"
+msgstr "支払い"
+
+#: inc/vc/modules/ico_countdown.php:145
+msgid "Payments"
+msgstr "支払い"
+
+#: inc/admin/white_list/white_list.php:116
+#: inc/admin/white_list/templates/i18n.php:14
+msgid "Pending"
+msgstr "保留中"
+
+#: inc/crypterio/functions.php:605
+msgid "Percent of tokens for sale"
+msgstr "セール中のトークンの割合"
+
+#: inc/post_types-config.php:368 inc/post_types-config.php:409
+#: inc/visual_composer.php:632 inc/visual_composer.php:650
+#: inc/visual_composer.php:1507 inc/visual_composer.php:3044
+msgid "Phone"
+msgstr "電話"
+
+#: inc/visual_composer.php:638 inc/visual_composer.php:1513
+msgid "Phone Two"
+msgstr "電話2"
+
+#: inc/widgets/contacts.php:100
+msgid "Phone:"
+msgstr "電話:"
+
+#: inc/visual_composer.php:1385
+msgid "Photo - Size"
+msgstr "画像 -サイズ "
+
+#: inc/admin/product_registration/screens/system_status.php:117
+msgid "PHP Max Input Vars:"
+msgstr "PHP最大入力変数："
+
+#: inc/admin/product_registration/screens/system_status.php:94
+msgid "PHP Post Max Size:"
+msgstr "PHP投稿最大サイズ:"
+
+#: inc/admin/product_registration/screens/system_status.php:99
+msgid "PHP Time Limit:"
+msgstr "PHPタイムリミット:"
+
+#: inc/admin/product_registration/screens/system_status.php:88
+msgid "PHP Version:"
+msgstr "PHPバージョン:"
+
+#: inc/visual_composer.php:2364
+msgid "Pie"
+msgstr "パイ"
+
+#: partials/news/parts/_share.php:24
+msgid "Pin it"
+msgstr "Pinする"
+
+#: inc/extras.php:1335 inc/customizer/registration.php:26
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/crypterio/functions.php:342
+msgid "Please check new ICO Participant."
+msgstr "新規のICO参加者をご確認ください。"
+
+#: inc/crypterio/functions.php:779
+msgid "Please check new ICO."
+msgstr "新規ICOをご確認ください。"
+
+#: inc/tgm/tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "このサイトの管理者に連絡してください。"
+
+#: inc/tgm/tgm-plugin-activation.php:932 inc/tgm/tgm-plugin-activation.php:935
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr "プラグインの提供者に連絡しWordPressのガイドラインに沿ったプラグインのパッケージについてお尋ねください。"
+
+#: inc/admin/product_registration/screens/install_demo.php:117
+msgid "Please enter your Activation Token before running the Crypterio."
+msgstr "Crypterioを実施する前にあなたの有効なトークンを入力してください。"
+
+#: inc/updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "EnvatoマーケットプレイスのAPIキーを入力してください。"
+
+#: inc/updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Envatoマーケットプレイスのユーザー名を入力してください。"
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr "利用可能な支払い方法を表示するにはあなたの情報を上記に記入してください。"
+
+#: inc/admin/product_registration/screens/startup.php:23
+msgid ""
+"Please make sure you have purchased this theme with the account you "
+"registered current token"
+msgstr "あなたが登録したアカウントの現在のトークンでこのテーマを購入するようにしてください"
+
+#: inc/crypterio/functions.php:282 inc/crypterio/functions.php:715
+msgid "Please use a jpg/png/gif image"
+msgstr "jpg/png/gif形式の画像を使用してください"
+
+#: inc/crypterio/functions.php:784
+msgid "Please, fill all required fields."
+msgstr "すべての欄を記入してください。"
+
+#: inc/tgm/tgm-plugin-activation.php:2455
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: inc/tgm/tgm-plugin-activation.php:1113
+#: inc/tgm/tgm-plugin-activation.php:2847
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "および"
+
+#: inc/tgm/tgm-plugin-activation.php:399 inc/tgm/tgm-plugin-activation.php:3049
+msgid "Plugin activated successfully."
+msgstr "プラグインの有効化が完了しました。"
+
+#: inc/tgm/tgm-plugin-activation.php:3048
+msgid "Plugin activation failed."
+msgstr "プラグインの有効化に失敗しました。"
+
+#: inc/tgm/tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr "プラグインが有効化されていません。このテーマには上位のバージョンの%sが必要です。プラグインを更新してください。"
+
+#: inc/admin/product_registration/includes/admin_screens.php:158
+#: inc/admin/product_registration/includes/admin_screens.php:173
+msgid "Plugins"
+msgstr "プラグイン"
+
+#: inc/tgm/tgm-plugin-activation.php:2287
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "すべて<span class=\"count\">(%s)</span>"
+msgstr[1] ""
+
+#: inc/customizer/registration.php:213 inc/customizer/registration.php:245
+#: inc/customizer/registration.php:277 inc/customizer/registration.php:309
+#: inc/customizer/registration.php:341 inc/customizer/registration.php:373
+#: inc/customizer/registration.php:405 inc/customizer/registration.php:437
+msgid "Plural Title"
+msgstr "複数のタイトル"
+
+#: inc/vc/modules/news_carousel.php:44 inc/vc/modules/news_widget.php:44
+msgid "Popular"
+msgstr "有名"
+
+#: inc/vc/modules/ico_countdown.php:167 inc/vc/modules/ico_countdown.php:178
+#: inc/vc/modules/ico_countdown.php:188 inc/vc/modules/ico_countdown.php:198
+#: inc/vc/modules/ico_countdown.php:208 inc/vc/modules/ico_countdown.php:219
+#: inc/vc/modules/ico_countdown.php:229 inc/vc/modules/ico_countdown.php:239
+#: inc/vc/modules/ico_countdown.php:249 inc/vc/modules/ico_countdown.php:259
+#: inc/vc/modules/ico_countdown.php:269 inc/vc/modules/ico_countdown.php:279
+msgid "Popup"
+msgstr "ポップアップ"
+
+#: inc/vc/modules/ico_countdown.php:196
+msgid "Popup description"
+msgstr "ポップアップの詳細"
+
+#: inc/vc/modules/ico_countdown.php:206
+msgid "Popup link"
+msgstr "ポップアップリンク"
+
+#: inc/vc/modules/ico_countdown.php:227
+msgid "Popup Subtitle"
+msgstr "ポップアップサブタイトル"
+
+#: inc/vc/modules/ico_countdown.php:176 inc/vc/modules/ico_countdown.php:217
+msgid "Popup Title"
+msgstr "ポップアップタイトル"
+
+#: inc/post_types-config.php:89 inc/post_types-config.php:90
+#: inc/visual_composer.php:2505 inc/customizer/registration.php:428
+#: inc/customizer/registration.php:434 inc/customizer/registration.php:439
+msgid "Portfolio"
+msgstr "ポートフォリオ"
+
+#: inc/post_types-config.php:423
+msgid "Portfolio image size"
+msgstr "ポートフォリオの画像サイズ"
+
+#: inc/visual_composer.php:2577
+msgid "Portfolio Information"
+msgstr "ポートフォリオ情報"
+
+#: inc/visual_composer.php:2537
+msgid "Portfolio Post Pagination"
+msgstr "ポートフォリオ投稿ページネーション"
+
+#: inc/post_types-config.php:267 inc/visual_composer.php:569
+msgid "Position"
+msgstr "位置"
+
+#: inc/extras.php:165
+msgid "post a comment"
+msgstr "コメントを投稿"
+
+#: inc/post_types-config.php:284
+msgid "Post Info"
+msgstr "投稿情報"
+
+#: inc/customizer/registration.php:58
+msgid "Post Types"
+msgstr "投稿タイプ"
+
+#: woocommerce/cart/shipping-calculator.php:93
+msgid "Postcode / ZIP"
+msgstr "郵便番号"
+
+#: partials/content-post_details.php:8 partials/content-loop_list.php:11
+msgid "Posted by:"
+msgstr "によって投稿:"
+
+#: inc/vc/modules/pricing_table.php:38
+msgid "Postfix"
+msgstr "接尾辞"
+
+#: inc/visual_composer.php:2885
+msgid "Posts in timeline style"
+msgstr "タイムラインスタイルで投稿"
+
+#: inc/visual_composer.php:1765 inc/visual_composer.php:2034
+#: inc/visual_composer.php:2319 inc/visual_composer.php:2648
+msgid "Posts Per Row"
+msgstr "列ごとの投稿"
+
+#: inc/tgm/tgm-plugin-activation.php:2199
+msgid "Pre-Packaged"
+msgstr "プリパッケージ"
+
+#: inc/vc/modules/pricing_table.php:23
+msgid "Prefix"
+msgstr "接頭辞"
+
+#: inc/visual_composer.php:231
+msgid "Preview Image"
+msgstr "画像をプレビュー"
+
+#: vc_templates/stm_portfolio_pagination.php:63
+#: vc_templates/stm_portfolio_pagination.php:95
+msgid "previous"
+msgstr "前"
+
+#: woocommerce/cart/cart.php:80 inc/vc/modules/pricing_table.php:28
+msgid "Price"
+msgstr "価格"
+
+#: woocommerce/cart/cart.php:34
+msgid "price"
+msgstr "価格"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "proceed to checkout"
+msgstr "支払いに進む"
+
+#: woocommerce/checkout/review-order.php:30 woocommerce/cart/cart.php:53
+msgid "Product"
+msgstr "製品"
+
+#: woocommerce/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr "製品の詳細"
+
+#: woocommerce/cart/cart.php:33
+msgid "product name"
+msgstr "製品名"
+
+#: inc/admin/product_registration/includes/admin_screens.php:152
+msgid "Product Registration"
+msgstr "製品登録"
+
+#: inc/customizer/registration.php:1104
+msgid "Products Per Page"
+msgstr "ページごとの製品"
+
+#: partials/content-about_vacancy.php:19
+msgid "Project Location(s):"
+msgstr "プロジェクトの場所:"
+
+#: inc/crypterio/functions.php:636
+#: partials/ico_listing/parts/short_review.php:4
+msgid "Prototype"
+msgstr "プロトタイプ"
+
+#: inc/customizer/registration.php:1147
+msgid "Public key"
+msgstr "パブリックキー"
+
+#: woocommerce/cart/cart.php:86
+msgid "Quantity"
+msgstr "数"
+
+#: woocommerce/cart/cart.php:35
+msgid "quantity"
+msgstr "数"
+
+#: inc/visual_composer.php:1756 inc/vc/modules/news.php:18
+#: inc/vc/modules/news_list.php:18 inc/vc/modules/post_slider.php:18
+#: inc/vc/modules/news_carousel.php:18 inc/vc/modules/news_widget.php:18
+msgid "Query"
+msgstr "クエリ"
+
+#: inc/vc/modules/news.php:27 inc/vc/modules/news_list.php:27
+#: inc/vc/modules/post_slider.php:27 inc/vc/modules/news_carousel.php:27
+#: inc/vc/modules/news_widget.php:27
+msgid "Query offset"
+msgstr "クエリのオフセット"
+
+#: inc/visual_composer.php:1306 inc/visual_composer.php:1312
+msgid "Quote"
+msgstr "引用符"
+
+#: inc/extras.php:95
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "5中%d評価"
+
+#: inc/vc/modules/ratings.php:8
+msgid "Ratings"
+msgstr "評価"
+
+#: vc_templates/stm_info_box.php:135
+msgid "Read More"
+msgstr "詳細"
+
+#: vc_templates/stm_staff_list.php:111 vc_templates/stm_info_box.php:72
+#: vc_templates/stm_services_grid.php:59
+msgid "Read more"
+msgstr "詳細"
+
+#: vc_templates/stm_services.php:61 partials/content-event-classic.php:81
+#: partials/content-loop_list.php:30
+msgid "read more"
+msgstr "詳細"
+
+#: partials/content-none.php:3
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "初めての投稿を行いますか？<a href=\"%1$s\">ここから開始</a>"
+
+#: inc/customizer/registration.php:1142
+msgid "Recaptcha"
+msgstr "リチャプチャ"
+
+#: woocommerce/myaccount/my-orders.php:42
+msgid "recent orders"
+msgstr "最近のオーダー"
+
+#: inc/tgm/tgm-plugin-activation.php:2177
+msgid "Recommended"
+msgstr "おすすめ"
+
+#: inc/extras.php:1339 inc/customizer/registration.php:30
+msgid "Reddit"
+msgstr "Reddit"
+
+#: woocommerce/myaccount/form-login.php:108
+msgid "Register"
+msgstr "登録"
+
+#: partials/content-event-list-form.php:13
+#: woocommerce/myaccount/form-login.php:79
+msgid "register"
+msgstr "登録"
+
+#: inc/visual_composer.php:333 inc/customizer/controls/font-weight.php:18
+msgid "Regular"
+msgstr "レギュラー"
+
+#: inc/customizer/controls/font-weight.php:19
+msgid "Regular Italic"
+msgstr "レギュラーイタリック"
+
+#: partials/news/parts/_related.php:23
+msgid "Related posts"
+msgstr "関連投稿"
+
+#: woocommerce/global/form-login.php:48
+msgid "Remember me"
+msgstr "記憶させる"
+
+#: partials/vc_parts/ico_countdown/contract.php:63
+msgid "Remove"
+msgstr "削除"
+
+#: woocommerce/cart/cart.php:114
+msgid "Remove this item"
+msgstr "この製品を削除"
+
+#: inc/post_types-config.php:222 inc/customizer/registration.php:506
+msgid "Repeat"
+msgstr "繰り返し"
+
+#: inc/post_types-config.php:224 inc/customizer/registration.php:508
+msgid "Repeat-X"
+msgstr "繰り返し-X"
+
+#: inc/post_types-config.php:225 inc/customizer/registration.php:509
+msgid "Repeat-Y"
+msgstr "繰り返し-Y"
+
+#: vc_templates/stm_crypto_charts.php:90
+msgid "Request failed"
+msgstr "リクエストが失敗しました"
+
+#: inc/tgm/tgm-plugin-activation.php:2174
+msgid "Required"
+msgstr "必要です"
+
+#: inc/tgm/tgm-plugin-activation.php:2228
+msgid "Required Update not Available"
+msgstr "必要なアップデートが利用できません"
+
+#: inc/tgm/tgm-plugin-activation.php:2231
+msgid "Requires Update"
+msgstr "必要なアップデート"
+
+#: inc/visual_composer.php:166
+msgid "Responsiveness"
+msgstr "リスポンシブネス"
+
+#: vc_templates/stm_crypto_charts.php:91
+msgid "Retry"
+msgstr "再試行"
+
+#: inc/tgm/tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "必要なプラググインインストーラーに戻る"
+
+#: inc/tgm/tgm-plugin-activation.php:825 inc/tgm/tgm-plugin-activation.php:3458
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: inc/tgm/tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr "登録済みのお客様ですか？"
+
+#: partials/ico_listing/parts/market_and_returns.php:50
+msgid "Returns since ICO"
+msgstr "Returns since ICO"
+
+#: inc/customizer/registration.php:223 inc/customizer/registration.php:255
+#: inc/customizer/registration.php:287 inc/customizer/registration.php:319
+#: inc/customizer/registration.php:351 inc/customizer/registration.php:383
+#: inc/customizer/registration.php:415 inc/customizer/registration.php:447
+msgid "Rewrite (URL text)"
+msgstr "リライト (URL text)"
+
+#: inc/visual_composer.php:294 inc/visual_composer.php:845
+#: inc/visual_composer.php:854 inc/visual_composer.php:1138
+#: inc/visual_composer.php:2381 inc/visual_composer.php:2664
+#: inc/customizer/registration.php:1006 inc/customizer/registration.php:1096
+msgid "Right"
+msgstr "右"
+
+#: functions.php:79
+msgid "Right Sidebar"
+msgstr "右のサイドバー"
+
+#: partials/ico_listing/parts/rates.php:4
+msgid "Risk rate"
+msgstr "リスク率"
+
+#: partials/ico_listing/parts/rates.php:5
+msgid "ROI rate"
+msgstr "ROI率"
+
+#: inc/visual_composer.php:2607
+msgid "Role"
+msgstr "役割"
+
+#: inc/vc/modules/ico_countdown.php:74
+msgid "Sale tokens price (number format)"
+msgstr "セールトークン価格 (ナンバーフォーマット)"
+
+#: inc/vc/modules/ico_countdown.php:83
+msgid "Sale tokens price 1"
+msgstr "セールトークン価格 1"
+
+#: inc/vc/modules/ico_countdown.php:97
+msgid "Sale tokens price 2"
+msgstr "セールトークン価格 2"
+
+#: inc/vc/modules/ico_countdown.php:92
+msgid "Sale tokens price label 1"
+msgstr "セールトークン価格ラベル 1"
+
+#: inc/vc/modules/ico_countdown.php:106
+msgid "Sale tokens price label 2"
+msgstr "セールトークン価格ラベル 2"
+
+#: inc/visual_composer.php:661
+msgid "Schedule"
+msgstr "スケジュール"
+
+#: partials/ico_listing/parts/screenshots.php:9
+msgid "Screenshots"
+msgstr "スクリーンショット"
+
+#: partials/vc_parts/ico_search/style_1.php:6
+msgid "Search ICO Name"
+msgstr "ICO名の検索"
+
+#. 1: separator, 2: search phrase
+#: inc/extras.php:383
+msgid "Search Results"
+msgstr "結果を検索"
+
+#: searchform.php:2
+msgid "Search..."
+msgstr "検索中..."
+
+#: inc/visual_composer.php:886 inc/visual_composer.php:987
+#: inc/visual_composer.php:1004 inc/visual_composer.php:1023
+#: inc/visual_composer.php:1336
+msgid "Secondary"
+msgstr "2番目"
+
+#: inc/customizer/registration.php:650
+msgid "Secondary Font Family"
+msgstr "セカンダリフォントファミリー"
+
+#: partials/vc_parts/ico_countdown/custom.php:55
+#: partials/vc_parts/ico_countdown/contract.php:93
+msgid "Seconds"
+msgstr "秒"
+
+#: inc/customizer/registration.php:1151
+msgid "Secret key"
+msgstr "シークレットキー"
+
+#: inc/visual_composer.php:330 inc/visual_composer.php:1537
+msgid "Select"
+msgstr "選択"
+
+#: woocommerce/cart/shipping-calculator.php:64
+msgid "Select a state&hellip;"
+msgstr "州を選択&hellip;"
+
+#: inc/visual_composer.php:378
+msgid "Select button color."
+msgstr "ボタンカラーを選択。"
+
+#: inc/crypterio/graph.php:21
+msgid "Select currency"
+msgstr "通貨を選択"
+
+#: inc/crypterio/converter.php:27
+msgid "Select currency 1"
+msgstr "通貨を選択１"
+
+#: inc/crypterio/converter.php:40
+msgid "Select currency 2"
+msgstr "通貨を選択 2"
+
+#: inc/visual_composer.php:404
+msgid "Select custom background color for your element on hover."
+msgstr "ホバー中のエレメントのカスタム背景色を選択。"
+
+#: inc/visual_composer.php:415
+msgid "Select custom color for icon."
+msgstr "アイコンのカスタムカラーを選択。"
+
+#: inc/crypterio/functions.php:574
+msgid "Select end date"
+msgstr "終了日を選択"
+
+#: inc/visual_composer.php:368
+msgid "Select gap between grid elements."
+msgstr "グリッドエレメンツ間のギャップを選択。"
+
+#: inc/crypterio/functions.php:518
+msgid "Select ICO category"
+msgstr "ICOカテゴリーを選択"
+
+#: inc/visual_composer.php:2257
+msgid "Select speakers"
+msgstr "スピーカーを選択"
+
+#: inc/crypterio/functions.php:564
+msgid "Select start date"
+msgstr "開始日を選択"
+
+#: inc/customizer/controls/font-weight.php:22
+msgid "Semi-Bold"
+msgstr "セミボールド"
+
+#: inc/visual_composer.php:335
+msgid "Semi-bold"
+msgstr "セミボールド"
+
+#: inc/customizer/controls/font-weight.php:23
+msgid "Semi-Bold Italic"
+msgstr "セミボールドイタリック"
+
+#: inc/vc/modules/pricing_table.php:33
+msgid "Separator"
+msgstr "セパレーター"
+
+#: inc/admin/product_registration/screens/system_status.php:75
+#: inc/admin/product_registration/screens/system_status.php:79
+msgid "Server Environment"
+msgstr "サーバー環境"
+
+#: inc/admin/product_registration/screens/system_status.php:84
+msgid "Server Info:"
+msgstr "サーバー情報:"
+
+#: inc/post_types-config.php:37 inc/customizer/registration.php:242
+msgid "Service"
+msgstr "サービス"
+
+#: inc/post_types-config.php:38 inc/visual_composer.php:2306
+#: inc/visual_composer.php:2596 vc_templates/stm_portfolio_information.php:37
+#: inc/customizer/registration.php:236 inc/customizer/registration.php:247
+msgid "Services"
+msgstr "サービス"
+
+#: inc/vc/modules/services_grid.php:8 inc/vc/modules/services_grid.php:11
+msgid "Services Grid"
+msgstr "サービスグリッド"
+
+#: inc/visual_composer.php:2847
+msgid "Services With Tabs"
+msgstr "タブ付きのサービス"
+
+#: inc/tgm/tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "parent_slug config変数を代わりに設定"
+
+#: inc/admin/product_registration/screens/install_demo.php:112
+msgid "Setup Layout"
+msgstr "レイアウトを設定"
+
+#: partials/content-vacancy_bottom.php:13 partials/content-post_bottom.php:10
+#: partials/news/parts/_share.php:8 partials/news/parts/_share.php:16
+#: partials/news/parts/_share.php:20
+msgid "Share"
+msgstr "シェア"
+
+#: woocommerce/checkout/form-shipping.php:28
+msgid "ship to a different address?"
+msgstr "別の住所に配送しますか？"
+
+#: woocommerce/cart/cart-totals.php:55 woocommerce/cart/cart-totals.php:56
+msgid "Shipping"
+msgstr "配送"
+
+#: inc/customizer/registration.php:1062
+msgid "Shop Pages"
+msgstr "ショップページ"
+
+#: functions.php:98
+msgid "Shop Sidebar"
+msgstr "ショップサイドバー"
+
+#: inc/visual_composer.php:1844
+msgid "Short"
+msgstr "ショート"
+
+#: partials/ico_listing/parts/short_review.php:18
+msgid "Short review"
+msgstr "ショートレビュー"
+
+#: inc/vc/modules/ico_countdown.php:165
+msgid "Show"
+msgstr "表示"
+
+#: inc/visual_composer.php:2554
+msgid "Show Button"
+msgstr "ボタンを表示"
+
+#: inc/visual_composer.php:2369
+msgid "Show legend?"
+msgstr "レジェンドを表示しますか？"
+
+#: inc/visual_composer.php:2937
+msgid "Show link"
+msgstr "リンクを表示"
+
+#: inc/visual_composer.php:2069 inc/visual_composer.php:2524
+msgid "Show Load More Button"
+msgstr "さらに読み込みボタンを表示"
+
+#: inc/visual_composer.php:2060
+msgid "Show Pagination"
+msgstr "ページネーションを表示"
+
+#: inc/crypterio/graph.php:104
+msgid "Show periods"
+msgstr "期間を表示"
+
+#: inc/vc/modules/ico_countdown.php:161
+msgid "Show popup"
+msgstr "ポップアップを表示"
+
+#: inc/visual_composer.php:2931
+msgid "Show title"
+msgstr "タイトルを表示"
+
+#: inc/visual_composer.php:2671
+msgid "Show Title Icons"
+msgstr "タイトルアイコンを表示"
+
+#: inc/visual_composer.php:2925
+msgid "Show year"
+msgstr "年を表示"
+
+#: woocommerce/loop/result-count.php:41
+#, php-format
+msgid "Showing all <strong>%d</strong> results"
+msgstr "すべての<strong>%d</strong>結果を表示"
+
+#: woocommerce/loop/result-count.php:39
+msgid "Showing the single result"
+msgstr "1つの結果を表示"
+
+#: inc/customizer/registration.php:1003 inc/customizer/registration.php:1093
+msgid "Sidebar - Position"
+msgstr "サイドバー - ポジション"
+
+#: functions.php:64
+msgid "Sidebar Menu 1"
+msgstr "サイドバーメニュー１"
+
+#: functions.php:65
+msgid "Sidebar Menu 2"
+msgstr "サイドバーメニュー 2"
+
+#: functions.php:66
+msgid "Sidebar Menu 3"
+msgstr "サイドバーメニュー３"
+
+#: inc/customizer/registration.php:977 inc/customizer/registration.php:1026
+#: inc/customizer/registration.php:1067
+msgid "Sidebar Type"
+msgstr "サイドバータイプ"
+
+#: woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order."
+" You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+"ブラウザが JavaScriptに対応していないか、無効のため、注文を行う前に <em>合計を更新</em>"
+"ボタンを押してください。そうしないと注文以上の金額が請求されることがあります。"
+
+#: hb_templates/mobile/mobile.php:31
+msgid "Site Logo"
+msgstr "サイトロゴ"
+
+#: partials/ico_listing/parts/rates.php:6
+msgid "Site Score"
+msgstr "サイトスコア"
+
+#: inc/customizer/registration.php:46
+msgid "Site Settings"
+msgstr "サイト設定"
+
+#: inc/admin/product_registration/screens/system_status.php:25
+msgid "Site URL:"
+msgstr "サイトURL:"
+
+#: inc/post_types-config.php:426
+msgid "Size"
+msgstr "サイズ"
+
+#: inc/customizer/registration.php:134
+msgid "Skin"
+msgstr "スキン"
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr "SKU:"
+
+#: inc/post_types-config.php:372 inc/extras.php:1342
+#: inc/visual_composer.php:691 inc/visual_composer.php:1524
+#: inc/customizer/registration.php:34
+msgid "Skype"
+msgstr "Skype"
+
+#: vc_templates/stm_contact.php:51
+msgid "Skype: "
+msgstr "Skype: "
+
+#: inc/visual_composer.php:119
+msgid "Slick slider"
+msgstr "スリックスライダー"
+
+#: inc/visual_composer.php:120
+msgid "Slick slider 2"
+msgstr "スリックスライダー２"
+
+#: inc/visual_composer.php:1224 inc/visual_composer.php:1661
+msgid "Slider autoplay"
+msgstr "スライダーオートプレイ"
+
+#: inc/visual_composer.php:1247 inc/visual_composer.php:1683
+msgid "Slider loop"
+msgstr "スライダーループ"
+
+#: inc/visual_composer.php:1693
+msgid "Slider navigation"
+msgstr "スライダーナビゲーション"
+
+#: inc/vc/modules/post_slider.php:11
+msgid "Slider with Posts"
+msgstr "スライダーつきの投稿"
+
+#: inc/visual_composer.php:1292
+msgid "Small Screen"
+msgstr "スモールスクリーン"
+
+#: inc/visual_composer.php:1258 inc/visual_composer.php:1707
+msgid "Smart Speed"
+msgstr "スマートスピード"
+
+#: inc/customizer/registration.php:620
+msgid "Social Icons Position in Footer (Column #)"
+msgstr "フッターのソーシャルアイコンポジション (列 #)"
+
+#: inc/widgets/socials.php:65
+msgid "Social Network"
+msgstr "ソーシャルネットワーク"
+
+#: partials/content-staff_bottom.php:25
+msgid "Social Profiles"
+msgstr "ソーシャルプロフィール"
+
+#. Base ID
+#: inc/customizer/registration.php:1158 inc/widgets/socials.php:11
+msgid "Socials"
+msgstr "ソーシャル"
+
+#: inc/crypterio/functions.php:533
+msgid "Soft Cap value (ETH)"
+msgstr "ソフトキャップ値(ETH)"
+
+#: inc/vc/modules/ico_countdown.php:45
+msgid "Softcap end date"
+msgstr "ソフトキャップの終了日"
+
+#: inc/vc/modules/ico_countdown.php:120
+msgid "Softcap label"
+msgstr "ソフトキャップラベル"
+
+#: inc/vc/modules/ico_countdown.php:125
+msgid "Softcap label 2"
+msgstr "ソフトキャップラベル2"
+
+#: inc/vc/modules/ico_countdown.php:115
+msgid "Softcap price (number format)"
+msgstr "ソフトキャップ価格(ナンバーフォーマット）"
+
+#: partials/ico_listing/parts/token_sale.php:7
+msgid "Sold on pre-sale"
+msgstr "プリセールで販売"
+
+#: inc/tgm/tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "プラグインAPIで何かエラーが発生しました。"
+
+#: partials/content-none.php:7
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "申し訳ありません、検索に一致するものがありませんでした。違うキーワードでお試しください。"
+
+#: inc/tgm/tgm-plugin-activation.php:377
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] "申し訳ありません、%1$sプラグインを有効にする適切な許可がありません。"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:347
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] "申し訳ありません、%1$sプラグインをインストールする適切な許可がありません。"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:362
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] "申し訳ありません、%1$sプラグインを更新する適切な許可がありません。"
+msgstr[1] ""
+
+#: woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr "申し訳ありません、有効な支払い方法がありません。ご不明な点がある場合や何か他の設定が必要な場合は当社までお問い合わせください。"
+
+#: inc/vc/modules/news_carousel.php:40 inc/vc/modules/news_widget.php:40
+msgid "Sort by:"
+msgstr "でソート:"
+
+#: inc/extras.php:1340 inc/customizer/registration.php:31
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: inc/tgm/tgm-plugin-activation.php:2456
+msgid "Source"
+msgstr "ソース"
+
+#: inc/visual_composer.php:1274
+msgid "Spacing"
+msgstr "スペーシング"
+
+#: inc/crypterio/functions.php:443
+msgid "Sponsored"
+msgstr "スポンサー"
+
+#: inc/post_types-config.php:53 inc/post_types-config.php:54
+#: inc/customizer/registration.php:300 inc/customizer/registration.php:306
+#: inc/customizer/registration.php:311
+msgid "Staff"
+msgstr "スタッフ"
+
+#: inc/visual_composer.php:2714
+msgid "Staff Bottom"
+msgstr "スタッフボトム"
+
+#: inc/visual_composer.php:1933
+msgid "Staff List"
+msgstr "スタッフリスト"
+
+#: inc/visual_composer.php:1853 inc/visual_composer.php:1873
+msgid "Staff Per Row"
+msgstr "行ごとのスタッフ"
+
+#: inc/vc/modules/panel_box.php:37
+msgid "Start Color"
+msgstr "スタートカラー"
+
+#: woocommerce/cart/shipping-calculator.php:57
+#: woocommerce/cart/shipping-calculator.php:63
+#: woocommerce/cart/shipping-calculator.php:76
+msgid "State / county"
+msgstr "州 / 国"
+
+#: inc/customizer/registration.php:122
+msgid "Static Front Page"
+msgstr "静的フロントページ"
+
+#: inc/visual_composer.php:1169
+msgid "Stats Counter"
+msgstr "スタッツカウンター"
+
+#: woocommerce/myaccount/my-orders.php:27
+#: inc/tgm/tgm-plugin-activation.php:2462
+#: inc/admin/white_list/templates/i18n.php:15
+msgid "Status"
+msgstr "ステータス"
+
+#: inc/visual_composer.php:502 inc/visual_composer.php:523
+#: inc/visual_composer.php:546 inc/visual_composer.php:604
+#: inc/visual_composer.php:818 inc/visual_composer.php:825
+#: inc/visual_composer.php:1171 inc/visual_composer.php:1178
+#: inc/visual_composer.php:1276 inc/visual_composer.php:1308
+#: inc/visual_composer.php:1359 inc/visual_composer.php:1443
+#: inc/visual_composer.php:1473 inc/visual_composer.php:1547
+#: inc/visual_composer.php:1569 inc/visual_composer.php:1607
+#: inc/visual_composer.php:1800 inc/visual_composer.php:1809
+#: inc/visual_composer.php:1936 inc/visual_composer.php:1996
+#: inc/visual_composer.php:2145 inc/visual_composer.php:2278
+#: inc/visual_composer.php:2309 inc/visual_composer.php:2354
+#: inc/visual_composer.php:2508 inc/visual_composer.php:2842
+#: inc/visual_composer.php:2849 inc/visual_composer.php:2976
+#: inc/visual_composer.php:3029 inc/visual_composer.php:3071
+#: inc/crypterio/graph.php:17 inc/crypterio/converter.php:17
+#: inc/vc/modules/ico_countdown.php:11
+msgid "STM"
+msgstr "STM"
+
+#: inc/visual_composer.php:1943 inc/visual_composer.php:1956
+#: inc/visual_composer.php:1969 inc/visual_composer.php:1982
+#: inc/visual_composer.php:2089 inc/visual_composer.php:2104
+#: inc/visual_composer.php:2118 inc/visual_composer.php:2540
+#: inc/visual_composer.php:2580
+msgid "STM Post Partials"
+msgstr "STMポストパーシャル"
+
+#: inc/visual_composer.php:1545
+msgid "STM Sidebar"
+msgstr "STMサイドバー"
+
+#: inc/visual_composer.php:2716
+msgid "STM Staff Partials"
+msgstr "STMスタッフパーシャル"
+
+#: inc/visual_composer.php:2690 inc/visual_composer.php:2703
+msgid "STM Vacancy Partials"
+msgstr "STM空きパーシャル"
+
+#: inc/visual_composer.php:78
+msgid "Stretch column"
+msgstr "列を広げる"
+
+#: inc/visual_composer.php:82
+msgid "Stretch out to the left"
+msgstr "左に広げる"
+
+#: inc/visual_composer.php:83
+msgid "Stretch out to the right"
+msgstr "右に広げる"
+
+#: inc/visual_composer.php:314
+msgid "Stripe - Position"
+msgstr "ストライプ - 位置"
+
+#: inc/visual_composer.php:194 inc/visual_composer.php:550
+#: inc/visual_composer.php:608 inc/visual_composer.php:747
+#: inc/visual_composer.php:829 inc/visual_composer.php:1086
+#: inc/visual_composer.php:1153 inc/visual_composer.php:1199
+#: inc/visual_composer.php:1363 inc/visual_composer.php:1477
+#: inc/visual_composer.php:1651 inc/visual_composer.php:1828
+#: inc/visual_composer.php:2016 inc/visual_composer.php:2544
+#: inc/visual_composer.php:2638 inc/visual_composer.php:2738
+#: inc/visual_composer.php:2956 inc/visual_composer.php:3084
+#: inc/customizer/registration.php:542
+msgid "Style"
+msgstr "スタイル"
+
+#: inc/customizer/registration.php:186
+msgid "Style &amp; Settings"
+msgstr "スタイル &amp; 設定"
+
+#: inc/post_types-config.php:170 inc/customizer/registration.php:464
+msgid "Style - Inverse"
+msgstr "スタイル - 反転"
+
+#: inc/visual_composer.php:197 inc/visual_composer.php:553
+#: inc/visual_composer.php:611 inc/visual_composer.php:750
+#: inc/visual_composer.php:832 inc/visual_composer.php:1089
+#: inc/visual_composer.php:1156 inc/visual_composer.php:1202
+#: inc/visual_composer.php:1366 inc/visual_composer.php:1480
+#: inc/visual_composer.php:1654 inc/visual_composer.php:2547
+#: inc/visual_composer.php:2641 inc/visual_composer.php:2750
+#: inc/visual_composer.php:2760 inc/visual_composer.php:2959
+#: inc/customizer/registration.php:546
+msgid "Style 1"
+msgstr "スタイル 1"
+
+#: inc/visual_composer.php:198 inc/visual_composer.php:554
+#: inc/visual_composer.php:612 inc/visual_composer.php:751
+#: inc/visual_composer.php:833 inc/visual_composer.php:1090
+#: inc/visual_composer.php:1157 inc/visual_composer.php:1203
+#: inc/visual_composer.php:1367 inc/visual_composer.php:1481
+#: inc/visual_composer.php:1655 inc/visual_composer.php:2548
+#: inc/visual_composer.php:2642 inc/visual_composer.php:2751
+#: inc/visual_composer.php:2761 inc/visual_composer.php:2960
+#: inc/customizer/registration.php:547
+msgid "Style 2"
+msgstr "スタイル 2"
+
+#: inc/visual_composer.php:613 inc/visual_composer.php:752
+#: inc/visual_composer.php:834 inc/visual_composer.php:1091
+#: inc/visual_composer.php:1204 inc/visual_composer.php:1368
+#: inc/visual_composer.php:2549
+msgid "Style 3"
+msgstr "スタイル 3"
+
+#: inc/visual_composer.php:614 inc/visual_composer.php:753
+#: inc/visual_composer.php:835
+msgid "Style 4"
+msgstr "スタイル 4"
+
+#: inc/visual_composer.php:754
+msgid "Style 5"
+msgstr "スタイル 5"
+
+#: inc/visual_composer.php:755
+msgid "Style 6"
+msgstr "スタイル 6"
+
+#: inc/visual_composer.php:3005
+msgid "Style Code"
+msgstr "スタイルコード"
+
+#: inc/visual_composer.php:1647 inc/visual_composer.php:2861
+#: inc/visual_composer.php:3013
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr "特定のコンテンツ要素を異なるようにする - クラス名を追加しカスタムCSS内で参照する。"
+
+#: inc/visual_composer.php:2644 inc/visual_composer.php:2656
+#: inc/visual_composer.php:2667 inc/visual_composer.php:2676
+msgid "Style settings"
+msgstr "スタイル設定"
+
+#. Author of the theme
+msgid "StylemixThemes"
+msgstr "StylemixThemes"
+
+#: partials/vc_parts/ico_countdown/contract.php:259
+#: inc/admin/product_registration/screens/startup.php:60
+msgid "Submit"
+msgstr "送信"
+
+#: inc/admin/product_registration/screens/support.php:36
+msgid "Submit a ticket"
+msgstr "チケットを送信"
+
+#: inc/visual_composer.php:204 inc/visual_composer.php:302
+#: inc/visual_composer.php:1918
+msgid "Subtitle"
+msgstr "サブタイトル"
+
+#: inc/visual_composer.php:308
+msgid "Subtitle - Color"
+msgstr "サブタイトル - 色"
+
+#: woocommerce/checkout/review-order.php:63 woocommerce/cart/cart-totals.php:33
+#: woocommerce/cart/cart-totals.php:34
+msgid "Subtotal"
+msgstr "小計"
+
+#: inc/admin/product_registration/screens/system_status.php:146
+msgid "SUHOSIN Installed:"
+msgstr "SUHOSINがインストールされました:"
+
+#: inc/admin/product_registration/screens/system_status.php:147
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.\n"
+"\t\t\tIf enabled on your server, Suhosin may need to be configured to "
+"increase its data submission limits."
+
+#: inc/admin/product_registration/screens/system_status.php:211
+msgid "Suhosin Post Max Value Length:"
+msgstr "Suhosinポスト最大長:"
+
+#: inc/admin/product_registration/screens/system_status.php:153
+msgid "Suhosin Post Max Vars:"
+msgstr "Suhosin投稿最大変数:"
+
+#: inc/admin/product_registration/screens/system_status.php:182
+msgid "Suhosin Request Max Vars:"
+msgstr "Suhosinリクエスト最大変数:"
+
+#: inc/admin/product_registration/includes/admin_screens.php:65
+#: inc/admin/product_registration/includes/admin_screens.php:66
+#: inc/admin/product_registration/includes/admin_screens.php:164
+msgid "Support"
+msgstr "サポート"
+
+#: inc/admin/product_registration/includes/admin_screens.php:167
+msgid "System Status"
+msgstr "システムステータス"
+
+#: inc/admin/product_registration/includes/admin_screens.php:55
+#: inc/admin/product_registration/includes/admin_screens.php:56
+msgid "System status"
+msgstr "システムステータス"
+
+#: inc/vc/modules/pricing_table.php:11
+msgid "Table with prices"
+msgstr "価格テーブル"
+
+#: partials/vc_parts/ico_grid/upcoming.php:88
+#: partials/vc_parts/ico_grid/finished.php:86
+#: partials/vc_parts/ico_grid/live.php:96
+msgid "TBA"
+msgstr "TBA"
+
+#: inc/visual_composer.php:1834
+msgid "Team"
+msgstr "チーム"
+
+#: inc/crypterio/functions.php:648 inc/crypterio/functions.php:649
+#: partials/ico_listing/parts/short_review.php:5
+msgid "Team From"
+msgstr "のチーム"
+
+#: inc/extras.php:1347 inc/customizer/registration.php:32
+msgid "Telegram"
+msgstr "Telegram"
+
+#: inc/crypterio/functions.php:568
+msgid "Telegram group"
+msgstr "Telegramグループ"
+
+#: inc/customizer/registration.php:1051
+msgid "Terms and Conditions Page Link"
+msgstr "規約ページのリンク"
+
+#: inc/post_types-config.php:69 inc/customizer/registration.php:370
+msgid "Testimonial"
+msgstr "お客様の声"
+
+#: inc/post_types-config.php:70 inc/visual_composer.php:1176
+#: inc/customizer/registration.php:364 inc/customizer/registration.php:375
+msgid "Testimonials"
+msgstr "お客様の声"
+
+#: inc/visual_composer.php:1357
+msgid "Testimonials Carousel"
+msgstr "お客様の声カルーセル"
+
+#: inc/visual_composer.php:1441
+msgid "Testimonials Pager"
+msgstr "お客様の声ページャー"
+
+#: inc/visual_composer.php:1188 inc/visual_composer.php:1393
+msgid "Testimonials Per Row"
+msgstr "行ごとのお客様の声"
+
+#: inc/visual_composer.php:780 inc/visual_composer.php:1070
+#: inc/vc/modules/pricing_table.php:53
+msgid "Text"
+msgstr "テキスト"
+
+#: inc/vc/modules/ratings.php:11
+msgid "Text Rating"
+msgstr "テキスト評価"
+
+#: inc/customizer/registration.php:736 inc/customizer/registration.php:779
+#: inc/customizer/registration.php:822 inc/customizer/registration.php:865
+#: inc/customizer/registration.php:908 inc/customizer/registration.php:951
+msgid "Text Transform"
+msgstr "テキスト変換"
+
+#: inc/admin/product_registration/screens/startup.php:39
+#, php-format
+msgid ""
+"Thank you for choosing %s! Please register it to enable the %1$s demos and "
+"theme auto updates. The instructions below must be followed exactly."
+msgstr "%sを選んで頂きありがとうございます！%1$sデモを有効、テーマの自動更新をするために登録してください。以下のガイドに正確に従ってください。"
+
+#: inc/crypterio/functions.php:315 inc/crypterio/functions.php:338
+msgid ""
+"Thank you, your data has been submitted. Email will be sent after approval."
+msgstr "ありがとうございます、お客様のデータが送信されました。承認後にメールが送信されます。"
+
+#: inc/crypterio/functions.php:775
+msgid "Thank you, your ICO has been submitted."
+msgstr "ありがとうございます、ICOは送信されました"
+
+#: inc/crypterio/functions.php:742
+msgid ""
+"Thank you, your ICO has been submitted. Email will be sent after approval."
+msgstr "ありがとうございます、ICOは送信されました。承認後にメールが送信されます。"
+
+#: inc/admin/product_registration/screens/system_status.php:100
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr "タイムアウトする前にサイトが1回の操作で費やす時間(秒単位)（サーバーのロックアップを回避するため）"
+
+#: inc/updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "API \"セット\"は必要なパラメーターです。"
+
+#: inc/visual_composer.php:1597
+msgid "The area of screen from top where animation effects will start working."
+msgstr "画面の上部のアニメーション効果のエリアが開始します。"
+
+#: inc/admin/product_registration/screens/system_status.php:69
+msgid "The current language used by WordPress. Default = English"
+msgstr "WordPressで現在利用されているデフォルト言語は英語です。"
+
+#: inc/updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "Envatoマーケットプレイス\"アイテム ID\"は必要なパラメーターです。"
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "以下の住所がデフォルトの支払いページで利用されます。"
+
+#: inc/tgm/tgm-plugin-activation.php:352
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "このテーマとの最大の互換性を確保するため以下のプラグインを最新のバージョンに更新する必要があります: %1$s"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:400 inc/tgm/tgm-plugin-activation.php:2851
+msgid "The following plugin was activated successfully:"
+msgstr "以下のプラグインが有効化されました:"
+
+#: inc/tgm/tgm-plugin-activation.php:372
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下の推奨されたプラグインは現在非アクティブです。: %1$s"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下の必要なプラグインは現在非アクティブです。: %1$s"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:3389
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr "インストール、有効化プロセスが開始しました。ホストの一部では少し時間がかかる場合があります、少々お待ちください。"
+
+#: inc/tgm/tgm-plugin-activation.php:3385
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$sのインストールに失敗しました。"
+
+#: inc/tgm/tgm-plugin-activation.php:3395
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "インストールプロセスが開始しました。一部のホストでは少し時間がかかる場合がありますので、少々お待ちください。"
+
+#: inc/admin/product_registration/screens/system_status.php:95
+msgid "The largest file size that can be contained in one post."
+msgstr "1つの投稿に最大のファイルサイズを含むことができます。"
+
+#: inc/admin/product_registration/screens/system_status.php:244
+msgid ""
+"The largest file size that can be uploaded to your WordPress installation."
+msgstr "WordPressのインストールにアップロードできる最大のファイルサイズ"
+
+#: inc/admin/product_registration/screens/system_status.php:41
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr "一度にあなたのサイトが利用できる最大メモリー(RAM)数。"
+
+#: inc/admin/product_registration/screens/system_status.php:118
+#: inc/admin/product_registration/screens/system_status.php:154
+#: inc/admin/product_registration/screens/system_status.php:183
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr "オーバーロードを避けるために1つの機能に対しあなたのサーバーは変数の最大数が利用できます。"
+
+#: inc/visual_composer.php:1717 inc/visual_composer.php:2786
+#: inc/visual_composer.php:2794 inc/visual_composer.php:2855
+msgid "The number of items you want to see on the screen."
+msgstr "画面で見たいアイテム数"
+
+#: 404.php:11
+msgid "The page you are looking for does not exist."
+msgstr "お探しのページが存在しませんでした。"
+
+#: inc/tgm/tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルはフォルダにパッケージ化されていません。"
+
+#: inc/tgm/tgm-plugin-activation.php:932
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr "リモートプラグインパッケージに目的のスラッグを含むフォルダが含まれていないため名前の変更ができませんでした。"
+
+#: inc/admin/product_registration/screens/system_status.php:26
+msgid "The root URL of your site."
+msgstr "サイトのルートURL"
+
+#: inc/admin/product_registration/screens/system_status.php:21
+msgid "The URL of your site's homepage."
+msgstr "サイトのホームページのURL"
+
+#: inc/admin/product_registration/screens/system_status.php:233
+msgid "The version of MySQL installed on your hosting server."
+msgstr "MySQLのバージョンがあなたのホスティングサーバーにインストールされました。"
+
+#: inc/admin/product_registration/screens/system_status.php:89
+msgid "The version of PHP installed on your hosting server."
+msgstr "PHPのバージョンがあなたのホスティングサーバーにインストールされました。"
+
+#: inc/admin/product_registration/screens/system_status.php:31
+msgid "The version of WordPress installed on your site."
+msgstr "あなたのサイトにインストールされたWordPressのバージョン"
+
+#: inc/admin/product_registration/includes/admin_screens.php:161
+#: inc/admin/product_registration/includes/admin_screens.php:176
+msgid "Theme Options"
+msgstr "テーマオプション"
+
+#: inc/visual_composer.php:381
+msgid "Theme Style 1"
+msgstr "テーマスタイル 1"
+
+#: inc/visual_composer.php:382
+msgid "Theme Style 2"
+msgstr "テーマスタイル 2"
+
+#: inc/visual_composer.php:383
+msgid "Theme Style 3"
+msgstr "テーマスタイル 3"
+
+#: inc/visual_composer.php:384
+msgid "Theme Style 4"
+msgstr "テーマスタイル 4"
+
+#: inc/tgm/tgm-plugin-activation.php:357
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "%1$sのアップデートが利用可能です。"
+msgstr[1] ""
+
+#: inc/visual_composer.php:331
+msgid "Thin"
+msgstr "細い"
+
+#: inc/visual_composer.php:887 inc/visual_composer.php:988
+#: inc/visual_composer.php:1005 inc/visual_composer.php:1024
+#: inc/visual_composer.php:1337
+msgid "Third"
+msgstr "3番目"
+
+#: inc/tgm/tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "あなたのテーマと互換性を確保するためにこのプラグインを更新する必要があります。"
+
+#: inc/tgm/tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "このテーマには以下のプラグインが推奨されます。: %1$s"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:337
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "このテーマには以下のプラグインが必要です。: %1$s"
+msgstr[1] ""
+
+#: inc/visual_composer.php:2467
+msgid "Three"
+msgstr "3"
+
+#: inc/visual_composer.php:126
+msgid "Thumbnail size"
+msgstr "サムネイルのサイズ"
+
+#: inc/crypterio/functions.php:600 partials/ico_listing/parts/token_sale.php:3
+msgid "Ticker"
+msgstr "ティッカー"
+
+#: inc/admin/product_registration/screens/support.php:30
+msgid "Ticket System"
+msgstr "チケットシステム"
+
+#: inc/visual_composer.php:2023
+msgid "Tiles"
+msgstr "タイル"
+
+#: inc/visual_composer.php:2236
+msgid "Time end"
+msgstr "タイムエンド"
+
+#: inc/visual_composer.php:2165
+msgid "Time Format"
+msgstr "タイムフォーマット"
+
+#: vc_templates/stm_countdown.php:30 vc_templates/stm_countdown.php:35
+#: partials/vc_parts/ico_countdown/custom.php:80
+#: partials/vc_parts/ico_countdown/contract.php:119
+msgid "Time is up, sorry!"
+msgstr "時間切れです、申し訳ありません！"
+
+#: inc/visual_composer.php:2230
+msgid "Time start"
+msgstr "タイム開始"
+
+#: inc/visual_composer.php:506 inc/visual_composer.php:532
+#: inc/visual_composer.php:559 inc/visual_composer.php:620
+#: inc/visual_composer.php:715 inc/visual_composer.php:862
+#: inc/visual_composer.php:1097 inc/visual_composer.php:2204
+#: inc/visual_composer.php:2247 inc/visual_composer.php:2427
+#: inc/visual_composer.php:2475 inc/visual_composer.php:3033
+#: inc/crypterio/converter.php:21 inc/customizer/registration.php:208
+#: inc/customizer/registration.php:240 inc/customizer/registration.php:272
+#: inc/customizer/registration.php:304 inc/customizer/registration.php:336
+#: inc/customizer/registration.php:368 inc/customizer/registration.php:400
+#: inc/customizer/registration.php:432 inc/vc/modules/ico_countdown.php:15
+#: inc/vc/modules/ratings.php:33 inc/vc/modules/news_carousel.php:33
+#: inc/vc/modules/news_widget.php:33 inc/vc/modules/pricing_table.php:18
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/visual_composer.php:882
+msgid "Title - Color"
+msgstr "タイトル - 色"
+
+#: inc/visual_composer.php:894 inc/visual_composer.php:1343
+msgid "Title - Color Custom"
+msgstr "タイトル - 色カスタム"
+
+#: inc/visual_composer.php:868
+msgid "Title - Font size"
+msgstr "タイトル - フォントサイズ"
+
+#: inc/visual_composer.php:875
+msgid "Title - Line Height"
+msgstr "タイトル - ラインの高さ"
+
+#: inc/post_types-config.php:199
+msgid "Title Background Color"
+msgstr "タイトルの背景色"
+
+#: inc/post_types-config.php:175
+msgid "Title Box Options"
+msgstr "タイトルボックスオプション"
+
+#: inc/post_types-config.php:189 inc/customizer/registration.php:482
+msgid "Title Color"
+msgstr "タイトルカラー"
+
+#: inc/visual_composer.php:760
+msgid "Title Icon"
+msgstr "タイトルアイコン"
+
+#: inc/visual_composer.php:2913
+msgid "Title length"
+msgstr "タイトルの長さ"
+
+#: inc/post_types-config.php:194 inc/customizer/registration.php:486
+msgid "Title Line Color"
+msgstr "タイトルラインカラー"
+
+#: inc/widgets/socials.php:70 inc/widgets/contacts.php:92
+msgid "Title:"
+msgstr "タイトル:"
+
+#: partials/content-event-grid.php:47 partials/content-event-classic.php:43
+#: partials/content-event-widgets.php:29 partials/content-event-info.php:70
+msgid "to"
+msgstr "to"
+
+#: inc/tgm/tgm-plugin-activation.php:2296
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span>を有効化するには"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2290
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span>をインストールするには"
+msgstr[1] ""
+
+#: inc/vc/modules/ico_countdown.php:60
+msgid "Token Buy Button"
+msgstr "トークン購入ボタン"
+
+#: inc/crypterio/functions.php:624 partials/ico_listing/parts/token_sale.php:14
+msgid "Token Issue"
+msgstr "トークンの発行"
+
+#: inc/crypterio/functions.php:542
+msgid "Token Price"
+msgstr "トークン価格"
+
+#: partials/ico_listing/parts/token_sale.php:32
+#: inc/admin/product_registration/screens/install_demo.php:28
+msgid "Token Sale"
+msgstr "トークンセール"
+
+#: partials/ico_listing/parts/ico_date_and_image.php:30
+#, php-format
+msgid "Token sale <strong>completed on %s</strong>"
+msgstr "トークンセール <strong>は %s</strong>に終了します"
+
+#: partials/ico_listing/parts/ico_date_and_image.php:23
+#, php-format
+msgid "Token sale <strong>is active until %s</strong>"
+msgstr "トークンセール <strong>は %s</strong>までアクティブです"
+
+#: partials/ico_listing/parts/ico_date_and_image.php:15
+#, php-format
+msgid "Token sale <strong>will start %s</strong>"
+msgstr "トークンセール<strong>は%s</strong>に開始します"
+
+#: inc/crypterio/functions.php:572
+msgid "Token sale end date"
+msgstr "トークンセールの終了日"
+
+#: inc/crypterio/functions.php:562
+msgid "Token sale start date"
+msgstr "トークンセール開始日"
+
+#: inc/vc/modules/wave_roadmap.php:17 inc/vc/modules/token_structure.php:17
+msgid "Token Structure"
+msgstr "トークンストラクチャ"
+
+#: inc/vc/modules/token_structure.php:8
+msgid "Token structure"
+msgstr "トークンストラクチャ"
+
+#: inc/crypterio/functions.php:552
+msgid "Token Type"
+msgstr "トークンの種類"
+
+#: partials/ico_listing/parts/token_sale.php:4
+msgid "Token type"
+msgstr "トークンの種類"
+
+#: inc/visual_composer.php:295 inc/visual_composer.php:318
+msgid "Top"
+msgstr "トップ"
+
+#: functions.php:63
+msgid "Top Menu"
+msgstr "トップメニュー"
+
+#: woocommerce/myaccount/my-orders.php:28
+#: woocommerce/checkout/review-order.php:31
+#: woocommerce/checkout/review-order.php:110 woocommerce/cart/cart.php:103
+#: woocommerce/cart/cart-totals.php:91 woocommerce/cart/cart-totals.php:92
+msgid "Total"
+msgstr "合計"
+
+#: woocommerce/cart/cart.php:36
+msgid "total"
+msgstr "合計"
+
+#: inc/crypterio/functions.php:547 partials/ico_listing/parts/token_sale.php:8
+msgid "Total Tokens"
+msgstr "合計トークン"
+
+#: inc/extras.php:1345 inc/customizer/registration.php:37
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: partials/news/parts/_share.php:12
+msgid "Tweet"
+msgstr "ツイート"
+
+#: inc/post_types-config.php:384 inc/extras.php:1326
+#: inc/visual_composer.php:673 inc/visual_composer.php:2618
+#: inc/customizer/registration.php:17
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/crypterio/functions.php:582
+msgid "Twitter account"
+msgstr "Twitterアカウント"
+
+#: inc/visual_composer.php:2419 inc/visual_composer.php:2462
+msgid "Two"
+msgstr "2"
+
+#: inc/visual_composer.php:176 inc/visual_composer.php:3075
+#: inc/tgm/tgm-plugin-activation.php:2457
+msgid "Type"
+msgstr "タイプ"
+
+#: inc/visual_composer.php:179
+msgid "Type 1"
+msgstr "タイプ 1"
+
+#: inc/visual_composer.php:180
+msgid "Type 2"
+msgstr "タイプ 2"
+
+#: inc/customizer/registration.php:62
+msgid "Typography"
+msgstr "タイポグラフィ"
+
+#: inc/customizer/controls/font-weight.php:28
+msgid "Ultra Bold"
+msgstr "ウルトラゴールド"
+
+#: inc/customizer/controls/font-weight.php:29
+msgid "Ultra Bold Italic"
+msgstr "ウルトラボールドイタリック"
+
+#: inc/customizer/controls/font-weight.php:12
+msgid "Ultra Light"
+msgstr "ウルトラライト"
+
+#: inc/customizer/controls/font-weight.php:13
+msgid "Ultra Light Italic"
+msgstr "ウルトラライトイタリック"
+
+#: partials/vc_parts/ico_grid/live.php:129
+#, php-format
+msgid "Until %s"
+msgstr "%sまで"
+
+#: inc/crypterio/functions.php:434 partials/ico_listing/parts/related.php:4
+msgid "Upcoming"
+msgstr "新着"
+
+#: inc/visual_composer.php:2003
+msgid "Upcoming Events"
+msgstr "今後のイベント"
+
+#: taxonomy-stm_ico_listing_category.php:60 archive-stm_ico_listing.php:64
+msgid "Upcoming ICO"
+msgstr "新着ICO"
+
+#: inc/tgm/tgm-plugin-activation.php:2628
+msgid "Update"
+msgstr "アップデート"
+
+#: inc/tgm/tgm-plugin-activation.php:2293
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "アップデートが利用可能です。 <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2234
+msgid "Update recommended"
+msgstr "アップデートが推奨されています"
+
+#: inc/tgm/tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "アップデートが必要です"
+
+#: woocommerce/cart/shipping-calculator.php:98
+msgid "Update Totals"
+msgstr "合計を更新"
+
+#: woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr "合計を更新"
+
+#: inc/tgm/tgm-plugin-activation.php:3382
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグイン %1$s (%2$d/%3$d)を更新"
+
+#: inc/tgm/tgm-plugin-activation.php:2589
+msgid "Upgrade message from the plugin author:"
+msgstr "プラグインの著者からのメッセージをアップグレード:"
+
+#: partials/vc_parts/ico_countdown/contract.php:62
+msgid "Upload"
+msgstr "アップロード"
+
+#: inc/customizer/controls/text-transform.php:14
+msgid "Uppercase"
+msgstr "大文字"
+
+#: inc/crypterio/graph.php:80
+msgid "USD chart border color"
+msgstr "USDチャートボーダーカラー"
+
+#: inc/crypterio/graph.php:74
+msgid "USD chart fill color"
+msgstr "USDチャートフィルカラー"
+
+#: inc/crypterio/graph.php:60
+msgid "USD price decimals number"
+msgstr "USDプライス10進数"
+
+#: woocommerce/global/form-login.php:34
+msgid "Username or email"
+msgstr "ユーザー名かメール"
+
+#: inc/post_types-config.php:46 inc/visual_composer.php:1807
+#: inc/customizer/registration.php:268 inc/customizer/registration.php:279
+msgid "Vacancies"
+msgstr "空き"
+
+#: inc/post_types-config.php:45 inc/customizer/registration.php:274
+msgid "Vacancy"
+msgstr "空き"
+
+#: inc/visual_composer.php:2701
+msgid "Vacancy Bottom"
+msgstr "空きボトム"
+
+#: inc/visual_composer.php:2482 inc/vc/modules/token_structure.php:21
+#: inc/vc/modules/token_structure.php:33
+msgid "Value"
+msgstr "値"
+
+#: inc/visual_composer.php:2406 inc/visual_composer.php:2449
+msgid "Values"
+msgstr "値"
+
+#: inc/post_types-config.php:79 inc/customizer/registration.php:996
+#: inc/customizer/registration.php:1045 inc/customizer/registration.php:1086
+msgid "VC Sidebar"
+msgstr "VC サイドバー"
+
+#: inc/post_types-config.php:80 inc/customizer/registration.php:980
+#: inc/customizer/registration.php:1029 inc/customizer/registration.php:1070
+msgid "VC Sidebars"
+msgstr "VC サイドバー"
+
+#: inc/tgm/tgm-plugin-activation.php:2461
+msgid "Version"
+msgstr "バージョン"
+
+#: inc/visual_composer.php:930
+msgid "Vertical Middle Align"
+msgstr "垂直方向の中央位置揃え"
+
+#: inc/visual_composer.php:222
+msgid "Video Height"
+msgstr "動画の高さ"
+
+#: inc/admin/product_registration/screens/support.php:67
+msgid "Video Tutorials"
+msgstr "動画のチュートリアル"
+
+#: inc/post_types-config.php:291
+msgid "Video URL (embed)"
+msgstr "動画URL（埋め込み）"
+
+#: inc/visual_composer.php:213
+msgid "Video Width"
+msgstr "動画幅"
+
+#: woocommerce/myaccount/my-orders.php:88
+msgid "View"
+msgstr "表示"
+
+#: partials/vc_parts/ico_grid/live.php:155
+#, php-format
+msgid "View all %s active ICO"
+msgstr "すべての%sアクティブなICOを表示"
+
+#: partials/vc_parts/ico_grid/finished.php:145
+#, php-format
+msgid "View all %s ended ICO"
+msgstr "すべての%s終了したICOを表示"
+
+#: partials/vc_parts/ico_grid/upcoming.php:146
+#, php-format
+msgid "View all %s upcoming ICO"
+msgstr "すべての新着%sを表示"
+
+#: vc_templates/stm_staff_list.php:141 vc_templates/stm_staff_list.php:144
+msgid "view profile"
+msgstr "プロフィールを表示"
+
+#: inc/visual_composer.php:2747 inc/visual_composer.php:2757
+msgid "View Style"
+msgstr "スタイルを表示"
+
+#: inc/visual_composer.php:1594
+msgid "Viewport Position (%)"
+msgstr "Viewportポジション(%)"
+
+#: inc/post_types-config.php:287
+msgid "Views"
+msgstr "閲覧数"
+
+#: inc/extras.php:1329 inc/customizer/registration.php:20
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/admin/product_registration/screens/support.php:90
+msgid "Visit Our Forum"
+msgstr "当社のフォーラムを見る"
+
+#: inc/admin/product_registration/screens/system_status.php:277
+msgid "Visit plugin homepage"
+msgstr "プラグインのホームページを見る"
+
+#: vc_templates/stm_partner.php:61
+msgid "visit website"
+msgstr "ウェブサイトを見る"
+
+#: inc/extras.php:1349 inc/customizer/registration.php:40
+msgid "Vk"
+msgstr "Vk"
+
+#: inc/admin/white_list/templates/i18n.php:7
+msgid "Wallet"
+msgstr "ウォレット"
+
+#: inc/vc/modules/ico_countdown.php:247
+msgid "Wallet description"
+msgstr "ウォレットの詳細"
+
+#: inc/admin/product_registration/screens/support.php:73
+msgid "Watch Videos"
+msgstr "動画を見る"
+
+#: inc/vc/modules/wave_roadmap.php:8
+msgid "Wave Roadmap"
+msgstr "ウェーブロードマップ"
+
+#: inc/admin/product_registration/screens/support.php:33
+msgid ""
+"We offer excellent support through our advanced ticket system. Make sure to "
+"register your purchase first to access our support services and other "
+"resources."
+msgstr ""
+"私たちは高度なチケットシステムを通じた優れたサポートを提供しています。 "
+"サポートサービスやその他のリソースにアクセスするには、まず初めに購入を登録してください。"
+
+#: inc/admin/product_registration/screens/support.php:70
+#, php-format
+msgid ""
+"We recommend you to watch video tutorials before you start the theme "
+"customization. Our video tutorials can teach you the different aspects of "
+"using %s."
+
+#: inc/extras.php:147 inc/visual_composer.php:2602
+#: vc_templates/stm_portfolio_information.php:43
+#: partials/ico_listing/parts/ico_date_and_image.php:43
+msgid "Website"
+msgstr "ウェブサイト"
+
+#: vc_templates/stm_crypto_charts.php:50
+msgid "week"
+msgstr "週"
+
+#: inc/extras.php:1346 inc/customizer/registration.php:38
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: inc/admin/product_registration/screens/system_status.php:36
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "WordPressのマルチサイトを有効にしているかどうか"
+
+#: inc/post_types-config.php:13
+msgid "White list"
+msgstr "ホワイトリスト"
+
+#: partials/ico_listing/parts/token_sale.php:10
+msgid "Whitelist"
+msgstr "ホワイトリスト"
+
+#: inc/crypterio/functions.php:644
+#: partials/ico_listing/parts/ico_date_and_image.php:51
+msgid "Whitepaper"
+msgstr "ホワイトペーパー"
+
+#: inc/vc/modules/ico_countdown.php:65
+msgid "Whitepaper link"
+msgstr "ホワイトペーパーリンク"
+
+#: inc/crypterio/functions.php:629
+msgid "Who cant participate"
+msgstr "参加できない人"
+
+#: inc/post_types-config.php:430
+msgid "Wide"
+msgstr "幅"
+
+#: inc/visual_composer.php:2022
+msgid "Widget"
+msgstr "ウィジェット"
+
+#: inc/crypterio/graph.php:54 inc/customizer/registration.php:88
+#: inc/customizer/registration.php:555
+msgid "Width"
+msgstr "幅"
+
+#: inc/visual_composer.php:168
+msgid "Width & Responsiveness"
+msgstr "幅＆レスポンシブネス"
+
+#: inc/visual_composer.php:2386
+msgid "Width (px)"
+msgstr "幅(px)"
+
+#: inc/admin/product_registration/screens/system_status.php:11
+#: inc/admin/product_registration/screens/system_status.php:15
+msgid "WordPress Environment"
+msgstr "WordPress環境"
+
+#: inc/tgm/tgm-plugin-activation.php:2193
+msgid "WordPress Repository"
+msgstr "WordPressリポジトリ"
+
+#: inc/customizer/registration.php:990 inc/customizer/registration.php:1039
+#: inc/customizer/registration.php:1080
+msgid "Wordpress Sidebar"
+msgstr "WordPressサイドバー"
+
+#: inc/customizer/registration.php:979 inc/customizer/registration.php:1028
+#: inc/customizer/registration.php:1069
+msgid "Wordpress Sidebars"
+msgstr "WordPressサイドバー"
+
+#: inc/post_types-config.php:61 inc/customizer/registration.php:338
+msgid "Work"
+msgstr "仕事"
+
+#: inc/post_types-config.php:62 inc/customizer/registration.php:332
+#: inc/customizer/registration.php:343
+msgid "Works"
+msgstr "仕事"
+
+#: inc/admin/product_registration/screens/system_status.php:57
+msgid "WP Debug Mode:"
+msgstr "WPデバッグモード:"
+
+#: inc/admin/product_registration/screens/system_status.php:40
+msgid "WP Memory Limit:"
+msgstr "WPメモリー制限:"
+
+#: inc/admin/product_registration/screens/system_status.php:35
+msgid "WP Multisite:"
+msgstr "WPマルチサイト:"
+
+#: inc/admin/product_registration/screens/system_status.php:30
+msgid "WP Version:"
+msgstr "WPのバージョン:"
+
+#: inc/visual_composer.php:2396
+msgid "X-axis values"
+msgstr "X軸値"
+
+#: inc/extras.php:1350 inc/customizer/registration.php:41
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/visual_composer.php:2434
+msgid "Y-axis values"
+msgstr "Y軸値"
+
+#: inc/extras.php:1336 inc/customizer/registration.php:27
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: inc/visual_composer.php:527
+msgid "Year"
+msgstr "年"
+
+#: vc_templates/stm_crypto_charts.php:58
+msgid "year"
+msgstr "年"
+
+#: inc/visual_composer.php:147 inc/visual_composer.php:158
+#: inc/visual_composer.php:742 inc/visual_composer.php:1228
+#: inc/visual_composer.php:1251 inc/visual_composer.php:1406
+#: inc/visual_composer.php:1414 inc/visual_composer.php:1422
+#: inc/visual_composer.php:1619 inc/visual_composer.php:1627
+#: inc/visual_composer.php:1665 inc/visual_composer.php:1687
+#: inc/visual_composer.php:1697 inc/visual_composer.php:1891
+#: inc/visual_composer.php:1902 inc/visual_composer.php:2372
+#: inc/visual_composer.php:2558 inc/visual_composer.php:2674
+#: inc/visual_composer.php:2805 inc/vc/modules/wave_roadmap.php:48
+msgid "Yes"
+msgstr "はい"
+
+#: partials/content-event-list-form.php:76
+msgid "You already has been joined the event."
+msgstr "既にイベントに参加しています。"
+
+#: woocommerce/myaccount/my-address.php:70
+msgid "You have not set up this type of address yet."
+msgstr "このタイプの住所をまだ設定していません。"
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr "支払いを行うにはログインしている必要があります。"
+
+#: inc/admin/product_registration/screens/startup.php:73
+msgid ""
+"You will see a green check mark for success, or a failure message if "
+"something went wrong. If it failed, please make sure you followed the steps "
+"above correctly."
+msgstr ""
+"成功すると緑のチェックマークが表示され、エラーが発生した場合にはメッセージが表示されます。失敗してしまった場合には、上記のステップに従ってください。"
+
+#: inc/extras.php:113
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは編集待ちです。"
+
+#: inc/admin/product_registration/screens/system_status.php:50
+msgid ""
+"Your current memory limit is sufficient, but if you need to import classic "
+"demo content, the required memory limit is <strong>256MB.</strong>"
+msgstr ""
+"現在のメモリー制限は十分ですが、クラシックデモコンテンツをインポートするために必要なメモリー制限は<strong>256MB</strong>です。"
+
+#: inc/crypterio/functions.php:522
+msgid "Your E-mail"
+msgstr "メール"
+
+#: inc/crypterio/functions.php:510
+msgid "Your name"
+msgstr "氏名"
+
+#: woocommerce/checkout/review-order.php:25
+msgid "your order"
+msgstr "あなたの注文"
+
+#: inc/extras.php:1343 inc/visual_composer.php:2633
+#: inc/customizer/registration.php:35
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/extras.php:1344 inc/customizer/registration.php:36
+msgid "Youtube Play"
+msgstr "Youtube再生"
+
+#: inc/admin/product_registration/screens/system_status.php:228
+msgid ""
+"ZipArchive is required for importing demos. They are used to import and "
+"export zip files specifically for sliders."
+msgstr "ZipArchiveはデモのインポートに必要です。特にスライダーに対してzipファイルのインポート、エクスポートに使用されます。"
+
+#: inc/admin/product_registration/screens/system_status.php:227
+msgid "ZipArchive:"
+msgstr "ZipArchive:"
+
+#: inc/crypterio/functions.php:628 partials/ico_listing/parts/token_sale.php:12
+msgid "Сant participate"
+msgstr "参加できない"

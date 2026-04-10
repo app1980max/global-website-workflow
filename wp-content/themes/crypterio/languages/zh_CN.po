@@ -1,0 +1,5238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Crypterio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-09 12:12+0000\n"
+"PO-Revision-Date: 2018-07-09 12:29+0000\n"
+"Language-Team: Chinese (China)\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Last-Translator: William Wallace <timur@stylemix.net>\n"
+"Language: zh_CN"
+
+#: woocommerce/loop/result-count.php:43
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid ""
+"Showing <strong>%1$d&ndash;%2$d</strong> of <strong>%3$d</strong> results"
+msgstr "显示 <strong>%1$d&ndash;%2$d</strong> 的 <strong>%3$d</strong> 结果"
+
+#: inc/admin/product_registration/screens/system_status.php:138
+#: inc/admin/product_registration/screens/system_status.php:174
+#: inc/admin/product_registration/screens/system_status.php:203
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Max input vars limitation will truncate "
+"POST data such as menus. See: <a href=\"%3$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max input vars limit.</a>"
+msgstr ""
+"%1$s - 推荐值：%2$s.<br />最大输入变量限制将删减POST数据，如菜单，请参阅：<a href=“%3$s” "
+"target=“_blank” rel=“noopener noreferrer”>增加最大输入变量限制。</a>"
+
+#: inc/admin/product_registration/screens/system_status.php:218
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Post Max Value Length limitation may "
+"prohibit the Theme Options data from being saved to your database. See: <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">Suhosin "
+"Configuration Info</a>."
+msgstr ""
+"%1$s - 推荐值：%2$s.<br />POST最大值长度限制可能会禁止将主题选项数据保存到您的数据库中。请参阅：<a href=“%3$s” "
+"target=“_blank” rel=“noopener noreferrer”>Suhosin配置信息</a>."
+
+#: inc/admin/product_registration/screens/system_status.php:106
+#, php-format
+msgid ""
+"%1$s - We recommend setting max execution time to at least 180. <br /> To "
+"import classic demo content, <strong>300</strong> seconds of max execution "
+"time is required.<br />See: <a href=\"%2$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max execution to PHP</a>"
+msgstr ""
+"%1$s - 我们推荐将最长执行时间设置为至少180。<br /> 要导入经典演示内容，最长执行时间需要<strong>300</strong>"
+"秒。<br />请参阅：<a href=“%2$s” target=“_blank” rel=“noopener noreferrer”>"
+"增加对PHP的最大执行</a>"
+
+#: inc/tgm/tgm-plugin-activation.php:2242
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/extras.php:91
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:3390
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s 已成功安装和激活。"
+
+#: inc/tgm/tgm-plugin-activation.php:3396
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s 已安装成功。"
+
+#: inc/tgm/tgm-plugin-activation.php:2519
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "启用 %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:2510
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "安装 %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:2514
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "更新 %2$s"
+
+#: inc/extras.php:405 partials/mini-cart.php:3
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] "%d"
+msgstr[1] ""
+
+#: partials/content-event-list-form.php:56
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: archive-stm_ico_listing.php:29
+#, php-format
+msgid "%s %s ICO"
+msgstr "%s %s ICO"
+
+#: inc/tgm/tgm-plugin-activation.php:1888
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: vc_templates/stm_post_slider.php:40 vc_templates/stm_post_slider.php:74
+#: partials/news/crypto-blog.php:17
+#, php-format
+msgid "%s by <strong>%s</strong>"
+msgstr "%s 通过 <strong>%s</strong>"
+
+#: inc/admin/product_registration/screens/support.php:15
+#, php-format
+msgid ""
+"%s comes with 6 months of free support for every license you purchase. "
+"Support can be extended through subscriptions via ThemeForest."
+msgstr "%s 可为您购买的每个许可证提供6个月的免费支持。过后可通过ThemeForest订购来廷长支持。"
+
+#: partials/vc_parts/ico_grid/upcoming.php:121
+#, php-format
+msgid "%s days left"
+msgstr "只剩下 %s 天"
+
+#: partials/vc_parts/ico_grid/finished.php:119
+#, php-format
+msgid "%s ended on"
+msgstr "%s 结束于"
+
+#: woocommerce/myaccount/my-orders.php:77
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s 给 %s 项目"
+msgstr[1] ""
+
+#: archive-stm_ico_listing.php:12
+#, php-format
+msgid "%s ICO"
+msgstr "%s ICO"
+
+#: partials/ico_listing/parts/market_and_returns.php:35
+#, php-format
+msgid "%s token price"
+msgstr "%s 代币价格"
+
+#: inc/visual_composer.php:2116
+msgid "(STM) Event Map"
+msgstr "(STM) 活动地图"
+
+#: partials/content-event-list-form.php:16
+msgid "* All fields are required"
+msgstr "* 所有栏目都需要"
+
+#: inc/customizer/google-fonts.php:8 inc/customizer/controls/post-type.php:15
+msgid "--- Default ---"
+msgstr "— 默认 —-"
+
+#: inc/extras.php:407 partials/mini-cart.php:5
+msgid "0"
+msgstr "0"
+
+#: inc/visual_composer.php:349
+msgid "0px"
+msgstr "0px"
+
+#: inc/customizer/registration.php:624
+msgid "1"
+msgstr "1"
+
+#: inc/crypterio/graph.php:38
+msgid "1 day"
+msgstr "1 天"
+
+#: inc/crypterio/graph.php:40
+msgid "1 month"
+msgstr "1 个月"
+
+#: inc/crypterio/graph.php:39
+msgid "1 week"
+msgstr "1 周"
+
+#: inc/crypterio/graph.php:41
+msgid "1 year"
+msgstr "1 年"
+
+#: inc/visual_composer.php:355
+msgid "10px"
+msgstr "10px"
+
+#: inc/visual_composer.php:356
+msgid "15px"
+msgstr "15px"
+
+#: inc/visual_composer.php:350
+msgid "1px"
+msgstr "1px"
+
+#: inc/customizer/registration.php:625
+msgid "2"
+msgstr "2"
+
+#: inc/visual_composer.php:357
+msgid "20px"
+msgstr "20px"
+
+#: inc/visual_composer.php:358
+msgid "25px"
+msgstr "25px"
+
+#: inc/visual_composer.php:351
+msgid "2px"
+msgstr "2px"
+
+#: inc/customizer/registration.php:626
+msgid "3"
+msgstr "3"
+
+#: inc/visual_composer.php:359
+msgid "30px"
+msgstr "30px"
+
+#: inc/visual_composer.php:360
+msgid "35px"
+msgstr "35px"
+
+#: inc/visual_composer.php:352
+msgid "3px"
+msgstr "3px"
+
+#: inc/customizer/registration.php:627
+msgid "4"
+msgstr "4"
+
+#: inc/visual_composer.php:361
+msgid "40px"
+msgstr "40px"
+
+#: inc/visual_composer.php:362
+msgid "45px"
+msgstr "45px"
+
+#: inc/visual_composer.php:353
+msgid "4px"
+msgstr "4px"
+
+#: inc/visual_composer.php:363
+msgid "50px"
+msgstr "50px"
+
+#: inc/visual_composer.php:364
+msgid "55px"
+msgstr "55px"
+
+#: inc/visual_composer.php:354
+msgid "5px"
+msgstr "5px"
+
+#: inc/visual_composer.php:365
+msgid "60px"
+msgstr "60px"
+
+#: inc/visual_composer.php:3056 inc/visual_composer.php:3062
+msgid ""
+"<a href=\"http://www.latlong.net/convert-address-to-lat-long.html\">Here is "
+"a tool</a> where you can find Latitude & Longitude of your location"
+msgstr ""
+"<a href=“http://www.latlong.net/convert-address-to-lat-long.html”>用这工具</a> "
+"可以找到您的位置的纬度和经度"
+
+#: inc/extras.php:101
+msgid "<i class=\"fa fa-reply\"></i> Reply"
+msgstr "<i class=“fa fa-reply”></i> 回复"
+
+#: inc/admin/product_registration/screens/startup.php:72
+msgid ""
+"A new page will load with a token number in a box. Copy the token number "
+"then come back to this registration page and paste it into the field below "
+"and click the <strong>Submit</strong> button."
+msgstr ""
+"一个新页面将在一个框中加载一个代币编号。复制代币编号，然后返回到此注册页面并将其粘贴到下面的栏目中，然后点击 <strong>提交</strong>按钮。"
+
+#: inc/visual_composer.php:1967
+msgid "About Author"
+msgstr "关于作者"
+
+#: inc/visual_composer.php:2688
+msgid "About Vacancy"
+msgstr "关于空缺"
+
+#: inc/crypterio/functions.php:620 partials/ico_listing/parts/token_sale.php:15
+msgid "Accepts"
+msgstr "接受"
+
+#: inc/admin/white_list/templates/i18n.php:6
+msgid "Actions"
+msgstr "行动"
+
+#: inc/tgm/tgm-plugin-activation.php:2631
+msgid "Activate"
+msgstr "启用"
+
+#: inc/crypterio/functions.php:433 inc/tgm/tgm-plugin-activation.php:2222
+msgid "Active"
+msgstr "启用的"
+
+#: taxonomy-stm_ico_listing_category.php:64 archive-stm_ico_listing.php:68
+msgid "Active ICO"
+msgstr "积极的ICO"
+
+#: inc/admin/product_registration/screens/system_status.php:250
+#: inc/admin/product_registration/screens/system_status.php:254
+msgid "Active Plugins"
+msgstr "启用的插件"
+
+#: comments.php:50
+msgid "Add a Comment"
+msgstr "添加评论"
+
+#: inc/visual_composer.php:2769
+msgid "Add Category. If not added show all category"
+msgstr "添加类别。如果未添加，则显示所有类别"
+
+#: inc/visual_composer.php:939
+msgid "Add link"
+msgstr "添加链接"
+
+#: woocommerce/single-product-reviews.php:104
+msgid "add review"
+msgstr "添加评论"
+
+#: woocommerce/checkout/form-shipping.php:64
+msgid "Additional Information"
+msgstr "附加信息"
+
+#: partials/ico_listing/parts/additional_links.php:7
+msgid "Additional links"
+msgstr "额外的链接"
+
+#: inc/customizer/registration.php:582
+msgid "Additional Widget Areas"
+msgstr "额外的小部件区城"
+
+#: inc/post_types-config.php:364 inc/visual_composer.php:626
+#: inc/visual_composer.php:3025 inc/visual_composer.php:3039
+msgid "Address"
+msgstr "地址"
+
+#: inc/widgets/contacts.php:96
+msgid "Address:"
+msgstr "地址："
+
+#: inc/visual_composer.php:169
+msgid ""
+"Adjust column for different screen sizes. Control width, offset and "
+"visibility settings."
+msgstr "调整列来适应不同的屏幕尺寸。控制宽度、偏移和可见度设置。"
+
+#: inc/admin/product_registration/screens/install_demo.php:34
+msgid "Advisor"
+msgstr "顾问"
+
+#: inc/visual_composer.php:1835
+msgid "Advisors"
+msgstr "顾问"
+
+#: inc/vc/modules/ico_countdown.php:267
+msgid "Agreement text 1"
+msgstr "协议文本1"
+
+#: inc/vc/modules/ico_countdown.php:277
+msgid "Agreement text 2"
+msgstr "协议文本2"
+
+#: inc/visual_composer.php:739
+msgid "Align Center"
+msgstr "居中对齐"
+
+#: inc/visual_composer.php:850 inc/visual_composer.php:1134
+#: inc/visual_composer.php:2660
+msgid "Alignment"
+msgstr "对齐"
+
+#: inc/visual_composer.php:439 inc/visual_composer.php:449
+#: inc/visual_composer.php:459 inc/visual_composer.php:469
+#: inc/visual_composer.php:479 inc/visual_composer.php:489
+#: vc_templates/stm_works.php:78 inc/crypterio/graph.php:42
+#: partials/ico_listing/categories.php:15
+#: inc/admin/white_list/templates/i18n.php:18
+msgid "All"
+msgstr "所有"
+
+#: vc_templates/stm_crypto_charts.php:62
+msgid "all"
+msgstr "所有"
+
+#: inc/post_types-config.php:24 inc/visual_composer.php:2005
+#: inc/customizer/registration.php:412
+msgid "All Events"
+msgstr "所有活动"
+
+#: inc/post_types-config.php:7 inc/customizer/registration.php:220
+msgid "All ICO Listings"
+msgstr "所有ICO名单"
+
+#: inc/tgm/tgm-plugin-activation.php:3391
+msgid "All installations and activations have been completed."
+msgstr "所有安装和激活都已完成。"
+
+#: inc/tgm/tgm-plugin-activation.php:3397
+msgid "All installations have been completed."
+msgstr "所有安装都已完成。"
+
+#: inc/customizer/registration.php:218 inc/customizer/registration.php:250
+#: inc/customizer/registration.php:282 inc/customizer/registration.php:314
+#: inc/customizer/registration.php:346 inc/customizer/registration.php:378
+#: inc/customizer/registration.php:410 inc/customizer/registration.php:442
+msgid "All Items"
+msgstr "所有项目"
+
+#: inc/tgm/tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有插件已成功安装并激活。%1$s"
+
+#: inc/post_types-config.php:91 inc/customizer/registration.php:444
+msgid "All Portfolio"
+msgstr "所有组合"
+
+#: inc/post_types-config.php:39 inc/customizer/registration.php:252
+msgid "All Services"
+msgstr "所有服务"
+
+#: inc/post_types-config.php:81
+msgid "All Sidebars"
+msgstr "所有侧边栏"
+
+#: inc/post_types-config.php:55 inc/customizer/registration.php:316
+msgid "All Staff"
+msgstr "全体员工"
+
+#: inc/post_types-config.php:71 inc/customizer/registration.php:380
+msgid "All Testimonials"
+msgstr "所有见证"
+
+#: inc/post_types-config.php:47 inc/customizer/registration.php:284
+msgid "All Vacancies"
+msgstr "所有空缺"
+
+#: inc/post_types-config.php:63 inc/customizer/registration.php:348
+msgid "All Works"
+msgstr "全部作品"
+
+#: inc/admin/white_list/templates/i18n.php:8
+msgid "Amount"
+msgstr "数量"
+
+#: inc/tgm/tgm-plugin-activation.php:3384
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安装时发生错误 %1$s: <strong>%2$s</strong>."
+
+#: inc/visual_composer.php:1574
+msgid "Animation"
+msgstr "动画"
+
+#: inc/visual_composer.php:1565
+msgid "Animation Block"
+msgstr "动画块"
+
+#: inc/visual_composer.php:1587
+msgid "Animation Delay (s)"
+msgstr "动画延迟（秒）"
+
+#: inc/visual_composer.php:1580
+msgid "Animation Duration (s)"
+msgstr "动画持续时间（秒）"
+
+#: woocommerce/myaccount/form-login.php:102
+msgid "Anti-spam"
+msgstr "反滥发信息"
+
+#: inc/crypterio/functions.php:347
+msgid "Application submitted"
+msgstr "已提交申请"
+
+#: woocommerce/checkout/form-coupon.php:39 woocommerce/cart/cart.php:133
+msgid "Apply Coupon"
+msgstr "使用优惠券"
+
+#: partials/content-vacancy_bottom.php:5
+msgid "apply now"
+msgstr "立即使用"
+
+#: inc/admin/white_list/templates/i18n.php:10
+msgid "Approve"
+msgstr "批准"
+
+#: inc/admin/white_list/white_list.php:113
+#: inc/admin/white_list/templates/i18n.php:11
+msgid "Approved"
+msgstr "已批准"
+
+#: inc/customizer/registration.php:960
+msgid "Archive Pages"
+msgstr "存档页面"
+
+#: inc/crypterio/functions.php:595
+msgid "Are you affiliated with the ICO?"
+msgstr "您是否与ICO保持着合作关系?"
+
+#: inc/visual_composer.php:1218
+msgid "Arrows"
+msgstr "箭头"
+
+#: inc/tgm/tgm-plugin-activation.php:2378
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "未知的"
+
+#: inc/crypterio/functions.php:654
+msgid "Attach Image (Min 760x422px)"
+msgstr "附加图像 (最小 760x422px)"
+
+#: inc/visual_composer.php:1317
+msgid "Author Image"
+msgstr "作者图像"
+
+#: inc/visual_composer.php:1322
+msgid "Author Name"
+msgstr "作者姓名"
+
+#: inc/visual_composer.php:1327
+msgid "Author Status"
+msgstr "作者身份"
+
+#: partials/content-about_author.php:8
+msgid "Author:"
+msgstr "作者："
+
+#: inc/visual_composer.php:1238 inc/visual_composer.php:1674
+msgid "Autoplay interval timeout (in ms)."
+msgstr "自动播放间隔超时（以毫秒为单位）。"
+
+#: inc/visual_composer.php:1235 inc/visual_composer.php:1671
+msgid "Autoplay Timeout"
+msgstr "自动播放超时"
+
+#: partials/ico_listing/parts/token_sale.php:9
+msgid "Available for Token Sale"
+msgstr "可供出售的代币"
+
+#: inc/crypterio/functions.php:604
+msgid "Available for token sale"
+msgstr "可供出售的代币"
+
+#: woocommerce/cart/cart.php:75
+msgid "Available on backorder"
+msgstr "延期提交可用"
+
+#: inc/tgm/tgm-plugin-activation.php:2406
+msgid "Available version:"
+msgstr "可用版本："
+
+#: inc/post_types-config.php:249
+msgid "Background - Transparent (Work only with \"Boxed Mode\")"
+msgstr "背景－透明（仅限“方框模式”）"
+
+#: inc/post_types-config.php:204 inc/post_types-config.php:275
+#: inc/customizer/registration.php:169 inc/customizer/registration.php:490
+#: inc/vc/modules/ico_countdown.php:55
+msgid "Background Image"
+msgstr "背景图"
+
+#: inc/visual_composer.php:402
+msgid "Background On hover"
+msgstr "悬停时的背景"
+
+#: inc/post_types-config.php:209 inc/customizer/registration.php:494
+msgid "Background Position"
+msgstr "背景位置"
+
+#: inc/post_types-config.php:219 inc/customizer/registration.php:502
+msgid "Background Repeat"
+msgstr "背景重复"
+
+#: inc/post_types-config.php:214 inc/customizer/registration.php:498
+msgid "Background Size"
+msgstr "背景尺寸"
+
+#: inc/visual_composer.php:2362
+msgid "Bar"
+msgstr "长条"
+
+#: inc/visual_composer.php:885 inc/visual_composer.php:986
+#: inc/visual_composer.php:1003 inc/visual_composer.php:1022
+#: inc/visual_composer.php:1335
+msgid "Base"
+msgstr "基础"
+
+#: inc/customizer/registration.php:644
+msgid "Base Font Family"
+msgstr "基本字体库"
+
+#: inc/tgm/tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "开始激活插件"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "开始安装插件"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "开始更新插件"
+msgstr[1] ""
+
+#: inc/extras.php:1331 inc/customizer/registration.php:22
+msgid "Behance"
+msgstr "Behance 平台"
+
+#: inc/visual_composer.php:319
+msgid "Between Title and Subtitle"
+msgstr "标题和字幕之间"
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "billing &amp; shipping"
+msgstr "账单; 运送"
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "billing details"
+msgstr "账单明细"
+
+#: inc/visual_composer.php:3078
+msgid "Bitcoin Price Chart Widget"
+msgstr "比特币价格图表小部件"
+
+#: inc/visual_composer.php:3068
+msgid "Bitcoin.com Widgets"
+msgstr "Bitcoin.com 小部件"
+
+#: inc/visual_composer.php:337
+msgid "Black"
+msgstr "黑色"
+
+#: inc/customizer/registration.php:1015
+msgid "Blog Ad HTML"
+msgstr "博客广告（Ad HTML）"
+
+#: inc/customizer/registration.php:640
+msgid "Body"
+msgstr "正文"
+
+#: inc/visual_composer.php:336 inc/customizer/controls/font-weight.php:24
+msgid "Bold"
+msgstr "粗体"
+
+#: inc/customizer/controls/font-weight.php:25
+msgid "Bold Italic"
+msgstr "加粗斜体"
+
+#: inc/customizer/controls/font-weight.php:16
+msgid "Book"
+msgstr "书"
+
+#: inc/customizer/controls/font-weight.php:17
+msgid "Book Italic"
+msgstr "书斜体"
+
+#: inc/post_types-config.php:258 inc/customizer/registration.php:533
+msgid "Border Top - Hide"
+msgstr "上框线 － 隐藏"
+
+#: inc/visual_composer.php:296 inc/visual_composer.php:317
+#: inc/visual_composer.php:2380
+msgid "Bottom"
+msgstr "底部"
+
+#: inc/visual_composer.php:1954
+msgid "Bottom Info"
+msgstr "底部信息"
+
+#: inc/visual_composer.php:1332
+msgid "Box Color"
+msgstr "方框的颜色"
+
+#: inc/crypterio/graph.php:92
+msgid "BTC chart border color"
+msgstr "比特币图表边框颜色"
+
+#: inc/crypterio/graph.php:86
+msgid "BTC chart fill color"
+msgstr "比特币图表填充颜色"
+
+#: inc/crypterio/graph.php:67
+msgid "BTC price decimals number"
+msgstr "比特币价格小数"
+
+#: inc/visual_composer.php:1219
+msgid "Bullets"
+msgstr "项目符号"
+
+#: inc/vc/modules/pricing_table.php:43
+msgid "Button"
+msgstr "按键"
+
+#: inc/visual_composer.php:2556
+msgid "Button for link to the archive page."
+msgstr "链接到存档页面的按钮。"
+
+#: inc/visual_composer.php:944 inc/visual_composer.php:2563
+msgid "Button link"
+msgstr "按钮链接"
+
+#: inc/crypterio/functions.php:836
+msgid "By"
+msgstr "由"
+
+#: inc/woocommerce_configuration.php:9
+msgid "by"
+msgstr "由"
+
+#: inc/admin/product_registration/screens/system_status.php:283
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr "来自 %s"
+
+#: inc/crypterio/graph.php:116
+msgid "Cache expiration in ms"
+msgstr "以毫秒计算的暖存过期"
+
+#: woocommerce/cart/shipping-calculator.php:33
+msgid "Calculate Shipping"
+msgstr "计算运费"
+
+#: woocommerce/myaccount/my-orders.php:92
+msgid "Cancel"
+msgstr "取消"
+
+#: inc/customizer/controls/text-transform.php:12
+msgid "Capitalize"
+msgstr "大写"
+
+#: inc/crypterio/functions.php:242 inc/crypterio/functions.php:684
+msgid "CAPTCHA verification failed."
+msgstr "CAPTCHA验证失败。"
+
+#: woocommerce/single-product.php:37 woocommerce/archive-product.php:38
+#: partials/title_box.php:39 partials/title_box.php:40
+msgid "Careers"
+msgstr "职业"
+
+#: inc/visual_composer.php:1230 inc/visual_composer.php:1243
+#: inc/visual_composer.php:1253 inc/visual_composer.php:1261
+#: inc/visual_composer.php:1657 inc/visual_composer.php:1667
+#: inc/visual_composer.php:1679 inc/visual_composer.php:1689
+#: inc/visual_composer.php:1703 inc/visual_composer.php:1710
+#: inc/visual_composer.php:1718 inc/visual_composer.php:1726
+#: inc/visual_composer.php:1734 inc/visual_composer.php:1742
+#: inc/visual_composer.php:1833
+msgid "Carousel"
+msgstr "轮播"
+
+#: inc/visual_composer.php:1889
+msgid "Carousel - Show Arrows"
+msgstr "轮播 － 显示箭头"
+
+#: inc/visual_composer.php:1403
+msgid "Carousel autoplay"
+msgstr "轮播自动播放"
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart Totals"
+msgstr "购物车总计"
+
+#: inc/post_types-config.php:134 inc/post_types-config.php:135
+#: inc/post_types-config.php:136 inc/post_types-config.php:137
+#: inc/post_types-config.php:138 inc/post_types-config.php:139
+#: inc/post_types-config.php:140
+msgid "Categories"
+msgstr "类别"
+
+#: inc/visual_composer.php:1209 inc/visual_composer.php:1373
+#: inc/visual_composer.php:1447 inc/visual_composer.php:1822
+#: inc/visual_composer.php:2010 inc/visual_composer.php:2330
+#: inc/visual_composer.php:2512
+msgid "Category"
+msgstr "类别"
+
+#: partials/content-post_details.php:11 partials/content-loop_list.php:12
+#: woocommerce/single-product/meta.php:35
+msgid "Category:"
+msgstr "类别："
+
+#: inc/visual_composer.php:844 inc/visual_composer.php:855
+#: inc/visual_composer.php:1139 inc/visual_composer.php:2665
+msgid "Center"
+msgstr "居中"
+
+#: inc/visual_composer.php:1624
+msgid "Centered Items"
+msgstr "居中物品"
+
+#: inc/visual_composer.php:2351
+msgid "Charts"
+msgstr "图表"
+
+#: inc/visual_composer.php:2892
+msgid "Check taxonomy to show posts"
+msgstr "检查分类法来显示帖子"
+
+#: inc/visual_composer.php:2363
+msgid "Circle"
+msgstr "圈"
+
+#: woocommerce/cart/shipping-calculator.php:85
+msgid "City"
+msgstr "城市"
+
+#: inc/visual_composer.php:2020
+msgid "Classic"
+msgstr "经典"
+
+#: inc/visual_composer.php:392
+msgid "Classic Black"
+msgstr "经典黑色"
+
+#: inc/visual_composer.php:387
+msgid "Classic Blue"
+msgstr "经典蓝色"
+
+#: inc/visual_composer.php:389
+msgid "Classic Green"
+msgstr "经典绿色"
+
+#: inc/visual_composer.php:386
+msgid "Classic Grey"
+msgstr "经典灰色"
+
+#: inc/visual_composer.php:385
+msgid "Classic Link"
+msgstr "经典链接"
+
+#: inc/visual_composer.php:390
+msgid "Classic Orange"
+msgstr "经典橙色"
+
+#: inc/visual_composer.php:391
+msgid "Classic Red"
+msgstr "经典红色"
+
+#: inc/visual_composer.php:388
+msgid "Classic Turquoise"
+msgstr "经典绿松石色"
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Click here to enter your code"
+msgstr "点出此处输入您的代码"
+
+#: woocommerce/checkout/form-login.php:27
+msgid "Click here to login"
+msgstr "点出此处登入"
+
+#: inc/admin/product_registration/screens/startup.php:70
+#, php-format
+msgid ""
+"Click on this <a href=\"%s\" target=\"_blank\">Generate A Personal Token</a> "
+"link. <strong>IMPORTANT:</strong> You must be logged into the same "
+"Themeforest account that purchased %s. If you are logged in already, look in "
+"the top menu bar to ensure it is the right account. If you are not logged in,"
+" you will be directed to login then directed back to the Create A Token Page."
+msgstr ""
+"点出此处 <a href=“%s” target=“_blank”>生成个人代币</a> 链接。<strong>重要提示：</strong> "
+"您必须登入到所购买的同一个Themeforest账户 %s. "
+"如果您已经登入，请查看顶部菜单栏以确保账户正确无误。如果您未登入，您将被定向登入，然后返回到生成代币页面。"
+
+#: inc/visual_composer.php:2584 vc_templates/stm_portfolio_information.php:25
+msgid "Client"
+msgstr "客户"
+
+#: inc/visual_composer.php:1551
+msgid "Code"
+msgstr "代码"
+
+#: partials/vc_parts/ico_list/style_1.php:32
+msgid "Collected:"
+msgstr "收集："
+
+#: inc/visual_composer.php:376 inc/visual_composer.php:1162
+#: inc/visual_composer.php:2439 inc/visual_composer.php:2487
+#: inc/vc/modules/token_structure.php:27 inc/vc/modules/token_structure.php:43
+msgid "Color"
+msgstr "颜色"
+
+#: inc/visual_composer.php:2814
+msgid "Cols"
+msgstr "列"
+
+#: comments.php:28
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: inc/visual_composer.php:1980
+msgid "Comments"
+msgstr "评论"
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: inc/admin/product_registration/screens/support.php:84
+msgid "Community Forum"
+msgstr "社区论坛"
+
+#: inc/post_types-config.php:271 inc/post_types-config.php:413
+msgid "Company"
+msgstr "公司"
+
+#: inc/visual_composer.php:498
+msgid "Company History"
+msgstr "公司历史"
+
+#: inc/post_types-config.php:312
+msgid "Compensation"
+msgstr "赔偿"
+
+#: partials/content-about_vacancy.php:41
+msgid "Compensation:"
+msgstr "赔偿："
+
+#: inc/visual_composer.php:1471 inc/widgets/contacts.php:71
+msgid "Contact"
+msgstr "联系"
+
+#: partials/content-staff_bottom.php:2
+msgid "contact details"
+msgstr "详细联系信息"
+
+#: inc/post_types-config.php:398
+msgid "Contact Info"
+msgstr "联系信息"
+
+#: inc/post_types-config.php:316
+msgid "Contact Us Link"
+msgstr "联系我们链线"
+
+#. Base ID
+#: inc/visual_composer.php:602 inc/widgets/contacts.php:11
+msgid "Contacts"
+msgstr "联系"
+
+#: inc/widgets/contacts.php:12
+msgid "Contacts widget"
+msgstr "联系人小部件"
+
+#: inc/visual_composer.php:2887 inc/vc/modules/news.php:13
+#: inc/vc/modules/wave_roadmap.php:12 inc/vc/modules/cryptoticker.php:13
+#: inc/vc/modules/news_list.php:13 inc/vc/modules/token_structure.php:12
+#: inc/vc/modules/post_slider.php:13 inc/vc/modules/ratings.php:13
+#: inc/vc/modules/news_carousel.php:13 inc/vc/modules/news_widget.php:13
+#: inc/vc/modules/services_grid.php:13 inc/vc/modules/cryptowidget.php:13
+#: inc/vc/modules/panel_box.php:13 inc/vc/modules/pricing_table.php:13
+msgid "Content"
+msgstr "内容"
+
+#: inc/customizer/registration.php:528
+msgid "Content Background - Transparent"
+msgstr "内容背景 － 透明"
+
+#: inc/post_types-config.php:245
+msgid "Content Options"
+msgstr "内容选择"
+
+#: inc/vc/modules/ico_countdown.php:24
+msgid "Contract"
+msgstr "合约"
+
+#: inc/vc/modules/ico_countdown.php:186
+msgid "Contract address"
+msgstr "合约地址"
+
+#: partials/vc_parts/ico_countdown/custom.php:235
+msgid "Copy address"
+msgstr "复制地址"
+
+#: inc/customizer/registration.php:602
+msgid "Copyright"
+msgstr "版权"
+
+#: footer.php:21 inc/customizer/registration.php:603
+#: inc/customizer/registration.php:604
+msgid ""
+"Copyright &copy; 2012-2017 crypterio Theme by <a href='https://themeforest."
+"net/item/crypterio-business-finance-wordpress-theme/14740561' "
+"target='_blank'>Stylemix Themes</a>. All rights reserved"
+msgstr ""
+"版权所有 2012-2017 crypterio Theme by <a href=‘https://themeforest."
+"net/item/crypterio-business-finance-wordpress-theme/14740561' "
+"target=‘_blank’>Stylemix Themes</a>。保留所有权利"
+
+#: inc/admin/product_registration/screens/install_demo.php:37
+msgid "Corporate"
+msgstr "企业"
+
+#: inc/post_types-config.php:444
+msgid "Cost"
+msgstr "成本"
+
+#: inc/admin/product_registration/screens/install_demo.php:40
+msgid "Counselor"
+msgstr "顾问"
+
+#: inc/visual_composer.php:1182 inc/visual_composer.php:1379
+#: inc/visual_composer.php:1453 inc/visual_composer.php:1867
+#: inc/visual_composer.php:2783 inc/visual_composer.php:2791
+msgid "Count"
+msgstr "计数"
+
+#: inc/visual_composer.php:2282 inc/vc/modules/ico_countdown.php:39
+msgid "Count to date"
+msgstr "计数到目前为止"
+
+#: inc/visual_composer.php:2275
+msgid "Countdown"
+msgstr "倒数"
+
+#: inc/visual_composer.php:1103
+msgid "Counter Value"
+msgstr "计数器值"
+
+#: inc/visual_composer.php:1109
+msgid "Counter Value Prefix"
+msgstr "计数器值前缀"
+
+#: inc/visual_composer.php:1115
+msgid "Counter Value Suffix"
+msgstr "计数器值后缀"
+
+#: inc/crypterio/functions.php:162 inc/admin/white_list/templates/i18n.php:20
+msgid "Country"
+msgstr "国家"
+
+#: partials/vc_parts/ico_countdown/contract.php:204
+msgid "Country of Citizenship"
+msgstr "国籍"
+
+#: woocommerce/checkout/form-coupon.php:35 woocommerce/cart/cart.php:133
+msgid "Coupon code"
+msgstr "优惠券代码"
+
+#: inc/admin/product_registration/screens/support.php:16
+msgid "Create A Support Account"
+msgstr "创建一个支持账户"
+
+#: woocommerce/checkout/form-billing.php:70
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr "通过输入以下信息创建一个账户。如果您是现有客户，请在页面顶部登入。"
+
+#: woocommerce/checkout/form-billing.php:59
+msgid "Create an account?"
+msgstr "创建一个账户？"
+
+#: inc/admin/product_registration/screens/install_demo.php:22
+msgid "Creative ICO"
+msgstr "创意的ICO"
+
+#. Name of the theme
+#: inc/admin/product_registration/includes/admin_screens.php:24
+#: inc/admin/product_registration/includes/admin_screens.php:75
+#: inc/admin/product_registration/screens/install_demo.php:31
+msgid "Crypterio"
+msgstr "Crypterio"
+
+#: inc/vc/modules/news_carousel.php:8
+msgid "Crypterio News Carousel"
+msgstr "Crypterio 新闻轮播"
+
+#: inc/vc/modules/news.php:8
+msgid "Crypterio News Grid"
+msgstr "Crypterio 新闻栅格"
+
+#: inc/vc/modules/news_list.php:8
+msgid "Crypterio News List"
+msgstr "Crypterio 新闻列表"
+
+#: inc/vc/modules/news_widget.php:8
+msgid "Crypterio News Widget"
+msgstr "Crypterio 新闻小部件"
+
+#: inc/vc/modules/post_slider.php:8
+msgid "Crypterio Post Slider"
+msgstr "Crypterio 帖子滑块"
+
+#: inc/vc/modules/pricing_table.php:8
+msgid "Crypterio Pricing Tables"
+msgstr "Crypterio 价格表"
+
+#: inc/vc/modules/cryptoticker.php:8
+msgid "Crypterio Ticker"
+msgstr "Crypterio 交易代码"
+
+#: inc/visual_composer.php:2882
+msgid "Crypterio Timeline"
+msgstr "Crypterio 时间表"
+
+#: inc/vc/modules/cryptowidget.php:8
+msgid "Crypterio Widget"
+msgstr "Crypterio 小部件"
+
+#. Description of the theme
+msgid ""
+"Crypterio – theme for ICO Consulting, Bitcoin and Cryptocurrency experts and "
+"advisors.  Launch your consulting project featured by ICO landing page "
+"template, online cryptocurrency exchange rates, as well as special pages for "
+"services and cases."
+msgstr ""
+"Crypterio－ICO（首次代币发售）咨询、比特币与加密货币专家和顾问的主题。 "
+"以ICO登陆页面模版的特色来启动您的咨询项目，在线加密货币汇率，以及针对服务和案例特殊面页。"
+
+#: inc/admin/product_registration/screens/install_demo.php:25
+msgid "Crypto Blog"
+msgstr "加密博客"
+
+#: inc/vc/modules/cryptoticker.php:11
+msgid "Crypto Ticker"
+msgstr "加密交易代码"
+
+#: inc/vc/modules/cryptowidget.php:11
+msgid "Crypto Widget"
+msgstr "加密小部件"
+
+#: inc/customizer/registration.php:50 inc/customizer/registration.php:192
+msgid "Cryptocurrencies"
+msgstr "加密货币"
+
+#: inc/crypterio/graph.php:15
+msgid "Cryptocurrency charts"
+msgstr "加密货币图表"
+
+#: inc/crypterio/converter.php:15
+msgid "Cryptocurrency converter"
+msgstr "加密货币转换器"
+
+#: inc/visual_composer.php:135 inc/visual_composer.php:185
+#: inc/visual_composer.php:267 inc/visual_composer.php:511
+#: inc/visual_composer.php:594 inc/visual_composer.php:704
+#: inc/visual_composer.php:800 inc/visual_composer.php:1076
+#: inc/visual_composer.php:1144 inc/visual_composer.php:1266
+#: inc/visual_composer.php:1349 inc/visual_composer.php:1432
+#: inc/visual_composer.php:1462 inc/visual_composer.php:1529
+#: inc/visual_composer.php:1557 inc/visual_composer.php:1746
+#: inc/visual_composer.php:1790 inc/visual_composer.php:1813
+#: inc/visual_composer.php:1926 inc/visual_composer.php:1947
+#: inc/visual_composer.php:1960 inc/visual_composer.php:1973
+#: inc/visual_composer.php:1986 inc/visual_composer.php:2078
+#: inc/visual_composer.php:2093 inc/visual_composer.php:2108
+#: inc/visual_composer.php:2135 inc/visual_composer.php:2175
+#: inc/visual_composer.php:2298 inc/visual_composer.php:2343
+#: inc/visual_composer.php:2497 inc/visual_composer.php:2529
+#: inc/visual_composer.php:2569 inc/visual_composer.php:2680
+#: inc/visual_composer.php:2694 inc/visual_composer.php:2707
+#: inc/visual_composer.php:2720 inc/visual_composer.php:2834
+#: inc/visual_composer.php:2865 inc/visual_composer.php:2950
+#: inc/visual_composer.php:3017 inc/crypterio/graph.php:110
+#: inc/vc/modules/news.php:34 inc/vc/modules/wave_roadmap.php:56
+#: inc/vc/modules/cryptoticker.php:19 inc/vc/modules/news_list.php:34
+#: inc/vc/modules/ico_countdown.php:291 inc/vc/modules/token_structure.php:51
+#: inc/vc/modules/post_slider.php:34 inc/vc/modules/ratings.php:41
+#: inc/vc/modules/news_carousel.php:51 inc/vc/modules/news_widget.php:51
+#: inc/vc/modules/services_grid.php:24 inc/vc/modules/cryptowidget.php:19
+#: inc/vc/modules/panel_box.php:48 inc/vc/modules/pricing_table.php:59
+msgid "Css"
+msgstr "Css"
+
+#: inc/admin/product_registration/screens/system_status.php:110
+msgid ""
+"Current time limit is sufficient, but if you need import demo content, the "
+"required time is <strong>300</strong>."
+msgstr "目前的时间限制已足够，但如果您需要导入演示内容，则所需时间为<strong>300</strong>."
+
+#: inc/visual_composer.php:888 inc/visual_composer.php:989
+#: inc/visual_composer.php:1006 inc/visual_composer.php:1025
+#: inc/visual_composer.php:1338 inc/vc/modules/ico_countdown.php:23
+msgid "Custom"
+msgstr "自定义"
+
+#: inc/customizer/registration.php:139
+msgid "Custom Base Color"
+msgstr "自定义底色"
+
+#: inc/customizer/registration.php:180
+msgid "Custom Bg Image"
+msgstr "自定义背景图像"
+
+#: inc/customizer/registration.php:129
+msgid "Custom Colors"
+msgstr "自定义颜色"
+
+#: inc/customizer/registration.php:1169
+msgid "Custom CSS"
+msgstr "自定义CCS"
+
+#: inc/visual_composer.php:1914 inc/visual_composer.php:1922
+msgid "Custom link"
+msgstr "自定义链接"
+
+#: inc/visual_composer.php:1900
+msgid "Custom link in list"
+msgstr "自定义列表中的链接"
+
+#: inc/visual_composer.php:1632
+msgid "Custom links"
+msgstr "自定义链接"
+
+#: inc/customizer/registration.php:144
+msgid "Custom Secondary Color"
+msgstr "自定义第二种颜色"
+
+#: inc/customizer/registration.php:149
+msgid "Custom Third Color"
+msgstr "自定义第三种颜色"
+
+#: inc/visual_composer.php:3087
+msgid "Dark"
+msgstr "深色"
+
+#: inc/visual_composer.php:2209 inc/visual_composer.php:2590
+#: vc_templates/stm_vacancies.php:22
+#: vc_templates/stm_portfolio_information.php:31
+#: woocommerce/myaccount/my-orders.php:26 inc/vc/modules/wave_roadmap.php:21
+#: inc/vc/modules/wave_roadmap.php:34 inc/vc/modules/news_carousel.php:43
+#: inc/vc/modules/news_widget.php:43
+msgid "Date"
+msgstr "日期"
+
+#: inc/visual_composer.php:2153
+msgid "Date Format"
+msgstr "日期格式"
+
+#: vc_templates/stm_crypto_charts.php:46
+msgid "day"
+msgstr "天"
+
+#: partials/vc_parts/ico_countdown/custom.php:52
+#: partials/vc_parts/ico_countdown/contract.php:90
+msgid "Days"
+msgstr "天"
+
+#: partials/vc_parts/ico_grid/live.php:93
+msgid "Days left"
+msgstr "剩余日數"
+
+#: inc/crypterio/functions.php:349
+#, php-format
+msgid ""
+"Dear, %s Your Application has been successfully submitted. <br/> We will "
+"contact you once Main ICO has been started."
+msgstr "亲爱的%s，您的申请已经成功提交。一旦主要的 ICO 已经开始，我们将与您联系。"
+
+#: inc/admin/white_list/templates/i18n.php:12
+msgid "Decline"
+msgstr "拒绝"
+
+#: inc/admin/white_list/white_list.php:110
+#: inc/admin/white_list/templates/i18n.php:13
+msgid "Declined"
+msgstr "已被拒绝"
+
+#: inc/post_types-config.php:429 inc/visual_composer.php:81
+#: inc/visual_composer.php:985 inc/visual_composer.php:1843
+#: inc/customizer/registration.php:128
+msgid "Default"
+msgstr "默认"
+
+#: inc/crypterio/graph.php:35
+msgid "Default period"
+msgstr "默认周期"
+
+#: inc/customizer/registration.php:66
+msgid "Default Settings"
+msgstr "默认设置"
+
+#: inc/admin/product_registration/screens/system_status.php:212
+msgid ""
+"Defines the maximum length of a variable that is registered through a POST "
+"request."
+msgstr "定义通过POST请求来注册的变量的最大长度。"
+
+#: inc/visual_composer.php:1590
+msgid "Delays the animation effect for seconds you enter above."
+msgstr "将动画效果按照您输入的秒数进行延迟。"
+
+#: inc/extras.php:1337 inc/customizer/registration.php:28
+msgid "Delicious"
+msgstr "美味的"
+
+#: inc/admin/product_registration/screens/install_demo.php:106
+msgid "Demo content"
+msgstr "演示内容"
+
+#: inc/admin/product_registration/includes/admin_screens.php:45
+#: inc/admin/product_registration/includes/admin_screens.php:46
+msgid "Demo import"
+msgstr "演示导入"
+
+#: inc/admin/product_registration/screens/install_demo.php:80
+msgid "Demo Installation"
+msgstr "演示安装"
+
+#: inc/post_types-config.php:300 inc/post_types-config.php:360
+#: vc_templates/stm_vacancies.php:21
+msgid "Department"
+msgstr "部"
+
+#: partials/content-about_vacancy.php:8
+msgid "Department:"
+msgstr "部："
+
+#: inc/visual_composer.php:537 inc/visual_composer.php:584
+#: inc/visual_composer.php:1121 inc/visual_composer.php:2252
+#: inc/visual_composer.php:2288 inc/crypterio/functions.php:640
+#: inc/vc/modules/wave_roadmap.php:25 inc/vc/modules/wave_roadmap.php:39
+msgid "Description"
+msgstr "描述"
+
+#: inc/visual_composer.php:2358
+msgid "Design"
+msgstr "设计"
+
+#: inc/visual_composer.php:2177
+msgid "Design Options"
+msgstr "设计选项"
+
+#: inc/visual_composer.php:137 inc/visual_composer.php:187
+#: inc/visual_composer.php:269 inc/visual_composer.php:513
+#: inc/visual_composer.php:596 inc/visual_composer.php:706
+#: inc/visual_composer.php:802 inc/visual_composer.php:1078
+#: inc/visual_composer.php:1146 inc/visual_composer.php:1268
+#: inc/visual_composer.php:1351 inc/visual_composer.php:1434
+#: inc/visual_composer.php:1464 inc/visual_composer.php:1531
+#: inc/visual_composer.php:1559 inc/visual_composer.php:1748
+#: inc/visual_composer.php:1792 inc/visual_composer.php:1928
+#: inc/visual_composer.php:2080 inc/visual_composer.php:2095
+#: inc/visual_composer.php:2110 inc/visual_composer.php:2137
+#: inc/visual_composer.php:2300 inc/visual_composer.php:2345
+#: inc/visual_composer.php:2499 inc/visual_composer.php:2531
+#: inc/visual_composer.php:2571 inc/visual_composer.php:2682
+#: inc/visual_composer.php:2836 inc/visual_composer.php:2867
+#: inc/visual_composer.php:2952 inc/visual_composer.php:3019
+#: inc/crypterio/graph.php:112 inc/vc/modules/news.php:36
+#: inc/vc/modules/wave_roadmap.php:58 inc/vc/modules/cryptoticker.php:21
+#: inc/vc/modules/news_list.php:36 inc/vc/modules/ico_countdown.php:293
+#: inc/vc/modules/token_structure.php:53 inc/vc/modules/post_slider.php:36
+#: inc/vc/modules/ratings.php:43 inc/vc/modules/news_carousel.php:53
+#: inc/vc/modules/news_widget.php:53 inc/vc/modules/services_grid.php:26
+#: inc/vc/modules/cryptowidget.php:21 inc/vc/modules/panel_box.php:50
+#: inc/vc/modules/pricing_table.php:61
+msgid "Design options"
+msgstr "设计选项"
+
+#: inc/visual_composer.php:1941 inc/admin/white_list/templates/i18n.php:5
+msgid "Details"
+msgstr "细节"
+
+#: inc/extras.php:1083 inc/visual_composer.php:93 inc/visual_composer.php:253
+#: inc/customizer/registration.php:586
+msgid "Disable"
+msgstr "禁用"
+
+#: inc/post_types-config.php:235 inc/customizer/registration.php:518
+msgid "Disable Breadcrumbs"
+msgstr "禁用面包屑导航"
+
+#: inc/visual_composer.php:1411
+msgid "Disable Carousel"
+msgstr "禁用轮播"
+
+#: inc/visual_composer.php:3000
+msgid "Disable map zoom on mouse wheel scroll"
+msgstr "禁用鼠标滚轮上的地图缩放"
+
+#: inc/visual_composer.php:1779
+msgid "Disable Preview Image"
+msgstr "禁用预览图像"
+
+#: inc/post_types-config.php:230 inc/customizer/registration.php:513
+msgid "Disable Title"
+msgstr "禁用标题"
+
+#: inc/post_types-config.php:179 inc/customizer/registration.php:472
+msgid "Disable Title Box"
+msgstr "禁用标题框"
+
+#: inc/tgm/tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "关闭此通知"
+
+#: inc/admin/product_registration/screens/system_status.php:58
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "显示WordPress是否处于调试模式。"
+
+#: inc/admin/white_list/templates/i18n.php:17
+msgid "Doc2"
+msgstr "Doc2"
+
+#: inc/admin/white_list/templates/i18n.php:16
+msgid "Document"
+msgstr "文件"
+
+#: inc/admin/product_registration/screens/support.php:47
+msgid "Documentation"
+msgstr "文档"
+
+#: inc/admin/white_list/templates/i18n.php:9
+msgid "Documents"
+msgstr "文件"
+
+#: vc_templates/stm_countdown.php:55
+msgid "Download now"
+msgstr "立即下载"
+
+#: inc/extras.php:1332 inc/customizer/registration.php:23
+msgid "Dribbble"
+msgstr "Dribbble 网"
+
+#: inc/extras.php:1338 inc/customizer/registration.php:29
+msgid "Dropbox"
+msgstr "Dropbox 网"
+
+#: inc/visual_composer.php:1128
+msgid "Duration"
+msgstr "持续时间"
+
+#: inc/extras.php:142
+msgid "E-mail"
+msgstr "电子邮件"
+
+#: inc/extras.php:106
+msgid "Edit"
+msgstr "编辑"
+
+#: woocommerce/myaccount/my-address.php:51
+msgid "edit"
+msgstr "编辑"
+
+#: inc/post_types-config.php:308
+msgid "Education"
+msgstr "教育"
+
+#: partials/content-about_vacancy.php:30
+msgid "Education:"
+msgstr "教育："
+
+#: inc/post_types-config.php:376 inc/post_types-config.php:405
+#: inc/visual_composer.php:656 inc/visual_composer.php:1519
+#: inc/visual_composer.php:3049 inc/crypterio/functions.php:138
+#: inc/admin/white_list/templates/i18n.php:4
+msgid "Email"
+msgstr "电子邮件"
+
+#: inc/widgets/contacts.php:108
+msgid "Email:"
+msgstr "电子邮件："
+
+#: vc_templates/stm_contact.php:48
+msgid "Email: "
+msgstr "电子邮件: "
+
+#: inc/extras.php:1084 inc/visual_composer.php:94 inc/visual_composer.php:254
+msgid "Enable"
+msgstr "启用"
+
+#: inc/visual_composer.php:1226 inc/visual_composer.php:1663
+msgid "Enable autoplay mode."
+msgstr "启用自动播放模式。"
+
+#: inc/customizer/registration.php:159
+msgid "Enable Boxed Layout"
+msgstr "启用方框布局"
+
+#: inc/visual_composer.php:2802
+msgid "Enable different grid tiles"
+msgstr "启用不同的栅格图块"
+
+#: inc/extras.php:1080
+msgid "Enable fullwidth"
+msgstr "启用全宽"
+
+#: inc/post_types-config.php:240 inc/customizer/registration.php:523
+msgid "Enable Header Transparent"
+msgstr "启用标头透明"
+
+#: inc/visual_composer.php:912
+msgid "Enable Hexagon"
+msgstr "启用六角形"
+
+#: inc/visual_composer.php:921
+msgid "Enable Hexagon Hover Animation"
+msgstr "启用六角形悬停动画"
+
+#: inc/visual_composer.php:1616
+msgid "Enable Opacity"
+msgstr "启用不透明度"
+
+#: inc/customizer/registration.php:164
+msgid "Enable Preloader"
+msgstr "启用预载画面"
+
+#: inc/visual_composer.php:1695
+msgid "Enable previous and next arrows."
+msgstr "启用上一个和下一个箭头。"
+
+#: inc/visual_composer.php:1249 inc/visual_composer.php:1685
+msgid "Enable slider loop mode."
+msgstr "启用滑块循环模式。"
+
+#: inc/post_types-config.php:184 inc/customizer/registration.php:477
+msgid "Enable Transparent"
+msgstr "启用透明"
+
+#: inc/visual_composer.php:90
+msgid "Enable wave pulse"
+msgstr "启用波形脉冲"
+
+#: inc/vc/modules/panel_box.php:42
+msgid "End Color"
+msgstr "结束颜色"
+
+#: inc/crypterio/functions.php:435
+msgid "Ended"
+msgstr "截至"
+
+#: taxonomy-stm_ico_listing_category.php:68 archive-stm_ico_listing.php:72
+msgid "Ended ICO"
+msgstr "结束了的ICO"
+
+#: inc/admin/product_registration/screens/startup.php:71
+msgid ""
+"Enter a name for your token, then check the boxes for <strong>View Your "
+"Envato Account Username, Download Your Purchased Items, Verify Purchases "
+"You've Made</strong> and <strong>List Purchases You've Made</strong> from "
+"the permissions needed section. Check the box to agree to the terms and "
+"conditions, then click the <strong>Create Token button</strong>"
+msgstr ""
+"为您的代币输入一个名称，然后勾选 <strong>查看您的Envato账户用户名，下载您购买的项目，验证您所进行的购买</strong>"
+"并且从所需权限部<strong>分列出您已进行的购买</strong>。勾选该框来同意条款和条件，然后点出<strong>生成代币按钮</strong>"
+
+#: inc/customizer/registration.php:198
+msgid "Enter cryptocurrency name"
+msgstr "输入加密货币名称"
+
+#: inc/crypterio/functions.php:579
+msgid "Enter Facebook account"
+msgstr ""
+
+#: inc/visual_composer.php:870
+msgid "Enter font size in px"
+msgstr "输入字体大小（使用px）"
+
+#: inc/crypterio/functions.php:592
+msgid "Enter Github account"
+msgstr "輸入 Github 账户"
+
+#: inc/customizer/registration.php:1122
+msgid ""
+"Enter here the secret api key you have created on Google APIs. You can "
+"enable MAP API in Google APIs > Google Maps APIs > Google Maps JavaScript "
+"API."
+msgstr ""
+"在此输入您在Google APIs上创建的api密钥。您可以在 Google APIs > Google Maps APIs > Google Maps "
+"JavaScript API 中启用 MAP API。"
+
+#: inc/crypterio/functions.php:641
+msgid "Enter ICO description"
+msgstr ""
+
+#: inc/crypterio/functions.php:528
+msgid "Enter ICO name"
+msgstr "輸入ICO 名称"
+
+#: inc/crypterio/functions.php:558
+msgid "Enter ICO Website Url"
+msgstr "輸入 ICO 网站网址"
+
+#: inc/visual_composer.php:1040
+msgid "Enter icon height in px"
+msgstr "输入图标高度（使用px）"
+
+#: inc/visual_composer.php:772
+msgid "Enter icon size in \"px\""
+msgstr "输入图标大小（使用px）"
+
+#: inc/visual_composer.php:971
+msgid "Enter icon size in px"
+msgstr "输入图标大小（使用px）"
+
+#: inc/visual_composer.php:1051
+msgid "Enter icon width in px"
+msgstr "输入图标宽度（使用px）"
+
+#: inc/visual_composer.php:1062
+msgid "Enter icon wrapper width in px"
+msgstr "输入图标包装宽度（使用px）"
+
+#: inc/visual_composer.php:2945
+msgid "Enter image size in pixels: 200x100 (Width x Height)."
+msgstr "输入图像像素大小：200x100 (宽 x 高)。"
+
+#: inc/visual_composer.php:580 inc/visual_composer.php:1498
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"default\" size."
+msgstr ""
+"输入图像大小。例如：“缩略图”，“中等”，“大”，“全尺寸”或根据当前主题定义的其他大小。或者，以输入图像像素大小：200x100 (宽 x 高)"
+"。留空则使用“默认”大小。"
+
+#: inc/visual_composer.php:242
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"projects_gallery\" "
+"size."
+msgstr ""
+"输入图像大小。例如：“缩略图”，“中等”，“大”，“全尺寸”或根据当前主题定义的其他大小。或者，以输入图像像素大小：200x100 (宽 x 高)"
+"。留空则使用“项目库”大小。"
+
+#: inc/visual_composer.php:1786
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use default size."
+msgstr ""
+"输入图像大小。例如：“缩略图”，“中等”，“大”，“全尺寸”或根据当前主题定义的其他大小。或者，以输入图像像素大小：200x100 (宽 x 高)"
+"。留空则使用默认大小。"
+
+#: inc/visual_composer.php:1641 inc/visual_composer.php:2056
+#: inc/visual_composer.php:2339 inc/visual_composer.php:2829
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use default size."
+msgstr ""
+"输入图像大小。例如：缩略图，中等，大，全尺寸或根据当前主题定义的其他大小。或者，以输入图像像素大小：200x100 (宽 x 高)。留空则使用默认大小。"
+
+#: inc/visual_composer.php:877 inc/visual_composer.php:977
+msgid "Enter line-height in px"
+msgstr "输入行高（使用px）"
+
+#: inc/visual_composer.php:1634
+msgid ""
+"Enter links for each slide (Note: divide links with linebreaks (Enter))."
+msgstr "输入每张图文展示片的链接（注意：用换行符（输入键）分隔链接）。"
+
+#: inc/visual_composer.php:2125 inc/visual_composer.php:2131
+#: inc/visual_composer.php:2983
+msgid "Enter map height in px"
+msgstr "输入地图高度（使用px）"
+
+#: inc/crypterio/functions.php:613
+msgid "Enter Min/Max Personal Cap"
+msgstr "輸入最小/最大个人上限"
+
+#: inc/crypterio/functions.php:633
+msgid "Enter Number of team Members"
+msgstr "輸入团队成员的数量"
+
+#: inc/visual_composer.php:1387
+msgid "Enter photo size 350x250"
+msgstr "输入照片尺寸 350x250"
+
+#: inc/crypterio/functions.php:637
+msgid "Enter Prototype name"
+msgstr "輸入原型名称"
+
+#: inc/crypterio/functions.php:569
+msgid "Enter Telegram group URL"
+msgstr "輸入电报群组网址"
+
+#: inc/crypterio/functions.php:601
+msgid "Enter Ticker"
+msgstr "輸入交易代码"
+
+#: inc/visual_composer.php:2429 inc/visual_composer.php:2477
+msgid "Enter title for chart dataset."
+msgstr "输入图表数据集的标题。"
+
+#: inc/crypterio/functions.php:625
+msgid "Enter token issue"
+msgstr "輸入发放代币"
+
+#: inc/crypterio/functions.php:543
+msgid "Enter Token Price (ETH)"
+msgstr "輸入代币价格 (ETH)"
+
+#: inc/crypterio/functions.php:553
+msgid "Enter Token type"
+msgstr "輸入代币类型"
+
+#: inc/crypterio/functions.php:548
+msgid "Enter Total Tokens"
+msgstr "輸入总代币"
+
+#: inc/crypterio/functions.php:583
+msgid "Enter Twitter account"
+msgstr "輸入Twitter 账户"
+
+#: inc/crypterio/functions.php:617
+msgid "Enter URL for ICO icon"
+msgstr ""
+
+#: inc/crypterio/functions.php:645
+msgid "Enter Whitepaper link"
+msgstr ""
+
+#: inc/crypterio/functions.php:523
+msgid "Enter Your E-mail"
+msgstr "輸入您的电子邮件"
+
+#: vc_templates/stm_countdown.php:53
+msgid "Enter your Email"
+msgstr "输入您的电子邮件"
+
+#: inc/crypterio/functions.php:511
+msgid "Enter your full name"
+msgstr "輸入您的全名"
+
+#: inc/crypterio/functions.php:149
+msgid "ERC-20 Wallet Address"
+msgstr ""
+
+#: inc/admin/product_registration/includes/theme.php:185
+msgid "Error occured"
+msgstr "发生了错误"
+
+#: woocommerce/cart/cart-totals.php:70
+#, php-format
+msgid "estimated for %s"
+msgstr "估计数 %s"
+
+#: partials/vc_parts/ico_countdown/contract.php:141
+msgid "ETH"
+msgstr "ETH"
+
+#: inc/post_types-config.php:22
+msgid "Event"
+msgstr "活动"
+
+#: inc/visual_composer.php:2143
+msgid "Event Lesson"
+msgstr "活动课程"
+
+#: inc/visual_composer.php:2197
+msgid "Event Lessons"
+msgstr "活动课程"
+
+#: inc/customizer/registration.php:1021
+msgid "Event Pages"
+msgstr "活动页面"
+
+#: inc/post_types-config.php:23 inc/visual_composer.php:1993
+#: inc/customizer/registration.php:396 inc/customizer/registration.php:402
+#: inc/customizer/registration.php:407
+msgid "Events"
+msgstr "活动"
+
+#: inc/visual_composer.php:2101
+msgid "Events Form Box"
+msgstr "活动表格框"
+
+#: inc/visual_composer.php:2086
+msgid "Events Information"
+msgstr "活动信息"
+
+#: inc/crypterio/functions.php:621
+msgid "Ex. ETH, BTC, USD"
+msgstr "例如 ETH, BTC, USD"
+
+#: inc/visual_composer.php:735
+msgid "Example: Text - full, large, medium, Number - 340x200"
+msgstr "示例：文本－全尺寸、大、中等、数字－ 340x200"
+
+#: inc/crypterio/functions.php:143
+msgid "Expected ETH ICO Participation Amount"
+msgstr ""
+
+#: inc/vc/modules/ico_countdown.php:237
+msgid "Expected ETH ICO Participation Amount Description"
+msgstr "预计 ICO 的 ETH 参与者数量说明"
+
+#: inc/tgm/tgm-plugin-activation.php:2196
+msgid "External Source"
+msgstr "外部源"
+
+#: inc/customizer/controls/font-weight.php:26
+msgid "Extra Bold"
+msgstr "超粗体"
+
+#: inc/customizer/controls/font-weight.php:27
+msgid "Extra Bold Italic"
+msgstr "超粗斜体"
+
+#: inc/visual_composer.php:697 inc/visual_composer.php:1645
+#: inc/visual_composer.php:2859 inc/visual_composer.php:3011
+msgid "Extra class name"
+msgstr "额外的分类名称"
+
+#: inc/visual_composer.php:1298
+msgid "Extra Small Screen"
+msgstr "超小屏幕"
+
+#: inc/post_types-config.php:380 inc/extras.php:1325
+#: inc/visual_composer.php:667 inc/visual_composer.php:2613
+#: inc/customizer/registration.php:16
+msgid "Facebook"
+msgstr "面子书"
+
+#: inc/crypterio/functions.php:578
+msgid "Facebook account"
+msgstr ""
+
+#: inc/visual_composer.php:644
+msgid "Fax"
+msgstr "传真"
+
+#: inc/widgets/contacts.php:104
+msgid "Fax:"
+msgstr "传真："
+
+#: inc/visual_composer.php:2219
+msgid "Field 1"
+msgstr "栏目1"
+
+#: inc/visual_composer.php:2223
+msgid "Field 2"
+msgstr "栏目2"
+
+#: inc/crypterio/functions.php:252 inc/crypterio/functions.php:263
+#: inc/crypterio/functions.php:274 inc/crypterio/functions.php:294
+msgid "Field is required"
+msgstr "栏目是必需的"
+
+#: inc/crypterio/functions.php:278 inc/crypterio/functions.php:710
+msgid "File size limit is 2 mB"
+msgstr "文件大小限制为2MB"
+
+#: inc/visual_composer.php:2000
+msgid "Filter Events"
+msgstr "筛选活动"
+
+#: inc/admin/white_list/templates/i18n.php:19
+msgid "Filter:"
+msgstr "滤波器："
+
+#: inc/crypterio/functions.php:128
+msgid "First name"
+msgstr ""
+
+#: inc/extras.php:1333 inc/customizer/registration.php:24
+msgid "Flickr"
+msgstr "Flickr网"
+
+#: inc/customizer/registration.php:662 inc/customizer/registration.php:683
+#: inc/customizer/registration.php:712 inc/customizer/registration.php:755
+#: inc/customizer/registration.php:798 inc/customizer/registration.php:841
+#: inc/customizer/registration.php:884 inc/customizer/registration.php:927
+msgid "Font Size"
+msgstr "字体大小"
+
+#: inc/customizer/registration.php:656 inc/customizer/registration.php:677
+#: inc/customizer/registration.php:706 inc/customizer/registration.php:749
+#: inc/customizer/registration.php:792 inc/customizer/registration.php:835
+#: inc/customizer/registration.php:878 inc/customizer/registration.php:921
+msgid "Font Weight"
+msgstr "字体粗细"
+
+#: inc/visual_composer.php:327
+msgid "Font weight"
+msgstr "字体粗细"
+
+#: inc/customizer/registration.php:54
+msgid "Footer"
+msgstr "页脚"
+
+#: functions.php:110
+msgid "Footer "
+msgstr "页脚 "
+
+#: inc/post_types-config.php:254
+msgid "Footer Options"
+msgstr "页脚选项"
+
+#: inc/customizer/registration.php:616
+msgid "Footer Socials"
+msgstr "页脚社交"
+
+#: inc/customizer/registration.php:597
+msgid "Footer Text"
+msgstr "页脚文字"
+
+#: inc/customizer/registration.php:154
+msgid "Frontend Customizer"
+msgstr "前端定制工具"
+
+#: partials/content-event-classic.php:105 partials/content-event-form.php:59
+msgid "fully booked"
+msgstr "预订已满"
+
+#: partials/ico_listing/parts/token_sale.php:6
+msgid "Fundraising Goal"
+msgstr "筹款目标"
+
+#: inc/crypterio/functions.php:537
+msgid "Fundraising Hard Cap Goal"
+msgstr "筹款硬上限目标"
+
+#: inc/crypterio/functions.php:532
+msgid "Fundraising Soft Cap Goal"
+msgstr "筹款软上限目标"
+
+#: inc/customizer/registration.php:599
+msgid ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst."
+msgstr ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst."
+
+#: footer.php:55
+msgid ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst. "
+msgstr ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst. "
+
+#: inc/visual_composer.php:115
+msgid "Gallery type"
+msgstr "图库类型"
+
+#: inc/visual_composer.php:346
+msgid "Gap"
+msgstr "间隙"
+
+#: inc/vc/modules/ico_countdown.php:20
+msgid "Get ICO data automatically from Contract"
+msgstr "自动从合约获取ICO数据"
+
+#: inc/extras.php:1334 inc/customizer/registration.php:25
+msgid "Git"
+msgstr "GIT"
+
+#: inc/crypterio/functions.php:591
+msgid "Github account"
+msgstr "Github 账户"
+
+#: inc/crypterio/functions.php:367 inc/crypterio/functions.php:374
+msgid "Goal:"
+msgstr "目标："
+
+#: inc/extras.php:1341 inc/customizer/registration.php:33
+msgid "Google"
+msgstr "谷歌"
+
+#: inc/visual_composer.php:2970
+msgid "Google Map"
+msgstr "谷歌地图"
+
+#: inc/customizer/registration.php:1120
+msgid "Google Map API Key"
+msgstr "谷歌地图 API 密钥"
+
+#: inc/customizer/registration.php:1115
+msgid "Google Map Api Settings"
+msgstr "谷歌地图 API 设置"
+
+#: inc/customizer/registration.php:1137
+msgid "Google Recaptcha API Settings"
+msgstr "谷歌验证码 API 设置"
+
+#: inc/post_types-config.php:388 inc/extras.php:1328
+#: inc/visual_composer.php:685 inc/visual_composer.php:2628
+#: inc/customizer/registration.php:19
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/crypterio/functions.php:155
+msgid "Government-Issued ID Card or Passport"
+msgstr ""
+
+#: inc/visual_composer.php:1832 inc/visual_composer.php:2019
+#: inc/visual_composer.php:2741
+msgid "Grid"
+msgstr "栅格"
+
+#: inc/visual_composer.php:1840 inc/customizer/registration.php:967
+msgid "Grid View"
+msgstr "栅格视图"
+
+#: inc/visual_composer.php:2742
+msgid "Grid with filter"
+msgstr "带筛选工具的栅格"
+
+#: inc/customizer/registration.php:702
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer/registration.php:745
+msgid "H2"
+msgstr "H2"
+
+#: inc/customizer/registration.php:788
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer/registration.php:831
+msgid "H4"
+msgstr "H4"
+
+#: inc/customizer/registration.php:874
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer/registration.php:917
+msgid "H6"
+msgstr "H6"
+
+#: inc/crypterio/functions.php:538
+msgid "Hard Cap value (ETH)"
+msgstr "硬上限值（ETH）"
+
+#: inc/vc/modules/ico_countdown.php:135
+msgid "Hardcap label"
+msgstr "硬上限标签"
+
+#: inc/vc/modules/ico_countdown.php:140
+msgid "Hardcap label 2"
+msgstr "硬上限标签2"
+
+#: inc/vc/modules/ico_countdown.php:130
+msgid "Hardcap price (number format)"
+msgstr "硬上限价格（数据格式）"
+
+#: woocommerce/myaccount/my-orders.php:67
+msgctxt "hash before order number"
+msgid "#"
+msgstr "#"
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Have a coupon?"
+msgstr "有优惠券吗？"
+
+#: inc/post_types-config.php:166
+msgid "Header Options"
+msgstr "标题选项"
+
+#: inc/crypterio/graph.php:48 inc/customizer/registration.php:95
+#: inc/customizer/registration.php:562
+msgid "Height"
+msgstr "高度"
+
+#: inc/visual_composer.php:2391
+msgid "Height (px)"
+msgstr "高度（使用px）"
+
+#: inc/admin/white_list/white_list.php:39
+#, php-format
+msgid ""
+"Hi! <br/> %s, your request to buy %s tokens has been approved. Please use "
+"your %s wallet for the purchase. <br/> We will send the contract address "
+"close to the token sale date."
+msgstr "您好！<br/> %s，您要求购买 %s 的代币已获批准。请使用您的 %s 钱包购买。<br/> 我们将在接近代币发售日期发送合同地址。"
+
+#: inc/visual_composer.php:320 inc/vc/modules/ico_countdown.php:164
+msgid "Hide"
+msgstr "隐藏"
+
+#: inc/visual_composer.php:1419
+msgid "Hide Carousel Arrows"
+msgstr "隐藏轮播箭头"
+
+#: inc/customizer/registration.php:574
+msgid "Hide Footer"
+msgstr "隐藏页脚"
+
+#: inc/customizer/registration.php:569
+msgid "Hide Logo"
+msgstr "隐藏标志"
+
+#: inc/visual_composer.php:903
+msgid "Hide Title Line"
+msgstr "隐藏标题行"
+
+#: inc/post_types-config.php:431 inc/crypterio/functions.php:404
+msgid "High"
+msgstr "高"
+
+#: hb_templates/mobile/mobile.php:29
+msgid "Home"
+msgstr "首页"
+
+#: hb_templates/main.php:26
+msgid "Home page"
+msgstr "首页"
+
+#: inc/admin/product_registration/screens/system_status.php:20
+msgid "Home URL:"
+msgstr "首页网址："
+
+#: 404.php:15
+msgid "homepage"
+msgstr "首页"
+
+#: partials/vc_parts/ico_countdown/custom.php:53
+#: partials/vc_parts/ico_countdown/contract.php:91
+msgid "Hours"
+msgstr "小时"
+
+#: inc/visual_composer.php:1583
+msgid "How long the animation effect should last. Decides the speed of effect."
+msgstr "动画效果应持续多久。决定效果的速度。"
+
+#. URI of the theme
+msgid "http://crypterio.stylemixthemes.com/"
+msgstr "http://crypterio.stylemixthemes.com/"
+
+#. Author URI of the theme
+msgid "https://stylemixthemes.com/"
+msgstr "https://stylemixthemes.com/"
+
+#: partials/ico_listing/parts/rates.php:3
+msgid "Hype rate"
+msgstr "炒作率"
+
+#: partials/content-event-list-form.php:53
+#: partials/content-event-list-form.php:82 partials/content-event-form.php:76
+msgid ""
+"I agree with the all additional <a href='http://stylemixthemes.com/' "
+"target='_blank'>Terms and Conditions</a>"
+msgstr "我同意所有附加的<a href=‘http://stylemixthemes.com/' target=‘_blank’>条款个条规</a>"
+
+#: partials/content-event-classic.php:99 partials/content-event-form.php:53
+msgid "i am going"
+msgstr "我正在去"
+
+#: inc/admin/product_registration/screens/install_demo.php:10
+msgid "ICO"
+msgstr "ICO"
+
+#: inc/admin/product_registration/screens/install_demo.php:13
+msgid "ICO Agency"
+msgstr "ICO 代理"
+
+#: inc/crypterio/functions.php:515
+msgid "ICO Category"
+msgstr "ICO类别"
+
+#: inc/vc/modules/ico_countdown.php:30
+msgid "ICO Contract address"
+msgstr "ICO合约地址"
+
+#: inc/vc/modules/ico_countdown.php:9
+msgid "ICO Countdown"
+msgstr "ICO倒计时"
+
+#: archive-stm_ico_listing.php:12
+#: inc/admin/product_registration/screens/install_demo.php:19
+msgid "ICO Directory"
+msgstr "ICO目录"
+
+#: inc/post_types-config.php:5 inc/customizer/registration.php:204
+#: inc/customizer/registration.php:210
+#: inc/admin/product_registration/screens/install_demo.php:16
+msgid "ICO Listing"
+msgstr "ICO名单"
+
+#: inc/post_types-config.php:6 inc/customizer/registration.php:215
+msgid "ICO Listings"
+msgstr "ICO名单"
+
+#: inc/crypterio/functions.php:527
+msgid "ICO name"
+msgstr "ICO 名称"
+
+#: inc/admin/white_list/white_list.php:37
+msgid "ICO Participation"
+msgstr "ICO 参与者"
+
+#: partials/ico_listing/parts/token_sale.php:5
+msgid "ICO Token Price"
+msgstr "ICO 代币价格"
+
+#: inc/crypterio/functions.php:557
+msgid "ICO Website"
+msgstr "ICO 网站"
+
+#: inc/visual_composer.php:276 inc/visual_composer.php:809
+#: inc/visual_composer.php:950 inc/visual_composer.php:2906
+#: inc/customizer/registration.php:228 inc/customizer/registration.php:260
+#: inc/customizer/registration.php:292 inc/customizer/registration.php:324
+#: inc/customizer/registration.php:356 inc/customizer/registration.php:388
+#: inc/customizer/registration.php:420 inc/customizer/registration.php:452
+msgid "Icon"
+msgstr "图标"
+
+#: inc/visual_composer.php:1000
+msgid "Icon - Background Color"
+msgstr "图标 － 背景颜色"
+
+#: inc/visual_composer.php:1019
+msgid "Icon - Border Color"
+msgstr "图标 － 边框颜色"
+
+#: inc/visual_composer.php:1031
+msgid "Icon - Border Custom"
+msgstr "图标 － 边框自定义"
+
+#: inc/visual_composer.php:982
+msgid "Icon - Color"
+msgstr "图标 － 颜色"
+
+#: inc/visual_composer.php:994 inc/visual_composer.php:1013
+msgid "Icon - Color Custom"
+msgstr "图标 － 颜色只定义"
+
+#: inc/visual_composer.php:975
+msgid "Icon - Line Height"
+msgstr "图标 － 线条高度"
+
+#: inc/visual_composer.php:290 inc/visual_composer.php:956
+msgid "Icon - Position"
+msgstr "图标 － 位置"
+
+#: inc/visual_composer.php:770
+msgid "Icon - Size"
+msgstr "图标 － 大小"
+
+#: inc/visual_composer.php:823
+msgid "Icon Box"
+msgstr "图标框"
+
+#: inc/visual_composer.php:413
+msgid "Icon Color"
+msgstr "图标颜色"
+
+#: inc/visual_composer.php:1037
+msgid "Icon Height"
+msgstr "图标高度"
+
+#: inc/visual_composer.php:961
+msgid "Icon Left"
+msgstr "图标左边"
+
+#: inc/visual_composer.php:962
+msgid "Icon Left Transparent"
+msgstr "图标左边透明"
+
+#: inc/visual_composer.php:968
+msgid "Icon Size"
+msgstr "图标大小"
+
+#: inc/visual_composer.php:283
+msgid "Icon Size (px)"
+msgstr "图标大小（使用px）"
+
+#: inc/visual_composer.php:959
+msgid "Icon Top"
+msgstr "图标顶部"
+
+#: inc/visual_composer.php:960
+msgid "Icon Top Transparent"
+msgstr "图标顶部透明"
+
+#: inc/visual_composer.php:1048
+msgid "Icon Width"
+msgstr "图标宽度"
+
+#: inc/visual_composer.php:1059
+msgid "Icon Wrapper Width"
+msgstr "图标包装宽度"
+
+#: inc/visual_composer.php:2371
+msgid "If checked, chart will have legend."
+msgstr "如果选中，图表将会出现图例。"
+
+#: woocommerce/checkout/form-login.php:35
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer, please proceed to the Billing &amp; "
+"Shipping section."
+msgstr "如果您之前在我们这里购买过，请在下面的框中输入您的详细信息。如果您是新客户，请继续进行结算 &amp; 运送部分。"
+
+#: inc/visual_composer.php:700
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr "如果您希望以不同的方式设置特定的内容元素，那么请使用此栏来添加一个分类名称，然后在您的css文件中引用它。"
+
+#: inc/visual_composer.php:720 inc/visual_composer.php:1491
+#: inc/crypterio/functions.php:652
+msgid "Image"
+msgstr "图像"
+
+#: inc/visual_composer.php:1604
+msgid "Image Carousel"
+msgstr "图像轮播"
+
+#: inc/visual_composer.php:121
+msgid "Image full"
+msgstr "图像完整"
+
+#: inc/visual_composer.php:118
+msgid "Image grid"
+msgstr "图像栅格"
+
+#: inc/visual_composer.php:240 inc/visual_composer.php:578
+#: inc/visual_composer.php:729 inc/visual_composer.php:1496
+#: inc/visual_composer.php:1784 inc/visual_composer.php:2942
+msgid "Image Size"
+msgstr "图像大小"
+
+#: inc/visual_composer.php:1638 inc/visual_composer.php:2049
+#: inc/visual_composer.php:2336 inc/visual_composer.php:2826
+msgid "Image size"
+msgstr "图像大小"
+
+#: inc/crypterio/functions.php:616
+msgid "Image Url"
+msgstr ""
+
+#: inc/visual_composer.php:1611
+msgid "Images"
+msgstr "图像"
+
+#: inc/admin/product_registration/screens/install_demo.php:68
+msgid "Import"
+msgstr "导入"
+
+#: inc/admin/product_registration/screens/install_demo.php:229
+msgid "Imported"
+msgstr "已导入"
+
+#: inc/admin/product_registration/screens/install_demo.php:228
+msgid "Importing Demo"
+msgstr "已导入的演示"
+
+#: partials/vc_parts/ico_countdown/custom.php:147
+#, php-format
+msgid "in %s days"
+msgstr "在 %s 天"
+
+#: partials/vc_parts/ico_countdown/custom.php:149
+#, php-format
+msgid "in just %s hours"
+msgstr "在短短 %s 小时"
+
+#: inc/visual_composer.php:2767
+msgid "Include Category"
+msgstr "包含类别"
+
+#: inc/visual_composer.php:816
+msgid "Info Box"
+msgstr "信息框"
+
+#: inc/post_types-config.php:280 inc/post_types-config.php:297
+#: inc/post_types-config.php:357 inc/post_types-config.php:437
+msgid "Information"
+msgstr "信息"
+
+#: inc/admin/product_registration/screens/system_status.php:85
+msgid "Information about the web server that is currently hosting your site."
+msgstr "有关当前正在托管您的网站的网络服务器信息。"
+
+#: inc/extras.php:1327 inc/visual_composer.php:2623
+#: inc/customizer/registration.php:18
+msgid "Instagram"
+msgstr "Instagram 网"
+
+#: inc/tgm/tgm-plugin-activation.php:2622
+msgid "Install"
+msgstr "安装"
+
+#: inc/admin/product_registration/includes/admin_screens.php:155
+#: inc/admin/product_registration/includes/admin_screens.php:170
+msgid "Install Demos"
+msgstr "安装演示"
+
+#: inc/tgm/tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#: inc/tgm/tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "安装所需的插件"
+
+#: inc/admin/product_registration/screens/install_demo.php:65
+msgid "Installed"
+msgstr "已安装"
+
+#: inc/admin/product_registration/screens/install_demo.php:85
+#: inc/admin/product_registration/screens/install_demo.php:177
+msgid "Installed & Activated"
+msgstr "已安装并已激活"
+
+#: inc/tgm/tgm-plugin-activation.php:2220
+msgid "Installed But Not Activated"
+msgstr "已安装但未激活"
+
+#: inc/tgm/tgm-plugin-activation.php:2386
+msgid "Installed version:"
+msgstr "已安装的版本："
+
+#: inc/admin/product_registration/screens/install_demo.php:176
+msgid "Installing"
+msgstr "正在安装"
+
+#: inc/tgm/tgm-plugin-activation.php:3392
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安装和激活插件 %1$s (%2$d/%3$d)"
+
+#: inc/tgm/tgm-plugin-activation.php:3398
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安装插件 %1$s (%2$d/%3$d)"
+
+#: inc/tgm/tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "正在安装插件：%s"
+
+#: inc/admin/product_registration/screens/startup.php:68
+msgid "Instructions For Generating A Token"
+msgstr "生成代币的说明"
+
+#: inc/crypterio/functions.php:265
+msgid "Invalid email format"
+msgstr "无效的电子邮件格式"
+
+#: inc/crypterio/graph.php:98
+msgid "Inverse grid colors"
+msgstr "逆栅格颜色"
+
+#: inc/vc/modules/wave_roadmap.php:28 inc/vc/modules/wave_roadmap.php:44
+msgid "Is done"
+msgstr "已经完成了"
+
+#: inc/crypterio/functions.php:586
+msgid "Is ICO use Whitelist?"
+msgstr "ICO 是否使用白名单？"
+
+#: partials/content-none.php:11
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "似乎我们无法找到您正在寻找的东西。也许搜索可以帮助。"
+
+#: inc/visual_composer.php:520
+msgid "Item"
+msgstr "项目"
+
+#: inc/visual_composer.php:1714
+msgid "Items"
+msgstr "项目"
+
+#: inc/visual_composer.php:1738
+msgid "Items (Mobile)"
+msgstr "项目（手机）"
+
+#: inc/visual_composer.php:1722
+msgid "Items (Small Desktop)"
+msgstr "项目（小台式电脑）"
+
+#: inc/visual_composer.php:1730
+msgid "Items (Tablet)"
+msgstr "项目（平板电脑）"
+
+#: inc/visual_composer.php:840
+msgid "Items align"
+msgstr "项目对齐"
+
+#: inc/visual_composer.php:2853
+msgid "Items Count"
+msgstr "项目数量"
+
+#: inc/visual_composer.php:1502
+msgid "Job"
+msgstr "职位"
+
+#: vc_templates/stm_vacancies.php:19
+msgid "Job Posting Title"
+msgstr "职位发布标题"
+
+#: partials/content-event-list-form.php:70
+msgid "join"
+msgstr "加入"
+
+#: partials/content-event-info.php:100
+msgid "join now"
+msgstr "立即加入"
+
+#: partials/ico_listing/parts/token_sale.php:11
+msgid "Know Your Customer"
+msgstr "了解您的客户"
+
+#: inc/crypterio/functions.php:608
+msgid "Know your customer?"
+msgstr "了解您的客户吗？"
+
+#: inc/post_types-config.php:440 inc/vc/modules/token_structure.php:24
+#: inc/vc/modules/token_structure.php:38
+msgid "Label"
+msgstr "标签"
+
+#: inc/vc/modules/pricing_table.php:48
+msgid "Label Text"
+msgstr "标签文本"
+
+#: inc/admin/product_registration/screens/system_status.php:68
+msgid "Language:"
+msgstr "语言："
+
+#: inc/visual_composer.php:1280
+msgid "Large Screen"
+msgstr "大屏幕"
+
+#: inc/crypterio/functions.php:133
+msgid "Last name"
+msgstr ""
+
+#: inc/visual_composer.php:3054
+msgid "Latitude"
+msgstr "纬度"
+
+#: inc/customizer/registration.php:610 inc/customizer/registration.php:965
+msgid "Layout"
+msgstr "布局"
+
+#: partials/news/ico.php:48
+#: inc/admin/product_registration/screens/support.php:53
+msgid "Learn more"
+msgstr "学到更多"
+
+#: inc/visual_composer.php:293 inc/visual_composer.php:843
+#: inc/visual_composer.php:853 inc/visual_composer.php:1137
+#: inc/visual_composer.php:2663 inc/customizer/registration.php:1005
+#: inc/customizer/registration.php:1095
+msgid "Left"
+msgstr "左侧"
+
+#: functions.php:88
+msgid "Left Sidebar"
+msgstr "左侧边栏"
+
+#: inc/visual_composer.php:2377
+msgid "Legend Position"
+msgstr "图例位置"
+
+#: inc/visual_composer.php:2215
+msgid "Lessons Info"
+msgstr "简介信息"
+
+#: inc/customizer/registration.php:728 inc/customizer/registration.php:771
+#: inc/customizer/registration.php:814 inc/customizer/registration.php:857
+#: inc/customizer/registration.php:900 inc/customizer/registration.php:943
+msgid "Letter Spacing"
+msgstr "字母间距"
+
+#: inc/visual_composer.php:332 inc/visual_composer.php:3088
+#: inc/customizer/controls/font-weight.php:14
+msgid "Light"
+msgstr "细"
+
+#: inc/customizer/controls/font-weight.php:15
+msgid "Light Italic"
+msgstr "细斜体"
+
+#: inc/visual_composer.php:2361
+msgid "Line"
+msgstr "行"
+
+#: inc/customizer/registration.php:691 inc/customizer/registration.php:720
+#: inc/customizer/registration.php:763 inc/customizer/registration.php:806
+#: inc/customizer/registration.php:849 inc/customizer/registration.php:892
+#: inc/customizer/registration.php:935
+msgid "Line Height"
+msgstr "行高"
+
+#: inc/visual_composer.php:589 inc/visual_composer.php:785
+#: inc/visual_composer.php:1427 inc/visual_composer.php:1911
+msgid "Link"
+msgstr "链接"
+
+#: inc/visual_composer.php:2293
+msgid "Link for download"
+msgstr "可供下载的链接"
+
+#: inc/visual_composer.php:790
+msgid "Link Icon"
+msgstr "链接图标"
+
+#: inc/post_types-config.php:392 inc/extras.php:1330
+#: inc/visual_composer.php:679 inc/customizer/registration.php:21
+msgid "Linkedin"
+msgstr "Linkedin 网"
+
+#: inc/visual_composer.php:1831
+msgid "List"
+msgstr "列表"
+
+#: inc/customizer/registration.php:968
+msgid "List View"
+msgstr "列表显示"
+
+#: vc_templates/stm_events.php:86 vc_templates/stm_events.php:91
+#: vc_templates/stm_portfolio.php:41 vc_templates/stm_portfolio.php:48
+msgid "load more"
+msgstr "加载更多"
+
+#: vc_templates/stm_news_list.php:42
+msgid "Load more posts"
+msgstr "加载更多帖子"
+
+#: vc_templates/stm_events.php:85 vc_templates/stm_events.php:90
+#: vc_templates/stm_portfolio.php:40 vc_templates/stm_portfolio.php:47
+msgid "loading..."
+msgstr "正在加载..."
+
+#: inc/post_types-config.php:304 inc/visual_composer.php:2242
+#: vc_templates/stm_vacancies.php:20
+msgid "Location"
+msgstr "位置"
+
+#: woocommerce/global/form-login.php:45
+msgid "Login"
+msgstr "登入"
+
+#: woocommerce/myaccount/form-login.php:42
+msgid "login"
+msgstr "登入"
+
+#: inc/visual_composer.php:564 inc/customizer/registration.php:80
+#: inc/customizer/registration.php:551 hb_templates/elements/image/image.php:25
+msgid "Logo"
+msgstr "标志"
+
+#: inc/customizer/registration.php:72
+msgid "Logo &amp; Title"
+msgstr "标志 &amp; 标题"
+
+#: inc/visual_composer.php:3060
+msgid "Longitude"
+msgstr "标志"
+
+#: woocommerce/global/form-login.php:52
+msgid "Lost your password?"
+msgstr "忘记您的密码?"
+
+#: inc/crypterio/functions.php:406
+msgid "Low"
+msgstr "低"
+
+#: inc/customizer/controls/text-transform.php:13
+msgid "Lowercase"
+msgstr "小写"
+
+#: inc/visual_composer.php:2122
+msgid "Map - Height"
+msgstr "地图 - 高度"
+
+#: inc/visual_composer.php:2129
+msgid "Map - Zoom"
+msgstr "地图 - 缩放"
+
+#: inc/visual_composer.php:2980
+msgid "Map Height"
+msgstr "地图高度"
+
+#: inc/visual_composer.php:3007
+msgid "Map Style"
+msgstr "地图风格"
+
+#: inc/visual_composer.php:2987
+msgid "Map Zoom"
+msgstr "地图缩放"
+
+#: inc/customizer/registration.php:109
+msgid "Margin Bottom"
+msgstr "保证金下限"
+
+#: inc/customizer/registration.php:102
+msgid "Margin Top"
+msgstr "保证金上限"
+
+#: inc/vc/modules/ratings.php:19
+msgid "Mark"
+msgstr "标记"
+
+#: inc/visual_composer.php:2993
+msgid "Marker Image"
+msgstr "标记图像"
+
+#: partials/ico_listing/parts/market_and_returns.php:18
+msgid "Market & Returns"
+msgstr "市场与回报"
+
+#: inc/vc/modules/ratings.php:26
+msgid "Max"
+msgstr "最大"
+
+#: inc/admin/product_registration/screens/system_status.php:243
+msgid "Max Upload Size:"
+msgstr "最大上传大小："
+
+#: inc/visual_composer.php:334 inc/crypterio/functions.php:405
+#: inc/customizer/controls/font-weight.php:20
+msgid "Medium"
+msgstr "中等"
+
+#: inc/customizer/controls/font-weight.php:21
+msgid "Medium Italic"
+msgstr "中等斜体"
+
+#: inc/visual_composer.php:1286
+msgid "Medium Screen"
+msgstr "中等屏幕"
+
+#: inc/post_types-config.php:30
+msgid "Member"
+msgstr "会员"
+
+#: inc/post_types-config.php:417
+msgid "Member ID"
+msgstr "会员 ID"
+
+#: inc/crypterio/functions.php:612 partials/ico_listing/parts/token_sale.php:13
+msgid "Min/Max Personal Cap"
+msgstr "輸入最小/最大个人上限"
+
+#: inc/tgm/tgm-plugin-activation.php:2394
+msgid "Minimum required version:"
+msgstr "最低要求的版本："
+
+#: partials/vc_parts/ico_countdown/custom.php:54
+#: partials/vc_parts/ico_countdown/contract.php:92
+msgid "Minutes"
+msgstr "分钟"
+
+#: inc/customizer/registration.php:84
+msgid "Mobile Logo"
+msgstr "移动标志"
+
+#: inc/visual_composer.php:2021
+msgid "Modern"
+msgstr "现代"
+
+#: vc_templates/stm_crypto_charts.php:54
+msgid "month"
+msgstr "月"
+
+#: inc/admin/product_registration/includes/admin_screens.php:35
+#: inc/admin/product_registration/includes/admin_screens.php:36
+msgid "My crypterio"
+msgstr "我的 crypterio"
+
+#: inc/admin/product_registration/screens/system_status.php:232
+msgid "MySQL Version:"
+msgstr "MySQL版本："
+
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgid_plural "Categories:"
+msgstr[0] "不适用"
+msgstr[1] ""
+
+#: inc/post_types-config.php:401 inc/extras.php:137
+#: inc/visual_composer.php:1486 inc/admin/white_list/templates/i18n.php:3
+msgid "Name"
+msgstr "名称"
+
+#: inc/visual_composer.php:1215
+msgid "Navigation"
+msgstr "导航"
+
+#: inc/crypterio/functions.php:403
+msgid "Neutral"
+msgstr "中性"
+
+#: inc/crypterio/functions.php:778
+msgid "New ICO"
+msgstr "新的 ICO"
+
+#: inc/crypterio/functions.php:341
+msgid "New ICO Participant"
+msgstr "新ICO参与者"
+
+#: comments.php:34
+msgid "Newer Comments"
+msgstr "更新的评论"
+
+#: woocommerce/single-product.php:37 woocommerce/archive-product.php:38
+#: inc/visual_composer.php:1797 partials/title_box.php:39
+#: partials/title_box.php:40
+msgid "News"
+msgstr "新闻"
+
+#: inc/vc/modules/news_carousel.php:11
+msgid "News Carousel"
+msgstr "新闻轮播"
+
+#: inc/vc/modules/news.php:11
+msgid "News Grid"
+msgstr "新闻栅格"
+
+#: inc/vc/modules/news_list.php:11
+msgid "News List"
+msgstr "新闻列表"
+
+#: inc/vc/modules/news_widget.php:11
+msgid "News Widget"
+msgstr "新闻小部件"
+
+#: vc_templates/stm_portfolio_pagination.php:76
+#: vc_templates/stm_portfolio_pagination.php:121
+msgid "next"
+msgstr "下一个"
+
+#: inc/visual_composer.php:2806
+msgid "No"
+msgstr "无"
+
+#: inc/tgm/tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "无需操作。插件 %1$s 已经激活。"
+
+#: inc/tgm/tgm-plugin-activation.php:2833
+msgid "No plugins are available to be activated at this time."
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "目前无可供激活的可用插件。"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2700
+msgid "No plugins are available to be installed at this time."
+msgstr "目前无可供激活的可用插件。"
+
+#: inc/tgm/tgm-plugin-activation.php:2702
+msgid "No plugins are available to be updated at this time."
+msgstr "目前无可供更新的可用插件。"
+
+#: inc/tgm/tgm-plugin-activation.php:2430
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr "无可供安装、更新或激活的插件。<a href=“%1$s”>返回管理界面</a>"
+
+#: inc/tgm/tgm-plugin-activation.php:2807
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "未选择可供激活的插件。无需操作。"
+
+#: inc/tgm/tgm-plugin-activation.php:2662
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "未选择可供安装的插件。无需操作。"
+
+#: inc/tgm/tgm-plugin-activation.php:2664
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "未选择可供更新的插件。无需操作。"
+
+#: inc/post_types-config.php:223 inc/customizer/registration.php:507
+msgid "No Repeat"
+msgstr "不重复"
+
+#: inc/visual_composer.php:1007
+msgid "None"
+msgstr "没有"
+
+#: inc/customizer/controls/text-transform.php:15
+msgid "Normal"
+msgstr "正常"
+
+#: inc/tgm/tgm-plugin-activation.php:2216
+msgid "Not Installed"
+msgstr "未安装"
+
+#: inc/admin/product_registration/screens/install_demo.php:85
+msgid "Not installed"
+msgstr "未安装"
+
+#: inc/crypterio/functions.php:453
+msgid "Not rated"
+msgstr "未评级"
+
+#: inc/crypterio/functions.php:368
+msgid "Not set"
+msgstr "未设置"
+
+#: inc/vc/modules/wave_roadmap.php:47
+msgid "Not yet"
+msgstr "仍未"
+
+#: inc/extras.php:162
+msgctxt "noun"
+msgid "Message"
+msgstr "消息"
+
+#: inc/visual_composer.php:1741
+msgid "Number of items the carousel will display. Default: at <479px - 1 item."
+msgstr "轮播将显示的项目数量。默认：<479px - 1个项目。"
+
+#: inc/visual_composer.php:1733
+msgid ""
+"Number of items the carousel will display. Default: at <768px - 2 items."
+msgstr "轮播将显示的项目数量。默认：<768px - 2个项目。"
+
+#: inc/visual_composer.php:1725
+msgid ""
+"Number of items the carousel will display. Default: at <980px - 3 items."
+msgstr "轮播将显示的项目数量。默认：<980px - 3个项目。"
+
+#: inc/vc/modules/services_grid.php:18
+msgid "Number of posts"
+msgstr "帖子数"
+
+#: inc/visual_composer.php:2919
+msgid "Number of posts to show"
+msgstr "显示的帖子数量"
+
+#: inc/crypterio/functions.php:632
+#: partials/ico_listing/parts/short_review.php:3
+msgid "Number of team Members"
+msgstr "团队成员的数量"
+
+#: inc/visual_composer.php:2028 inc/visual_composer.php:2313
+#: inc/visual_composer.php:2518
+msgid "Number Posts"
+msgstr "帖子数量"
+
+#: inc/extras.php:1348 inc/customizer/registration.php:39
+msgid "Odnoklassniki"
+msgstr "Odnoklassniki"
+
+#: partials/ico_listing/parts/ico_date_and_image.php:38
+msgid "of"
+msgstr "的"
+
+#: comments.php:31
+msgid "Older Comments"
+msgstr "以前的评论"
+
+#: inc/visual_composer.php:2414 inc/visual_composer.php:2457
+msgid "One"
+msgstr "一"
+
+#: inc/crypterio/functions.php:254
+msgid "Only numbers"
+msgstr "只限數字"
+
+#: inc/visual_composer.php:250
+msgid "Open in Lightbox"
+msgstr "在光箱特效中打开"
+
+#: woocommerce/myaccount/my-orders.php:25
+msgid "Order"
+msgstr "订购"
+
+#: partials/ico_listing/parts/related.php:9
+#, php-format
+msgid "Other %s ICOs"
+msgstr "其他 %s ICO"
+
+#: inc/admin/product_registration/screens/support.php:87
+#, php-format
+msgid ""
+"Our forum is the best place for user to user interactions. Ask another %s "
+"user or share your experience with the community to help others."
+msgstr "我们的论坛是用户之间进行互动的最佳场所。询问另一个 %s 的用户或在社区分享您的经验来帮助他人。"
+
+#: inc/admin/product_registration/screens/support.php:50
+#, php-format
+msgid ""
+"Our online documentaiton is a useful resource for learning the every aspect "
+"and features of %s."
+msgstr "我们的在线文档是了解 %s 的各个方面和特点的有用资源。"
+
+#: inc/visual_composer.php:544
+msgid "Our Partner"
+msgstr "我们的合作伙伴"
+
+#: partials/ico_listing/parts/rates.php:35
+msgid "Our Rating"
+msgstr "我们的评级"
+
+#: vc_templates/stm_portfolio_information.php:49
+msgid "Our Role"
+msgstr "我们的角色"
+
+#: inc/visual_composer.php:2840
+msgid "Our Works"
+msgstr "我们的作品"
+
+#: inc/extras.php:97
+msgid "out of 5"
+msgstr "满分5分"
+
+#: partials/content-page.php:24
+msgid "Page"
+msgstr "网页"
+
+#: inc/extras.php:388
+msgid "Page not found"
+msgstr "找不到网页"
+
+#: inc/post_types-config.php:163 inc/customizer/registration.php:460
+msgid "Page Setup"
+msgstr "页面设置"
+
+#: partials/content-page.php:20 partials/content.php:90
+msgid "Pages:"
+msgstr "页数："
+
+#: inc/vc/modules/panel_box.php:8 inc/vc/modules/panel_box.php:11
+msgid "Panel Box"
+msgstr "面板框"
+
+#: inc/vc/modules/panel_box.php:25 inc/vc/modules/panel_box.php:32
+msgid "Panel Subtitle"
+msgstr "面板字幕"
+
+#: inc/vc/modules/panel_box.php:18
+msgid "Panel Title"
+msgstr "面板标题"
+
+#: inc/customizer/registration.php:673
+msgid "Paragraph"
+msgstr "段落"
+
+#: inc/post_types-config.php:353
+msgid "Participant Info"
+msgstr "参与者信息"
+
+#: inc/visual_composer.php:144 inc/visual_composer.php:155
+msgid "Particles background"
+msgstr "粒子背景"
+
+#: inc/vc/modules/ico_countdown.php:257
+msgid "Passport Photo description"
+msgstr "护照照片说明"
+
+#: woocommerce/global/form-login.php:37
+msgid "Password"
+msgstr "密码"
+
+#: partials/content-event-classic.php:93 partials/content-event-form.php:46
+msgid "past event"
+msgstr "过去的活动"
+
+#: inc/visual_composer.php:2004
+msgid "Past Events"
+msgstr "过去的活动"
+
+#: woocommerce/myaccount/my-orders.php:84
+msgid "Pay"
+msgstr "支付"
+
+#: woocommerce/checkout/payment.php:24
+msgid "payment"
+msgstr "支付"
+
+#: inc/vc/modules/ico_countdown.php:145
+msgid "Payments"
+msgstr "支付"
+
+#: inc/admin/white_list/white_list.php:116
+#: inc/admin/white_list/templates/i18n.php:14
+msgid "Pending"
+msgstr "未决定"
+
+#: inc/crypterio/functions.php:605
+msgid "Percent of tokens for sale"
+msgstr "代币销售的百分比"
+
+#: inc/post_types-config.php:368 inc/post_types-config.php:409
+#: inc/visual_composer.php:632 inc/visual_composer.php:650
+#: inc/visual_composer.php:1507 inc/visual_composer.php:3044
+msgid "Phone"
+msgstr "电话"
+
+#: inc/visual_composer.php:638 inc/visual_composer.php:1513
+msgid "Phone Two"
+msgstr "电话二"
+
+#: inc/widgets/contacts.php:100
+msgid "Phone:"
+msgstr "电话："
+
+#: inc/visual_composer.php:1385
+msgid "Photo - Size"
+msgstr "照片 - 尺寸"
+
+#: inc/admin/product_registration/screens/system_status.php:117
+msgid "PHP Max Input Vars:"
+msgstr "PHP最大输入变量："
+
+#: inc/admin/product_registration/screens/system_status.php:94
+msgid "PHP Post Max Size:"
+msgstr "PHP的POST的最大尺寸："
+
+#: inc/admin/product_registration/screens/system_status.php:99
+msgid "PHP Time Limit:"
+msgstr "PHP时间限制："
+
+#: inc/admin/product_registration/screens/system_status.php:88
+msgid "PHP Version:"
+msgstr "PHP版本："
+
+#: inc/visual_composer.php:2364
+msgid "Pie"
+msgstr "饼图"
+
+#: partials/news/parts/_share.php:24
+msgid "Pin it"
+msgstr "Pin it 快捷"
+
+#: inc/extras.php:1335 inc/customizer/registration.php:26
+msgid "Pinterest"
+msgstr "Pinterest 网"
+
+#: inc/crypterio/functions.php:342
+msgid "Please check new ICO Participant."
+msgstr "请检查新ICO参与者。"
+
+#: inc/crypterio/functions.php:779
+msgid "Please check new ICO."
+msgstr "请检查新的 ICO。"
+
+#: inc/tgm/tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "请联系本网站的管理员来寻求帮助。"
+
+#: inc/tgm/tgm-plugin-activation.php:932 inc/tgm/tgm-plugin-activation.php:935
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr "请联系插件提供商，并要求他们根据WordPress指南打包插件。"
+
+#: inc/admin/product_registration/screens/install_demo.php:117
+msgid "Please enter your Activation Token before running the Crypterio."
+msgstr "请在运行Crypterio之前输入您的激活代币。"
+
+#: inc/updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "请输入您的 Envato Marketplace API 密钥。"
+
+#: inc/updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "请输入您的 Envato Marketplace 用户名。"
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr "请填写以上详细信息来查看可用的付款方式。"
+
+#: inc/admin/product_registration/screens/startup.php:23
+msgid ""
+"Please make sure you have purchased this theme with the account you "
+"registered current token"
+msgstr "请确保您已使用您注册了当前代币的账户购买了此主题"
+
+#: inc/crypterio/functions.php:282 inc/crypterio/functions.php:715
+msgid "Please use a jpg/png/gif image"
+msgstr "请使用 jpg/png/gif 图像"
+
+#: inc/crypterio/functions.php:784
+msgid "Please, fill all required fields."
+msgstr "请填写所有必填字段。"
+
+#: inc/tgm/tgm-plugin-activation.php:2455
+msgid "Plugin"
+msgstr "插件"
+
+#: inc/tgm/tgm-plugin-activation.php:1113
+#: inc/tgm/tgm-plugin-activation.php:2847
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "和"
+
+#: inc/tgm/tgm-plugin-activation.php:399 inc/tgm/tgm-plugin-activation.php:3049
+msgid "Plugin activated successfully."
+msgstr "插件激活已成功。"
+
+#: inc/tgm/tgm-plugin-activation.php:3048
+msgid "Plugin activation failed."
+msgstr "插件激活已失败。"
+
+#: inc/tgm/tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr "插件未激活。此主题需要更高版本的 %s 。请更新插件。"
+
+#: inc/admin/product_registration/includes/admin_screens.php:158
+#: inc/admin/product_registration/includes/admin_screens.php:173
+msgid "Plugins"
+msgstr "插件"
+
+#: inc/tgm/tgm-plugin-activation.php:2287
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "所有 <span class=“count”>(%s)</span>"
+msgstr[1] ""
+
+#: inc/customizer/registration.php:213 inc/customizer/registration.php:245
+#: inc/customizer/registration.php:277 inc/customizer/registration.php:309
+#: inc/customizer/registration.php:341 inc/customizer/registration.php:373
+#: inc/customizer/registration.php:405 inc/customizer/registration.php:437
+msgid "Plural Title"
+msgstr "复数标题"
+
+#: inc/vc/modules/news_carousel.php:44 inc/vc/modules/news_widget.php:44
+msgid "Popular"
+msgstr "受欢迎的"
+
+#: inc/vc/modules/ico_countdown.php:167 inc/vc/modules/ico_countdown.php:178
+#: inc/vc/modules/ico_countdown.php:188 inc/vc/modules/ico_countdown.php:198
+#: inc/vc/modules/ico_countdown.php:208 inc/vc/modules/ico_countdown.php:219
+#: inc/vc/modules/ico_countdown.php:229 inc/vc/modules/ico_countdown.php:239
+#: inc/vc/modules/ico_countdown.php:249 inc/vc/modules/ico_countdown.php:259
+#: inc/vc/modules/ico_countdown.php:269 inc/vc/modules/ico_countdown.php:279
+msgid "Popup"
+msgstr "弹出"
+
+#: inc/vc/modules/ico_countdown.php:196
+msgid "Popup description"
+msgstr "弹出说明"
+
+#: inc/vc/modules/ico_countdown.php:206
+msgid "Popup link"
+msgstr "弹出链接"
+
+#: inc/vc/modules/ico_countdown.php:227
+msgid "Popup Subtitle"
+msgstr "弹出字幕"
+
+#: inc/vc/modules/ico_countdown.php:176 inc/vc/modules/ico_countdown.php:217
+msgid "Popup Title"
+msgstr "弹出标题"
+
+#: inc/post_types-config.php:89 inc/post_types-config.php:90
+#: inc/visual_composer.php:2505 inc/customizer/registration.php:428
+#: inc/customizer/registration.php:434 inc/customizer/registration.php:439
+msgid "Portfolio"
+msgstr "组合"
+
+#: inc/post_types-config.php:423
+msgid "Portfolio image size"
+msgstr "组合图片大小"
+
+#: inc/visual_composer.php:2577
+msgid "Portfolio Information"
+msgstr "组合信息"
+
+#: inc/visual_composer.php:2537
+msgid "Portfolio Post Pagination"
+msgstr "组合帖子分页"
+
+#: inc/post_types-config.php:267 inc/visual_composer.php:569
+msgid "Position"
+msgstr "位置"
+
+#: inc/extras.php:165
+msgid "post a comment"
+msgstr "发表评论"
+
+#: inc/post_types-config.php:284
+msgid "Post Info"
+msgstr "发表信息"
+
+#: inc/customizer/registration.php:58
+msgid "Post Types"
+msgstr "发布类型"
+
+#: woocommerce/cart/shipping-calculator.php:93
+msgid "Postcode / ZIP"
+msgstr "邮政编码/ 邮编"
+
+#: partials/content-post_details.php:8 partials/content-loop_list.php:11
+msgid "Posted by:"
+msgstr "发布者："
+
+#: inc/vc/modules/pricing_table.php:38
+msgid "Postfix"
+msgstr "后缀"
+
+#: inc/visual_composer.php:2885
+msgid "Posts in timeline style"
+msgstr "以时间轴方式发帖"
+
+#: inc/visual_composer.php:1765 inc/visual_composer.php:2034
+#: inc/visual_composer.php:2319 inc/visual_composer.php:2648
+msgid "Posts Per Row"
+msgstr "每行的发帖"
+
+#: inc/tgm/tgm-plugin-activation.php:2199
+msgid "Pre-Packaged"
+msgstr "预包装的"
+
+#: inc/vc/modules/pricing_table.php:23
+msgid "Prefix"
+msgstr "前缀"
+
+#: inc/visual_composer.php:231
+msgid "Preview Image"
+msgstr "预览图像"
+
+#: vc_templates/stm_portfolio_pagination.php:63
+#: vc_templates/stm_portfolio_pagination.php:95
+msgid "previous"
+msgstr "之前的"
+
+#: woocommerce/cart/cart.php:80 inc/vc/modules/pricing_table.php:28
+msgid "Price"
+msgstr "价格"
+
+#: woocommerce/cart/cart.php:34
+msgid "price"
+msgstr "价格"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "proceed to checkout"
+msgstr "继续结账"
+
+#: woocommerce/checkout/review-order.php:30 woocommerce/cart/cart.php:53
+msgid "Product"
+msgstr "产品"
+
+#: woocommerce/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr "产品说明"
+
+#: woocommerce/cart/cart.php:33
+msgid "product name"
+msgstr "产品名称"
+
+#: inc/admin/product_registration/includes/admin_screens.php:152
+msgid "Product Registration"
+msgstr "产品注册"
+
+#: inc/customizer/registration.php:1104
+msgid "Products Per Page"
+msgstr "每页产品"
+
+#: partials/content-about_vacancy.php:19
+msgid "Project Location(s):"
+msgstr "项目地点："
+
+#: inc/crypterio/functions.php:636
+#: partials/ico_listing/parts/short_review.php:4
+msgid "Prototype"
+msgstr "原型"
+
+#: inc/customizer/registration.php:1147
+msgid "Public key"
+msgstr "公钥"
+
+#: woocommerce/cart/cart.php:86
+msgid "Quantity"
+msgstr "数量"
+
+#: woocommerce/cart/cart.php:35
+msgid "quantity"
+msgstr "数量"
+
+#: inc/visual_composer.php:1756 inc/vc/modules/news.php:18
+#: inc/vc/modules/news_list.php:18 inc/vc/modules/post_slider.php:18
+#: inc/vc/modules/news_carousel.php:18 inc/vc/modules/news_widget.php:18
+msgid "Query"
+msgstr "查询"
+
+#: inc/vc/modules/news.php:27 inc/vc/modules/news_list.php:27
+#: inc/vc/modules/post_slider.php:27 inc/vc/modules/news_carousel.php:27
+#: inc/vc/modules/news_widget.php:27
+msgid "Query offset"
+msgstr "查询偏移量"
+
+#: inc/visual_composer.php:1306 inc/visual_composer.php:1312
+msgid "Quote"
+msgstr "引用"
+
+#: inc/extras.php:95
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "满分5分的情况下打 %d 分"
+
+#: inc/vc/modules/ratings.php:8
+msgid "Ratings"
+msgstr "评分"
+
+#: vc_templates/stm_info_box.php:135
+msgid "Read More"
+msgstr "阅读更多"
+
+#: vc_templates/stm_staff_list.php:111 vc_templates/stm_info_box.php:72
+#: vc_templates/stm_services_grid.php:59
+msgid "Read more"
+msgstr "阅读更多"
+
+#: vc_templates/stm_services.php:61 partials/content-event-classic.php:81
+#: partials/content-loop_list.php:30
+msgid "read more"
+msgstr "阅读更多"
+
+#: partials/content-none.php:3
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "做好发第一帖的准备了吗？<a href=“%1$s”>从这里开始</a>。"
+
+#: inc/customizer/registration.php:1142
+msgid "Recaptcha"
+msgstr "验证码"
+
+#: woocommerce/myaccount/my-orders.php:42
+msgid "recent orders"
+msgstr "最近的订单"
+
+#: inc/tgm/tgm-plugin-activation.php:2177
+msgid "Recommended"
+msgstr "推荐的"
+
+#: inc/extras.php:1339 inc/customizer/registration.php:30
+msgid "Reddit"
+msgstr "Reddit 网"
+
+#: woocommerce/myaccount/form-login.php:108
+msgid "Register"
+msgstr "注册"
+
+#: partials/content-event-list-form.php:13
+#: woocommerce/myaccount/form-login.php:79
+msgid "register"
+msgstr "注册"
+
+#: inc/visual_composer.php:333 inc/customizer/controls/font-weight.php:18
+msgid "Regular"
+msgstr "常规"
+
+#: inc/customizer/controls/font-weight.php:19
+msgid "Regular Italic"
+msgstr "常规斜体"
+
+#: partials/news/parts/_related.php:23
+msgid "Related posts"
+msgstr "相关帖子"
+
+#: woocommerce/global/form-login.php:48
+msgid "Remember me"
+msgstr "记住我"
+
+#: partials/vc_parts/ico_countdown/contract.php:63
+msgid "Remove"
+msgstr "删除"
+
+#: woocommerce/cart/cart.php:114
+msgid "Remove this item"
+msgstr "删除此项目"
+
+#: inc/post_types-config.php:222 inc/customizer/registration.php:506
+msgid "Repeat"
+msgstr "重复"
+
+#: inc/post_types-config.php:224 inc/customizer/registration.php:508
+msgid "Repeat-X"
+msgstr "重复－X"
+
+#: inc/post_types-config.php:225 inc/customizer/registration.php:509
+msgid "Repeat-Y"
+msgstr "重复－Y"
+
+#: vc_templates/stm_crypto_charts.php:90
+msgid "Request failed"
+msgstr "请求已失败"
+
+#: inc/tgm/tgm-plugin-activation.php:2174
+msgid "Required"
+msgstr "请求的"
+
+#: inc/tgm/tgm-plugin-activation.php:2228
+msgid "Required Update not Available"
+msgstr "请求的更新不可用"
+
+#: inc/tgm/tgm-plugin-activation.php:2231
+msgid "Requires Update"
+msgstr "请求更新"
+
+#: inc/visual_composer.php:166
+msgid "Responsiveness"
+msgstr "响应"
+
+#: vc_templates/stm_crypto_charts.php:91
+msgid "Retry"
+msgstr "重试"
+
+#: inc/tgm/tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "返回请求的插件安装程序"
+
+#: inc/tgm/tgm-plugin-activation.php:825 inc/tgm/tgm-plugin-activation.php:3458
+msgid "Return to the Dashboard"
+msgstr "返回管理界面"
+
+#: inc/tgm/tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "返回管理界面"
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr "回头客？"
+
+#: partials/ico_listing/parts/market_and_returns.php:50
+msgid "Returns since ICO"
+msgstr "自ICO来的回报"
+
+#: inc/customizer/registration.php:223 inc/customizer/registration.php:255
+#: inc/customizer/registration.php:287 inc/customizer/registration.php:319
+#: inc/customizer/registration.php:351 inc/customizer/registration.php:383
+#: inc/customizer/registration.php:415 inc/customizer/registration.php:447
+msgid "Rewrite (URL text)"
+msgstr "重写（网址文本）"
+
+#: inc/visual_composer.php:294 inc/visual_composer.php:845
+#: inc/visual_composer.php:854 inc/visual_composer.php:1138
+#: inc/visual_composer.php:2381 inc/visual_composer.php:2664
+#: inc/customizer/registration.php:1006 inc/customizer/registration.php:1096
+msgid "Right"
+msgstr "右侧"
+
+#: functions.php:79
+msgid "Right Sidebar"
+msgstr "右侧边栏"
+
+#: partials/ico_listing/parts/rates.php:4
+msgid "Risk rate"
+msgstr "风险率"
+
+#: partials/ico_listing/parts/rates.php:5
+msgid "ROI rate"
+msgstr "投资回报率"
+
+#: inc/visual_composer.php:2607
+msgid "Role"
+msgstr "角色"
+
+#: inc/vc/modules/ico_countdown.php:74
+msgid "Sale tokens price (number format)"
+msgstr "销售代币价格（数字格式）"
+
+#: inc/vc/modules/ico_countdown.php:83
+msgid "Sale tokens price 1"
+msgstr "销售代币价格 1"
+
+#: inc/vc/modules/ico_countdown.php:97
+msgid "Sale tokens price 2"
+msgstr "销售代币价格 2"
+
+#: inc/vc/modules/ico_countdown.php:92
+msgid "Sale tokens price label 1"
+msgstr "销售代币价格标签 1"
+
+#: inc/vc/modules/ico_countdown.php:106
+msgid "Sale tokens price label 2"
+msgstr "销售代币价格标签 2"
+
+#: inc/visual_composer.php:661
+msgid "Schedule"
+msgstr "时间表"
+
+#: partials/ico_listing/parts/screenshots.php:9
+msgid "Screenshots"
+msgstr "屏幕截图"
+
+#: partials/vc_parts/ico_search/style_1.php:6
+msgid "Search ICO Name"
+msgstr "搜索ICO名称"
+
+#. 1: separator, 2: search phrase
+#: inc/extras.php:383
+msgid "Search Results"
+msgstr "搜索结果"
+
+#: searchform.php:2
+msgid "Search..."
+msgstr "搜索..."
+
+#: inc/visual_composer.php:886 inc/visual_composer.php:987
+#: inc/visual_composer.php:1004 inc/visual_composer.php:1023
+#: inc/visual_composer.php:1336
+msgid "Secondary"
+msgstr "次要"
+
+#: inc/customizer/registration.php:650
+msgid "Secondary Font Family"
+msgstr "次要字体库"
+
+#: partials/vc_parts/ico_countdown/custom.php:55
+#: partials/vc_parts/ico_countdown/contract.php:93
+msgid "Seconds"
+msgstr "秒"
+
+#: inc/customizer/registration.php:1151
+msgid "Secret key"
+msgstr "密钥"
+
+#: inc/visual_composer.php:330 inc/visual_composer.php:1537
+msgid "Select"
+msgstr "选择"
+
+#: woocommerce/cart/shipping-calculator.php:64
+msgid "Select a state&hellip;"
+msgstr "选择一个州&hellip;"
+
+#: inc/visual_composer.php:378
+msgid "Select button color."
+msgstr "选择按钮颜色。"
+
+#: inc/crypterio/graph.php:21
+msgid "Select currency"
+msgstr "选择货币"
+
+#: inc/crypterio/converter.php:27
+msgid "Select currency 1"
+msgstr "选择货币 1"
+
+#: inc/crypterio/converter.php:40
+msgid "Select currency 2"
+msgstr "选择货币 2"
+
+#: inc/visual_composer.php:404
+msgid "Select custom background color for your element on hover."
+msgstr "为悬停时的元素选择自定义背景颜色。"
+
+#: inc/visual_composer.php:415
+msgid "Select custom color for icon."
+msgstr "选择图标的自定义颜色。"
+
+#: inc/crypterio/functions.php:574
+msgid "Select end date"
+msgstr "选择结束日期"
+
+#: inc/visual_composer.php:368
+msgid "Select gap between grid elements."
+msgstr "选择栅格元素之间的间隙。"
+
+#: inc/crypterio/functions.php:518
+msgid "Select ICO category"
+msgstr "选择 ICO 类别"
+
+#: inc/visual_composer.php:2257
+msgid "Select speakers"
+msgstr "选择扬声器"
+
+#: inc/crypterio/functions.php:564
+msgid "Select start date"
+msgstr "选择开始日期"
+
+#: inc/customizer/controls/font-weight.php:22
+msgid "Semi-Bold"
+msgstr "半粗体"
+
+#: inc/visual_composer.php:335
+msgid "Semi-bold"
+msgstr "半粗体"
+
+#: inc/customizer/controls/font-weight.php:23
+msgid "Semi-Bold Italic"
+msgstr "半粗斜体"
+
+#: inc/vc/modules/pricing_table.php:33
+msgid "Separator"
+msgstr "分隔符"
+
+#: inc/admin/product_registration/screens/system_status.php:75
+#: inc/admin/product_registration/screens/system_status.php:79
+msgid "Server Environment"
+msgstr "服务器环境"
+
+#: inc/admin/product_registration/screens/system_status.php:84
+msgid "Server Info:"
+msgstr "服务器信息："
+
+#: inc/post_types-config.php:37 inc/customizer/registration.php:242
+msgid "Service"
+msgstr "服务"
+
+#: inc/post_types-config.php:38 inc/visual_composer.php:2306
+#: inc/visual_composer.php:2596 vc_templates/stm_portfolio_information.php:37
+#: inc/customizer/registration.php:236 inc/customizer/registration.php:247
+msgid "Services"
+msgstr "服务"
+
+#: inc/vc/modules/services_grid.php:8 inc/vc/modules/services_grid.php:11
+msgid "Services Grid"
+msgstr "服务网格"
+
+#: inc/visual_composer.php:2847
+msgid "Services With Tabs"
+msgstr "带标签的服务"
+
+#: inc/tgm/tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "改为设置 parent_slug 配置变量。"
+
+#: inc/admin/product_registration/screens/install_demo.php:112
+msgid "Setup Layout"
+msgstr "设置布局"
+
+#: partials/content-vacancy_bottom.php:13 partials/content-post_bottom.php:10
+#: partials/news/parts/_share.php:8 partials/news/parts/_share.php:16
+#: partials/news/parts/_share.php:20
+msgid "Share"
+msgstr "分享"
+
+#: woocommerce/checkout/form-shipping.php:28
+msgid "ship to a different address?"
+msgstr "运送到不同的地址？"
+
+#: woocommerce/cart/cart-totals.php:55 woocommerce/cart/cart-totals.php:56
+msgid "Shipping"
+msgstr "运送"
+
+#: inc/customizer/registration.php:1062
+msgid "Shop Pages"
+msgstr "商店页面"
+
+#: functions.php:98
+msgid "Shop Sidebar"
+msgstr "商店侧边栏"
+
+#: inc/visual_composer.php:1844
+msgid "Short"
+msgstr "短"
+
+#: partials/ico_listing/parts/short_review.php:18
+msgid "Short review"
+msgstr "简短评论"
+
+#: inc/vc/modules/ico_countdown.php:165
+msgid "Show"
+msgstr "显示"
+
+#: inc/visual_composer.php:2554
+msgid "Show Button"
+msgstr "显示按钮"
+
+#: inc/visual_composer.php:2369
+msgid "Show legend?"
+msgstr "显示图例？"
+
+#: inc/visual_composer.php:2937
+msgid "Show link"
+msgstr "显示链接"
+
+#: inc/visual_composer.php:2069 inc/visual_composer.php:2524
+msgid "Show Load More Button"
+msgstr "显示加载更多按钮"
+
+#: inc/visual_composer.php:2060
+msgid "Show Pagination"
+msgstr "显示分页"
+
+#: inc/crypterio/graph.php:104
+msgid "Show periods"
+msgstr "显示时间段"
+
+#: inc/vc/modules/ico_countdown.php:161
+msgid "Show popup"
+msgstr "显示弹出"
+
+#: inc/visual_composer.php:2931
+msgid "Show title"
+msgstr "显示标题"
+
+#: inc/visual_composer.php:2671
+msgid "Show Title Icons"
+msgstr "显示标题图标"
+
+#: inc/visual_composer.php:2925
+msgid "Show year"
+msgstr "显示年份"
+
+#: woocommerce/loop/result-count.php:41
+#, php-format
+msgid "Showing all <strong>%d</strong> results"
+msgstr "显示所有结果 <strong>%d</strong>"
+
+#: woocommerce/loop/result-count.php:39
+msgid "Showing the single result"
+msgstr "显示单一结果"
+
+#: inc/customizer/registration.php:1003 inc/customizer/registration.php:1093
+msgid "Sidebar - Position"
+msgstr "侧边栏 - 位置"
+
+#: functions.php:64
+msgid "Sidebar Menu 1"
+msgstr "侧边栏菜单 1"
+
+#: functions.php:65
+msgid "Sidebar Menu 2"
+msgstr "侧边栏菜单 2"
+
+#: functions.php:66
+msgid "Sidebar Menu 3"
+msgstr "侧边栏菜单 3"
+
+#: inc/customizer/registration.php:977 inc/customizer/registration.php:1026
+#: inc/customizer/registration.php:1067
+msgid "Sidebar Type"
+msgstr "侧边栏类型"
+
+#: woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order."
+" You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+"由于您的浏览器不支持 JavaScript，或者它已被禁用，请确保您在下订单之前点击 <em>更新总数</em> "
+"按钮。如果您未点击，可能导致向您收取超额费用。"
+
+#: hb_templates/mobile/mobile.php:31
+msgid "Site Logo"
+msgstr "网站标志"
+
+#: partials/ico_listing/parts/rates.php:6
+msgid "Site Score"
+msgstr "网站评分"
+
+#: inc/customizer/registration.php:46
+msgid "Site Settings"
+msgstr "网站设置"
+
+#: inc/admin/product_registration/screens/system_status.php:25
+msgid "Site URL:"
+msgstr "网址：："
+
+#: inc/post_types-config.php:426
+msgid "Size"
+msgstr "尺寸"
+
+#: inc/customizer/registration.php:134
+msgid "Skin"
+msgstr "皮"
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr "库存单位："
+
+#: inc/post_types-config.php:372 inc/extras.php:1342
+#: inc/visual_composer.php:691 inc/visual_composer.php:1524
+#: inc/customizer/registration.php:34
+msgid "Skype"
+msgstr "Skype"
+
+#: vc_templates/stm_contact.php:51
+msgid "Skype: "
+msgstr "Skype: "
+
+#: inc/visual_composer.php:119
+msgid "Slick slider"
+msgstr "滑动滑块"
+
+#: inc/visual_composer.php:120
+msgid "Slick slider 2"
+msgstr "滑动滑块 2"
+
+#: inc/visual_composer.php:1224 inc/visual_composer.php:1661
+msgid "Slider autoplay"
+msgstr "滑块自动播放"
+
+#: inc/visual_composer.php:1247 inc/visual_composer.php:1683
+msgid "Slider loop"
+msgstr "滑块循环"
+
+#: inc/visual_composer.php:1693
+msgid "Slider navigation"
+msgstr "滑块导航"
+
+#: inc/vc/modules/post_slider.php:11
+msgid "Slider with Posts"
+msgstr "带有帖子的滑块"
+
+#: inc/visual_composer.php:1292
+msgid "Small Screen"
+msgstr "小屏幕"
+
+#: inc/visual_composer.php:1258 inc/visual_composer.php:1707
+msgid "Smart Speed"
+msgstr "智能速度"
+
+#: inc/customizer/registration.php:620
+msgid "Social Icons Position in Footer (Column #)"
+msgstr "社交图标的位置在页脚（列＃）"
+
+#: inc/widgets/socials.php:65
+msgid "Social Network"
+msgstr "社交网络"
+
+#: partials/content-staff_bottom.php:25
+msgid "Social Profiles"
+msgstr "社交简介"
+
+#. Base ID
+#: inc/customizer/registration.php:1158 inc/widgets/socials.php:11
+msgid "Socials"
+msgstr "社交"
+
+#: inc/crypterio/functions.php:533
+msgid "Soft Cap value (ETH)"
+msgstr "软上限值（ETH）"
+
+#: inc/vc/modules/ico_countdown.php:45
+msgid "Softcap end date"
+msgstr "软上限结束日期"
+
+#: inc/vc/modules/ico_countdown.php:120
+msgid "Softcap label"
+msgstr "软上限标签"
+
+#: inc/vc/modules/ico_countdown.php:125
+msgid "Softcap label 2"
+msgstr "软上限标签 2"
+
+#: inc/vc/modules/ico_countdown.php:115
+msgid "Softcap price (number format)"
+msgstr "软上限价格（数字格式）"
+
+#: partials/ico_listing/parts/token_sale.php:7
+msgid "Sold on pre-sale"
+msgstr "預售時期所售出"
+
+#: inc/tgm/tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "插件API出现错误。"
+
+#: partials/content-none.php:7
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉，未找到与您的搜索字词相匹配的内容。请用其它关键字再试一次。"
+
+#: inc/tgm/tgm-plugin-activation.php:377
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] "抱歉，您没有激活 %1$s 插件的正确权限。"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:347
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] "抱歉，您没有安装 %1$s 插件的正确权限。"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:362
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] "抱歉，您没有更新 %1$s 插件的正确权限。"
+msgstr[1] ""
+
+#: woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr "对不起，似乎没有可供您的州使用的付款方式。如果您需要帮助或希望另行安排，请联系我们。"
+
+#: inc/vc/modules/news_carousel.php:40 inc/vc/modules/news_widget.php:40
+msgid "Sort by:"
+msgstr "排序方式："
+
+#: inc/extras.php:1340 inc/customizer/registration.php:31
+msgid "Soundcloud"
+msgstr "声云"
+
+#: inc/tgm/tgm-plugin-activation.php:2456
+msgid "Source"
+msgstr "资源"
+
+#: inc/visual_composer.php:1274
+msgid "Spacing"
+msgstr "间距"
+
+#: inc/crypterio/functions.php:443
+msgid "Sponsored"
+msgstr "赞助"
+
+#: inc/post_types-config.php:53 inc/post_types-config.php:54
+#: inc/customizer/registration.php:300 inc/customizer/registration.php:306
+#: inc/customizer/registration.php:311
+msgid "Staff"
+msgstr "员工"
+
+#: inc/visual_composer.php:2714
+msgid "Staff Bottom"
+msgstr "员工下限"
+
+#: inc/visual_composer.php:1933
+msgid "Staff List"
+msgstr "员工名单"
+
+#: inc/visual_composer.php:1853 inc/visual_composer.php:1873
+msgid "Staff Per Row"
+msgstr "每行员工数"
+
+#: inc/vc/modules/panel_box.php:37
+msgid "Start Color"
+msgstr "开始颜色"
+
+#: woocommerce/cart/shipping-calculator.php:57
+#: woocommerce/cart/shipping-calculator.php:63
+#: woocommerce/cart/shipping-calculator.php:76
+msgid "State / county"
+msgstr "州/国家"
+
+#: inc/customizer/registration.php:122
+msgid "Static Front Page"
+msgstr "静态首页"
+
+#: inc/visual_composer.php:1169
+msgid "Stats Counter"
+msgstr "统计计数器"
+
+#: woocommerce/myaccount/my-orders.php:27
+#: inc/tgm/tgm-plugin-activation.php:2462
+#: inc/admin/white_list/templates/i18n.php:15
+msgid "Status"
+msgstr "状态"
+
+#: inc/visual_composer.php:502 inc/visual_composer.php:523
+#: inc/visual_composer.php:546 inc/visual_composer.php:604
+#: inc/visual_composer.php:818 inc/visual_composer.php:825
+#: inc/visual_composer.php:1171 inc/visual_composer.php:1178
+#: inc/visual_composer.php:1276 inc/visual_composer.php:1308
+#: inc/visual_composer.php:1359 inc/visual_composer.php:1443
+#: inc/visual_composer.php:1473 inc/visual_composer.php:1547
+#: inc/visual_composer.php:1569 inc/visual_composer.php:1607
+#: inc/visual_composer.php:1800 inc/visual_composer.php:1809
+#: inc/visual_composer.php:1936 inc/visual_composer.php:1996
+#: inc/visual_composer.php:2145 inc/visual_composer.php:2278
+#: inc/visual_composer.php:2309 inc/visual_composer.php:2354
+#: inc/visual_composer.php:2508 inc/visual_composer.php:2842
+#: inc/visual_composer.php:2849 inc/visual_composer.php:2976
+#: inc/visual_composer.php:3029 inc/visual_composer.php:3071
+#: inc/crypterio/graph.php:17 inc/crypterio/converter.php:17
+#: inc/vc/modules/ico_countdown.php:11
+msgid "STM"
+msgstr "STM"
+
+#: inc/visual_composer.php:1943 inc/visual_composer.php:1956
+#: inc/visual_composer.php:1969 inc/visual_composer.php:1982
+#: inc/visual_composer.php:2089 inc/visual_composer.php:2104
+#: inc/visual_composer.php:2118 inc/visual_composer.php:2540
+#: inc/visual_composer.php:2580
+msgid "STM Post Partials"
+msgstr "STM帖子偏好"
+
+#: inc/visual_composer.php:1545
+msgid "STM Sidebar"
+msgstr "STM侧边栏"
+
+#: inc/visual_composer.php:2716
+msgid "STM Staff Partials"
+msgstr "STM员工偏好"
+
+#: inc/visual_composer.php:2690 inc/visual_composer.php:2703
+msgid "STM Vacancy Partials"
+msgstr "STM空缺偏好"
+
+#: inc/visual_composer.php:78
+msgid "Stretch column"
+msgstr "伸展列"
+
+#: inc/visual_composer.php:82
+msgid "Stretch out to the left"
+msgstr "向左伸展"
+
+#: inc/visual_composer.php:83
+msgid "Stretch out to the right"
+msgstr "向右伸展"
+
+#: inc/visual_composer.php:314
+msgid "Stripe - Position"
+msgstr "条纹 - 位置"
+
+#: inc/visual_composer.php:194 inc/visual_composer.php:550
+#: inc/visual_composer.php:608 inc/visual_composer.php:747
+#: inc/visual_composer.php:829 inc/visual_composer.php:1086
+#: inc/visual_composer.php:1153 inc/visual_composer.php:1199
+#: inc/visual_composer.php:1363 inc/visual_composer.php:1477
+#: inc/visual_composer.php:1651 inc/visual_composer.php:1828
+#: inc/visual_composer.php:2016 inc/visual_composer.php:2544
+#: inc/visual_composer.php:2638 inc/visual_composer.php:2738
+#: inc/visual_composer.php:2956 inc/visual_composer.php:3084
+#: inc/customizer/registration.php:542
+msgid "Style"
+msgstr "样式"
+
+#: inc/customizer/registration.php:186
+msgid "Style &amp; Settings"
+msgstr "样式 &amp; 设置"
+
+#: inc/post_types-config.php:170 inc/customizer/registration.php:464
+msgid "Style - Inverse"
+msgstr "样式 - 逆"
+
+#: inc/visual_composer.php:197 inc/visual_composer.php:553
+#: inc/visual_composer.php:611 inc/visual_composer.php:750
+#: inc/visual_composer.php:832 inc/visual_composer.php:1089
+#: inc/visual_composer.php:1156 inc/visual_composer.php:1202
+#: inc/visual_composer.php:1366 inc/visual_composer.php:1480
+#: inc/visual_composer.php:1654 inc/visual_composer.php:2547
+#: inc/visual_composer.php:2641 inc/visual_composer.php:2750
+#: inc/visual_composer.php:2760 inc/visual_composer.php:2959
+#: inc/customizer/registration.php:546
+msgid "Style 1"
+msgstr "样式 1"
+
+#: inc/visual_composer.php:198 inc/visual_composer.php:554
+#: inc/visual_composer.php:612 inc/visual_composer.php:751
+#: inc/visual_composer.php:833 inc/visual_composer.php:1090
+#: inc/visual_composer.php:1157 inc/visual_composer.php:1203
+#: inc/visual_composer.php:1367 inc/visual_composer.php:1481
+#: inc/visual_composer.php:1655 inc/visual_composer.php:2548
+#: inc/visual_composer.php:2642 inc/visual_composer.php:2751
+#: inc/visual_composer.php:2761 inc/visual_composer.php:2960
+#: inc/customizer/registration.php:547
+msgid "Style 2"
+msgstr "样式 2"
+
+#: inc/visual_composer.php:613 inc/visual_composer.php:752
+#: inc/visual_composer.php:834 inc/visual_composer.php:1091
+#: inc/visual_composer.php:1204 inc/visual_composer.php:1368
+#: inc/visual_composer.php:2549
+msgid "Style 3"
+msgstr "样式 3"
+
+#: inc/visual_composer.php:614 inc/visual_composer.php:753
+#: inc/visual_composer.php:835
+msgid "Style 4"
+msgstr "样式 4"
+
+#: inc/visual_composer.php:754
+msgid "Style 5"
+msgstr "样式 5"
+
+#: inc/visual_composer.php:755
+msgid "Style 6"
+msgstr "样式 6"
+
+#: inc/visual_composer.php:3005
+msgid "Style Code"
+msgstr "样式代码"
+
+#: inc/visual_composer.php:1647 inc/visual_composer.php:2861
+#: inc/visual_composer.php:3013
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr "对特定的内容元素进行不同的样式设计 - 添加一个分类并在自定义CSS中引用它。"
+
+#: inc/visual_composer.php:2644 inc/visual_composer.php:2656
+#: inc/visual_composer.php:2667 inc/visual_composer.php:2676
+msgid "Style settings"
+msgstr "样式设置"
+
+#. Author of the theme
+msgid "StylemixThemes"
+msgstr "StylemixThemes"
+
+#: partials/vc_parts/ico_countdown/contract.php:259
+#: inc/admin/product_registration/screens/startup.php:60
+msgid "Submit"
+msgstr "提交"
+
+#: inc/admin/product_registration/screens/support.php:36
+msgid "Submit a ticket"
+msgstr "提交一次请求"
+
+#: inc/visual_composer.php:204 inc/visual_composer.php:302
+#: inc/visual_composer.php:1918
+msgid "Subtitle"
+msgstr "字幕"
+
+#: inc/visual_composer.php:308
+msgid "Subtitle - Color"
+msgstr "字幕－颜色"
+
+#: woocommerce/checkout/review-order.php:63 woocommerce/cart/cart-totals.php:33
+#: woocommerce/cart/cart-totals.php:34
+msgid "Subtotal"
+msgstr "小计"
+
+#: inc/admin/product_registration/screens/system_status.php:146
+msgid "SUHOSIN Installed:"
+msgstr "SUHOSIN 已安装："
+
+#: inc/admin/product_registration/screens/system_status.php:147
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.\n"
+"\t\t\tIf enabled on your server, Suhosin may need to be configured to "
+"increase its data submission limits."
+
+#: inc/admin/product_registration/screens/system_status.php:211
+msgid "Suhosin Post Max Value Length:"
+msgstr "Suhosin 帖子的最大值长度："
+
+#: inc/admin/product_registration/screens/system_status.php:153
+msgid "Suhosin Post Max Vars:"
+msgstr "Suhosin 帖子的最大变量："
+
+#: inc/admin/product_registration/screens/system_status.php:182
+msgid "Suhosin Request Max Vars:"
+msgstr "Suhosin 要求的最大变量："
+
+#: inc/admin/product_registration/includes/admin_screens.php:65
+#: inc/admin/product_registration/includes/admin_screens.php:66
+#: inc/admin/product_registration/includes/admin_screens.php:164
+msgid "Support"
+msgstr "支持"
+
+#: inc/admin/product_registration/includes/admin_screens.php:167
+msgid "System Status"
+msgstr "系统状况"
+
+#: inc/admin/product_registration/includes/admin_screens.php:55
+#: inc/admin/product_registration/includes/admin_screens.php:56
+msgid "System status"
+msgstr "系统状况"
+
+#: inc/vc/modules/pricing_table.php:11
+msgid "Table with prices"
+msgstr "价格表"
+
+#: partials/vc_parts/ico_grid/upcoming.php:88
+#: partials/vc_parts/ico_grid/finished.php:86
+#: partials/vc_parts/ico_grid/live.php:96
+msgid "TBA"
+msgstr "TBA"
+
+#: inc/visual_composer.php:1834
+msgid "Team"
+msgstr "团队"
+
+#: inc/crypterio/functions.php:648 inc/crypterio/functions.php:649
+#: partials/ico_listing/parts/short_review.php:5
+msgid "Team From"
+msgstr "团队来自"
+
+#: inc/extras.php:1347 inc/customizer/registration.php:32
+msgid "Telegram"
+msgstr "电报"
+
+#: inc/crypterio/functions.php:568
+msgid "Telegram group"
+msgstr "电报群组"
+
+#: inc/customizer/registration.php:1051
+msgid "Terms and Conditions Page Link"
+msgstr "条款和条件页面链接"
+
+#: inc/post_types-config.php:69 inc/customizer/registration.php:370
+msgid "Testimonial"
+msgstr "见证"
+
+#: inc/post_types-config.php:70 inc/visual_composer.php:1176
+#: inc/customizer/registration.php:364 inc/customizer/registration.php:375
+msgid "Testimonials"
+msgstr "见证"
+
+#: inc/visual_composer.php:1357
+msgid "Testimonials Carousel"
+msgstr "见证轮播"
+
+#: inc/visual_composer.php:1441
+msgid "Testimonials Pager"
+msgstr "见证页面调度程序"
+
+#: inc/visual_composer.php:1188 inc/visual_composer.php:1393
+msgid "Testimonials Per Row"
+msgstr "每行的见证数"
+
+#: inc/visual_composer.php:780 inc/visual_composer.php:1070
+#: inc/vc/modules/pricing_table.php:53
+msgid "Text"
+msgstr "文本"
+
+#: inc/vc/modules/ratings.php:11
+msgid "Text Rating"
+msgstr "文本评级"
+
+#: inc/customizer/registration.php:736 inc/customizer/registration.php:779
+#: inc/customizer/registration.php:822 inc/customizer/registration.php:865
+#: inc/customizer/registration.php:908 inc/customizer/registration.php:951
+msgid "Text Transform"
+msgstr "文本转换"
+
+#: inc/admin/product_registration/screens/startup.php:39
+#, php-format
+msgid ""
+"Thank you for choosing %s! Please register it to enable the %1$s demos and "
+"theme auto updates. The instructions below must be followed exactly."
+msgstr "感谢您选择 %s！请注册来启用 %1$s 演示和主题自动更新。必须严格遵循以下说明。"
+
+#: inc/crypterio/functions.php:315 inc/crypterio/functions.php:338
+msgid ""
+"Thank you, your data has been submitted. Email will be sent after approval."
+msgstr "谢谢, 您的数据已经提交。电子邮件将在批准后发送。"
+
+#: inc/crypterio/functions.php:775
+msgid "Thank you, your ICO has been submitted."
+msgstr "谢谢您, 您的 ICO 已经提交。"
+
+#: inc/crypterio/functions.php:742
+msgid ""
+"Thank you, your ICO has been submitted. Email will be sent after approval."
+msgstr "谢谢您, 您的 ICO 已经提交。电子邮件将在批准后发送。"
+
+#: inc/admin/product_registration/screens/system_status.php:100
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr "您的网站在超时（为避免服务器锁定）之前花费在单个操作上的时间（以秒为单位）"
+
+#: inc/updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "API “set” 是一个必要参数。"
+
+#: inc/visual_composer.php:1597
+msgid "The area of screen from top where animation effects will start working."
+msgstr "动画效果开始运行的顶部屏幕区域。"
+
+#: inc/admin/product_registration/screens/system_status.php:69
+msgid "The current language used by WordPress. Default = English"
+msgstr "WordPress所使用的当前语言。默认=英文"
+
+#: inc/updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "Envato Marketplace “项目 ID” 是一个必要参数。"
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "默认情况下，结账页面上将使用以下地址。"
+
+#: inc/tgm/tgm-plugin-activation.php:352
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "以下插件需要更新为最新版本，以确保与此主题的最大兼容性：%1$s。"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:400 inc/tgm/tgm-plugin-activation.php:2851
+msgid "The following plugin was activated successfully:"
+msgstr "以下插件已成功激活："
+
+#: inc/tgm/tgm-plugin-activation.php:372
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下推荐的插件目前处于非活动状态：%1$s。"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下所需的插件目前处于非活动状态：%1$s。"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:3389
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr "安装和激活过程即将开始。该过程可能需要花费一些时间，请耐心等待。"
+
+#: inc/tgm/tgm-plugin-activation.php:3385
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s 的安装已失败。"
+
+#: inc/tgm/tgm-plugin-activation.php:3395
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "安装过程即将开始。该过程可能需要花费一些时间，请耐心等待。"
+
+#: inc/admin/product_registration/screens/system_status.php:95
+msgid "The largest file size that can be contained in one post."
+msgstr "一个帖子中可以包含的最大文件大小。"
+
+#: inc/admin/product_registration/screens/system_status.php:244
+msgid ""
+"The largest file size that can be uploaded to your WordPress installation."
+msgstr "可以上传到您的WordPress安装的最大文件大小。"
+
+#: inc/admin/product_registration/screens/system_status.php:41
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr "您的网站一次可以使用的最大内存量（RAM）。"
+
+#: inc/admin/product_registration/screens/system_status.php:118
+#: inc/admin/product_registration/screens/system_status.php:154
+#: inc/admin/product_registration/screens/system_status.php:183
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr "为避免过载，您的服务器可以使用的单一功能的最大变量数量。"
+
+#: inc/visual_composer.php:1717 inc/visual_composer.php:2786
+#: inc/visual_composer.php:2794 inc/visual_composer.php:2855
+msgid "The number of items you want to see on the screen."
+msgstr "您希望在屏幕上看到的项目数量。"
+
+#: 404.php:11
+msgid "The page you are looking for does not exist."
+msgstr "您正在查找的页面不存在。"
+
+#: inc/tgm/tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr "远程插件包由多个文件组成，但这些文件未包含在一个文件夹中。"
+
+#: inc/tgm/tgm-plugin-activation.php:932
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr "远程插件包未包含具有所需段落的文件夹，且重命名无效。"
+
+#: inc/admin/product_registration/screens/system_status.php:26
+msgid "The root URL of your site."
+msgstr "您的网站根网址。"
+
+#: inc/admin/product_registration/screens/system_status.php:21
+msgid "The URL of your site's homepage."
+msgstr "您的网站首页网址。"
+
+#: inc/admin/product_registration/screens/system_status.php:233
+msgid "The version of MySQL installed on your hosting server."
+msgstr "您的托管服务器上所安装的MySQL版本。"
+
+#: inc/admin/product_registration/screens/system_status.php:89
+msgid "The version of PHP installed on your hosting server."
+msgstr "您的托管服务器上所安装的PHP版本。"
+
+#: inc/admin/product_registration/screens/system_status.php:31
+msgid "The version of WordPress installed on your site."
+msgstr "您的网站上所安装的WordPress版本。"
+
+#: inc/admin/product_registration/includes/admin_screens.php:161
+#: inc/admin/product_registration/includes/admin_screens.php:176
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: inc/visual_composer.php:381
+msgid "Theme Style 1"
+msgstr "主题样式 1"
+
+#: inc/visual_composer.php:382
+msgid "Theme Style 2"
+msgstr "主题样式 2"
+
+#: inc/visual_composer.php:383
+msgid "Theme Style 3"
+msgstr "主题样式 3"
+
+#: inc/visual_composer.php:384
+msgid "Theme Style 4"
+msgstr "主题样式 4"
+
+#: inc/tgm/tgm-plugin-activation.php:357
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "有可用于以下插件：%1$s 的更新。"
+msgstr[1] ""
+
+#: inc/visual_composer.php:331
+msgid "Thin"
+msgstr "细"
+
+#: inc/visual_composer.php:887 inc/visual_composer.php:988
+#: inc/visual_composer.php:1005 inc/visual_composer.php:1024
+#: inc/visual_composer.php:1337
+msgid "Third"
+msgstr "第三"
+
+#: inc/tgm/tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "需要更新此插件，以便与您的主题兼容。"
+
+#: inc/tgm/tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "此主题推荐以下插件：%1$s。"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:337
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "此主题需要以下插件：%1$s。"
+msgstr[1] ""
+
+#: inc/visual_composer.php:2467
+msgid "Three"
+msgstr "三"
+
+#: inc/visual_composer.php:126
+msgid "Thumbnail size"
+msgstr "缩略图大小"
+
+#: inc/crypterio/functions.php:600 partials/ico_listing/parts/token_sale.php:3
+msgid "Ticker"
+msgstr "交易代码"
+
+#: inc/admin/product_registration/screens/support.php:30
+msgid "Ticket System"
+msgstr "标签系统"
+
+#: inc/visual_composer.php:2023
+msgid "Tiles"
+msgstr "拼贴"
+
+#: inc/visual_composer.php:2236
+msgid "Time end"
+msgstr "时间结束"
+
+#: inc/visual_composer.php:2165
+msgid "Time Format"
+msgstr "时间格式"
+
+#: vc_templates/stm_countdown.php:30 vc_templates/stm_countdown.php:35
+#: partials/vc_parts/ico_countdown/custom.php:80
+#: partials/vc_parts/ico_countdown/contract.php:119
+msgid "Time is up, sorry!"
+msgstr "时间到了，抱歉！"
+
+#: inc/visual_composer.php:2230
+msgid "Time start"
+msgstr "时间开始"
+
+#: inc/visual_composer.php:506 inc/visual_composer.php:532
+#: inc/visual_composer.php:559 inc/visual_composer.php:620
+#: inc/visual_composer.php:715 inc/visual_composer.php:862
+#: inc/visual_composer.php:1097 inc/visual_composer.php:2204
+#: inc/visual_composer.php:2247 inc/visual_composer.php:2427
+#: inc/visual_composer.php:2475 inc/visual_composer.php:3033
+#: inc/crypterio/converter.php:21 inc/customizer/registration.php:208
+#: inc/customizer/registration.php:240 inc/customizer/registration.php:272
+#: inc/customizer/registration.php:304 inc/customizer/registration.php:336
+#: inc/customizer/registration.php:368 inc/customizer/registration.php:400
+#: inc/customizer/registration.php:432 inc/vc/modules/ico_countdown.php:15
+#: inc/vc/modules/ratings.php:33 inc/vc/modules/news_carousel.php:33
+#: inc/vc/modules/news_widget.php:33 inc/vc/modules/pricing_table.php:18
+msgid "Title"
+msgstr "标题"
+
+#: inc/visual_composer.php:882
+msgid "Title - Color"
+msgstr "标题 - 颜色"
+
+#: inc/visual_composer.php:894 inc/visual_composer.php:1343
+msgid "Title - Color Custom"
+msgstr "标题 - 颜色自定义"
+
+#: inc/visual_composer.php:868
+msgid "Title - Font size"
+msgstr "标题 - 字体大小"
+
+#: inc/visual_composer.php:875
+msgid "Title - Line Height"
+msgstr "标题 - 行高"
+
+#: inc/post_types-config.php:199
+msgid "Title Background Color"
+msgstr "标题背景颜色"
+
+#: inc/post_types-config.php:175
+msgid "Title Box Options"
+msgstr "标题框选项"
+
+#: inc/post_types-config.php:189 inc/customizer/registration.php:482
+msgid "Title Color"
+msgstr "标题颜色"
+
+#: inc/visual_composer.php:760
+msgid "Title Icon"
+msgstr "标题图标"
+
+#: inc/visual_composer.php:2913
+msgid "Title length"
+msgstr "标题长度"
+
+#: inc/post_types-config.php:194 inc/customizer/registration.php:486
+msgid "Title Line Color"
+msgstr "标题行颜色"
+
+#: inc/widgets/socials.php:70 inc/widgets/contacts.php:92
+msgid "Title:"
+msgstr "标题:"
+
+#: partials/content-event-grid.php:47 partials/content-event-classic.php:43
+#: partials/content-event-widgets.php:29 partials/content-event-info.php:70
+msgid "to"
+msgstr "至"
+
+#: inc/tgm/tgm-plugin-activation.php:2296
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "要激活 <span class=“计数””>(%s)</span>"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2290
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "要安装 <span class=“计数” >(%s)</span>"
+msgstr[1] ""
+
+#: inc/vc/modules/ico_countdown.php:60
+msgid "Token Buy Button"
+msgstr "代币购买按钮"
+
+#: inc/crypterio/functions.php:624 partials/ico_listing/parts/token_sale.php:14
+msgid "Token Issue"
+msgstr "发放代币"
+
+#: inc/crypterio/functions.php:542
+msgid "Token Price"
+msgstr "代币价格"
+
+#: partials/ico_listing/parts/token_sale.php:32
+#: inc/admin/product_registration/screens/install_demo.php:28
+msgid "Token Sale"
+msgstr "代币销售"
+
+#: partials/ico_listing/parts/ico_date_and_image.php:30
+#, php-format
+msgid "Token sale <strong>completed on %s</strong>"
+msgstr "代币销售<strong>完成于 %s</strong>"
+
+#: partials/ico_listing/parts/ico_date_and_image.php:23
+#, php-format
+msgid "Token sale <strong>is active until %s</strong>"
+msgstr "代币销售<strong>活跃直到 %s</strong>"
+
+#: partials/ico_listing/parts/ico_date_and_image.php:15
+#, php-format
+msgid "Token sale <strong>will start %s</strong>"
+msgstr "代币销售<strong>将开始 %s</strong>"
+
+#: inc/crypterio/functions.php:572
+msgid "Token sale end date"
+msgstr "代币销售的结束日期"
+
+#: inc/crypterio/functions.php:562
+msgid "Token sale start date"
+msgstr "代币销售的开始日期"
+
+#: inc/vc/modules/wave_roadmap.php:17 inc/vc/modules/token_structure.php:17
+msgid "Token Structure"
+msgstr "代币结构"
+
+#: inc/vc/modules/token_structure.php:8
+msgid "Token structure"
+msgstr "代币结构"
+
+#: inc/crypterio/functions.php:552
+msgid "Token Type"
+msgstr "代币类型"
+
+#: partials/ico_listing/parts/token_sale.php:4
+msgid "Token type"
+msgstr "代币类型"
+
+#: inc/visual_composer.php:295 inc/visual_composer.php:318
+msgid "Top"
+msgstr "顶部"
+
+#: functions.php:63
+msgid "Top Menu"
+msgstr "顶部菜单"
+
+#: woocommerce/myaccount/my-orders.php:28
+#: woocommerce/checkout/review-order.php:31
+#: woocommerce/checkout/review-order.php:110 woocommerce/cart/cart.php:103
+#: woocommerce/cart/cart-totals.php:91 woocommerce/cart/cart-totals.php:92
+msgid "Total"
+msgstr "总计"
+
+#: woocommerce/cart/cart.php:36
+msgid "total"
+msgstr "总计"
+
+#: inc/crypterio/functions.php:547 partials/ico_listing/parts/token_sale.php:8
+msgid "Total Tokens"
+msgstr "总代币"
+
+#: inc/extras.php:1345 inc/customizer/registration.php:37
+msgid "Tumblr"
+msgstr "Tumblr 网"
+
+#: partials/news/parts/_share.php:12
+msgid "Tweet"
+msgstr "推文"
+
+#: inc/post_types-config.php:384 inc/extras.php:1326
+#: inc/visual_composer.php:673 inc/visual_composer.php:2618
+#: inc/customizer/registration.php:17
+msgid "Twitter"
+msgstr "Twitter 网"
+
+#: inc/crypterio/functions.php:582
+msgid "Twitter account"
+msgstr "Twitter 账户"
+
+#: inc/visual_composer.php:2419 inc/visual_composer.php:2462
+msgid "Two"
+msgstr "二"
+
+#: inc/visual_composer.php:176 inc/visual_composer.php:3075
+#: inc/tgm/tgm-plugin-activation.php:2457
+msgid "Type"
+msgstr "样式"
+
+#: inc/visual_composer.php:179
+msgid "Type 1"
+msgstr "样式：1"
+
+#: inc/visual_composer.php:180
+msgid "Type 2"
+msgstr "样式：2"
+
+#: inc/customizer/registration.php:62
+msgid "Typography"
+msgstr "活版印刷"
+
+#: inc/customizer/controls/font-weight.php:28
+msgid "Ultra Bold"
+msgstr "超粗体"
+
+#: inc/customizer/controls/font-weight.php:29
+msgid "Ultra Bold Italic"
+msgstr "超粗斜体"
+
+#: inc/customizer/controls/font-weight.php:12
+msgid "Ultra Light"
+msgstr "超细"
+
+#: inc/customizer/controls/font-weight.php:13
+msgid "Ultra Light Italic"
+msgstr "超细斜体"
+
+#: partials/vc_parts/ico_grid/live.php:129
+#, php-format
+msgid "Until %s"
+msgstr "至 %s"
+
+#: inc/crypterio/functions.php:434 partials/ico_listing/parts/related.php:4
+msgid "Upcoming"
+msgstr "即将开始的"
+
+#: inc/visual_composer.php:2003
+msgid "Upcoming Events"
+msgstr "即将举行的活动"
+
+#: taxonomy-stm_ico_listing_category.php:60 archive-stm_ico_listing.php:64
+msgid "Upcoming ICO"
+msgstr "即将到来的ICO"
+
+#: inc/tgm/tgm-plugin-activation.php:2628
+msgid "Update"
+msgstr "更新"
+
+#: inc/tgm/tgm-plugin-activation.php:2293
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "更新可用<span class=“计数”>(%s)</span>"
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2234
+msgid "Update recommended"
+msgstr "建议更新"
+
+#: inc/tgm/tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "需要更新"
+
+#: woocommerce/cart/shipping-calculator.php:98
+msgid "Update Totals"
+msgstr "更新总计"
+
+#: woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr "更新总计"
+
+#: inc/tgm/tgm-plugin-activation.php:3382
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "正在更新插件 %1$s (%2$d/%3$d)"
+
+#: inc/tgm/tgm-plugin-activation.php:2589
+msgid "Upgrade message from the plugin author:"
+msgstr "升级来自插件作者的消息："
+
+#: partials/vc_parts/ico_countdown/contract.php:62
+msgid "Upload"
+msgstr "上传"
+
+#: inc/customizer/controls/text-transform.php:14
+msgid "Uppercase"
+msgstr "大写"
+
+#: inc/crypterio/graph.php:80
+msgid "USD chart border color"
+msgstr "美元图表边框颜色"
+
+#: inc/crypterio/graph.php:74
+msgid "USD chart fill color"
+msgstr "美元图表填色"
+
+#: inc/crypterio/graph.php:60
+msgid "USD price decimals number"
+msgstr "美元价格小数数字"
+
+#: woocommerce/global/form-login.php:34
+msgid "Username or email"
+msgstr "用户名或电子邮件"
+
+#: inc/post_types-config.php:46 inc/visual_composer.php:1807
+#: inc/customizer/registration.php:268 inc/customizer/registration.php:279
+msgid "Vacancies"
+msgstr "空缺"
+
+#: inc/post_types-config.php:45 inc/customizer/registration.php:274
+msgid "Vacancy"
+msgstr "空缺"
+
+#: inc/visual_composer.php:2701
+msgid "Vacancy Bottom"
+msgstr "空缺下限"
+
+#: inc/visual_composer.php:2482 inc/vc/modules/token_structure.php:21
+#: inc/vc/modules/token_structure.php:33
+msgid "Value"
+msgstr "值"
+
+#: inc/visual_composer.php:2406 inc/visual_composer.php:2449
+msgid "Values"
+msgstr "值"
+
+#: inc/post_types-config.php:79 inc/customizer/registration.php:996
+#: inc/customizer/registration.php:1045 inc/customizer/registration.php:1086
+msgid "VC Sidebar"
+msgstr "VC侧边栏"
+
+#: inc/post_types-config.php:80 inc/customizer/registration.php:980
+#: inc/customizer/registration.php:1029 inc/customizer/registration.php:1070
+msgid "VC Sidebars"
+msgstr "VC侧边栏"
+
+#: inc/tgm/tgm-plugin-activation.php:2461
+msgid "Version"
+msgstr "版本"
+
+#: inc/visual_composer.php:930
+msgid "Vertical Middle Align"
+msgstr "垂直中间对齐"
+
+#: inc/visual_composer.php:222
+msgid "Video Height"
+msgstr "视频高度"
+
+#: inc/admin/product_registration/screens/support.php:67
+msgid "Video Tutorials"
+msgstr "视频教程"
+
+#: inc/post_types-config.php:291
+msgid "Video URL (embed)"
+msgstr "视频网址（嵌入）"
+
+#: inc/visual_composer.php:213
+msgid "Video Width"
+msgstr "视频宽度"
+
+#: woocommerce/myaccount/my-orders.php:88
+msgid "View"
+msgstr "视图"
+
+#: partials/vc_parts/ico_grid/live.php:155
+#, php-format
+msgid "View all %s active ICO"
+msgstr "查看所有 %s 积极的 ICO"
+
+#: partials/vc_parts/ico_grid/finished.php:145
+#, php-format
+msgid "View all %s ended ICO"
+msgstr "查看所有 %s 结束的 ICO"
+
+#: partials/vc_parts/ico_grid/upcoming.php:146
+#, php-format
+msgid "View all %s upcoming ICO"
+msgstr "查看所有 %s 即将到来的 ICO"
+
+#: vc_templates/stm_staff_list.php:141 vc_templates/stm_staff_list.php:144
+msgid "view profile"
+msgstr "查看简介"
+
+#: inc/visual_composer.php:2747 inc/visual_composer.php:2757
+msgid "View Style"
+msgstr "查看样式"
+
+#: inc/visual_composer.php:1594
+msgid "Viewport Position (%)"
+msgstr "视窗位置(%)"
+
+#: inc/post_types-config.php:287
+msgid "Views"
+msgstr "视图"
+
+#: inc/extras.php:1329 inc/customizer/registration.php:20
+msgid "Vimeo"
+msgstr "视频媒体"
+
+#: inc/admin/product_registration/screens/support.php:90
+msgid "Visit Our Forum"
+msgstr "访问我们的论坛"
+
+#: inc/admin/product_registration/screens/system_status.php:277
+msgid "Visit plugin homepage"
+msgstr "访问插件首页"
+
+#: vc_templates/stm_partner.php:61
+msgid "visit website"
+msgstr "访问网站"
+
+#: inc/extras.php:1349 inc/customizer/registration.php:40
+msgid "Vk"
+msgstr "Vk"
+
+#: inc/admin/white_list/templates/i18n.php:7
+msgid "Wallet"
+msgstr "钱包"
+
+#: inc/vc/modules/ico_countdown.php:247
+msgid "Wallet description"
+msgstr "钱包说明"
+
+#: inc/admin/product_registration/screens/support.php:73
+msgid "Watch Videos"
+msgstr "观看视频"
+
+#: inc/vc/modules/wave_roadmap.php:8
+msgid "Wave Roadmap"
+msgstr "波形路线图"
+
+#: inc/admin/product_registration/screens/support.php:33
+msgid ""
+"We offer excellent support through our advanced ticket system. Make sure to "
+"register your purchase first to access our support services and other "
+"resources."
+msgstr "我们通过先进的标签系统提供卓越的支持。一定要先对您的购买进行注册，才能访问我们的支持服务和其他资源。"
+
+#: inc/admin/product_registration/screens/support.php:70
+#, php-format
+msgid ""
+"We recommend you to watch video tutorials before you start the theme "
+"customization. Our video tutorials can teach you the different aspects of "
+"using %s."
+msgstr "我们建议您在开始主题自定义之前先观看视频教程。我们的视频教程可以教您使用 %s 的不同方面。"
+
+#: inc/extras.php:147 inc/visual_composer.php:2602
+#: vc_templates/stm_portfolio_information.php:43
+#: partials/ico_listing/parts/ico_date_and_image.php:43
+msgid "Website"
+msgstr "网站"
+
+#: vc_templates/stm_crypto_charts.php:50
+msgid "week"
+msgstr "周"
+
+#: inc/extras.php:1346 inc/customizer/registration.php:38
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: inc/admin/product_registration/screens/system_status.php:36
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "您是否启用了WordPress多站点。"
+
+#: inc/post_types-config.php:13
+msgid "White list"
+msgstr "白名单"
+
+#: partials/ico_listing/parts/token_sale.php:10
+msgid "Whitelist"
+msgstr "白名单"
+
+#: inc/crypterio/functions.php:644
+#: partials/ico_listing/parts/ico_date_and_image.php:51
+msgid "Whitepaper"
+msgstr "白皮书"
+
+#: inc/vc/modules/ico_countdown.php:65
+msgid "Whitepaper link"
+msgstr "白皮书链接"
+
+#: inc/crypterio/functions.php:629
+msgid "Who cant participate"
+msgstr "谁不能参与"
+
+#: inc/post_types-config.php:430
+msgid "Wide"
+msgstr "宽"
+
+#: inc/visual_composer.php:2022
+msgid "Widget"
+msgstr "窗口小部件"
+
+#: inc/crypterio/graph.php:54 inc/customizer/registration.php:88
+#: inc/customizer/registration.php:555
+msgid "Width"
+msgstr "宽度"
+
+#: inc/visual_composer.php:168
+msgid "Width & Responsiveness"
+msgstr "宽度和响应"
+
+#: inc/visual_composer.php:2386
+msgid "Width (px)"
+msgstr "宽度（使用px）"
+
+#: inc/admin/product_registration/screens/system_status.php:11
+#: inc/admin/product_registration/screens/system_status.php:15
+msgid "WordPress Environment"
+msgstr "WordPress 环境"
+
+#: inc/tgm/tgm-plugin-activation.php:2193
+msgid "WordPress Repository"
+msgstr "WordPress 储存库"
+
+#: inc/customizer/registration.php:990 inc/customizer/registration.php:1039
+#: inc/customizer/registration.php:1080
+msgid "Wordpress Sidebar"
+msgstr "WordPress 侧边栏"
+
+#: inc/customizer/registration.php:979 inc/customizer/registration.php:1028
+#: inc/customizer/registration.php:1069
+msgid "Wordpress Sidebars"
+msgstr "WordPress 侧边栏"
+
+#: inc/post_types-config.php:61 inc/customizer/registration.php:338
+msgid "Work"
+msgstr "工作"
+
+#: inc/post_types-config.php:62 inc/customizer/registration.php:332
+#: inc/customizer/registration.php:343
+msgid "Works"
+msgstr "工作"
+
+#: inc/admin/product_registration/screens/system_status.php:57
+msgid "WP Debug Mode:"
+msgstr "WP调试模式："
+
+#: inc/admin/product_registration/screens/system_status.php:40
+msgid "WP Memory Limit:"
+msgstr "WP内存限制："
+
+#: inc/admin/product_registration/screens/system_status.php:35
+msgid "WP Multisite:"
+msgstr "WP多站点："
+
+#: inc/admin/product_registration/screens/system_status.php:30
+msgid "WP Version:"
+msgstr "WP版本："
+
+#: inc/visual_composer.php:2396
+msgid "X-axis values"
+msgstr "X－轴值"
+
+#: inc/extras.php:1350 inc/customizer/registration.php:41
+msgid "Xing"
+msgstr "Xing 网"
+
+#: inc/visual_composer.php:2434
+msgid "Y-axis values"
+msgstr "Y－轴值"
+
+#: inc/extras.php:1336 inc/customizer/registration.php:27
+msgid "Yahoo"
+msgstr "Yahoo 网"
+
+#: inc/visual_composer.php:527
+msgid "Year"
+msgstr "年"
+
+#: vc_templates/stm_crypto_charts.php:58
+msgid "year"
+msgstr "年"
+
+#: inc/visual_composer.php:147 inc/visual_composer.php:158
+#: inc/visual_composer.php:742 inc/visual_composer.php:1228
+#: inc/visual_composer.php:1251 inc/visual_composer.php:1406
+#: inc/visual_composer.php:1414 inc/visual_composer.php:1422
+#: inc/visual_composer.php:1619 inc/visual_composer.php:1627
+#: inc/visual_composer.php:1665 inc/visual_composer.php:1687
+#: inc/visual_composer.php:1697 inc/visual_composer.php:1891
+#: inc/visual_composer.php:1902 inc/visual_composer.php:2372
+#: inc/visual_composer.php:2558 inc/visual_composer.php:2674
+#: inc/visual_composer.php:2805 inc/vc/modules/wave_roadmap.php:48
+msgid "Yes"
+msgstr "是"
+
+#: partials/content-event-list-form.php:76
+msgid "You already has been joined the event."
+msgstr "您已经参加了此活动。"
+
+#: woocommerce/myaccount/my-address.php:70
+msgid "You have not set up this type of address yet."
+msgstr "您尚未设置此种类型的地址。"
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr "您必须登入才能结账。"
+
+#: inc/admin/product_registration/screens/startup.php:73
+msgid ""
+"You will see a green check mark for success, or a failure message if "
+"something went wrong. If it failed, please make sure you followed the steps "
+"above correctly."
+msgstr "您会看到代表成功的绿色勾选标记，或者出现错误时显示的失败消息。 如果失败，请确保您已经正确地执行了上述步骤。"
+
+#: inc/extras.php:113
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: inc/admin/product_registration/screens/system_status.php:50
+msgid ""
+"Your current memory limit is sufficient, but if you need to import classic "
+"demo content, the required memory limit is <strong>256MB.</strong>"
+msgstr "您当前的内存限制已足够，但如果您需要导入经典演示内容，则所需的内存限制为<strong>256MB。</strong>"
+
+#: inc/crypterio/functions.php:522
+msgid "Your E-mail"
+msgstr "您的电子邮件"
+
+#: inc/crypterio/functions.php:510
+msgid "Your name"
+msgstr "你的名字"
+
+#: woocommerce/checkout/review-order.php:25
+msgid "your order"
+msgstr "你的订单"
+
+#: inc/extras.php:1343 inc/visual_composer.php:2633
+#: inc/customizer/registration.php:35
+msgid "Youtube"
+msgstr "Youtube 网"
+
+#: inc/extras.php:1344 inc/customizer/registration.php:36
+msgid "Youtube Play"
+msgstr "Youtube 播放"
+
+#: inc/admin/product_registration/screens/system_status.php:228
+msgid ""
+"ZipArchive is required for importing demos. They are used to import and "
+"export zip files specifically for sliders."
+msgstr "导入演示需要ZipArchive。它们专门用于导入和导出滑块的zip文件。"
+
+#: inc/admin/product_registration/screens/system_status.php:227
+msgid "ZipArchive:"
+msgstr "ZipArchive:"
+
+#: inc/crypterio/functions.php:628 partials/ico_listing/parts/token_sale.php:12
+msgid "Сant participate"
+msgstr "不能参与"

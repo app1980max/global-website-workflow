@@ -1,0 +1,101 @@
+[
+    {
+        "crypterio-right-sidebar": [
+            "search-2",
+            "recent-posts-2",
+            "recent-comments-2",
+            "archives-2",
+            "categories-2",
+            "meta-2"
+        ],
+        "crypterio-footer-2": [
+            "nav_menu-2"
+        ],
+        "crypterio-footer-3": [
+            "recent-posts-3"
+        ],
+        "crypterio-footer-4": [
+            "text-2",
+            "mc4wp_form_widget-2",
+            "text-3"
+        ]
+    },
+    {
+        "search": {
+            "2": {
+                "title": ""
+            },
+            "_multiwidget": 1
+        },
+        "recent-posts": {
+            "2": {
+                "title": "",
+                "number": 5
+            },
+            "3": {
+                "title": "",
+                "number": 2,
+                "show_date": true
+            },
+            "_multiwidget": 1
+        },
+        "recent-comments": {
+            "2": {
+                "title": "",
+                "number": 5
+            },
+            "_multiwidget": 1
+        },
+        "archives": {
+            "2": {
+                "title": "",
+                "count": 0,
+                "dropdown": 0
+            },
+            "_multiwidget": 1
+        },
+        "categories": {
+            "2": {
+                "title": "",
+                "count": 0,
+                "hierarchical": 0,
+                "dropdown": 0
+            },
+            "_multiwidget": 1
+        },
+        "meta": {
+            "2": {
+                "title": ""
+            },
+            "_multiwidget": 1
+        },
+        "nav_menu": {
+            "2": {
+                "title": "Additional Pages",
+                "nav_menu": 5
+            },
+            "_multiwidget": 1
+        },
+        "text": {
+            "2": {
+                "title": "Subscribe",
+                "text": "<div class=\"footer_subscribe\">Sign up for Alerts, Special Offers, Education and Updates.<\/div>",
+                "filter": true,
+                "visual": true
+            },
+            "3": {
+                "title": "",
+                "text": "<div class=\"archive_link\"><a href=\"#\">Access Archive<\/a><\/div>",
+                "filter": true,
+                "visual": true
+            },
+            "_multiwidget": 1
+        },
+        "mc4wp_form_widget": {
+            "2": {
+                "title": ""
+            },
+            "_multiwidget": 1
+        }
+    }
+]

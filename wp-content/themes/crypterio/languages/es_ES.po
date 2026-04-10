@@ -1,0 +1,5398 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Crypterio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-09 12:12+0000\n"
+"PO-Revision-Date: 2018-07-09 12:30+0000\n"
+"Language-Team: Spanish (Spain)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Last-Translator: William Wallace <timur@stylemix.net>\n"
+"Language: es_ES"
+
+#: woocommerce/loop/result-count.php:43
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid ""
+"Showing <strong>%1$d&ndash;%2$d</strong> of <strong>%3$d</strong> results"
+msgstr ""
+"Mostrando <strong>%1$d&ndash;%2$d</strong> de <strong>%3$d</strong> "
+"resultados"
+
+#: inc/admin/product_registration/screens/system_status.php:138
+#: inc/admin/product_registration/screens/system_status.php:174
+#: inc/admin/product_registration/screens/system_status.php:203
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Max input vars limitation will truncate "
+"POST data such as menus. See: <a href=\"%3$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max input vars limit.</a>"
+msgstr ""
+"%1$s - Valor recomendado: %2$s.<br />El límite máximo de variables de "
+"entrada truncará los datos POST como los menús. Consulte: <a href=\"%3$s\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">Aumentar el límite de "
+"variables de entrada máximo.</a>"
+
+#: inc/admin/product_registration/screens/system_status.php:218
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Post Max Value Length limitation may "
+"prohibit the Theme Options data from being saved to your database. See: <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">Suhosin "
+"Configuration Info</a>."
+msgstr ""
+"%1$s - Valor recomendado: %2$s.<br />La limitación de la longitud máxima del "
+"valor Post puede impedir que los datos sobre Opciones del tema se guarden en "
+"su base de datos. Consulte: <a href=\"%3$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Info sobre la configuración de Suhosin</a>."
+
+#: inc/admin/product_registration/screens/system_status.php:106
+#, php-format
+msgid ""
+"%1$s - We recommend setting max execution time to at least 180. <br /> To "
+"import classic demo content, <strong>300</strong> seconds of max execution "
+"time is required.<br />See: <a href=\"%2$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max execution to PHP</a>"
+msgstr ""
+"%1$s - Recomendamos establecer el tiempo de ejecución máximo a al menos 180. "
+"<br /> Para importar contenido de prueba clásico, se requiere un tiempo de "
+"ejecución máximo de <strong>300</strong> segundos.<br /> Consulte: <a "
+"href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">Aumentar la "
+"ejecución máxima a PHP</a>"
+
+#: inc/tgm/tgm-plugin-activation.php:2242
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/extras.php:91
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s en %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:3390
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: inc/tgm/tgm-plugin-activation.php:3396
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: inc/tgm/tgm-plugin-activation.php:2519
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:2510
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:2514
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#: inc/extras.php:405 partials/mini-cart.php:3
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] "%d"
+msgstr[1] "%d"
+
+#: partials/content-event-list-form.php:56
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: archive-stm_ico_listing.php:29
+#, php-format
+msgid "%s %s ICO"
+msgstr "%s %s ICO"
+
+#: inc/tgm/tgm-plugin-activation.php:1888
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: vc_templates/stm_post_slider.php:40 vc_templates/stm_post_slider.php:74
+#: partials/news/crypto-blog.php:17
+#, php-format
+msgid "%s by <strong>%s</strong>"
+msgstr "%s por <strong>%s</strong>"
+
+#: inc/admin/product_registration/screens/support.php:15
+#, php-format
+msgid ""
+"%s comes with 6 months of free support for every license you purchase. "
+"Support can be extended through subscriptions via ThemeForest."
+msgstr ""
+"%s viene con 6 meses de ayuda gratuita por cada licencia que adquiera. El "
+"servicio puede prolongarse a través de suscripciones vía ThemeForest."
+
+#: partials/vc_parts/ico_grid/upcoming.php:121
+#, php-format
+msgid "%s days left"
+msgstr "Quedan %s días"
+
+#: partials/vc_parts/ico_grid/finished.php:119
+#, php-format
+msgid "%s ended on"
+msgstr "%s acabado"
+
+#: woocommerce/myaccount/my-orders.php:77
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s para %s elemento"
+msgstr[1] "%s para %s elementos"
+
+#: archive-stm_ico_listing.php:12
+#, php-format
+msgid "%s ICO"
+msgstr "%s ICO"
+
+#: partials/ico_listing/parts/market_and_returns.php:35
+#, php-format
+msgid "%s token price"
+msgstr "%s precio de token"
+
+#: inc/visual_composer.php:2116
+msgid "(STM) Event Map"
+msgstr "(STM) Inventario en mapa"
+
+#: partials/content-event-list-form.php:16
+msgid "* All fields are required"
+msgstr "* Todos los campos son obligatorios"
+
+#: inc/customizer/google-fonts.php:8 inc/customizer/controls/post-type.php:15
+msgid "--- Default ---"
+msgstr "--- Por defecto ---"
+
+#: inc/extras.php:407 partials/mini-cart.php:5
+msgid "0"
+msgstr "0"
+
+#: inc/visual_composer.php:349
+msgid "0px"
+msgstr "0 px"
+
+#: inc/customizer/registration.php:624
+msgid "1"
+msgstr "1"
+
+#: inc/crypterio/graph.php:38
+msgid "1 day"
+msgstr "1 día"
+
+#: inc/crypterio/graph.php:40
+msgid "1 month"
+msgstr "1 mes"
+
+#: inc/crypterio/graph.php:39
+msgid "1 week"
+msgstr "1 semana"
+
+#: inc/crypterio/graph.php:41
+msgid "1 year"
+msgstr "1 año"
+
+#: inc/visual_composer.php:355
+msgid "10px"
+msgstr "10 px"
+
+#: inc/visual_composer.php:356
+msgid "15px"
+msgstr "15 px"
+
+#: inc/visual_composer.php:350
+msgid "1px"
+msgstr "1 px"
+
+#: inc/customizer/registration.php:625
+msgid "2"
+msgstr "2"
+
+#: inc/visual_composer.php:357
+msgid "20px"
+msgstr "20 px"
+
+#: inc/visual_composer.php:358
+msgid "25px"
+msgstr "25 px"
+
+#: inc/visual_composer.php:351
+msgid "2px"
+msgstr "2 px"
+
+#: inc/customizer/registration.php:626
+msgid "3"
+msgstr "3"
+
+#: inc/visual_composer.php:359
+msgid "30px"
+msgstr "30 px"
+
+#: inc/visual_composer.php:360
+msgid "35px"
+msgstr "35 px"
+
+#: inc/visual_composer.php:352
+msgid "3px"
+msgstr "3 px"
+
+#: inc/customizer/registration.php:627
+msgid "4"
+msgstr "4"
+
+#: inc/visual_composer.php:361
+msgid "40px"
+msgstr "40 px"
+
+#: inc/visual_composer.php:362
+msgid "45px"
+msgstr "45 px"
+
+#: inc/visual_composer.php:353
+msgid "4px"
+msgstr "4 px"
+
+#: inc/visual_composer.php:363
+msgid "50px"
+msgstr "50 px"
+
+#: inc/visual_composer.php:364
+msgid "55px"
+msgstr "55 px"
+
+#: inc/visual_composer.php:354
+msgid "5px"
+msgstr "5 px"
+
+#: inc/visual_composer.php:365
+msgid "60px"
+msgstr "60 px"
+
+#: inc/visual_composer.php:3056 inc/visual_composer.php:3062
+msgid ""
+"<a href=\"http://www.latlong.net/convert-address-to-lat-long.html\">Here is "
+"a tool</a> where you can find Latitude & Longitude of your location"
+msgstr ""
+"<a href=\"http://www.latlong.net/convert-address-to-lat-long.html\">Aquí "
+"tiene una herramienta</a> con la que puede encontrar la latitud y longitud "
+"de su ubicación"
+
+#: inc/extras.php:101
+msgid "<i class=\"fa fa-reply\"></i> Reply"
+msgstr "<i class=\"fa fa-reply\"></i> Responder"
+
+#: inc/admin/product_registration/screens/startup.php:72
+msgid ""
+"A new page will load with a token number in a box. Copy the token number "
+"then come back to this registration page and paste it into the field below "
+"and click the <strong>Submit</strong> button."
+msgstr ""
+"Se cargará una página nueva con un número identificador dentro de un cuadro. "
+"Copie el número identificador, vuelva a la página de registro, péguelo en el "
+"campo inferior y haga clic en <strong>Enviar</strong>."
+
+#: inc/visual_composer.php:1967
+msgid "About Author"
+msgstr "Sobre el autor"
+
+#: inc/visual_composer.php:2688
+msgid "About Vacancy"
+msgstr "Sobre la vacante"
+
+#: inc/crypterio/functions.php:620 partials/ico_listing/parts/token_sale.php:15
+msgid "Accepts"
+msgstr "Acepta"
+
+#: inc/admin/white_list/templates/i18n.php:6
+msgid "Actions"
+msgstr "Acciones"
+
+#: inc/tgm/tgm-plugin-activation.php:2631
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/crypterio/functions.php:433 inc/tgm/tgm-plugin-activation.php:2222
+msgid "Active"
+msgstr "Activo"
+
+#: taxonomy-stm_ico_listing_category.php:64 archive-stm_ico_listing.php:68
+msgid "Active ICO"
+msgstr "ICO activo"
+
+#: inc/admin/product_registration/screens/system_status.php:250
+#: inc/admin/product_registration/screens/system_status.php:254
+msgid "Active Plugins"
+msgstr "Plugins activos"
+
+#: comments.php:50
+msgid "Add a Comment"
+msgstr "Añadir un comentario"
+
+#: inc/visual_composer.php:2769
+msgid "Add Category. If not added show all category"
+msgstr "Añadir categoría. Si no se añade, se mostrarán todas"
+
+#: inc/visual_composer.php:939
+msgid "Add link"
+msgstr "Añadir enlace"
+
+#: woocommerce/single-product-reviews.php:104
+msgid "add review"
+msgstr "añadir comentario"
+
+#: woocommerce/checkout/form-shipping.php:64
+msgid "Additional Information"
+msgstr "Información adicional"
+
+#: partials/ico_listing/parts/additional_links.php:7
+msgid "Additional links"
+msgstr "Enlaces adicionales"
+
+#: inc/customizer/registration.php:582
+msgid "Additional Widget Areas"
+msgstr "Áreas widget adicionales"
+
+#: inc/post_types-config.php:364 inc/visual_composer.php:626
+#: inc/visual_composer.php:3025 inc/visual_composer.php:3039
+msgid "Address"
+msgstr "Dirección"
+
+#: inc/widgets/contacts.php:96
+msgid "Address:"
+msgstr "Dirección:"
+
+#: inc/visual_composer.php:169
+msgid ""
+"Adjust column for different screen sizes. Control width, offset and "
+"visibility settings."
+msgstr ""
+"Ajustar columna para diferentes tamaños de pantalla. Configuración de "
+"visibilidad, impresión y anchura."
+
+#: inc/admin/product_registration/screens/install_demo.php:34
+msgid "Advisor"
+msgstr "Consejero"
+
+#: inc/visual_composer.php:1835
+msgid "Advisors"
+msgstr "Consejeros"
+
+#: inc/vc/modules/ico_countdown.php:267
+msgid "Agreement text 1"
+msgstr "Texto del acuerdo 1"
+
+#: inc/vc/modules/ico_countdown.php:277
+msgid "Agreement text 2"
+msgstr "Texto del acuerdo 2"
+
+#: inc/visual_composer.php:739
+msgid "Align Center"
+msgstr "Alinear al centro"
+
+#: inc/visual_composer.php:850 inc/visual_composer.php:1134
+#: inc/visual_composer.php:2660
+msgid "Alignment"
+msgstr "Alineación"
+
+#: inc/visual_composer.php:439 inc/visual_composer.php:449
+#: inc/visual_composer.php:459 inc/visual_composer.php:469
+#: inc/visual_composer.php:479 inc/visual_composer.php:489
+#: vc_templates/stm_works.php:78 inc/crypterio/graph.php:42
+#: partials/ico_listing/categories.php:15
+#: inc/admin/white_list/templates/i18n.php:18
+msgid "All"
+msgstr "Todos"
+
+#: vc_templates/stm_crypto_charts.php:62
+msgid "all"
+msgstr "todos"
+
+#: inc/post_types-config.php:24 inc/visual_composer.php:2005
+#: inc/customizer/registration.php:412
+msgid "All Events"
+msgstr "Todos los eventos"
+
+#: inc/post_types-config.php:7 inc/customizer/registration.php:220
+msgid "All ICO Listings"
+msgstr "Todos los listados ICO"
+
+#: inc/tgm/tgm-plugin-activation.php:3391
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#: inc/tgm/tgm-plugin-activation.php:3397
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han sido completadas."
+
+#: inc/customizer/registration.php:218 inc/customizer/registration.php:250
+#: inc/customizer/registration.php:282 inc/customizer/registration.php:314
+#: inc/customizer/registration.php:346 inc/customizer/registration.php:378
+#: inc/customizer/registration.php:410 inc/customizer/registration.php:442
+msgid "All Items"
+msgstr "Todos los elementos"
+
+#: inc/tgm/tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins han sido instalados y activados correctamente. %1$s"
+
+#: inc/post_types-config.php:91 inc/customizer/registration.php:444
+msgid "All Portfolio"
+msgstr "Toda la carpeta"
+
+#: inc/post_types-config.php:39 inc/customizer/registration.php:252
+msgid "All Services"
+msgstr "Todos los servicios"
+
+#: inc/post_types-config.php:81
+msgid "All Sidebars"
+msgstr "Todas las barras laterales"
+
+#: inc/post_types-config.php:55 inc/customizer/registration.php:316
+msgid "All Staff"
+msgstr "Todo el personal"
+
+#: inc/post_types-config.php:71 inc/customizer/registration.php:380
+msgid "All Testimonials"
+msgstr "Todos las opiniones"
+
+#: inc/post_types-config.php:47 inc/customizer/registration.php:284
+msgid "All Vacancies"
+msgstr "Todas las vacantes"
+
+#: inc/post_types-config.php:63 inc/customizer/registration.php:348
+msgid "All Works"
+msgstr "Todos los trabajos"
+
+#: inc/admin/white_list/templates/i18n.php:8
+msgid "Amount"
+msgstr "Cantidad"
+
+#: inc/tgm/tgm-plugin-activation.php:3384
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocurrió un error durante la instalación %1$s: <strong>%2$s</strong>."
+
+#: inc/visual_composer.php:1574
+msgid "Animation"
+msgstr "Animación"
+
+#: inc/visual_composer.php:1565
+msgid "Animation Block"
+msgstr "Sección de animación"
+
+#: inc/visual_composer.php:1587
+msgid "Animation Delay (s)"
+msgstr "Retraso(s) de la animación"
+
+#: inc/visual_composer.php:1580
+msgid "Animation Duration (s)"
+msgstr "Duración de la animación"
+
+#: woocommerce/myaccount/form-login.php:102
+msgid "Anti-spam"
+msgstr "Antispam"
+
+#: inc/crypterio/functions.php:347
+msgid "Application submitted"
+msgstr "Solicitud enviada"
+
+#: woocommerce/checkout/form-coupon.php:39 woocommerce/cart/cart.php:133
+msgid "Apply Coupon"
+msgstr "Aplicar cupón"
+
+#: partials/content-vacancy_bottom.php:5
+msgid "apply now"
+msgstr "aplicar ahora"
+
+#: inc/admin/white_list/templates/i18n.php:10
+msgid "Approve"
+msgstr "Aprobar"
+
+#: inc/admin/white_list/white_list.php:113
+#: inc/admin/white_list/templates/i18n.php:11
+msgid "Approved"
+msgstr "Aprobado"
+
+#: inc/customizer/registration.php:960
+msgid "Archive Pages"
+msgstr "Páginas de archivo"
+
+#: inc/crypterio/functions.php:595
+msgid "Are you affiliated with the ICO?"
+msgstr "¿Está usted asociado a los ICO?"
+
+#: inc/visual_composer.php:1218
+msgid "Arrows"
+msgstr "Flechas"
+
+#: inc/tgm/tgm-plugin-activation.php:2378
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocido"
+
+#: inc/crypterio/functions.php:654
+msgid "Attach Image (Min 760x422px)"
+msgstr "Adjuntar imagen (mín. 760x422 px)"
+
+#: inc/visual_composer.php:1317
+msgid "Author Image"
+msgstr "Imagen del autor"
+
+#: inc/visual_composer.php:1322
+msgid "Author Name"
+msgstr "Nombre del autor"
+
+#: inc/visual_composer.php:1327
+msgid "Author Status"
+msgstr "Estado del autor"
+
+#: partials/content-about_author.php:8
+msgid "Author:"
+msgstr "Autor:"
+
+#: inc/visual_composer.php:1238 inc/visual_composer.php:1674
+msgid "Autoplay interval timeout (in ms)."
+msgstr "Tiempo límite del intervalo de autorreproducción (en Ms)."
+
+#: inc/visual_composer.php:1235 inc/visual_composer.php:1671
+msgid "Autoplay Timeout"
+msgstr "Tiempo límite de autorreproducción"
+
+#: partials/ico_listing/parts/token_sale.php:9
+msgid "Available for Token Sale"
+msgstr ""
+
+#: inc/crypterio/functions.php:604
+msgid "Available for token sale"
+msgstr "Disponible para venta de tokens"
+
+#: woocommerce/cart/cart.php:75
+msgid "Available on backorder"
+msgstr "Disponible bajo petición"
+
+#: inc/tgm/tgm-plugin-activation.php:2406
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: inc/post_types-config.php:249
+msgid "Background - Transparent (Work only with \"Boxed Mode\")"
+msgstr "Fondo - Transparente (solo funciona con \"Modo casilla\")"
+
+#: inc/post_types-config.php:204 inc/post_types-config.php:275
+#: inc/customizer/registration.php:169 inc/customizer/registration.php:490
+#: inc/vc/modules/ico_countdown.php:55
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/visual_composer.php:402
+msgid "Background On hover"
+msgstr "Fondo flotante"
+
+#: inc/post_types-config.php:209 inc/customizer/registration.php:494
+msgid "Background Position"
+msgstr "Posición del fondo"
+
+#: inc/post_types-config.php:219 inc/customizer/registration.php:502
+msgid "Background Repeat"
+msgstr "Repetición del fondo"
+
+#: inc/post_types-config.php:214 inc/customizer/registration.php:498
+msgid "Background Size"
+msgstr "Tamaño del fondo"
+
+#: inc/visual_composer.php:2362
+msgid "Bar"
+msgstr "Barra"
+
+#: inc/visual_composer.php:885 inc/visual_composer.php:986
+#: inc/visual_composer.php:1003 inc/visual_composer.php:1022
+#: inc/visual_composer.php:1335
+msgid "Base"
+msgstr "Base"
+
+#: inc/customizer/registration.php:644
+msgid "Base Font Family"
+msgstr "Fuente tipográfica base"
+
+#: inc/tgm/tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Empezar la activación del plugin"
+msgstr[1] "Empezar la activación de los plugins"
+
+#: inc/tgm/tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar la instalación del plugin"
+msgstr[1] "Empezar la instalación de los plugins"
+
+#: inc/tgm/tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar la actualización del plugin"
+msgstr[1] "Empezar la actualización de los plugins"
+
+#: inc/extras.php:1331 inc/customizer/registration.php:22
+msgid "Behance"
+msgstr "Behance"
+
+#: inc/visual_composer.php:319
+msgid "Between Title and Subtitle"
+msgstr "Entre título y subtítulo"
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "billing &amp; shipping"
+msgstr "facturación &amp; envío"
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "billing details"
+msgstr "detalles de facturación"
+
+#: inc/visual_composer.php:3078
+msgid "Bitcoin Price Chart Widget"
+msgstr "Widget gráfica de precios de Bitcoin"
+
+#: inc/visual_composer.php:3068
+msgid "Bitcoin.com Widgets"
+msgstr "Widgets de Bitcoin.com"
+
+#: inc/visual_composer.php:337
+msgid "Black"
+msgstr "Negro"
+
+#: inc/customizer/registration.php:1015
+msgid "Blog Ad HTML"
+msgstr "HTML de anuncio del blog"
+
+#: inc/customizer/registration.php:640
+msgid "Body"
+msgstr "Cuerpo"
+
+#: inc/visual_composer.php:336 inc/customizer/controls/font-weight.php:24
+msgid "Bold"
+msgstr "Negrita"
+
+#: inc/customizer/controls/font-weight.php:25
+msgid "Bold Italic"
+msgstr "Negrita cursiva"
+
+#: inc/customizer/controls/font-weight.php:16
+msgid "Book"
+msgstr "Book"
+
+#: inc/customizer/controls/font-weight.php:17
+msgid "Book Italic"
+msgstr "Book cursiva"
+
+#: inc/post_types-config.php:258 inc/customizer/registration.php:533
+msgid "Border Top - Hide"
+msgstr "Borde superior - Ocultar"
+
+#: inc/visual_composer.php:296 inc/visual_composer.php:317
+#: inc/visual_composer.php:2380
+msgid "Bottom"
+msgstr "Final"
+
+#: inc/visual_composer.php:1954
+msgid "Bottom Info"
+msgstr "Info del final"
+
+#: inc/visual_composer.php:1332
+msgid "Box Color"
+msgstr "Color de casilla"
+
+#: inc/crypterio/graph.php:92
+msgid "BTC chart border color"
+msgstr "Color del borde de la gráfica BTC"
+
+#: inc/crypterio/graph.php:86
+msgid "BTC chart fill color"
+msgstr "Color de relleno de la gráfica BTC"
+
+#: inc/crypterio/graph.php:67
+msgid "BTC price decimals number"
+msgstr "Número decimal del precio BTC"
+
+#: inc/visual_composer.php:1219
+msgid "Bullets"
+msgstr "Viñetas"
+
+#: inc/vc/modules/pricing_table.php:43
+msgid "Button"
+msgstr "Botón"
+
+#: inc/visual_composer.php:2556
+msgid "Button for link to the archive page."
+msgstr "Botón para enlace a la página de archivo."
+
+#: inc/visual_composer.php:944 inc/visual_composer.php:2563
+msgid "Button link"
+msgstr "Botón de enlace"
+
+#: inc/crypterio/functions.php:836
+msgid "By"
+msgstr "Por"
+
+#: inc/woocommerce_configuration.php:9
+msgid "by"
+msgstr "por"
+
+#: inc/admin/product_registration/screens/system_status.php:283
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/crypterio/graph.php:116
+msgid "Cache expiration in ms"
+msgstr "Expiración de caché en Ms"
+
+#: woocommerce/cart/shipping-calculator.php:33
+msgid "Calculate Shipping"
+msgstr "Calcular envío"
+
+#: woocommerce/myaccount/my-orders.php:92
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: inc/customizer/controls/text-transform.php:12
+msgid "Capitalize"
+msgstr "Mayúsculas"
+
+#: inc/crypterio/functions.php:242 inc/crypterio/functions.php:684
+msgid "CAPTCHA verification failed."
+msgstr "Verificación del CAPTCHA fallida."
+
+#: woocommerce/single-product.php:37 woocommerce/archive-product.php:38
+#: partials/title_box.php:39 partials/title_box.php:40
+msgid "Careers"
+msgstr "Carreras"
+
+#: inc/visual_composer.php:1230 inc/visual_composer.php:1243
+#: inc/visual_composer.php:1253 inc/visual_composer.php:1261
+#: inc/visual_composer.php:1657 inc/visual_composer.php:1667
+#: inc/visual_composer.php:1679 inc/visual_composer.php:1689
+#: inc/visual_composer.php:1703 inc/visual_composer.php:1710
+#: inc/visual_composer.php:1718 inc/visual_composer.php:1726
+#: inc/visual_composer.php:1734 inc/visual_composer.php:1742
+#: inc/visual_composer.php:1833
+msgid "Carousel"
+msgstr "Carrusel"
+
+#: inc/visual_composer.php:1889
+msgid "Carousel - Show Arrows"
+msgstr "Carrusel - Mostrar flechas"
+
+#: inc/visual_composer.php:1403
+msgid "Carousel autoplay"
+msgstr "Autorreproducción de carrusel"
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart Totals"
+msgstr "Total del carrito"
+
+#: inc/post_types-config.php:134 inc/post_types-config.php:135
+#: inc/post_types-config.php:136 inc/post_types-config.php:137
+#: inc/post_types-config.php:138 inc/post_types-config.php:139
+#: inc/post_types-config.php:140
+msgid "Categories"
+msgstr "Categorías"
+
+#: inc/visual_composer.php:1209 inc/visual_composer.php:1373
+#: inc/visual_composer.php:1447 inc/visual_composer.php:1822
+#: inc/visual_composer.php:2010 inc/visual_composer.php:2330
+#: inc/visual_composer.php:2512
+msgid "Category"
+msgstr "Categoría"
+
+#: partials/content-post_details.php:11 partials/content-loop_list.php:12
+#: woocommerce/single-product/meta.php:35
+msgid "Category:"
+msgstr "Categoría:"
+
+#: inc/visual_composer.php:844 inc/visual_composer.php:855
+#: inc/visual_composer.php:1139 inc/visual_composer.php:2665
+msgid "Center"
+msgstr "Centro"
+
+#: inc/visual_composer.php:1624
+msgid "Centered Items"
+msgstr "Elementos centrados"
+
+#: inc/visual_composer.php:2351
+msgid "Charts"
+msgstr "Gráficas"
+
+#: inc/visual_composer.php:2892
+msgid "Check taxonomy to show posts"
+msgstr "Comprobar clasificación para mostrar publicaciones"
+
+#: inc/visual_composer.php:2363
+msgid "Circle"
+msgstr "Círculo"
+
+#: woocommerce/cart/shipping-calculator.php:85
+msgid "City"
+msgstr "Ciudad"
+
+#: inc/visual_composer.php:2020
+msgid "Classic"
+msgstr "Clásico"
+
+#: inc/visual_composer.php:392
+msgid "Classic Black"
+msgstr "Clásico negro"
+
+#: inc/visual_composer.php:387
+msgid "Classic Blue"
+msgstr "Clásico azul"
+
+#: inc/visual_composer.php:389
+msgid "Classic Green"
+msgstr "Clásico verde"
+
+#: inc/visual_composer.php:386
+msgid "Classic Grey"
+msgstr "Clásico gris"
+
+#: inc/visual_composer.php:385
+msgid "Classic Link"
+msgstr "Enlace a clásico"
+
+#: inc/visual_composer.php:390
+msgid "Classic Orange"
+msgstr "Clásico naranja"
+
+#: inc/visual_composer.php:391
+msgid "Classic Red"
+msgstr "Clásico rojo"
+
+#: inc/visual_composer.php:388
+msgid "Classic Turquoise"
+msgstr "Clásico turquesa"
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Click here to enter your code"
+msgstr "Haga clic aquí para introducir su código"
+
+#: woocommerce/checkout/form-login.php:27
+msgid "Click here to login"
+msgstr "Hacer clic para iniciar sesión"
+
+#: inc/admin/product_registration/screens/startup.php:70
+#, php-format
+msgid ""
+"Click on this <a href=\"%s\" target=\"_blank\">Generate A Personal Token</a> "
+"link. <strong>IMPORTANT:</strong> You must be logged into the same "
+"Themeforest account that purchased %s. If you are logged in already, look in "
+"the top menu bar to ensure it is the right account. If you are not logged in,"
+" you will be directed to login then directed back to the Create A Token Page."
+msgstr ""
+"Haga clic en este enlace para <a href=\"%s\" target=\"_blank\">Generar un "
+"autentificador personal</a>.<strong>IMPORTANTE:</strong> Debe iniciar sesión "
+"con la misma cuenta Themeforest que adquirió %s. Si ya ha iniciado sesión, "
+"mire en la barra de menú superior para asegurarse de que es la cuenta "
+"correcta. Si no ha iniciado sesión, será redirigido para iniciar sesión y "
+"después de nuevo a Crear una página autentificadora."
+
+#: inc/visual_composer.php:2584 vc_templates/stm_portfolio_information.php:25
+msgid "Client"
+msgstr "Cliente"
+
+#: inc/visual_composer.php:1551
+msgid "Code"
+msgstr "Código"
+
+#: partials/vc_parts/ico_list/style_1.php:32
+msgid "Collected:"
+msgstr "Recogido:"
+
+#: inc/visual_composer.php:376 inc/visual_composer.php:1162
+#: inc/visual_composer.php:2439 inc/visual_composer.php:2487
+#: inc/vc/modules/token_structure.php:27 inc/vc/modules/token_structure.php:43
+msgid "Color"
+msgstr "Color"
+
+#: inc/visual_composer.php:2814
+msgid "Cols"
+msgstr "Columnas"
+
+#: comments.php:28
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: inc/visual_composer.php:1980
+msgid "Comments"
+msgstr "Comentarios"
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: inc/admin/product_registration/screens/support.php:84
+msgid "Community Forum"
+msgstr "Foro de la comunidad"
+
+#: inc/post_types-config.php:271 inc/post_types-config.php:413
+msgid "Company"
+msgstr "Empresa"
+
+#: inc/visual_composer.php:498
+msgid "Company History"
+msgstr "Historial de la empresa"
+
+#: inc/post_types-config.php:312
+msgid "Compensation"
+msgstr "Recompensa"
+
+#: partials/content-about_vacancy.php:41
+msgid "Compensation:"
+msgstr "Recompensa:"
+
+#: inc/visual_composer.php:1471 inc/widgets/contacts.php:71
+msgid "Contact"
+msgstr "Contacto"
+
+#: partials/content-staff_bottom.php:2
+msgid "contact details"
+msgstr "detalles de contacto"
+
+#: inc/post_types-config.php:398
+msgid "Contact Info"
+msgstr "Información de contacto"
+
+#: inc/post_types-config.php:316
+msgid "Contact Us Link"
+msgstr "Enlace de Contacte con nosotros"
+
+#. Base ID
+#: inc/visual_composer.php:602 inc/widgets/contacts.php:11
+msgid "Contacts"
+msgstr "Contactos"
+
+#: inc/widgets/contacts.php:12
+msgid "Contacts widget"
+msgstr "Widget de contactos"
+
+#: inc/visual_composer.php:2887 inc/vc/modules/news.php:13
+#: inc/vc/modules/wave_roadmap.php:12 inc/vc/modules/cryptoticker.php:13
+#: inc/vc/modules/news_list.php:13 inc/vc/modules/token_structure.php:12
+#: inc/vc/modules/post_slider.php:13 inc/vc/modules/ratings.php:13
+#: inc/vc/modules/news_carousel.php:13 inc/vc/modules/news_widget.php:13
+#: inc/vc/modules/services_grid.php:13 inc/vc/modules/cryptowidget.php:13
+#: inc/vc/modules/panel_box.php:13 inc/vc/modules/pricing_table.php:13
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/customizer/registration.php:528
+msgid "Content Background - Transparent"
+msgstr "Fondo de contenido - Transparente"
+
+#: inc/post_types-config.php:245
+msgid "Content Options"
+msgstr "Opciones de contenido"
+
+#: inc/vc/modules/ico_countdown.php:24
+msgid "Contract"
+msgstr "Contrato"
+
+#: inc/vc/modules/ico_countdown.php:186
+msgid "Contract address"
+msgstr "Dirección de contrato"
+
+#: partials/vc_parts/ico_countdown/custom.php:235
+msgid "Copy address"
+msgstr "Copiar dirección"
+
+#: inc/customizer/registration.php:602
+msgid "Copyright"
+msgstr "Derechos de autor"
+
+#: footer.php:21 inc/customizer/registration.php:603
+#: inc/customizer/registration.php:604
+msgid ""
+"Copyright &copy; 2012-2017 crypterio Theme by <a href='https://themeforest."
+"net/item/crypterio-business-finance-wordpress-theme/14740561' "
+"target='_blank'>Stylemix Themes</a>. All rights reserved"
+msgstr ""
+"Derechos de autor &copy; 2012-2017 Tema crypterio por <a href='https:"
+"//themeforest.net/item/crypterio-business-finance-wordpress-theme/14740561' "
+"target='_blank'>Stylemix Themes. Todos los derechos reservados"
+
+#: inc/admin/product_registration/screens/install_demo.php:37
+msgid "Corporate"
+msgstr "Corporación"
+
+#: inc/post_types-config.php:444
+msgid "Cost"
+msgstr "Coste"
+
+#: inc/admin/product_registration/screens/install_demo.php:40
+msgid "Counselor"
+msgstr "Consejero"
+
+#: inc/visual_composer.php:1182 inc/visual_composer.php:1379
+#: inc/visual_composer.php:1453 inc/visual_composer.php:1867
+#: inc/visual_composer.php:2783 inc/visual_composer.php:2791
+msgid "Count"
+msgstr "Contar"
+
+#: inc/visual_composer.php:2282 inc/vc/modules/ico_countdown.php:39
+msgid "Count to date"
+msgstr "Contador"
+
+#: inc/visual_composer.php:2275
+msgid "Countdown"
+msgstr "Cuenta atrás"
+
+#: inc/visual_composer.php:1103
+msgid "Counter Value"
+msgstr "Contravalor"
+
+#: inc/visual_composer.php:1109
+msgid "Counter Value Prefix"
+msgstr "Prefijo de contravalor"
+
+#: inc/visual_composer.php:1115
+msgid "Counter Value Suffix"
+msgstr "Sufijo de contravalor"
+
+#: inc/crypterio/functions.php:162 inc/admin/white_list/templates/i18n.php:20
+msgid "Country"
+msgstr "País"
+
+#: partials/vc_parts/ico_countdown/contract.php:204
+msgid "Country of Citizenship"
+msgstr "País de ciudadanía"
+
+#: woocommerce/checkout/form-coupon.php:35 woocommerce/cart/cart.php:133
+msgid "Coupon code"
+msgstr "Código de cupón"
+
+#: inc/admin/product_registration/screens/support.php:16
+msgid "Create A Support Account"
+msgstr "Crear una cuenta de apoyo"
+
+#: woocommerce/checkout/form-billing.php:70
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"Cree una cuenta introduciendo la información a continuación. Si usted es un "
+"cliente registrado, inicie sesión en la parte superior de la página."
+
+#: woocommerce/checkout/form-billing.php:59
+msgid "Create an account?"
+msgstr "¿Crear una cuenta?"
+
+#: inc/admin/product_registration/screens/install_demo.php:22
+msgid "Creative ICO"
+msgstr "ICO creativo"
+
+#. Name of the theme
+#: inc/admin/product_registration/includes/admin_screens.php:24
+#: inc/admin/product_registration/includes/admin_screens.php:75
+#: inc/admin/product_registration/screens/install_demo.php:31
+msgid "Crypterio"
+msgstr "Crypterio"
+
+#: inc/vc/modules/news_carousel.php:8
+msgid "Crypterio News Carousel"
+msgstr "Carrusel de noticias de Crypterio"
+
+#: inc/vc/modules/news.php:8
+msgid "Crypterio News Grid"
+msgstr "Parrilla de noticias de Crypterio"
+
+#: inc/vc/modules/news_list.php:8
+msgid "Crypterio News List"
+msgstr "Lista de noticias de Crypterio"
+
+#: inc/vc/modules/news_widget.php:8
+msgid "Crypterio News Widget"
+msgstr "Widget de noticias de Crypterio"
+
+#: inc/vc/modules/post_slider.php:8
+msgid "Crypterio Post Slider"
+msgstr "Presentación de publicaciones de Crypterio"
+
+#: inc/vc/modules/pricing_table.php:8
+msgid "Crypterio Pricing Tables"
+msgstr "Tabla de precios de Crypterio"
+
+#: inc/vc/modules/cryptoticker.php:8
+msgid "Crypterio Ticker"
+msgstr "Teletipo de Crypterio"
+
+#: inc/visual_composer.php:2882
+msgid "Crypterio Timeline"
+msgstr "Cronología de Crypterio"
+
+#: inc/vc/modules/cryptowidget.php:8
+msgid "Crypterio Widget"
+msgstr "Widget de Crypterio"
+
+#. Description of the theme
+msgid ""
+"Crypterio – theme for ICO Consulting, Bitcoin and Cryptocurrency experts and "
+"advisors.  Launch your consulting project featured by ICO landing page "
+"template, online cryptocurrency exchange rates, as well as special pages for "
+"services and cases."
+msgstr ""
+"Crypterio - tema para expertos y consejeros en ICO Consulting, Bitcoin y "
+"criptomonedas.  Lance su proyecto de asesoría con una plantilla de página de "
+"inicio de ICO, tipos de cambio de criptomoneda en línea, así como páginas "
+"especiales para servicios y casos."
+
+#: inc/admin/product_registration/screens/install_demo.php:25
+msgid "Crypto Blog"
+msgstr "Crypto Blog"
+
+#: inc/vc/modules/cryptoticker.php:11
+msgid "Crypto Ticker"
+msgstr "Crypto Teletipo"
+
+#: inc/vc/modules/cryptowidget.php:11
+msgid "Crypto Widget"
+msgstr "Crypto Widget"
+
+#: inc/customizer/registration.php:50 inc/customizer/registration.php:192
+msgid "Cryptocurrencies"
+msgstr "Criptomonedas"
+
+#: inc/crypterio/graph.php:15
+msgid "Cryptocurrency charts"
+msgstr "Gráficas de criptomonedas"
+
+#: inc/crypterio/converter.php:15
+msgid "Cryptocurrency converter"
+msgstr "Conversor de criptomonedas"
+
+#: inc/visual_composer.php:135 inc/visual_composer.php:185
+#: inc/visual_composer.php:267 inc/visual_composer.php:511
+#: inc/visual_composer.php:594 inc/visual_composer.php:704
+#: inc/visual_composer.php:800 inc/visual_composer.php:1076
+#: inc/visual_composer.php:1144 inc/visual_composer.php:1266
+#: inc/visual_composer.php:1349 inc/visual_composer.php:1432
+#: inc/visual_composer.php:1462 inc/visual_composer.php:1529
+#: inc/visual_composer.php:1557 inc/visual_composer.php:1746
+#: inc/visual_composer.php:1790 inc/visual_composer.php:1813
+#: inc/visual_composer.php:1926 inc/visual_composer.php:1947
+#: inc/visual_composer.php:1960 inc/visual_composer.php:1973
+#: inc/visual_composer.php:1986 inc/visual_composer.php:2078
+#: inc/visual_composer.php:2093 inc/visual_composer.php:2108
+#: inc/visual_composer.php:2135 inc/visual_composer.php:2175
+#: inc/visual_composer.php:2298 inc/visual_composer.php:2343
+#: inc/visual_composer.php:2497 inc/visual_composer.php:2529
+#: inc/visual_composer.php:2569 inc/visual_composer.php:2680
+#: inc/visual_composer.php:2694 inc/visual_composer.php:2707
+#: inc/visual_composer.php:2720 inc/visual_composer.php:2834
+#: inc/visual_composer.php:2865 inc/visual_composer.php:2950
+#: inc/visual_composer.php:3017 inc/crypterio/graph.php:110
+#: inc/vc/modules/news.php:34 inc/vc/modules/wave_roadmap.php:56
+#: inc/vc/modules/cryptoticker.php:19 inc/vc/modules/news_list.php:34
+#: inc/vc/modules/ico_countdown.php:291 inc/vc/modules/token_structure.php:51
+#: inc/vc/modules/post_slider.php:34 inc/vc/modules/ratings.php:41
+#: inc/vc/modules/news_carousel.php:51 inc/vc/modules/news_widget.php:51
+#: inc/vc/modules/services_grid.php:24 inc/vc/modules/cryptowidget.php:19
+#: inc/vc/modules/panel_box.php:48 inc/vc/modules/pricing_table.php:59
+msgid "Css"
+msgstr "Css"
+
+#: inc/admin/product_registration/screens/system_status.php:110
+msgid ""
+"Current time limit is sufficient, but if you need import demo content, the "
+"required time is <strong>300</strong>."
+msgstr ""
+"El límite de tiempo actual es suficiente, pero si necesita importar "
+"contenido de prueba, el tiempo requerido es <strong>300</strong>."
+
+#: inc/visual_composer.php:888 inc/visual_composer.php:989
+#: inc/visual_composer.php:1006 inc/visual_composer.php:1025
+#: inc/visual_composer.php:1338 inc/vc/modules/ico_countdown.php:23
+msgid "Custom"
+msgstr "Personalizar"
+
+#: inc/customizer/registration.php:139
+msgid "Custom Base Color"
+msgstr "Personalizar color primario"
+
+#: inc/customizer/registration.php:180
+msgid "Custom Bg Image"
+msgstr "Personalizar imagen de fondo"
+
+#: inc/customizer/registration.php:129
+msgid "Custom Colors"
+msgstr "Personalizar colores"
+
+#: inc/customizer/registration.php:1169
+msgid "Custom CSS"
+msgstr "Personalizar CSS"
+
+#: inc/visual_composer.php:1914 inc/visual_composer.php:1922
+msgid "Custom link"
+msgstr "Personalizar enlace"
+
+#: inc/visual_composer.php:1900
+msgid "Custom link in list"
+msgstr "Personalizar enlace en lista"
+
+#: inc/visual_composer.php:1632
+msgid "Custom links"
+msgstr "Personalizar enlaces"
+
+#: inc/customizer/registration.php:144
+msgid "Custom Secondary Color"
+msgstr "Personalizar color secundario"
+
+#: inc/customizer/registration.php:149
+msgid "Custom Third Color"
+msgstr "Personalizar color terciario"
+
+#: inc/visual_composer.php:3087
+msgid "Dark"
+msgstr "Oscuro"
+
+#: inc/visual_composer.php:2209 inc/visual_composer.php:2590
+#: vc_templates/stm_vacancies.php:22
+#: vc_templates/stm_portfolio_information.php:31
+#: woocommerce/myaccount/my-orders.php:26 inc/vc/modules/wave_roadmap.php:21
+#: inc/vc/modules/wave_roadmap.php:34 inc/vc/modules/news_carousel.php:43
+#: inc/vc/modules/news_widget.php:43
+msgid "Date"
+msgstr "Fecha"
+
+#: inc/visual_composer.php:2153
+msgid "Date Format"
+msgstr "Formato de fecha"
+
+#: vc_templates/stm_crypto_charts.php:46
+msgid "day"
+msgstr "día"
+
+#: partials/vc_parts/ico_countdown/custom.php:52
+#: partials/vc_parts/ico_countdown/contract.php:90
+msgid "Days"
+msgstr "Días"
+
+#: partials/vc_parts/ico_grid/live.php:93
+msgid "Days left"
+msgstr "Días restantes"
+
+#: inc/crypterio/functions.php:349
+#, php-format
+msgid ""
+"Dear, %s Your Application has been successfully submitted. <br/> We will "
+"contact you once Main ICO has been started."
+msgstr ""
+"Estimado, %s su solicitud ha sido enviada con éxito. <br/> Nos pondremos en "
+"contacto con usted en cuando el ICO principal haya comenzado."
+
+#: inc/admin/white_list/templates/i18n.php:12
+msgid "Decline"
+msgstr "Declinar"
+
+#: inc/admin/white_list/white_list.php:110
+#: inc/admin/white_list/templates/i18n.php:13
+msgid "Declined"
+msgstr "Declinado"
+
+#: inc/post_types-config.php:429 inc/visual_composer.php:81
+#: inc/visual_composer.php:985 inc/visual_composer.php:1843
+#: inc/customizer/registration.php:128
+msgid "Default"
+msgstr "Por defecto"
+
+#: inc/crypterio/graph.php:35
+msgid "Default period"
+msgstr "Periodo por defecto"
+
+#: inc/customizer/registration.php:66
+msgid "Default Settings"
+msgstr "Configuración por defecto"
+
+#: inc/admin/product_registration/screens/system_status.php:212
+msgid ""
+"Defines the maximum length of a variable that is registered through a POST "
+"request."
+msgstr ""
+"Define la longitud máxima de una variable que es registrada a través de una "
+"solicitud POST."
+
+#: inc/visual_composer.php:1590
+msgid "Delays the animation effect for seconds you enter above."
+msgstr ""
+"Retrasa el efecto de animación durante los segundos que introduzca aquí "
+"arriba."
+
+#: inc/extras.php:1337 inc/customizer/registration.php:28
+msgid "Delicious"
+msgstr "Delicious"
+
+#: inc/admin/product_registration/screens/install_demo.php:106
+msgid "Demo content"
+msgstr "Contenido de prueba"
+
+#: inc/admin/product_registration/includes/admin_screens.php:45
+#: inc/admin/product_registration/includes/admin_screens.php:46
+msgid "Demo import"
+msgstr "Importar demo"
+
+#: inc/admin/product_registration/screens/install_demo.php:80
+msgid "Demo Installation"
+msgstr "Instalación de la demo"
+
+#: inc/post_types-config.php:300 inc/post_types-config.php:360
+#: vc_templates/stm_vacancies.php:21
+msgid "Department"
+msgstr "Departamento"
+
+#: partials/content-about_vacancy.php:8
+msgid "Department:"
+msgstr "Departamento:"
+
+#: inc/visual_composer.php:537 inc/visual_composer.php:584
+#: inc/visual_composer.php:1121 inc/visual_composer.php:2252
+#: inc/visual_composer.php:2288 inc/crypterio/functions.php:640
+#: inc/vc/modules/wave_roadmap.php:25 inc/vc/modules/wave_roadmap.php:39
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/visual_composer.php:2358
+msgid "Design"
+msgstr "Diseño"
+
+#: inc/visual_composer.php:2177
+msgid "Design Options"
+msgstr "Opciones de diseño"
+
+#: inc/visual_composer.php:137 inc/visual_composer.php:187
+#: inc/visual_composer.php:269 inc/visual_composer.php:513
+#: inc/visual_composer.php:596 inc/visual_composer.php:706
+#: inc/visual_composer.php:802 inc/visual_composer.php:1078
+#: inc/visual_composer.php:1146 inc/visual_composer.php:1268
+#: inc/visual_composer.php:1351 inc/visual_composer.php:1434
+#: inc/visual_composer.php:1464 inc/visual_composer.php:1531
+#: inc/visual_composer.php:1559 inc/visual_composer.php:1748
+#: inc/visual_composer.php:1792 inc/visual_composer.php:1928
+#: inc/visual_composer.php:2080 inc/visual_composer.php:2095
+#: inc/visual_composer.php:2110 inc/visual_composer.php:2137
+#: inc/visual_composer.php:2300 inc/visual_composer.php:2345
+#: inc/visual_composer.php:2499 inc/visual_composer.php:2531
+#: inc/visual_composer.php:2571 inc/visual_composer.php:2682
+#: inc/visual_composer.php:2836 inc/visual_composer.php:2867
+#: inc/visual_composer.php:2952 inc/visual_composer.php:3019
+#: inc/crypterio/graph.php:112 inc/vc/modules/news.php:36
+#: inc/vc/modules/wave_roadmap.php:58 inc/vc/modules/cryptoticker.php:21
+#: inc/vc/modules/news_list.php:36 inc/vc/modules/ico_countdown.php:293
+#: inc/vc/modules/token_structure.php:53 inc/vc/modules/post_slider.php:36
+#: inc/vc/modules/ratings.php:43 inc/vc/modules/news_carousel.php:53
+#: inc/vc/modules/news_widget.php:53 inc/vc/modules/services_grid.php:26
+#: inc/vc/modules/cryptowidget.php:21 inc/vc/modules/panel_box.php:50
+#: inc/vc/modules/pricing_table.php:61
+msgid "Design options"
+msgstr "Opciones de diseño"
+
+#: inc/visual_composer.php:1941 inc/admin/white_list/templates/i18n.php:5
+msgid "Details"
+msgstr "Detalles"
+
+#: inc/extras.php:1083 inc/visual_composer.php:93 inc/visual_composer.php:253
+#: inc/customizer/registration.php:586
+msgid "Disable"
+msgstr "Deshabilitar"
+
+#: inc/post_types-config.php:235 inc/customizer/registration.php:518
+msgid "Disable Breadcrumbs"
+msgstr "Deshabilitar senderos de navegación"
+
+#: inc/visual_composer.php:1411
+msgid "Disable Carousel"
+msgstr "Dehabilitar carrusel"
+
+#: inc/visual_composer.php:3000
+msgid "Disable map zoom on mouse wheel scroll"
+msgstr "Deshabilitar zoom del mapa con la rueda de desplazamiento del ratón"
+
+#: inc/visual_composer.php:1779
+msgid "Disable Preview Image"
+msgstr "Deshabilitar previsualización de imagen"
+
+#: inc/post_types-config.php:230 inc/customizer/registration.php:513
+msgid "Disable Title"
+msgstr "Deshabilitar título"
+
+#: inc/post_types-config.php:179 inc/customizer/registration.php:472
+msgid "Disable Title Box"
+msgstr "Deshabilitar casilla del título"
+
+#: inc/tgm/tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: inc/admin/product_registration/screens/system_status.php:58
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "Muestra si WordPress tiene activado o no el modo de depuración."
+
+#: inc/admin/white_list/templates/i18n.php:17
+msgid "Doc2"
+msgstr "Doc2"
+
+#: inc/admin/white_list/templates/i18n.php:16
+msgid "Document"
+msgstr "Documento"
+
+#: inc/admin/product_registration/screens/support.php:47
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/admin/white_list/templates/i18n.php:9
+msgid "Documents"
+msgstr "Documentos"
+
+#: vc_templates/stm_countdown.php:55
+msgid "Download now"
+msgstr "Descargar ahora"
+
+#: inc/extras.php:1332 inc/customizer/registration.php:23
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/extras.php:1338 inc/customizer/registration.php:29
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: inc/visual_composer.php:1128
+msgid "Duration"
+msgstr "Duración"
+
+#: inc/extras.php:142
+msgid "E-mail"
+msgstr "Correo electrónico"
+
+#: inc/extras.php:106
+msgid "Edit"
+msgstr "Editar"
+
+#: woocommerce/myaccount/my-address.php:51
+msgid "edit"
+msgstr "editar"
+
+#: inc/post_types-config.php:308
+msgid "Education"
+msgstr "Educación"
+
+#: partials/content-about_vacancy.php:30
+msgid "Education:"
+msgstr "Educación:"
+
+#: inc/post_types-config.php:376 inc/post_types-config.php:405
+#: inc/visual_composer.php:656 inc/visual_composer.php:1519
+#: inc/visual_composer.php:3049 inc/crypterio/functions.php:138
+#: inc/admin/white_list/templates/i18n.php:4
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: inc/widgets/contacts.php:108
+msgid "Email:"
+msgstr "Correo electrónico:"
+
+#: vc_templates/stm_contact.php:48
+msgid "Email: "
+msgstr "Correo electrónico: "
+
+#: inc/extras.php:1084 inc/visual_composer.php:94 inc/visual_composer.php:254
+msgid "Enable"
+msgstr "Habilitar"
+
+#: inc/visual_composer.php:1226 inc/visual_composer.php:1663
+msgid "Enable autoplay mode."
+msgstr "Habilitar modo de autorreproducción."
+
+#: inc/customizer/registration.php:159
+msgid "Enable Boxed Layout"
+msgstr "Habilitar diseño en casillas"
+
+#: inc/visual_composer.php:2802
+msgid "Enable different grid tiles"
+msgstr "Habilitar diferentes casillas de cuadrícula"
+
+#: inc/extras.php:1080
+msgid "Enable fullwidth"
+msgstr "Habilitar ancho total"
+
+#: inc/post_types-config.php:240 inc/customizer/registration.php:523
+msgid "Enable Header Transparent"
+msgstr "Habilitar encabezado transparente"
+
+#: inc/visual_composer.php:912
+msgid "Enable Hexagon"
+msgstr "Habilitar hexágono"
+
+#: inc/visual_composer.php:921
+msgid "Enable Hexagon Hover Animation"
+msgstr "Habilitar animación flotante en hexágono"
+
+#: inc/visual_composer.php:1616
+msgid "Enable Opacity"
+msgstr "Habilitar opacidad"
+
+#: inc/customizer/registration.php:164
+msgid "Enable Preloader"
+msgstr "Habilitar precargador"
+
+#: inc/visual_composer.php:1695
+msgid "Enable previous and next arrows."
+msgstr "Habilitar flechas anterior y posterior."
+
+#: inc/visual_composer.php:1249 inc/visual_composer.php:1685
+msgid "Enable slider loop mode."
+msgstr "Habilitar modo de presentación en bucle."
+
+#: inc/post_types-config.php:184 inc/customizer/registration.php:477
+msgid "Enable Transparent"
+msgstr "Habilitar transparente"
+
+#: inc/visual_composer.php:90
+msgid "Enable wave pulse"
+msgstr "Habilitar impulsos de onda"
+
+#: inc/vc/modules/panel_box.php:42
+msgid "End Color"
+msgstr "Color final"
+
+#: inc/crypterio/functions.php:435
+msgid "Ended"
+msgstr ""
+
+#: taxonomy-stm_ico_listing_category.php:68 archive-stm_ico_listing.php:72
+msgid "Ended ICO"
+msgstr "ICO acabado"
+
+#: inc/admin/product_registration/screens/startup.php:71
+msgid ""
+"Enter a name for your token, then check the boxes for <strong>View Your "
+"Envato Account Username, Download Your Purchased Items, Verify Purchases "
+"You've Made</strong> and <strong>List Purchases You've Made</strong> from "
+"the permissions needed section. Check the box to agree to the terms and "
+"conditions, then click the <strong>Create Token button</strong>"
+msgstr ""
+"Introduzca un nombre para su identificador. A continuación, compruebe las "
+"casillas para <strong>Ver su usuario de Envato, Descargar los elementos "
+"comprados, Verificar las compras realizadas</strong> y <strong>Enumerar "
+"compras realizadas</strong> en la sección de permisos requeridos. Compruebe "
+"la casilla que hace referencia a aceptar los términos y condiciones, después "
+"haga clic en <strong>Crear botón identificador</strong>"
+
+#: inc/customizer/registration.php:198
+msgid "Enter cryptocurrency name"
+msgstr "Introducir nombre de criptomoneda"
+
+#: inc/crypterio/functions.php:579
+msgid "Enter Facebook account"
+msgstr ""
+
+#: inc/visual_composer.php:870
+msgid "Enter font size in px"
+msgstr "Introducir tamaño de fuente en px"
+
+#: inc/crypterio/functions.php:592
+msgid "Enter Github account"
+msgstr "Introducir una cuenta Github"
+
+#: inc/customizer/registration.php:1122
+msgid ""
+"Enter here the secret api key you have created on Google APIs. You can "
+"enable MAP API in Google APIs > Google Maps APIs > Google Maps JavaScript "
+"API."
+msgstr ""
+"Introduzca aquí la clave api secreta que ha creado en Google API. Puede "
+"habilitar MAP API en Google API > Google Maps API > Google Maps JavaScript "
+"API."
+
+#: inc/crypterio/functions.php:641
+msgid "Enter ICO description"
+msgstr ""
+
+#: inc/crypterio/functions.php:528
+msgid "Enter ICO name"
+msgstr "Introducir nombre ICO"
+
+#: inc/crypterio/functions.php:558
+msgid "Enter ICO Website Url"
+msgstr "Introducir URL del sitio web ICO"
+
+#: inc/visual_composer.php:1040
+msgid "Enter icon height in px"
+msgstr "Introducir altura de icono en px"
+
+#: inc/visual_composer.php:772
+msgid "Enter icon size in \"px\""
+msgstr "Introducir tamaño de icono en \"px\""
+
+#: inc/visual_composer.php:971
+msgid "Enter icon size in px"
+msgstr "Introducir tamaño de icono en px"
+
+#: inc/visual_composer.php:1051
+msgid "Enter icon width in px"
+msgstr "Introducir anchura de icono en px"
+
+#: inc/visual_composer.php:1062
+msgid "Enter icon wrapper width in px"
+msgstr "Introducir anchura de clase envolvente de icono en px"
+
+#: inc/visual_composer.php:2945
+msgid "Enter image size in pixels: 200x100 (Width x Height)."
+msgstr "Introducir tamaño de imagen en píxeles: 200x 100 (anchura x altura)."
+
+#: inc/visual_composer.php:580 inc/visual_composer.php:1498
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"default\" size."
+msgstr ""
+"Introduzca tamaño de imagen. Ejemplo: miniatura, mediano, grande, completo u "
+"otros tamaños definidos por el tema actual. De forma alternativa, introduzca "
+"tamaño de imagen en píxeles: 200x 100 (anchura x altura). Déjelo en blanco "
+"para usar el tamaño por defecto."
+
+#: inc/visual_composer.php:242
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"projects_gallery\" "
+"size."
+msgstr ""
+"Introduzca tamaño de imagen. Ejemplo: miniatura, mediano, grande, completo u "
+"otros tamaños definidos por el tema actual. De forma alternativa, introduzca "
+"tamaño de imagen en píxeles: 200x 100 (anchura x altura). Déjelo en blanco "
+"para usar el tamaño \"projects_gallery\"."
+
+#: inc/visual_composer.php:1786
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use default size."
+msgstr ""
+"Introduzca tamaño de imagen. Ejemplo: miniatura, mediano, grande, completo u "
+"otros tamaños definidos por el tema actual. De forma alternativa, introduzca "
+"tamaño de imagen en píxeles: 200x100 (anchura x altura). Déjelo en blanco "
+"para usar el tamaño por defecto."
+
+#: inc/visual_composer.php:1641 inc/visual_composer.php:2056
+#: inc/visual_composer.php:2339 inc/visual_composer.php:2829
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use default size."
+msgstr ""
+"Introduzca tamaño de imagen. Ejemplo: miniatura, mediano, grande, completo u "
+"otros tamaños definidos por el tema actual. De forma alternativa, introduzca "
+"tamaño de imagen en píxeles: 200x100 (anchura x altura). Déjelo en blanco "
+"para usar el tamaño por defecto."
+
+#: inc/visual_composer.php:877 inc/visual_composer.php:977
+msgid "Enter line-height in px"
+msgstr "Introducir espaciado en px"
+
+#: inc/visual_composer.php:1634
+msgid ""
+"Enter links for each slide (Note: divide links with linebreaks (Enter))."
+msgstr ""
+"Introducir enlaces para cada diapositiva (nota: separar enlaces con saltos "
+"de línea (Enter))."
+
+#: inc/visual_composer.php:2125 inc/visual_composer.php:2131
+#: inc/visual_composer.php:2983
+msgid "Enter map height in px"
+msgstr "Introducir altura del mapa en px"
+
+#: inc/crypterio/functions.php:613
+msgid "Enter Min/Max Personal Cap"
+msgstr "Introducir límite mín. / máx. personal"
+
+#: inc/crypterio/functions.php:633
+msgid "Enter Number of team Members"
+msgstr "Introducir número de miembros del equipo"
+
+#: inc/visual_composer.php:1387
+msgid "Enter photo size 350x250"
+msgstr "Introducir tamaño de foto 350x250"
+
+#: inc/crypterio/functions.php:637
+msgid "Enter Prototype name"
+msgstr "Introducir nombre de prototipo"
+
+#: inc/crypterio/functions.php:569
+msgid "Enter Telegram group URL"
+msgstr "Introducir URL de grupo de Telegram"
+
+#: inc/crypterio/functions.php:601
+msgid "Enter Ticker"
+msgstr "Introducir teletipo"
+
+#: inc/visual_composer.php:2429 inc/visual_composer.php:2477
+msgid "Enter title for chart dataset."
+msgstr "Introducir título para gráfica de conjunto de datos."
+
+#: inc/crypterio/functions.php:625
+msgid "Enter token issue"
+msgstr "Introducir tema token"
+
+#: inc/crypterio/functions.php:543
+msgid "Enter Token Price (ETH)"
+msgstr "Introducir precio de token (ETH)"
+
+#: inc/crypterio/functions.php:553
+msgid "Enter Token type"
+msgstr "Introducir tipo de token"
+
+#: inc/crypterio/functions.php:548
+msgid "Enter Total Tokens"
+msgstr "Introducir total de tokens"
+
+#: inc/crypterio/functions.php:583
+msgid "Enter Twitter account"
+msgstr "Introducir cuenta de Twitter"
+
+#: inc/crypterio/functions.php:617
+msgid "Enter URL for ICO icon"
+msgstr ""
+
+#: inc/crypterio/functions.php:645
+msgid "Enter Whitepaper link"
+msgstr ""
+
+#: inc/crypterio/functions.php:523
+msgid "Enter Your E-mail"
+msgstr "Introduzca su dirección de correo electrónico"
+
+#: vc_templates/stm_countdown.php:53
+msgid "Enter your Email"
+msgstr "Introduzca su dirección de correo electrónico"
+
+#: inc/crypterio/functions.php:511
+msgid "Enter your full name"
+msgstr "Introduzca su nombre completo"
+
+#: inc/crypterio/functions.php:149
+msgid "ERC-20 Wallet Address"
+msgstr ""
+
+#: inc/admin/product_registration/includes/theme.php:185
+msgid "Error occured"
+msgstr "Ha ocurrido un error"
+
+#: woocommerce/cart/cart-totals.php:70
+#, php-format
+msgid "estimated for %s"
+msgstr "estimado para %s"
+
+#: partials/vc_parts/ico_countdown/contract.php:141
+msgid "ETH"
+msgstr "ETH"
+
+#: inc/post_types-config.php:22
+msgid "Event"
+msgstr "Evento"
+
+#: inc/visual_composer.php:2143
+msgid "Event Lesson"
+msgstr "Lección de evento"
+
+#: inc/visual_composer.php:2197
+msgid "Event Lessons"
+msgstr "Lecciones de evento"
+
+#: inc/customizer/registration.php:1021
+msgid "Event Pages"
+msgstr "Páginas de eventos"
+
+#: inc/post_types-config.php:23 inc/visual_composer.php:1993
+#: inc/customizer/registration.php:396 inc/customizer/registration.php:402
+#: inc/customizer/registration.php:407
+msgid "Events"
+msgstr "Eventos"
+
+#: inc/visual_composer.php:2101
+msgid "Events Form Box"
+msgstr "Formulario de eventos"
+
+#: inc/visual_composer.php:2086
+msgid "Events Information"
+msgstr "Información de eventos"
+
+#: inc/crypterio/functions.php:621
+msgid "Ex. ETH, BTC, USD"
+msgstr "Ej., ETH, BTC, USD"
+
+#: inc/visual_composer.php:735
+msgid "Example: Text - full, large, medium, Number - 340x200"
+msgstr "Ejemplo: Texto - completo, grande, mediano, Número - 340x200"
+
+#: inc/crypterio/functions.php:143
+msgid "Expected ETH ICO Participation Amount"
+msgstr ""
+
+#: inc/vc/modules/ico_countdown.php:237
+msgid "Expected ETH ICO Participation Amount Description"
+msgstr "Descripción de participación ETH ICO esperada"
+
+#: inc/tgm/tgm-plugin-activation.php:2196
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: inc/customizer/controls/font-weight.php:26
+msgid "Extra Bold"
+msgstr "Extra negrita"
+
+#: inc/customizer/controls/font-weight.php:27
+msgid "Extra Bold Italic"
+msgstr "Extra negrita cursiva"
+
+#: inc/visual_composer.php:697 inc/visual_composer.php:1645
+#: inc/visual_composer.php:2859 inc/visual_composer.php:3011
+msgid "Extra class name"
+msgstr "Nombre de categoría extra"
+
+#: inc/visual_composer.php:1298
+msgid "Extra Small Screen"
+msgstr "Pantalla extrapequeña"
+
+#: inc/post_types-config.php:380 inc/extras.php:1325
+#: inc/visual_composer.php:667 inc/visual_composer.php:2613
+#: inc/customizer/registration.php:16
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/crypterio/functions.php:578
+msgid "Facebook account"
+msgstr ""
+
+#: inc/visual_composer.php:644
+msgid "Fax"
+msgstr "Fax"
+
+#: inc/widgets/contacts.php:104
+msgid "Fax:"
+msgstr "Fax:"
+
+#: inc/visual_composer.php:2219
+msgid "Field 1"
+msgstr "Campo 1"
+
+#: inc/visual_composer.php:2223
+msgid "Field 2"
+msgstr "Campo 2"
+
+#: inc/crypterio/functions.php:252 inc/crypterio/functions.php:263
+#: inc/crypterio/functions.php:274 inc/crypterio/functions.php:294
+msgid "Field is required"
+msgstr "Campo obligatorio"
+
+#: inc/crypterio/functions.php:278 inc/crypterio/functions.php:710
+msgid "File size limit is 2 mB"
+msgstr "El límite de tamaño del archivo es 2 MB"
+
+#: inc/visual_composer.php:2000
+msgid "Filter Events"
+msgstr "Filtrar eventos"
+
+#: inc/admin/white_list/templates/i18n.php:19
+msgid "Filter:"
+msgstr "Filtrar:"
+
+#: inc/crypterio/functions.php:128
+msgid "First name"
+msgstr ""
+
+#: inc/extras.php:1333 inc/customizer/registration.php:24
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/customizer/registration.php:662 inc/customizer/registration.php:683
+#: inc/customizer/registration.php:712 inc/customizer/registration.php:755
+#: inc/customizer/registration.php:798 inc/customizer/registration.php:841
+#: inc/customizer/registration.php:884 inc/customizer/registration.php:927
+msgid "Font Size"
+msgstr "Tamaño de fuente"
+
+#: inc/customizer/registration.php:656 inc/customizer/registration.php:677
+#: inc/customizer/registration.php:706 inc/customizer/registration.php:749
+#: inc/customizer/registration.php:792 inc/customizer/registration.php:835
+#: inc/customizer/registration.php:878 inc/customizer/registration.php:921
+msgid "Font Weight"
+msgstr "Peso de fuente"
+
+#: inc/visual_composer.php:327
+msgid "Font weight"
+msgstr "Peso de fuente"
+
+#: inc/customizer/registration.php:54
+msgid "Footer"
+msgstr "Pie de página"
+
+#: functions.php:110
+msgid "Footer "
+msgstr "Pie de página "
+
+#: inc/post_types-config.php:254
+msgid "Footer Options"
+msgstr "Opciones de pie de página"
+
+#: inc/customizer/registration.php:616
+msgid "Footer Socials"
+msgstr "Redes sociales a pie de página"
+
+#: inc/customizer/registration.php:597
+msgid "Footer Text"
+msgstr "Texto de pie de página"
+
+#: inc/customizer/registration.php:154
+msgid "Frontend Customizer"
+msgstr "Personalizar interfaz"
+
+#: partials/content-event-classic.php:105 partials/content-event-form.php:59
+msgid "fully booked"
+msgstr "totalmente lleno"
+
+#: partials/ico_listing/parts/token_sale.php:6
+msgid "Fundraising Goal"
+msgstr ""
+
+#: inc/crypterio/functions.php:537
+msgid "Fundraising Hard Cap Goal"
+msgstr "Objetivo de recaudación de máximo número de monedas"
+
+#: inc/crypterio/functions.php:532
+msgid "Fundraising Soft Cap Goal"
+msgstr "Objetivo de recaudación de mínimo número de monedas"
+
+#: inc/customizer/registration.php:599
+msgid ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst."
+msgstr ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst."
+
+#: footer.php:55
+msgid ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst. "
+msgstr ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst. "
+
+#: inc/visual_composer.php:115
+msgid "Gallery type"
+msgstr "Tipo de galería"
+
+#: inc/visual_composer.php:346
+msgid "Gap"
+msgstr "Brecha de precio"
+
+#: inc/vc/modules/ico_countdown.php:20
+msgid "Get ICO data automatically from Contract"
+msgstr "Obtener datos ICO automáticamente desde Contrato"
+
+#: inc/extras.php:1334 inc/customizer/registration.php:25
+msgid "Git"
+msgstr "Git"
+
+#: inc/crypterio/functions.php:591
+msgid "Github account"
+msgstr "Cuenta Github"
+
+#: inc/crypterio/functions.php:367 inc/crypterio/functions.php:374
+msgid "Goal:"
+msgstr "Objetivo:"
+
+#: inc/extras.php:1341 inc/customizer/registration.php:33
+msgid "Google"
+msgstr "Google"
+
+#: inc/visual_composer.php:2970
+msgid "Google Map"
+msgstr "Google Map"
+
+#: inc/customizer/registration.php:1120
+msgid "Google Map API Key"
+msgstr "Clave API Google Map"
+
+#: inc/customizer/registration.php:1115
+msgid "Google Map Api Settings"
+msgstr "Configuración API Google Map"
+
+#: inc/customizer/registration.php:1137
+msgid "Google Recaptcha API Settings"
+msgstr "Configuración API Google Recaptcha"
+
+#: inc/post_types-config.php:388 inc/extras.php:1328
+#: inc/visual_composer.php:685 inc/visual_composer.php:2628
+#: inc/customizer/registration.php:19
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/crypterio/functions.php:155
+msgid "Government-Issued ID Card or Passport"
+msgstr ""
+
+#: inc/visual_composer.php:1832 inc/visual_composer.php:2019
+#: inc/visual_composer.php:2741
+msgid "Grid"
+msgstr "Cuadrícula"
+
+#: inc/visual_composer.php:1840 inc/customizer/registration.php:967
+msgid "Grid View"
+msgstr "Visualización de cuadrícula"
+
+#: inc/visual_composer.php:2742
+msgid "Grid with filter"
+msgstr "Cuadrícula con filtro"
+
+#: inc/customizer/registration.php:702
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer/registration.php:745
+msgid "H2"
+msgstr "H2"
+
+#: inc/customizer/registration.php:788
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer/registration.php:831
+msgid "H4"
+msgstr "H4"
+
+#: inc/customizer/registration.php:874
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer/registration.php:917
+msgid "H6"
+msgstr "H6"
+
+#: inc/crypterio/functions.php:538
+msgid "Hard Cap value (ETH)"
+msgstr "Valor de máximo número de monedas (ETH)"
+
+#: inc/vc/modules/ico_countdown.php:135
+msgid "Hardcap label"
+msgstr "Etiqueta de máximo número de monedas"
+
+#: inc/vc/modules/ico_countdown.php:140
+msgid "Hardcap label 2"
+msgstr "Etiqueta de máximo número de monedas 2"
+
+#: inc/vc/modules/ico_countdown.php:130
+msgid "Hardcap price (number format)"
+msgstr "Precio de máximo número de monedas (formato en número)"
+
+#: woocommerce/myaccount/my-orders.php:67
+msgctxt "hash before order number"
+msgid "#"
+msgstr "#"
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Have a coupon?"
+msgstr "¿Tiene un cupón?"
+
+#: inc/post_types-config.php:166
+msgid "Header Options"
+msgstr "Opciones de encabezado"
+
+#: inc/crypterio/graph.php:48 inc/customizer/registration.php:95
+#: inc/customizer/registration.php:562
+msgid "Height"
+msgstr "Altura"
+
+#: inc/visual_composer.php:2391
+msgid "Height (px)"
+msgstr "Altura (px)"
+
+#: inc/admin/white_list/white_list.php:39
+#, php-format
+msgid ""
+"Hi! <br/> %s, your request to buy %s tokens has been approved. Please use "
+"your %s wallet for the purchase. <br/> We will send the contract address "
+"close to the token sale date."
+msgstr ""
+"¡Hola! <br/> %s, su petición para comprar %s tokens ha sido aprobada. "
+"Utilice su monedero %s para la compra. <br/> Enviaremos la dirección de "
+"contrato cerca de la fecha de venta de tokens."
+
+#: inc/visual_composer.php:320 inc/vc/modules/ico_countdown.php:164
+msgid "Hide"
+msgstr "Ocultar"
+
+#: inc/visual_composer.php:1419
+msgid "Hide Carousel Arrows"
+msgstr "Ocultar flechas de carrusel"
+
+#: inc/customizer/registration.php:574
+msgid "Hide Footer"
+msgstr "Ocultar pie de página"
+
+#: inc/customizer/registration.php:569
+msgid "Hide Logo"
+msgstr "Ocultar logo"
+
+#: inc/visual_composer.php:903
+msgid "Hide Title Line"
+msgstr "Ocultar línea del título"
+
+#: inc/post_types-config.php:431 inc/crypterio/functions.php:404
+msgid "High"
+msgstr "Alto"
+
+#: hb_templates/mobile/mobile.php:29
+msgid "Home"
+msgstr "Inicio"
+
+#: hb_templates/main.php:26
+msgid "Home page"
+msgstr "Página de inicio"
+
+#: inc/admin/product_registration/screens/system_status.php:20
+msgid "Home URL:"
+msgstr "URL de inicio:"
+
+#: 404.php:15
+msgid "homepage"
+msgstr "página de inicio"
+
+#: partials/vc_parts/ico_countdown/custom.php:53
+#: partials/vc_parts/ico_countdown/contract.php:91
+msgid "Hours"
+msgstr "Horas"
+
+#: inc/visual_composer.php:1583
+msgid "How long the animation effect should last. Decides the speed of effect."
+msgstr ""
+"Cuánto debería durar el efecto de animación. Determina la velocidad del "
+"efecto."
+
+#. URI of the theme
+msgid "http://crypterio.stylemixthemes.com/"
+msgstr "http://crypterio.stylemixthemes.com/"
+
+#. Author URI of the theme
+msgid "https://stylemixthemes.com/"
+msgstr "https://stylemixthemes.com/"
+
+#: partials/ico_listing/parts/rates.php:3
+msgid "Hype rate"
+msgstr "Índice de popularidad"
+
+#: partials/content-event-list-form.php:53
+#: partials/content-event-list-form.php:82 partials/content-event-form.php:76
+msgid ""
+"I agree with the all additional <a href='http://stylemixthemes.com/' "
+"target='_blank'>Terms and Conditions</a>"
+msgstr ""
+"Estoy de acuerdo con todos los <a href='http://stylemixthemes.com/' "
+"target='_blank'>términos y condiciones</a> adicionales"
+
+#: partials/content-event-classic.php:99 partials/content-event-form.php:53
+msgid "i am going"
+msgstr "voy"
+
+#: inc/admin/product_registration/screens/install_demo.php:10
+msgid "ICO"
+msgstr "ICO"
+
+#: inc/admin/product_registration/screens/install_demo.php:13
+msgid "ICO Agency"
+msgstr "Agencia ICO"
+
+#: inc/crypterio/functions.php:515
+msgid "ICO Category"
+msgstr "Categoría ICO"
+
+#: inc/vc/modules/ico_countdown.php:30
+msgid "ICO Contract address"
+msgstr "Dirección de contrato ICO"
+
+#: inc/vc/modules/ico_countdown.php:9
+msgid "ICO Countdown"
+msgstr "Cuenta atrás ICO"
+
+#: archive-stm_ico_listing.php:12
+#: inc/admin/product_registration/screens/install_demo.php:19
+msgid "ICO Directory"
+msgstr "Directorio ICO"
+
+#: inc/post_types-config.php:5 inc/customizer/registration.php:204
+#: inc/customizer/registration.php:210
+#: inc/admin/product_registration/screens/install_demo.php:16
+msgid "ICO Listing"
+msgstr "Listado ICO"
+
+#: inc/post_types-config.php:6 inc/customizer/registration.php:215
+msgid "ICO Listings"
+msgstr "Listados ICO"
+
+#: inc/crypterio/functions.php:527
+msgid "ICO name"
+msgstr "Nombre ICO"
+
+#: inc/admin/white_list/white_list.php:37
+msgid "ICO Participation"
+msgstr "Participación ICO"
+
+#: partials/ico_listing/parts/token_sale.php:5
+msgid "ICO Token Price"
+msgstr ""
+
+#: inc/crypterio/functions.php:557
+msgid "ICO Website"
+msgstr "Sitio web ICO"
+
+#: inc/visual_composer.php:276 inc/visual_composer.php:809
+#: inc/visual_composer.php:950 inc/visual_composer.php:2906
+#: inc/customizer/registration.php:228 inc/customizer/registration.php:260
+#: inc/customizer/registration.php:292 inc/customizer/registration.php:324
+#: inc/customizer/registration.php:356 inc/customizer/registration.php:388
+#: inc/customizer/registration.php:420 inc/customizer/registration.php:452
+msgid "Icon"
+msgstr "Icono"
+
+#: inc/visual_composer.php:1000
+msgid "Icon - Background Color"
+msgstr "Icono - Color de fondo"
+
+#: inc/visual_composer.php:1019
+msgid "Icon - Border Color"
+msgstr "Icono - Color del borde"
+
+#: inc/visual_composer.php:1031
+msgid "Icon - Border Custom"
+msgstr "Icono - Personalizar borde"
+
+#: inc/visual_composer.php:982
+msgid "Icon - Color"
+msgstr "Icono - Color"
+
+#: inc/visual_composer.php:994 inc/visual_composer.php:1013
+msgid "Icon - Color Custom"
+msgstr "Icono - Personalizar color"
+
+#: inc/visual_composer.php:975
+msgid "Icon - Line Height"
+msgstr "Icono - Espaciado"
+
+#: inc/visual_composer.php:290 inc/visual_composer.php:956
+msgid "Icon - Position"
+msgstr "Icono - Posición"
+
+#: inc/visual_composer.php:770
+msgid "Icon - Size"
+msgstr "Icono - Tamaño"
+
+#: inc/visual_composer.php:823
+msgid "Icon Box"
+msgstr "Casilla de icono"
+
+#: inc/visual_composer.php:413
+msgid "Icon Color"
+msgstr "Color de icono"
+
+#: inc/visual_composer.php:1037
+msgid "Icon Height"
+msgstr "Altura de icono"
+
+#: inc/visual_composer.php:961
+msgid "Icon Left"
+msgstr "Icono izquierdo"
+
+#: inc/visual_composer.php:962
+msgid "Icon Left Transparent"
+msgstr "Icono izquierdo transparente"
+
+#: inc/visual_composer.php:968
+msgid "Icon Size"
+msgstr "Tamaño de icono"
+
+#: inc/visual_composer.php:283
+msgid "Icon Size (px)"
+msgstr "Tamaño de icono (px)"
+
+#: inc/visual_composer.php:959
+msgid "Icon Top"
+msgstr "Icono superior"
+
+#: inc/visual_composer.php:960
+msgid "Icon Top Transparent"
+msgstr "Icono superior transparente"
+
+#: inc/visual_composer.php:1048
+msgid "Icon Width"
+msgstr "Anchura de icono"
+
+#: inc/visual_composer.php:1059
+msgid "Icon Wrapper Width"
+msgstr "Anchura de clase envolvente de icono"
+
+#: inc/visual_composer.php:2371
+msgid "If checked, chart will have legend."
+msgstr "Si establecido, la gráfica tendrá leyenda."
+
+#: woocommerce/checkout/form-login.php:35
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer, please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+"Si ha comprado con nosotros antes, introduzca sus detalles en las casillas a "
+"continuación. Si es un nuevo cliente, continúe a la sección de Facturación "
+"&amp; Envío."
+
+#: inc/visual_composer.php:700
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+"Si desea arreglar un elemento de contenido particular de forma diferente, "
+"use este campo para añadir un nombre de categoría y, después, remita a ella "
+"en su archivo css."
+
+#: inc/visual_composer.php:720 inc/visual_composer.php:1491
+#: inc/crypterio/functions.php:652
+msgid "Image"
+msgstr "Imagen"
+
+#: inc/visual_composer.php:1604
+msgid "Image Carousel"
+msgstr "Carrusel de imagen"
+
+#: inc/visual_composer.php:121
+msgid "Image full"
+msgstr "Imagen completa"
+
+#: inc/visual_composer.php:118
+msgid "Image grid"
+msgstr "Cuadrícula de imagen"
+
+#: inc/visual_composer.php:240 inc/visual_composer.php:578
+#: inc/visual_composer.php:729 inc/visual_composer.php:1496
+#: inc/visual_composer.php:1784 inc/visual_composer.php:2942
+msgid "Image Size"
+msgstr "Tamaño de imagen"
+
+#: inc/visual_composer.php:1638 inc/visual_composer.php:2049
+#: inc/visual_composer.php:2336 inc/visual_composer.php:2826
+msgid "Image size"
+msgstr "Tamaño de imagen"
+
+#: inc/crypterio/functions.php:616
+msgid "Image Url"
+msgstr ""
+
+#: inc/visual_composer.php:1611
+msgid "Images"
+msgstr "Imágenes"
+
+#: inc/admin/product_registration/screens/install_demo.php:68
+msgid "Import"
+msgstr "Importar"
+
+#: inc/admin/product_registration/screens/install_demo.php:229
+msgid "Imported"
+msgstr "Importado"
+
+#: inc/admin/product_registration/screens/install_demo.php:228
+msgid "Importing Demo"
+msgstr "Importando demo"
+
+#: partials/vc_parts/ico_countdown/custom.php:147
+#, php-format
+msgid "in %s days"
+msgstr "en %s días"
+
+#: partials/vc_parts/ico_countdown/custom.php:149
+#, php-format
+msgid "in just %s hours"
+msgstr "en solo %s horas"
+
+#: inc/visual_composer.php:2767
+msgid "Include Category"
+msgstr "Incluir categoría"
+
+#: inc/visual_composer.php:816
+msgid "Info Box"
+msgstr "Casilla de información"
+
+#: inc/post_types-config.php:280 inc/post_types-config.php:297
+#: inc/post_types-config.php:357 inc/post_types-config.php:437
+msgid "Information"
+msgstr "Información"
+
+#: inc/admin/product_registration/screens/system_status.php:85
+msgid "Information about the web server that is currently hosting your site."
+msgstr "Información del servidor web que aloja su sitio web actualmente."
+
+#: inc/extras.php:1327 inc/visual_composer.php:2623
+#: inc/customizer/registration.php:18
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/tgm/tgm-plugin-activation.php:2622
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/admin/product_registration/includes/admin_screens.php:155
+#: inc/admin/product_registration/includes/admin_screens.php:170
+msgid "Install Demos"
+msgstr "Instalar demos"
+
+#: inc/tgm/tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: inc/tgm/tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins requeridos"
+
+#: inc/admin/product_registration/screens/install_demo.php:65
+msgid "Installed"
+msgstr "Instalado"
+
+#: inc/admin/product_registration/screens/install_demo.php:85
+#: inc/admin/product_registration/screens/install_demo.php:177
+msgid "Installed & Activated"
+msgstr "Instalado & activado"
+
+#: inc/tgm/tgm-plugin-activation.php:2220
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: inc/tgm/tgm-plugin-activation.php:2386
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/admin/product_registration/screens/install_demo.php:176
+msgid "Installing"
+msgstr "Instalando"
+
+#: inc/tgm/tgm-plugin-activation.php:3392
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/tgm-plugin-activation.php:3398
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando plugin: %s"
+
+#: inc/admin/product_registration/screens/startup.php:68
+msgid "Instructions For Generating A Token"
+msgstr "Instrucciones para generar un identificador"
+
+#: inc/crypterio/functions.php:265
+msgid "Invalid email format"
+msgstr "Formato de correo electrónico no válido"
+
+#: inc/crypterio/graph.php:98
+msgid "Inverse grid colors"
+msgstr "Colores de cuadrícula opuestos"
+
+#: inc/vc/modules/wave_roadmap.php:28 inc/vc/modules/wave_roadmap.php:44
+msgid "Is done"
+msgstr "Hecho"
+
+#: inc/crypterio/functions.php:586
+msgid "Is ICO use Whitelist?"
+msgstr "¿ICO usa Whitelist?"
+
+#: partials/content-none.php:11
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que no podemos encontrar lo que busca. Quizá el buscador sea de ayuda."
+
+#: inc/visual_composer.php:520
+msgid "Item"
+msgstr "Elemento"
+
+#: inc/visual_composer.php:1714
+msgid "Items"
+msgstr "Elementos"
+
+#: inc/visual_composer.php:1738
+msgid "Items (Mobile)"
+msgstr "Elementos (móvil)"
+
+#: inc/visual_composer.php:1722
+msgid "Items (Small Desktop)"
+msgstr "Elementos (escritorio pequeño)"
+
+#: inc/visual_composer.php:1730
+msgid "Items (Tablet)"
+msgstr "Elementos (tableta)"
+
+#: inc/visual_composer.php:840
+msgid "Items align"
+msgstr "Alineación de elementos"
+
+#: inc/visual_composer.php:2853
+msgid "Items Count"
+msgstr "Contador de elementos"
+
+#: inc/visual_composer.php:1502
+msgid "Job"
+msgstr "Trabajo"
+
+#: vc_templates/stm_vacancies.php:19
+msgid "Job Posting Title"
+msgstr "Título de publicación de trabajo"
+
+#: partials/content-event-list-form.php:70
+msgid "join"
+msgstr "unirse"
+
+#: partials/content-event-info.php:100
+msgid "join now"
+msgstr "unirse ahora"
+
+#: partials/ico_listing/parts/token_sale.php:11
+msgid "Know Your Customer"
+msgstr ""
+
+#: inc/crypterio/functions.php:608
+msgid "Know your customer?"
+msgstr "¿Conoce a su cliente?"
+
+#: inc/post_types-config.php:440 inc/vc/modules/token_structure.php:24
+#: inc/vc/modules/token_structure.php:38
+msgid "Label"
+msgstr "Etiqueta"
+
+#: inc/vc/modules/pricing_table.php:48
+msgid "Label Text"
+msgstr "Texto en etiqueta"
+
+#: inc/admin/product_registration/screens/system_status.php:68
+msgid "Language:"
+msgstr "Idioma:"
+
+#: inc/visual_composer.php:1280
+msgid "Large Screen"
+msgstr "Pantalla grande"
+
+#: inc/crypterio/functions.php:133
+msgid "Last name"
+msgstr ""
+
+#: inc/visual_composer.php:3054
+msgid "Latitude"
+msgstr "Latitud"
+
+#: inc/customizer/registration.php:610 inc/customizer/registration.php:965
+msgid "Layout"
+msgstr "Diseño"
+
+#: partials/news/ico.php:48
+#: inc/admin/product_registration/screens/support.php:53
+msgid "Learn more"
+msgstr "Saber más"
+
+#: inc/visual_composer.php:293 inc/visual_composer.php:843
+#: inc/visual_composer.php:853 inc/visual_composer.php:1137
+#: inc/visual_composer.php:2663 inc/customizer/registration.php:1005
+#: inc/customizer/registration.php:1095
+msgid "Left"
+msgstr "Izquierda"
+
+#: functions.php:88
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/visual_composer.php:2377
+msgid "Legend Position"
+msgstr "Posición de la leyenda"
+
+#: inc/visual_composer.php:2215
+msgid "Lessons Info"
+msgstr "Información de lecciones"
+
+#: inc/customizer/registration.php:728 inc/customizer/registration.php:771
+#: inc/customizer/registration.php:814 inc/customizer/registration.php:857
+#: inc/customizer/registration.php:900 inc/customizer/registration.php:943
+msgid "Letter Spacing"
+msgstr "Espacio entre letras"
+
+#: inc/visual_composer.php:332 inc/visual_composer.php:3088
+#: inc/customizer/controls/font-weight.php:14
+msgid "Light"
+msgstr "Light"
+
+#: inc/customizer/controls/font-weight.php:15
+msgid "Light Italic"
+msgstr "Light cursiva"
+
+#: inc/visual_composer.php:2361
+msgid "Line"
+msgstr "Línea"
+
+#: inc/customizer/registration.php:691 inc/customizer/registration.php:720
+#: inc/customizer/registration.php:763 inc/customizer/registration.php:806
+#: inc/customizer/registration.php:849 inc/customizer/registration.php:892
+#: inc/customizer/registration.php:935
+msgid "Line Height"
+msgstr "Espaciado"
+
+#: inc/visual_composer.php:589 inc/visual_composer.php:785
+#: inc/visual_composer.php:1427 inc/visual_composer.php:1911
+msgid "Link"
+msgstr "Enlace"
+
+#: inc/visual_composer.php:2293
+msgid "Link for download"
+msgstr "Enlace para descarga"
+
+#: inc/visual_composer.php:790
+msgid "Link Icon"
+msgstr "Icono de enlace"
+
+#: inc/post_types-config.php:392 inc/extras.php:1330
+#: inc/visual_composer.php:679 inc/customizer/registration.php:21
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/visual_composer.php:1831
+msgid "List"
+msgstr "Lista"
+
+#: inc/customizer/registration.php:968
+msgid "List View"
+msgstr "Visualización de lista"
+
+#: vc_templates/stm_events.php:86 vc_templates/stm_events.php:91
+#: vc_templates/stm_portfolio.php:41 vc_templates/stm_portfolio.php:48
+msgid "load more"
+msgstr "cargar más"
+
+#: vc_templates/stm_news_list.php:42
+msgid "Load more posts"
+msgstr "Cargar más publicaciones"
+
+#: vc_templates/stm_events.php:85 vc_templates/stm_events.php:90
+#: vc_templates/stm_portfolio.php:40 vc_templates/stm_portfolio.php:47
+msgid "loading..."
+msgstr "cargando..."
+
+#: inc/post_types-config.php:304 inc/visual_composer.php:2242
+#: vc_templates/stm_vacancies.php:20
+msgid "Location"
+msgstr "Ubicación"
+
+#: woocommerce/global/form-login.php:45
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: woocommerce/myaccount/form-login.php:42
+msgid "login"
+msgstr "usuario"
+
+#: inc/visual_composer.php:564 inc/customizer/registration.php:80
+#: inc/customizer/registration.php:551 hb_templates/elements/image/image.php:25
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer/registration.php:72
+msgid "Logo &amp; Title"
+msgstr "Logo &amp; Título"
+
+#: inc/visual_composer.php:3060
+msgid "Longitude"
+msgstr "Longitud"
+
+#: woocommerce/global/form-login.php:52
+msgid "Lost your password?"
+msgstr "¿Ha perdido su contraseña?"
+
+#: inc/crypterio/functions.php:406
+msgid "Low"
+msgstr ""
+
+#: inc/customizer/controls/text-transform.php:13
+msgid "Lowercase"
+msgstr "Minúscula"
+
+#: inc/visual_composer.php:2122
+msgid "Map - Height"
+msgstr "Mapa - Altura"
+
+#: inc/visual_composer.php:2129
+msgid "Map - Zoom"
+msgstr "Mapa - Zoom"
+
+#: inc/visual_composer.php:2980
+msgid "Map Height"
+msgstr "Altura del mapa"
+
+#: inc/visual_composer.php:3007
+msgid "Map Style"
+msgstr "Estilo de mapa"
+
+#: inc/visual_composer.php:2987
+msgid "Map Zoom"
+msgstr "Zoom de mapa"
+
+#: inc/customizer/registration.php:109
+msgid "Margin Bottom"
+msgstr "Margen inferior"
+
+#: inc/customizer/registration.php:102
+msgid "Margin Top"
+msgstr "Margen superior"
+
+#: inc/vc/modules/ratings.php:19
+msgid "Mark"
+msgstr "Marca"
+
+#: inc/visual_composer.php:2993
+msgid "Marker Image"
+msgstr "Marcador de imagen"
+
+#: partials/ico_listing/parts/market_and_returns.php:18
+msgid "Market & Returns"
+msgstr "Mercado & Devoluciones"
+
+#: inc/vc/modules/ratings.php:26
+msgid "Max"
+msgstr "Máx"
+
+#: inc/admin/product_registration/screens/system_status.php:243
+msgid "Max Upload Size:"
+msgstr "Tamaño de subida máximo:"
+
+#: inc/visual_composer.php:334 inc/crypterio/functions.php:405
+#: inc/customizer/controls/font-weight.php:20
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/customizer/controls/font-weight.php:21
+msgid "Medium Italic"
+msgstr "Medium cursiva"
+
+#: inc/visual_composer.php:1286
+msgid "Medium Screen"
+msgstr "Pantalla mediana"
+
+#: inc/post_types-config.php:30
+msgid "Member"
+msgstr "Miembro"
+
+#: inc/post_types-config.php:417
+msgid "Member ID"
+msgstr "ID de miembro"
+
+#: inc/crypterio/functions.php:612 partials/ico_listing/parts/token_sale.php:13
+msgid "Min/Max Personal Cap"
+msgstr "Límite mín. / máx. personal"
+
+#: inc/tgm/tgm-plugin-activation.php:2394
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+#: partials/vc_parts/ico_countdown/custom.php:54
+#: partials/vc_parts/ico_countdown/contract.php:92
+msgid "Minutes"
+msgstr "Minutos"
+
+#: inc/customizer/registration.php:84
+msgid "Mobile Logo"
+msgstr "Logo de móvil"
+
+#: inc/visual_composer.php:2021
+msgid "Modern"
+msgstr "Moderno"
+
+#: vc_templates/stm_crypto_charts.php:54
+msgid "month"
+msgstr "mes"
+
+#: inc/admin/product_registration/includes/admin_screens.php:35
+#: inc/admin/product_registration/includes/admin_screens.php:36
+msgid "My crypterio"
+msgstr "Mi Crypterio"
+
+#: inc/admin/product_registration/screens/system_status.php:232
+msgid "MySQL Version:"
+msgstr "Versión MySQL:"
+
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgid_plural "Categories:"
+msgstr[0] "N/A"
+msgstr[1] "Categorías:"
+
+#: inc/post_types-config.php:401 inc/extras.php:137
+#: inc/visual_composer.php:1486 inc/admin/white_list/templates/i18n.php:3
+msgid "Name"
+msgstr "Nombre"
+
+#: inc/visual_composer.php:1215
+msgid "Navigation"
+msgstr "Navegación"
+
+#: inc/crypterio/functions.php:403
+msgid "Neutral"
+msgstr ""
+
+#: inc/crypterio/functions.php:778
+msgid "New ICO"
+msgstr "Nuevo ICO"
+
+#: inc/crypterio/functions.php:341
+msgid "New ICO Participant"
+msgstr "Nuevo participante ICO"
+
+#: comments.php:34
+msgid "Newer Comments"
+msgstr "Comentarios recientes"
+
+#: woocommerce/single-product.php:37 woocommerce/archive-product.php:38
+#: inc/visual_composer.php:1797 partials/title_box.php:39
+#: partials/title_box.php:40
+msgid "News"
+msgstr "Noticias"
+
+#: inc/vc/modules/news_carousel.php:11
+msgid "News Carousel"
+msgstr "Carrusel de noticias"
+
+#: inc/vc/modules/news.php:11
+msgid "News Grid"
+msgstr "Parrilla de noticias"
+
+#: inc/vc/modules/news_list.php:11
+msgid "News List"
+msgstr "Lista de noticias"
+
+#: inc/vc/modules/news_widget.php:11
+msgid "News Widget"
+msgstr "Widget de noticias"
+
+#: vc_templates/stm_portfolio_pagination.php:76
+#: vc_templates/stm_portfolio_pagination.php:121
+msgid "next"
+msgstr "siguiente"
+
+#: inc/visual_composer.php:2806
+msgid "No"
+msgstr "No"
+
+#: inc/tgm/tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ninguna acción requerida. El plugin %1$s ya estaba activo."
+
+#: inc/tgm/tgm-plugin-activation.php:2833
+msgid "No plugins are available to be activated at this time."
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "No hay plugins disponibles para ser activados en este momento."
+msgstr[1] "Los siguientes plugins han sido activados correctamente:"
+
+#: inc/tgm/tgm-plugin-activation.php:2700
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins disponibles para ser instalados en este momento."
+
+#: inc/tgm/tgm-plugin-activation.php:2702
+msgid "No plugins are available to be updated at this time."
+msgstr "No hay plugins disponibles para ser actualizados en este momento."
+
+#: inc/tgm/tgm-plugin-activation.php:2430
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"Sin plugins para instalar, actualizar o instalar. <a href=\"%1$s\">Volver al "
+"panel de control</a>"
+
+#: inc/tgm/tgm-plugin-activation.php:2807
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"No se ha seleccionado ningún plugin para ser activado. Ninguna acción "
+"realizada."
+
+#: inc/tgm/tgm-plugin-activation.php:2662
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"No se ha seleccionado ningún plugin para instalar. Ninguna acción realizada."
+
+#: inc/tgm/tgm-plugin-activation.php:2664
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"No se ha seleccionado ningún plugin para actualizar. Ninguna acción "
+"realizada."
+
+#: inc/post_types-config.php:223 inc/customizer/registration.php:507
+msgid "No Repeat"
+msgstr "Sin repetición"
+
+#: inc/visual_composer.php:1007
+msgid "None"
+msgstr "Ninguno"
+
+#: inc/customizer/controls/text-transform.php:15
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/tgm/tgm-plugin-activation.php:2216
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: inc/admin/product_registration/screens/install_demo.php:85
+msgid "Not installed"
+msgstr "No instalado"
+
+#: inc/crypterio/functions.php:453
+msgid "Not rated"
+msgstr "No indicado"
+
+#: inc/crypterio/functions.php:368
+msgid "Not set"
+msgstr "No establecido"
+
+#: inc/vc/modules/wave_roadmap.php:47
+msgid "Not yet"
+msgstr "Aún no"
+
+#: inc/extras.php:162
+msgctxt "noun"
+msgid "Message"
+msgstr "Mensaje"
+
+#: inc/visual_composer.php:1741
+msgid "Number of items the carousel will display. Default: at <479px - 1 item."
+msgstr ""
+"Número de elementos que se mostrarán en el carrusel. Por defecto: en <479px -"
+" 1 elemento."
+
+#: inc/visual_composer.php:1733
+msgid ""
+"Number of items the carousel will display. Default: at <768px - 2 items."
+msgstr ""
+"Número de elementos que se mostrarán en el carrusel. Por defecto: en <768px -"
+" 2 elementos."
+
+#: inc/visual_composer.php:1725
+msgid ""
+"Number of items the carousel will display. Default: at <980px - 3 items."
+msgstr ""
+"Número de elementos que se mostrarán en el carrusel. Por defecto: en <980px -"
+" 3 elementos."
+
+#: inc/vc/modules/services_grid.php:18
+msgid "Number of posts"
+msgstr "Número de publicaciones"
+
+#: inc/visual_composer.php:2919
+msgid "Number of posts to show"
+msgstr "Número de publicaciones a mostrar"
+
+#: inc/crypterio/functions.php:632
+#: partials/ico_listing/parts/short_review.php:3
+msgid "Number of team Members"
+msgstr "Número de miembros del equipo"
+
+#: inc/visual_composer.php:2028 inc/visual_composer.php:2313
+#: inc/visual_composer.php:2518
+msgid "Number Posts"
+msgstr "Número de publicaciones"
+
+#: inc/extras.php:1348 inc/customizer/registration.php:39
+msgid "Odnoklassniki"
+msgstr "Odnoklassniki"
+
+#: partials/ico_listing/parts/ico_date_and_image.php:38
+msgid "of"
+msgstr "de"
+
+#: comments.php:31
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: inc/visual_composer.php:2414 inc/visual_composer.php:2457
+msgid "One"
+msgstr "Uno"
+
+#: inc/crypterio/functions.php:254
+msgid "Only numbers"
+msgstr "Solo números"
+
+#: inc/visual_composer.php:250
+msgid "Open in Lightbox"
+msgstr "Abrir en Lightbox"
+
+#: woocommerce/myaccount/my-orders.php:25
+msgid "Order"
+msgstr "Pedido"
+
+#: partials/ico_listing/parts/related.php:9
+#, php-format
+msgid "Other %s ICOs"
+msgstr "Otros %s ICO"
+
+#: inc/admin/product_registration/screens/support.php:87
+#, php-format
+msgid ""
+"Our forum is the best place for user to user interactions. Ask another %s "
+"user or share your experience with the community to help others."
+msgstr ""
+"Nuestro foro es el mejor lugar para interactuar entre usuarios. Pregunte a "
+"otro usuario de %s o comparta su experiencia con la comunidad para ayudar al "
+"resto."
+
+#: inc/admin/product_registration/screens/support.php:50
+#, php-format
+msgid ""
+"Our online documentaiton is a useful resource for learning the every aspect "
+"and features of %s."
+msgstr ""
+"La documentación en línea es un recurso útil para aprender todos los "
+"aspectos y características de %s."
+
+#: inc/visual_composer.php:544
+msgid "Our Partner"
+msgstr "Nuestro socio"
+
+#: partials/ico_listing/parts/rates.php:35
+msgid "Our Rating"
+msgstr "Nuestra calificación"
+
+#: vc_templates/stm_portfolio_information.php:49
+msgid "Our Role"
+msgstr "Nuestro papel"
+
+#: inc/visual_composer.php:2840
+msgid "Our Works"
+msgstr "Nuestros trabajos"
+
+#: inc/extras.php:97
+msgid "out of 5"
+msgstr "de 5"
+
+#: partials/content-page.php:24
+msgid "Page"
+msgstr "Página"
+
+#: inc/extras.php:388
+msgid "Page not found"
+msgstr "Página no encontrada"
+
+#: inc/post_types-config.php:163 inc/customizer/registration.php:460
+msgid "Page Setup"
+msgstr "Configuración de página"
+
+#: partials/content-page.php:20 partials/content.php:90
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: inc/vc/modules/panel_box.php:8 inc/vc/modules/panel_box.php:11
+msgid "Panel Box"
+msgstr "Casilla de panel"
+
+#: inc/vc/modules/panel_box.php:25 inc/vc/modules/panel_box.php:32
+msgid "Panel Subtitle"
+msgstr "Subtítulo de panel"
+
+#: inc/vc/modules/panel_box.php:18
+msgid "Panel Title"
+msgstr "Título de panel"
+
+#: inc/customizer/registration.php:673
+msgid "Paragraph"
+msgstr "Párrafo"
+
+#: inc/post_types-config.php:353
+msgid "Participant Info"
+msgstr "Info de participante"
+
+#: inc/visual_composer.php:144 inc/visual_composer.php:155
+msgid "Particles background"
+msgstr "Fondo de partículas"
+
+#: inc/vc/modules/ico_countdown.php:257
+msgid "Passport Photo description"
+msgstr "Descripción de foto de pasaporte"
+
+#: woocommerce/global/form-login.php:37
+msgid "Password"
+msgstr "Contraseña"
+
+#: partials/content-event-classic.php:93 partials/content-event-form.php:46
+msgid "past event"
+msgstr "evento pasado"
+
+#: inc/visual_composer.php:2004
+msgid "Past Events"
+msgstr "Eventos pasados"
+
+#: woocommerce/myaccount/my-orders.php:84
+msgid "Pay"
+msgstr "Pagar"
+
+#: woocommerce/checkout/payment.php:24
+msgid "payment"
+msgstr "pago"
+
+#: inc/vc/modules/ico_countdown.php:145
+msgid "Payments"
+msgstr "Pagos"
+
+#: inc/admin/white_list/white_list.php:116
+#: inc/admin/white_list/templates/i18n.php:14
+msgid "Pending"
+msgstr "Pendiente"
+
+#: inc/crypterio/functions.php:605
+msgid "Percent of tokens for sale"
+msgstr "Porcentaje de tokens para venta"
+
+#: inc/post_types-config.php:368 inc/post_types-config.php:409
+#: inc/visual_composer.php:632 inc/visual_composer.php:650
+#: inc/visual_composer.php:1507 inc/visual_composer.php:3044
+msgid "Phone"
+msgstr "Teléfono"
+
+#: inc/visual_composer.php:638 inc/visual_composer.php:1513
+msgid "Phone Two"
+msgstr "Teléfono dos"
+
+#: inc/widgets/contacts.php:100
+msgid "Phone:"
+msgstr "Teléfono:"
+
+#: inc/visual_composer.php:1385
+msgid "Photo - Size"
+msgstr "Foto - Tamaño"
+
+#: inc/admin/product_registration/screens/system_status.php:117
+msgid "PHP Max Input Vars:"
+msgstr "Variables de entrada máx. PHP:"
+
+#: inc/admin/product_registration/screens/system_status.php:94
+msgid "PHP Post Max Size:"
+msgstr "Tamaño máximo de post PHP:"
+
+#: inc/admin/product_registration/screens/system_status.php:99
+msgid "PHP Time Limit:"
+msgstr "Límite de tiempo PHP:"
+
+#: inc/admin/product_registration/screens/system_status.php:88
+msgid "PHP Version:"
+msgstr "Versión PHP:"
+
+#: inc/visual_composer.php:2364
+msgid "Pie"
+msgstr "Gráfico de sectores"
+
+#: partials/news/parts/_share.php:24
+msgid "Pin it"
+msgstr "Fijar en tablero"
+
+#: inc/extras.php:1335 inc/customizer/registration.php:26
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/crypterio/functions.php:342
+msgid "Please check new ICO Participant."
+msgstr "Comprueba el nuevo participante ICO."
+
+#: inc/crypterio/functions.php:779
+msgid "Please check new ICO."
+msgstr "Comprueba el nuevo ICO."
+
+#: inc/tgm/tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Contacte con el administrador de este sitio web para obtener ayuda."
+
+#: inc/tgm/tgm-plugin-activation.php:932 inc/tgm/tgm-plugin-activation.php:935
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Contacte con el proveedor de plugin y pregunte cómo programar su plugin "
+"según las directrices de WordPress."
+
+#: inc/admin/product_registration/screens/install_demo.php:117
+msgid "Please enter your Activation Token before running the Crypterio."
+msgstr "Introduzca su token de activación antes de poner en marcha Crypterio."
+
+#: inc/updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Introduzca su clave API en Envato Marketplace."
+
+#: inc/updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Introduzca su nombre de usuario en Envato Marketplace."
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Introduzca la información a continuación para ver los métodos de pago "
+"disponibles."
+
+#: inc/admin/product_registration/screens/startup.php:23
+msgid ""
+"Please make sure you have purchased this theme with the account you "
+"registered current token"
+msgstr ""
+"Asegúrese de haber comprado este tema con la cuenta con la que registró el "
+"identificador actual"
+
+#: inc/crypterio/functions.php:282 inc/crypterio/functions.php:715
+msgid "Please use a jpg/png/gif image"
+msgstr "Utilice una imagen jpg / png / gif"
+
+#: inc/crypterio/functions.php:784
+msgid "Please, fill all required fields."
+msgstr "Rellene todos los campos obligatorios."
+
+#: inc/tgm/tgm-plugin-activation.php:2455
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm/tgm-plugin-activation.php:1113
+#: inc/tgm/tgm-plugin-activation.php:2847
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: inc/tgm/tgm-plugin-activation.php:399 inc/tgm/tgm-plugin-activation.php:3049
+msgid "Plugin activated successfully."
+msgstr "Plugin activado con éxito."
+
+#: inc/tgm/tgm-plugin-activation.php:3048
+msgid "Plugin activation failed."
+msgstr "Activación de plugin fallida."
+
+#: inc/tgm/tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin no activado. Se necesita una versión superior de %s para este tema. "
+"Actualice el plugin."
+
+#: inc/admin/product_registration/includes/admin_screens.php:158
+#: inc/admin/product_registration/includes/admin_screens.php:173
+msgid "Plugins"
+msgstr "Plugins"
+
+#: inc/tgm/tgm-plugin-activation.php:2287
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#: inc/customizer/registration.php:213 inc/customizer/registration.php:245
+#: inc/customizer/registration.php:277 inc/customizer/registration.php:309
+#: inc/customizer/registration.php:341 inc/customizer/registration.php:373
+#: inc/customizer/registration.php:405 inc/customizer/registration.php:437
+msgid "Plural Title"
+msgstr "Título plural"
+
+#: inc/vc/modules/news_carousel.php:44 inc/vc/modules/news_widget.php:44
+msgid "Popular"
+msgstr "Popular"
+
+#: inc/vc/modules/ico_countdown.php:167 inc/vc/modules/ico_countdown.php:178
+#: inc/vc/modules/ico_countdown.php:188 inc/vc/modules/ico_countdown.php:198
+#: inc/vc/modules/ico_countdown.php:208 inc/vc/modules/ico_countdown.php:219
+#: inc/vc/modules/ico_countdown.php:229 inc/vc/modules/ico_countdown.php:239
+#: inc/vc/modules/ico_countdown.php:249 inc/vc/modules/ico_countdown.php:259
+#: inc/vc/modules/ico_countdown.php:269 inc/vc/modules/ico_countdown.php:279
+msgid "Popup"
+msgstr "Ventana emergente"
+
+#: inc/vc/modules/ico_countdown.php:196
+msgid "Popup description"
+msgstr "Descripción de ventana emergente"
+
+#: inc/vc/modules/ico_countdown.php:206
+msgid "Popup link"
+msgstr "Enlace de ventana emergente"
+
+#: inc/vc/modules/ico_countdown.php:227
+msgid "Popup Subtitle"
+msgstr "Subtítulo de ventana emergente"
+
+#: inc/vc/modules/ico_countdown.php:176 inc/vc/modules/ico_countdown.php:217
+msgid "Popup Title"
+msgstr "Título de ventana emergente"
+
+#: inc/post_types-config.php:89 inc/post_types-config.php:90
+#: inc/visual_composer.php:2505 inc/customizer/registration.php:428
+#: inc/customizer/registration.php:434 inc/customizer/registration.php:439
+msgid "Portfolio"
+msgstr "Carpeta"
+
+#: inc/post_types-config.php:423
+msgid "Portfolio image size"
+msgstr "Tamaño de imagen de carpeta"
+
+#: inc/visual_composer.php:2577
+msgid "Portfolio Information"
+msgstr "Información de carpeta"
+
+#: inc/visual_composer.php:2537
+msgid "Portfolio Post Pagination"
+msgstr "Paginación de carpeta"
+
+#: inc/post_types-config.php:267 inc/visual_composer.php:569
+msgid "Position"
+msgstr "Posición"
+
+#: inc/extras.php:165
+msgid "post a comment"
+msgstr "publicar un comentario"
+
+#: inc/post_types-config.php:284
+msgid "Post Info"
+msgstr "Información de publicación"
+
+#: inc/customizer/registration.php:58
+msgid "Post Types"
+msgstr "Tipos de publicación"
+
+#: woocommerce/cart/shipping-calculator.php:93
+msgid "Postcode / ZIP"
+msgstr "Código postal / ZIP"
+
+#: partials/content-post_details.php:8 partials/content-loop_list.php:11
+msgid "Posted by:"
+msgstr "Publicado por:"
+
+#: inc/vc/modules/pricing_table.php:38
+msgid "Postfix"
+msgstr "Postfix"
+
+#: inc/visual_composer.php:2885
+msgid "Posts in timeline style"
+msgstr "Publicaciones en estilo cronología"
+
+#: inc/visual_composer.php:1765 inc/visual_composer.php:2034
+#: inc/visual_composer.php:2319 inc/visual_composer.php:2648
+msgid "Posts Per Row"
+msgstr "Publicaciones por fila"
+
+#: inc/tgm/tgm-plugin-activation.php:2199
+msgid "Pre-Packaged"
+msgstr "Preguardado"
+
+#: inc/vc/modules/pricing_table.php:23
+msgid "Prefix"
+msgstr "Prefix"
+
+#: inc/visual_composer.php:231
+msgid "Preview Image"
+msgstr "Previsualizar imagen"
+
+#: vc_templates/stm_portfolio_pagination.php:63
+#: vc_templates/stm_portfolio_pagination.php:95
+msgid "previous"
+msgstr "anterior"
+
+#: woocommerce/cart/cart.php:80 inc/vc/modules/pricing_table.php:28
+msgid "Price"
+msgstr "Precio"
+
+#: woocommerce/cart/cart.php:34
+msgid "price"
+msgstr "precio"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "proceed to checkout"
+msgstr "proceder a comprar en línea"
+
+#: woocommerce/checkout/review-order.php:30 woocommerce/cart/cart.php:53
+msgid "Product"
+msgstr "Producto"
+
+#: woocommerce/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr "Descripción de producto"
+
+#: woocommerce/cart/cart.php:33
+msgid "product name"
+msgstr "nombre del producto"
+
+#: inc/admin/product_registration/includes/admin_screens.php:152
+msgid "Product Registration"
+msgstr "Registro de producto"
+
+#: inc/customizer/registration.php:1104
+msgid "Products Per Page"
+msgstr "Productos por página"
+
+#: partials/content-about_vacancy.php:19
+msgid "Project Location(s):"
+msgstr "Ubicación/es del proyecto:"
+
+#: inc/crypterio/functions.php:636
+#: partials/ico_listing/parts/short_review.php:4
+msgid "Prototype"
+msgstr "Prototipo"
+
+#: inc/customizer/registration.php:1147
+msgid "Public key"
+msgstr "Clave pública"
+
+#: woocommerce/cart/cart.php:86
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: woocommerce/cart/cart.php:35
+msgid "quantity"
+msgstr "cantidad"
+
+#: inc/visual_composer.php:1756 inc/vc/modules/news.php:18
+#: inc/vc/modules/news_list.php:18 inc/vc/modules/post_slider.php:18
+#: inc/vc/modules/news_carousel.php:18 inc/vc/modules/news_widget.php:18
+msgid "Query"
+msgstr "Consulta"
+
+#: inc/vc/modules/news.php:27 inc/vc/modules/news_list.php:27
+#: inc/vc/modules/post_slider.php:27 inc/vc/modules/news_carousel.php:27
+#: inc/vc/modules/news_widget.php:27
+msgid "Query offset"
+msgstr "Impresión de consulta"
+
+#: inc/visual_composer.php:1306 inc/visual_composer.php:1312
+msgid "Quote"
+msgstr "Presupuesto"
+
+#: inc/extras.php:95
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Clasificado %d de 5"
+
+#: inc/vc/modules/ratings.php:8
+msgid "Ratings"
+msgstr "Calificaciones"
+
+#: vc_templates/stm_info_box.php:135
+msgid "Read More"
+msgstr "Leer más"
+
+#: vc_templates/stm_staff_list.php:111 vc_templates/stm_info_box.php:72
+#: vc_templates/stm_services_grid.php:59
+msgid "Read more"
+msgstr "Leer más"
+
+#: vc_templates/stm_services.php:61 partials/content-event-classic.php:81
+#: partials/content-loop_list.php:30
+msgid "read more"
+msgstr "leer más"
+
+#: partials/content-none.php:3
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"¿Preparado para su primera publicación? <a href=\"%1$s\">Comenzar aquí "
+"mismo</a>."
+
+#: inc/customizer/registration.php:1142
+msgid "Recaptcha"
+msgstr "Recaptcha"
+
+#: woocommerce/myaccount/my-orders.php:42
+msgid "recent orders"
+msgstr "pedidos recientes"
+
+#: inc/tgm/tgm-plugin-activation.php:2177
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/extras.php:1339 inc/customizer/registration.php:30
+msgid "Reddit"
+msgstr "Reddit"
+
+#: woocommerce/myaccount/form-login.php:108
+msgid "Register"
+msgstr "Registrarse"
+
+#: partials/content-event-list-form.php:13
+#: woocommerce/myaccount/form-login.php:79
+msgid "register"
+msgstr "registro"
+
+#: inc/visual_composer.php:333 inc/customizer/controls/font-weight.php:18
+msgid "Regular"
+msgstr "Regular"
+
+#: inc/customizer/controls/font-weight.php:19
+msgid "Regular Italic"
+msgstr "Regular cursiva"
+
+#: partials/news/parts/_related.php:23
+msgid "Related posts"
+msgstr "Publicaciones relacionadas"
+
+#: woocommerce/global/form-login.php:48
+msgid "Remember me"
+msgstr "Recuérdame"
+
+#: partials/vc_parts/ico_countdown/contract.php:63
+msgid "Remove"
+msgstr "Eliminar"
+
+#: woocommerce/cart/cart.php:114
+msgid "Remove this item"
+msgstr "Eliminar este elemento"
+
+#: inc/post_types-config.php:222 inc/customizer/registration.php:506
+msgid "Repeat"
+msgstr "Repetir"
+
+#: inc/post_types-config.php:224 inc/customizer/registration.php:508
+msgid "Repeat-X"
+msgstr "Repetir-X"
+
+#: inc/post_types-config.php:225 inc/customizer/registration.php:509
+msgid "Repeat-Y"
+msgstr "Repetir-Y"
+
+#: vc_templates/stm_crypto_charts.php:90
+msgid "Request failed"
+msgstr "Solicitud fallida"
+
+#: inc/tgm/tgm-plugin-activation.php:2174
+msgid "Required"
+msgstr "Requerido"
+
+#: inc/tgm/tgm-plugin-activation.php:2228
+msgid "Required Update not Available"
+msgstr "Actualización requerida no disponible"
+
+#: inc/tgm/tgm-plugin-activation.php:2231
+msgid "Requires Update"
+msgstr "Requiere actualización"
+
+#: inc/visual_composer.php:166
+msgid "Responsiveness"
+msgstr "Grado de respuesta"
+
+#: vc_templates/stm_crypto_charts.php:91
+msgid "Retry"
+msgstr "Reintentar"
+
+#: inc/tgm/tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins requeridos"
+
+#: inc/tgm/tgm-plugin-activation.php:825 inc/tgm/tgm-plugin-activation.php:3458
+msgid "Return to the Dashboard"
+msgstr "Volver al panel de control"
+
+#: inc/tgm/tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Volver al panel de control"
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr "¿Cliente habitual?"
+
+#: partials/ico_listing/parts/market_and_returns.php:50
+msgid "Returns since ICO"
+msgstr "Devoluciones desde ICO"
+
+#: inc/customizer/registration.php:223 inc/customizer/registration.php:255
+#: inc/customizer/registration.php:287 inc/customizer/registration.php:319
+#: inc/customizer/registration.php:351 inc/customizer/registration.php:383
+#: inc/customizer/registration.php:415 inc/customizer/registration.php:447
+msgid "Rewrite (URL text)"
+msgstr "Reescribir (texto URL)"
+
+#: inc/visual_composer.php:294 inc/visual_composer.php:845
+#: inc/visual_composer.php:854 inc/visual_composer.php:1138
+#: inc/visual_composer.php:2381 inc/visual_composer.php:2664
+#: inc/customizer/registration.php:1006 inc/customizer/registration.php:1096
+msgid "Right"
+msgstr "Derecha"
+
+#: functions.php:79
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: partials/ico_listing/parts/rates.php:4
+msgid "Risk rate"
+msgstr "Índice de riesgo"
+
+#: partials/ico_listing/parts/rates.php:5
+msgid "ROI rate"
+msgstr "Ratio ROI"
+
+#: inc/visual_composer.php:2607
+msgid "Role"
+msgstr "Papel"
+
+#: inc/vc/modules/ico_countdown.php:74
+msgid "Sale tokens price (number format)"
+msgstr "Precio de venta de tokens (formato en número)"
+
+#: inc/vc/modules/ico_countdown.php:83
+msgid "Sale tokens price 1"
+msgstr "Precio de venta de tokens 1"
+
+#: inc/vc/modules/ico_countdown.php:97
+msgid "Sale tokens price 2"
+msgstr "Precio de venta de tokens 2"
+
+#: inc/vc/modules/ico_countdown.php:92
+msgid "Sale tokens price label 1"
+msgstr "Etiqueta de precio de venta de tokens 1"
+
+#: inc/vc/modules/ico_countdown.php:106
+msgid "Sale tokens price label 2"
+msgstr "Etiqueta de precio de venta de tokens 2"
+
+#: inc/visual_composer.php:661
+msgid "Schedule"
+msgstr "Programar"
+
+#: partials/ico_listing/parts/screenshots.php:9
+msgid "Screenshots"
+msgstr "Capturas de pantalla"
+
+#: partials/vc_parts/ico_search/style_1.php:6
+msgid "Search ICO Name"
+msgstr ""
+
+#. 1: separator, 2: search phrase
+#: inc/extras.php:383
+msgid "Search Results"
+msgstr "Resultados de búsqueda"
+
+#: searchform.php:2
+msgid "Search..."
+msgstr "Buscar..."
+
+#: inc/visual_composer.php:886 inc/visual_composer.php:987
+#: inc/visual_composer.php:1004 inc/visual_composer.php:1023
+#: inc/visual_composer.php:1336
+msgid "Secondary"
+msgstr "Secundario"
+
+#: inc/customizer/registration.php:650
+msgid "Secondary Font Family"
+msgstr "Familia tipográfica secundaria"
+
+#: partials/vc_parts/ico_countdown/custom.php:55
+#: partials/vc_parts/ico_countdown/contract.php:93
+msgid "Seconds"
+msgstr "Segundos"
+
+#: inc/customizer/registration.php:1151
+msgid "Secret key"
+msgstr "Clave secreta"
+
+#: inc/visual_composer.php:330 inc/visual_composer.php:1537
+msgid "Select"
+msgstr "Seleccionar"
+
+#: woocommerce/cart/shipping-calculator.php:64
+msgid "Select a state&hellip;"
+msgstr "Seleccionar un estado&hellip;"
+
+#: inc/visual_composer.php:378
+msgid "Select button color."
+msgstr "Seleccione un color."
+
+#: inc/crypterio/graph.php:21
+msgid "Select currency"
+msgstr "Seleccionar moneda"
+
+#: inc/crypterio/converter.php:27
+msgid "Select currency 1"
+msgstr "Seleccionar moneda 1"
+
+#: inc/crypterio/converter.php:40
+msgid "Select currency 2"
+msgstr "Seleccionar moneda 2"
+
+#: inc/visual_composer.php:404
+msgid "Select custom background color for your element on hover."
+msgstr "Seleccione color de fondo personalizado para su elemento flotante."
+
+#: inc/visual_composer.php:415
+msgid "Select custom color for icon."
+msgstr "Seleccione color personalizado para icono."
+
+#: inc/crypterio/functions.php:574
+msgid "Select end date"
+msgstr "Seleccionar fecha final"
+
+#: inc/visual_composer.php:368
+msgid "Select gap between grid elements."
+msgstr "Seleccione separación entre elementos de cuadrícula."
+
+#: inc/crypterio/functions.php:518
+msgid "Select ICO category"
+msgstr "Seleccionar categoría ICO"
+
+#: inc/visual_composer.php:2257
+msgid "Select speakers"
+msgstr "Seleccionar altavoces"
+
+#: inc/crypterio/functions.php:564
+msgid "Select start date"
+msgstr "Seleccionar fecha inicial"
+
+#: inc/customizer/controls/font-weight.php:22
+msgid "Semi-Bold"
+msgstr "Seminegrita"
+
+#: inc/visual_composer.php:335
+msgid "Semi-bold"
+msgstr "Seminegrita"
+
+#: inc/customizer/controls/font-weight.php:23
+msgid "Semi-Bold Italic"
+msgstr "Seminegrita cursiva"
+
+#: inc/vc/modules/pricing_table.php:33
+msgid "Separator"
+msgstr "Separador"
+
+#: inc/admin/product_registration/screens/system_status.php:75
+#: inc/admin/product_registration/screens/system_status.php:79
+msgid "Server Environment"
+msgstr "Entorno del servidor"
+
+#: inc/admin/product_registration/screens/system_status.php:84
+msgid "Server Info:"
+msgstr "Info del servidor:"
+
+#: inc/post_types-config.php:37 inc/customizer/registration.php:242
+msgid "Service"
+msgstr "Servicio"
+
+#: inc/post_types-config.php:38 inc/visual_composer.php:2306
+#: inc/visual_composer.php:2596 vc_templates/stm_portfolio_information.php:37
+#: inc/customizer/registration.php:236 inc/customizer/registration.php:247
+msgid "Services"
+msgstr "Servicios"
+
+#: inc/vc/modules/services_grid.php:8 inc/vc/modules/services_grid.php:11
+msgid "Services Grid"
+msgstr "Cuadrícula de servicios"
+
+#: inc/visual_composer.php:2847
+msgid "Services With Tabs"
+msgstr "Servicios con fichas"
+
+#: inc/tgm/tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "Establezca la variable de configuración parent_slug en su lugar."
+
+#: inc/admin/product_registration/screens/install_demo.php:112
+msgid "Setup Layout"
+msgstr "Diseño de configuración"
+
+#: partials/content-vacancy_bottom.php:13 partials/content-post_bottom.php:10
+#: partials/news/parts/_share.php:8 partials/news/parts/_share.php:16
+#: partials/news/parts/_share.php:20
+msgid "Share"
+msgstr "Compartir"
+
+#: woocommerce/checkout/form-shipping.php:28
+msgid "ship to a different address?"
+msgstr "¿enviar a una dirección diferente?"
+
+#: woocommerce/cart/cart-totals.php:55 woocommerce/cart/cart-totals.php:56
+msgid "Shipping"
+msgstr "Envío"
+
+#: inc/customizer/registration.php:1062
+msgid "Shop Pages"
+msgstr "Páginas de compra"
+
+#: functions.php:98
+msgid "Shop Sidebar"
+msgstr "Tienda en barra lateral"
+
+#: inc/visual_composer.php:1844
+msgid "Short"
+msgstr "Corto"
+
+#: partials/ico_listing/parts/short_review.php:18
+msgid "Short review"
+msgstr "Opinión breve"
+
+#: inc/vc/modules/ico_countdown.php:165
+msgid "Show"
+msgstr "Mostrar"
+
+#: inc/visual_composer.php:2554
+msgid "Show Button"
+msgstr "Mostrar botón"
+
+#: inc/visual_composer.php:2369
+msgid "Show legend?"
+msgstr "¿Mostrar leyenda?"
+
+#: inc/visual_composer.php:2937
+msgid "Show link"
+msgstr "Mostrar enlace"
+
+#: inc/visual_composer.php:2069 inc/visual_composer.php:2524
+msgid "Show Load More Button"
+msgstr "Mostrar botón de Cargar más"
+
+#: inc/visual_composer.php:2060
+msgid "Show Pagination"
+msgstr "Mostrar paginación"
+
+#: inc/crypterio/graph.php:104
+msgid "Show periods"
+msgstr "Mostrar periodos"
+
+#: inc/vc/modules/ico_countdown.php:161
+msgid "Show popup"
+msgstr "Mostrar ventana emergente"
+
+#: inc/visual_composer.php:2931
+msgid "Show title"
+msgstr "Mostrar título"
+
+#: inc/visual_composer.php:2671
+msgid "Show Title Icons"
+msgstr "Mostrar iconos de título"
+
+#: inc/visual_composer.php:2925
+msgid "Show year"
+msgstr "Mostrar año"
+
+#: woocommerce/loop/result-count.php:41
+#, php-format
+msgid "Showing all <strong>%d</strong> results"
+msgstr "Mostrar todos los resultados <strong>%d</strong>"
+
+#: woocommerce/loop/result-count.php:39
+msgid "Showing the single result"
+msgstr "Mostrando un único resultado"
+
+#: inc/customizer/registration.php:1003 inc/customizer/registration.php:1093
+msgid "Sidebar - Position"
+msgstr "Barra lateral - Posición"
+
+#: functions.php:64
+msgid "Sidebar Menu 1"
+msgstr "Menú de barra lateral 1"
+
+#: functions.php:65
+msgid "Sidebar Menu 2"
+msgstr "Menú de barra lateral 2"
+
+#: functions.php:66
+msgid "Sidebar Menu 3"
+msgstr "Menú de barra lateral 3"
+
+#: inc/customizer/registration.php:977 inc/customizer/registration.php:1026
+#: inc/customizer/registration.php:1067
+msgid "Sidebar Type"
+msgstr "Tipo de barra lateral"
+
+#: woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order."
+" You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+"Dado que su navegador no soporta JavaScript, o está deshabilitado, asegúrese "
+"de hacer clic en el botón <em>Actualizar total</em> antes de realizar su "
+"pedido. Se le puede cobrar más de la cantidad indicada anteriormente si no "
+"lo hace."
+
+#: hb_templates/mobile/mobile.php:31
+msgid "Site Logo"
+msgstr "Logo del sitio web"
+
+#: partials/ico_listing/parts/rates.php:6
+msgid "Site Score"
+msgstr "Calificación del sitio web"
+
+#: inc/customizer/registration.php:46
+msgid "Site Settings"
+msgstr "Configuración del sitio web"
+
+#: inc/admin/product_registration/screens/system_status.php:25
+msgid "Site URL:"
+msgstr "URL del sitio web:"
+
+#: inc/post_types-config.php:426
+msgid "Size"
+msgstr "Tamaño"
+
+#: inc/customizer/registration.php:134
+msgid "Skin"
+msgstr "Capa"
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr "SKU:"
+
+#: inc/post_types-config.php:372 inc/extras.php:1342
+#: inc/visual_composer.php:691 inc/visual_composer.php:1524
+#: inc/customizer/registration.php:34
+msgid "Skype"
+msgstr "Skype"
+
+#: vc_templates/stm_contact.php:51
+msgid "Skype: "
+msgstr "Skype: "
+
+#: inc/visual_composer.php:119
+msgid "Slick slider"
+msgstr "Slick slider"
+
+#: inc/visual_composer.php:120
+msgid "Slick slider 2"
+msgstr "Slick slider 2"
+
+#: inc/visual_composer.php:1224 inc/visual_composer.php:1661
+msgid "Slider autoplay"
+msgstr "Autorreproducción de diapositivas"
+
+#: inc/visual_composer.php:1247 inc/visual_composer.php:1683
+msgid "Slider loop"
+msgstr "Bucle de diapositivas"
+
+#: inc/visual_composer.php:1693
+msgid "Slider navigation"
+msgstr "Navegación de diapositivas"
+
+#: inc/vc/modules/post_slider.php:11
+msgid "Slider with Posts"
+msgstr "Diapositiva con publicaciones"
+
+#: inc/visual_composer.php:1292
+msgid "Small Screen"
+msgstr "Pantalla pequeña"
+
+#: inc/visual_composer.php:1258 inc/visual_composer.php:1707
+msgid "Smart Speed"
+msgstr "Velocidad inteligente"
+
+#: inc/customizer/registration.php:620
+msgid "Social Icons Position in Footer (Column #)"
+msgstr "Posición de iconos de redes sociales en pie de página (Columna #)"
+
+#: inc/widgets/socials.php:65
+msgid "Social Network"
+msgstr "Red social"
+
+#: partials/content-staff_bottom.php:25
+msgid "Social Profiles"
+msgstr "Perfiles sociales"
+
+#. Base ID
+#: inc/customizer/registration.php:1158 inc/widgets/socials.php:11
+msgid "Socials"
+msgstr "Sociales"
+
+#: inc/crypterio/functions.php:533
+msgid "Soft Cap value (ETH)"
+msgstr "Valor de mínimo número de monedas (ETH)"
+
+#: inc/vc/modules/ico_countdown.php:45
+msgid "Softcap end date"
+msgstr "Fecha final de mínimo número de monedas"
+
+#: inc/vc/modules/ico_countdown.php:120
+msgid "Softcap label"
+msgstr "Etiqueta de mínimo número de monedas"
+
+#: inc/vc/modules/ico_countdown.php:125
+msgid "Softcap label 2"
+msgstr "Etiqueta de mínimo número de monedas 2"
+
+#: inc/vc/modules/ico_countdown.php:115
+msgid "Softcap price (number format)"
+msgstr "Precio de mínimo número de monedas (formato en número)"
+
+#: partials/ico_listing/parts/token_sale.php:7
+msgid "Sold on pre-sale"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "Algo fue mal con el plugin API."
+
+#: partials/content-none.php:7
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo sentimos, pero no hay nada que concuerde con sus términos de búsqueda. "
+"Inténtelo de nuevo con otras palabras clave."
+
+#: inc/tgm/tgm-plugin-activation.php:377
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+"Lo sentimos, pero no tiene el permiso adecuado para activar el plugin %1$s."
+msgstr[1] ""
+"Lo sentimos, pero no tiene los permisos adecuados para activar los plugins "
+"%1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:347
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+"Lo sentimos, pero no tiene el permiso adecuado para instalar el plugin %1$s."
+msgstr[1] ""
+"Lo sentimos, pero no tiene los permisos adecuados para instalar los plugins "
+"%1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:362
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+"Lo sentimos, pero no tiene el permiso adecuado para actualizar el plugin "
+"%1$s."
+msgstr[1] ""
+"Lo sentimos, pero no tiene los permisos adecuados para actualizar los "
+"plugins %1$s."
+
+#: woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Lo sentimos, parece que no hay métodos de pago disponibles para su país. "
+"Póngase en contacto con nosotros si necesita ayuda o desea establecer "
+"métodos alternativos."
+
+#: inc/vc/modules/news_carousel.php:40 inc/vc/modules/news_widget.php:40
+msgid "Sort by:"
+msgstr "Ordenar por:"
+
+#: inc/extras.php:1340 inc/customizer/registration.php:31
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: inc/tgm/tgm-plugin-activation.php:2456
+msgid "Source"
+msgstr "Fuente"
+
+#: inc/visual_composer.php:1274
+msgid "Spacing"
+msgstr "Espacio"
+
+#: inc/crypterio/functions.php:443
+msgid "Sponsored"
+msgstr "Patrocinado"
+
+#: inc/post_types-config.php:53 inc/post_types-config.php:54
+#: inc/customizer/registration.php:300 inc/customizer/registration.php:306
+#: inc/customizer/registration.php:311
+msgid "Staff"
+msgstr "Personal"
+
+#: inc/visual_composer.php:2714
+msgid "Staff Bottom"
+msgstr "Personal al final"
+
+#: inc/visual_composer.php:1933
+msgid "Staff List"
+msgstr "Lista de personal"
+
+#: inc/visual_composer.php:1853 inc/visual_composer.php:1873
+msgid "Staff Per Row"
+msgstr "Personal por fila"
+
+#: inc/vc/modules/panel_box.php:37
+msgid "Start Color"
+msgstr "Comenzar color"
+
+#: woocommerce/cart/shipping-calculator.php:57
+#: woocommerce/cart/shipping-calculator.php:63
+#: woocommerce/cart/shipping-calculator.php:76
+msgid "State / county"
+msgstr "País"
+
+#: inc/customizer/registration.php:122
+msgid "Static Front Page"
+msgstr "Página de inicio estática"
+
+#: inc/visual_composer.php:1169
+msgid "Stats Counter"
+msgstr "Contador de estadísticas"
+
+#: woocommerce/myaccount/my-orders.php:27
+#: inc/tgm/tgm-plugin-activation.php:2462
+#: inc/admin/white_list/templates/i18n.php:15
+msgid "Status"
+msgstr "Estado"
+
+#: inc/visual_composer.php:502 inc/visual_composer.php:523
+#: inc/visual_composer.php:546 inc/visual_composer.php:604
+#: inc/visual_composer.php:818 inc/visual_composer.php:825
+#: inc/visual_composer.php:1171 inc/visual_composer.php:1178
+#: inc/visual_composer.php:1276 inc/visual_composer.php:1308
+#: inc/visual_composer.php:1359 inc/visual_composer.php:1443
+#: inc/visual_composer.php:1473 inc/visual_composer.php:1547
+#: inc/visual_composer.php:1569 inc/visual_composer.php:1607
+#: inc/visual_composer.php:1800 inc/visual_composer.php:1809
+#: inc/visual_composer.php:1936 inc/visual_composer.php:1996
+#: inc/visual_composer.php:2145 inc/visual_composer.php:2278
+#: inc/visual_composer.php:2309 inc/visual_composer.php:2354
+#: inc/visual_composer.php:2508 inc/visual_composer.php:2842
+#: inc/visual_composer.php:2849 inc/visual_composer.php:2976
+#: inc/visual_composer.php:3029 inc/visual_composer.php:3071
+#: inc/crypterio/graph.php:17 inc/crypterio/converter.php:17
+#: inc/vc/modules/ico_countdown.php:11
+msgid "STM"
+msgstr "STM"
+
+#: inc/visual_composer.php:1943 inc/visual_composer.php:1956
+#: inc/visual_composer.php:1969 inc/visual_composer.php:1982
+#: inc/visual_composer.php:2089 inc/visual_composer.php:2104
+#: inc/visual_composer.php:2118 inc/visual_composer.php:2540
+#: inc/visual_composer.php:2580
+msgid "STM Post Partials"
+msgstr "STM Publicar módulos"
+
+#: inc/visual_composer.php:1545
+msgid "STM Sidebar"
+msgstr "STM Barra lateral"
+
+#: inc/visual_composer.php:2716
+msgid "STM Staff Partials"
+msgstr "STM Módulos de personal"
+
+#: inc/visual_composer.php:2690 inc/visual_composer.php:2703
+msgid "STM Vacancy Partials"
+msgstr "STM Módulos vacantes"
+
+#: inc/visual_composer.php:78
+msgid "Stretch column"
+msgstr "Estirar columna"
+
+#: inc/visual_composer.php:82
+msgid "Stretch out to the left"
+msgstr "Estirar hacia la izquierda"
+
+#: inc/visual_composer.php:83
+msgid "Stretch out to the right"
+msgstr "Estirar hacia la derecha"
+
+#: inc/visual_composer.php:314
+msgid "Stripe - Position"
+msgstr "Rayar - Posición"
+
+#: inc/visual_composer.php:194 inc/visual_composer.php:550
+#: inc/visual_composer.php:608 inc/visual_composer.php:747
+#: inc/visual_composer.php:829 inc/visual_composer.php:1086
+#: inc/visual_composer.php:1153 inc/visual_composer.php:1199
+#: inc/visual_composer.php:1363 inc/visual_composer.php:1477
+#: inc/visual_composer.php:1651 inc/visual_composer.php:1828
+#: inc/visual_composer.php:2016 inc/visual_composer.php:2544
+#: inc/visual_composer.php:2638 inc/visual_composer.php:2738
+#: inc/visual_composer.php:2956 inc/visual_composer.php:3084
+#: inc/customizer/registration.php:542
+msgid "Style"
+msgstr "Estilo"
+
+#: inc/customizer/registration.php:186
+msgid "Style &amp; Settings"
+msgstr "Configuración de estilo"
+
+#: inc/post_types-config.php:170 inc/customizer/registration.php:464
+msgid "Style - Inverse"
+msgstr "Estilo - Opuesto"
+
+#: inc/visual_composer.php:197 inc/visual_composer.php:553
+#: inc/visual_composer.php:611 inc/visual_composer.php:750
+#: inc/visual_composer.php:832 inc/visual_composer.php:1089
+#: inc/visual_composer.php:1156 inc/visual_composer.php:1202
+#: inc/visual_composer.php:1366 inc/visual_composer.php:1480
+#: inc/visual_composer.php:1654 inc/visual_composer.php:2547
+#: inc/visual_composer.php:2641 inc/visual_composer.php:2750
+#: inc/visual_composer.php:2760 inc/visual_composer.php:2959
+#: inc/customizer/registration.php:546
+msgid "Style 1"
+msgstr "Estilo 1"
+
+#: inc/visual_composer.php:198 inc/visual_composer.php:554
+#: inc/visual_composer.php:612 inc/visual_composer.php:751
+#: inc/visual_composer.php:833 inc/visual_composer.php:1090
+#: inc/visual_composer.php:1157 inc/visual_composer.php:1203
+#: inc/visual_composer.php:1367 inc/visual_composer.php:1481
+#: inc/visual_composer.php:1655 inc/visual_composer.php:2548
+#: inc/visual_composer.php:2642 inc/visual_composer.php:2751
+#: inc/visual_composer.php:2761 inc/visual_composer.php:2960
+#: inc/customizer/registration.php:547
+msgid "Style 2"
+msgstr "Estilo 2"
+
+#: inc/visual_composer.php:613 inc/visual_composer.php:752
+#: inc/visual_composer.php:834 inc/visual_composer.php:1091
+#: inc/visual_composer.php:1204 inc/visual_composer.php:1368
+#: inc/visual_composer.php:2549
+msgid "Style 3"
+msgstr "Estilo 3"
+
+#: inc/visual_composer.php:614 inc/visual_composer.php:753
+#: inc/visual_composer.php:835
+msgid "Style 4"
+msgstr "Estilo 4"
+
+#: inc/visual_composer.php:754
+msgid "Style 5"
+msgstr "Estilo 5"
+
+#: inc/visual_composer.php:755
+msgid "Style 6"
+msgstr "Estilo 6"
+
+#: inc/visual_composer.php:3005
+msgid "Style Code"
+msgstr "Código de estilo"
+
+#: inc/visual_composer.php:1647 inc/visual_composer.php:2861
+#: inc/visual_composer.php:3013
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+"Arregle un elemento de contenido particular de forma diferente - añada un "
+"nombre de categoría y remita a ella en su CSS personalizado."
+
+#: inc/visual_composer.php:2644 inc/visual_composer.php:2656
+#: inc/visual_composer.php:2667 inc/visual_composer.php:2676
+msgid "Style settings"
+msgstr "Configuración de estilo"
+
+#. Author of the theme
+msgid "StylemixThemes"
+msgstr "StylemixThemes"
+
+#: partials/vc_parts/ico_countdown/contract.php:259
+#: inc/admin/product_registration/screens/startup.php:60
+msgid "Submit"
+msgstr "Enviar"
+
+#: inc/admin/product_registration/screens/support.php:36
+msgid "Submit a ticket"
+msgstr "Enviar un ticket"
+
+#: inc/visual_composer.php:204 inc/visual_composer.php:302
+#: inc/visual_composer.php:1918
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: inc/visual_composer.php:308
+msgid "Subtitle - Color"
+msgstr "Subtítulo - Color"
+
+#: woocommerce/checkout/review-order.php:63 woocommerce/cart/cart-totals.php:33
+#: woocommerce/cart/cart-totals.php:34
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: inc/admin/product_registration/screens/system_status.php:146
+msgid "SUHOSIN Installed:"
+msgstr "SUHOSIN instalado:"
+
+#: inc/admin/product_registration/screens/system_status.php:147
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.\n"
+"\t\t\tIf enabled on your server, Suhosin may need to be configured to "
+"increase its data submission limits."
+msgstr ""
+"Suhosin es un sistema de protección avanzado para instalaciones PHP. Fue "
+"diseñado para proteger sus servidores contra una serie de problemas "
+"conocidos en aplicaciones PHP por un lado y, por otro, contra potenciales "
+"vulnerabilidades desconocidas dentro de dichas aplicaciones o del núcleo PHP "
+"en sí.\n"
+"\t\t\tSi está habilitado en su servidor, puede que necesite configurar "
+"Suhosin para aumentar los límites de envío de datos."
+
+#: inc/admin/product_registration/screens/system_status.php:211
+msgid "Suhosin Post Max Value Length:"
+msgstr "Longitud máxima del valor Post de Suhosin:"
+
+#: inc/admin/product_registration/screens/system_status.php:153
+msgid "Suhosin Post Max Vars:"
+msgstr "Variables máximas Post de Suhosin:"
+
+#: inc/admin/product_registration/screens/system_status.php:182
+msgid "Suhosin Request Max Vars:"
+msgstr "Variables máximas de solicitud de Suhosin:"
+
+#: inc/admin/product_registration/includes/admin_screens.php:65
+#: inc/admin/product_registration/includes/admin_screens.php:66
+#: inc/admin/product_registration/includes/admin_screens.php:164
+msgid "Support"
+msgstr "Ayuda"
+
+#: inc/admin/product_registration/includes/admin_screens.php:167
+msgid "System Status"
+msgstr "Estado del sistema"
+
+#: inc/admin/product_registration/includes/admin_screens.php:55
+#: inc/admin/product_registration/includes/admin_screens.php:56
+msgid "System status"
+msgstr "Estado del sistema"
+
+#: inc/vc/modules/pricing_table.php:11
+msgid "Table with prices"
+msgstr "Tabla con precios"
+
+#: partials/vc_parts/ico_grid/upcoming.php:88
+#: partials/vc_parts/ico_grid/finished.php:86
+#: partials/vc_parts/ico_grid/live.php:96
+msgid "TBA"
+msgstr "TBA"
+
+#: inc/visual_composer.php:1834
+msgid "Team"
+msgstr "Equipo"
+
+#: inc/crypterio/functions.php:648 inc/crypterio/functions.php:649
+#: partials/ico_listing/parts/short_review.php:5
+msgid "Team From"
+msgstr "Equipo desde"
+
+#: inc/extras.php:1347 inc/customizer/registration.php:32
+msgid "Telegram"
+msgstr "Telegram"
+
+#: inc/crypterio/functions.php:568
+msgid "Telegram group"
+msgstr "Grupo de Telegram"
+
+#: inc/customizer/registration.php:1051
+msgid "Terms and Conditions Page Link"
+msgstr "Enlace a la página de términos y condiciones"
+
+#: inc/post_types-config.php:69 inc/customizer/registration.php:370
+msgid "Testimonial"
+msgstr "Opinión"
+
+#: inc/post_types-config.php:70 inc/visual_composer.php:1176
+#: inc/customizer/registration.php:364 inc/customizer/registration.php:375
+msgid "Testimonials"
+msgstr "Opiniones"
+
+#: inc/visual_composer.php:1357
+msgid "Testimonials Carousel"
+msgstr "Carrusel de opiniones"
+
+#: inc/visual_composer.php:1441
+msgid "Testimonials Pager"
+msgstr "Localizador de opiniones"
+
+#: inc/visual_composer.php:1188 inc/visual_composer.php:1393
+msgid "Testimonials Per Row"
+msgstr "Opiniones por fila"
+
+#: inc/visual_composer.php:780 inc/visual_composer.php:1070
+#: inc/vc/modules/pricing_table.php:53
+msgid "Text"
+msgstr "Texto"
+
+#: inc/vc/modules/ratings.php:11
+msgid "Text Rating"
+msgstr "Clasificación de texto"
+
+#: inc/customizer/registration.php:736 inc/customizer/registration.php:779
+#: inc/customizer/registration.php:822 inc/customizer/registration.php:865
+#: inc/customizer/registration.php:908 inc/customizer/registration.php:951
+msgid "Text Transform"
+msgstr "Transformación de texto"
+
+#: inc/admin/product_registration/screens/startup.php:39
+#, php-format
+msgid ""
+"Thank you for choosing %s! Please register it to enable the %1$s demos and "
+"theme auto updates. The instructions below must be followed exactly."
+msgstr ""
+"¡Gracias por elegir %s! Regístrelo para habilitar las demos %1$s y las "
+"actualizaciones automáticas del tema. Debe seguir las instrucciones a "
+"continuación punto por punto."
+
+#: inc/crypterio/functions.php:315 inc/crypterio/functions.php:338
+msgid ""
+"Thank you, your data has been submitted. Email will be sent after approval."
+msgstr ""
+"Gracias, sus datos se han enviado. Se enviará un correo electrónico después "
+"de su aprobación."
+
+#: inc/crypterio/functions.php:775
+msgid "Thank you, your ICO has been submitted."
+msgstr "Gracias, su ICO ha sido enviado."
+
+#: inc/crypterio/functions.php:742
+msgid ""
+"Thank you, your ICO has been submitted. Email will be sent after approval."
+msgstr ""
+"Gracias, su ICO ha sido enviado. Se enviará un correo electrónico después de "
+"su aprobación."
+
+#: inc/admin/product_registration/screens/system_status.php:100
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+"La cantidad de tiempo (en segundos) que su sitio web invertirá en una única "
+"operación antes de expirar (para evitar bloqueos del servidor)"
+
+#: inc/updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "El \"ajuste\" API es un parámetro requerido."
+
+#: inc/visual_composer.php:1597
+msgid "The area of screen from top where animation effects will start working."
+msgstr ""
+"La zona desde la parte superior de la pantalla donde comenzarán los efectos "
+"de animación."
+
+#: inc/admin/product_registration/screens/system_status.php:69
+msgid "The current language used by WordPress. Default = English"
+msgstr "El idioma actual usado por WordPress. Por defecto = Inglés"
+
+#: inc/updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+"El \"elemento identificativo\" de Envato Marketplace es un parámetro "
+"requerido."
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+"Las siguientes direcciones se utilizarán en la página de pago por defecto."
+
+#: inc/tgm/tgm-plugin-activation.php:352
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"El siguiente plugin debe actualizarse para garantizar la compatibilidad "
+"máxima con este tema: %1$s."
+msgstr[1] ""
+"Los siguientes plugins deben actualizarse para garantizar la compatibilidad "
+"máxima con este tema: %1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:400 inc/tgm/tgm-plugin-activation.php:2851
+msgid "The following plugin was activated successfully:"
+msgstr "El siguiente plugin ha sido activado con éxito:"
+
+#: inc/tgm/tgm-plugin-activation.php:372
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está inactivo actualmente: %1$s."
+msgstr[1] ""
+"Los siguiente plugins recomendados están inactivos actualmente: %1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin obligatorio está inactivo actualmente: %1$s."
+msgstr[1] ""
+"Los siguientes plugins obligatorios están inactivos actualmente: %1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:3389
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"El proceso de instalación y activación está comenzando. Este proceso puede "
+"tardar unos minutos en algunos servidores, tenga paciencia."
+
+#: inc/tgm/tgm-plugin-activation.php:3385
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s falló."
+
+#: inc/tgm/tgm-plugin-activation.php:3395
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"El proceso de instalación está comenzando. Este proceso puede tardar unos "
+"minutos en algunos servidores, tenga paciencia."
+
+#: inc/admin/product_registration/screens/system_status.php:95
+msgid "The largest file size that can be contained in one post."
+msgstr "El tamaño de archivo más grande que puede contener una entrada."
+
+#: inc/admin/product_registration/screens/system_status.php:244
+msgid ""
+"The largest file size that can be uploaded to your WordPress installation."
+msgstr ""
+"El tamaño más grande del archivo que puede subirse a su instalación "
+"WordPress."
+
+#: inc/admin/product_registration/screens/system_status.php:41
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+"La cantidad máxima de memoria (RAM) que su sitio web puede usar a la vez."
+
+#: inc/admin/product_registration/screens/system_status.php:118
+#: inc/admin/product_registration/screens/system_status.php:154
+#: inc/admin/product_registration/screens/system_status.php:183
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+"El máximo número de variables que su servidor puede usar para una única "
+"función con el fin de evitar sobrecargas."
+
+#: inc/visual_composer.php:1717 inc/visual_composer.php:2786
+#: inc/visual_composer.php:2794 inc/visual_composer.php:2855
+msgid "The number of items you want to see on the screen."
+msgstr "El número de elementos que desea ver sobre la pantalla."
+
+#: 404.php:11
+msgid "The page you are looking for does not exist."
+msgstr "La pagina que busca no existe."
+
+#: inc/tgm/tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"El paquete de plugin remoto se compone de más de un archivo, pero los "
+"archivos no están guardados en una carpeta."
+
+#: inc/tgm/tgm-plugin-activation.php:932
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"El paquete de plugin remoto no contiene una carpeta con la indicación "
+"deseada y cambiar el nombre no funciona."
+
+#: inc/admin/product_registration/screens/system_status.php:26
+msgid "The root URL of your site."
+msgstr "La URL raíz de su sitio web."
+
+#: inc/admin/product_registration/screens/system_status.php:21
+msgid "The URL of your site's homepage."
+msgstr "La URL de la página de inicio de su sitio web."
+
+#: inc/admin/product_registration/screens/system_status.php:233
+msgid "The version of MySQL installed on your hosting server."
+msgstr "La versión de MySQL instalada en su servidor de alojamiento."
+
+#: inc/admin/product_registration/screens/system_status.php:89
+msgid "The version of PHP installed on your hosting server."
+msgstr "La versión PHP instalada en su servidor de alojamiento."
+
+#: inc/admin/product_registration/screens/system_status.php:31
+msgid "The version of WordPress installed on your site."
+msgstr "La versión de WordPress instalada en su sitio web."
+
+#: inc/admin/product_registration/includes/admin_screens.php:161
+#: inc/admin/product_registration/includes/admin_screens.php:176
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/visual_composer.php:381
+msgid "Theme Style 1"
+msgstr "Estilo 1 del tema"
+
+#: inc/visual_composer.php:382
+msgid "Theme Style 2"
+msgstr "Estilo 2 del tema"
+
+#: inc/visual_composer.php:383
+msgid "Theme Style 3"
+msgstr "Estilo 3 del tema"
+
+#: inc/visual_composer.php:384
+msgid "Theme Style 4"
+msgstr "Estilo 4 del tema"
+
+#: inc/tgm/tgm-plugin-activation.php:357
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#: inc/visual_composer.php:331
+msgid "Thin"
+msgstr "Fino"
+
+#: inc/visual_composer.php:887 inc/visual_composer.php:988
+#: inc/visual_composer.php:1005 inc/visual_composer.php:1024
+#: inc/visual_composer.php:1337
+msgid "Third"
+msgstr "Terciario"
+
+#: inc/tgm/tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin necesita actualizarse para ser compatible con su tema."
+
+#: inc/tgm/tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:337
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requiere el siguiente plugin: %1$s."
+msgstr[1] "Este tema requiere los siguientes plugins: %1$s."
+
+#: inc/visual_composer.php:2467
+msgid "Three"
+msgstr "Tres"
+
+#: inc/visual_composer.php:126
+msgid "Thumbnail size"
+msgstr "Tamaño miniatura"
+
+#: inc/crypterio/functions.php:600 partials/ico_listing/parts/token_sale.php:3
+msgid "Ticker"
+msgstr "Teletipo"
+
+#: inc/admin/product_registration/screens/support.php:30
+msgid "Ticket System"
+msgstr "Sistema de tickets"
+
+#: inc/visual_composer.php:2023
+msgid "Tiles"
+msgstr "Casillas"
+
+#: inc/visual_composer.php:2236
+msgid "Time end"
+msgstr "Final del tiempo"
+
+#: inc/visual_composer.php:2165
+msgid "Time Format"
+msgstr "Formato de tiempo"
+
+#: vc_templates/stm_countdown.php:30 vc_templates/stm_countdown.php:35
+#: partials/vc_parts/ico_countdown/custom.php:80
+#: partials/vc_parts/ico_countdown/contract.php:119
+msgid "Time is up, sorry!"
+msgstr "¡Tiempo cumplido, lo sentimos!"
+
+#: inc/visual_composer.php:2230
+msgid "Time start"
+msgstr "Comienzo del tiempo"
+
+#: inc/visual_composer.php:506 inc/visual_composer.php:532
+#: inc/visual_composer.php:559 inc/visual_composer.php:620
+#: inc/visual_composer.php:715 inc/visual_composer.php:862
+#: inc/visual_composer.php:1097 inc/visual_composer.php:2204
+#: inc/visual_composer.php:2247 inc/visual_composer.php:2427
+#: inc/visual_composer.php:2475 inc/visual_composer.php:3033
+#: inc/crypterio/converter.php:21 inc/customizer/registration.php:208
+#: inc/customizer/registration.php:240 inc/customizer/registration.php:272
+#: inc/customizer/registration.php:304 inc/customizer/registration.php:336
+#: inc/customizer/registration.php:368 inc/customizer/registration.php:400
+#: inc/customizer/registration.php:432 inc/vc/modules/ico_countdown.php:15
+#: inc/vc/modules/ratings.php:33 inc/vc/modules/news_carousel.php:33
+#: inc/vc/modules/news_widget.php:33 inc/vc/modules/pricing_table.php:18
+msgid "Title"
+msgstr "Título"
+
+#: inc/visual_composer.php:882
+msgid "Title - Color"
+msgstr "Título - Color"
+
+#: inc/visual_composer.php:894 inc/visual_composer.php:1343
+msgid "Title - Color Custom"
+msgstr "Título - Personalizar color"
+
+#: inc/visual_composer.php:868
+msgid "Title - Font size"
+msgstr "Título - Tamaño de fuente"
+
+#: inc/visual_composer.php:875
+msgid "Title - Line Height"
+msgstr "Título - Espaciado"
+
+#: inc/post_types-config.php:199
+msgid "Title Background Color"
+msgstr "Color de fondo del título"
+
+#: inc/post_types-config.php:175
+msgid "Title Box Options"
+msgstr "Opciones de casilla de título"
+
+#: inc/post_types-config.php:189 inc/customizer/registration.php:482
+msgid "Title Color"
+msgstr "Color de título"
+
+#: inc/visual_composer.php:760
+msgid "Title Icon"
+msgstr "Icono de título"
+
+#: inc/visual_composer.php:2913
+msgid "Title length"
+msgstr "Longitud de título"
+
+#: inc/post_types-config.php:194 inc/customizer/registration.php:486
+msgid "Title Line Color"
+msgstr "Color de línea de título"
+
+#: inc/widgets/socials.php:70 inc/widgets/contacts.php:92
+msgid "Title:"
+msgstr "Título:"
+
+#: partials/content-event-grid.php:47 partials/content-event-classic.php:43
+#: partials/content-event-widgets.php:29 partials/content-event-info.php:70
+msgid "to"
+msgstr "para"
+
+#: inc/tgm/tgm-plugin-activation.php:2296
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/tgm-plugin-activation.php:2290
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#: inc/vc/modules/ico_countdown.php:60
+msgid "Token Buy Button"
+msgstr "Botón de compra de tokens"
+
+#: inc/crypterio/functions.php:624 partials/ico_listing/parts/token_sale.php:14
+msgid "Token Issue"
+msgstr "Tema de token"
+
+#: inc/crypterio/functions.php:542
+msgid "Token Price"
+msgstr "Precio de token"
+
+#: partials/ico_listing/parts/token_sale.php:32
+#: inc/admin/product_registration/screens/install_demo.php:28
+msgid "Token Sale"
+msgstr "Venta de tokens"
+
+#: partials/ico_listing/parts/ico_date_and_image.php:30
+#, php-format
+msgid "Token sale <strong>completed on %s</strong>"
+msgstr ""
+
+#: partials/ico_listing/parts/ico_date_and_image.php:23
+#, php-format
+msgid "Token sale <strong>is active until %s</strong>"
+msgstr ""
+
+#: partials/ico_listing/parts/ico_date_and_image.php:15
+#, php-format
+msgid "Token sale <strong>will start %s</strong>"
+msgstr ""
+
+#: inc/crypterio/functions.php:572
+msgid "Token sale end date"
+msgstr "Fecha final de venta de tokens"
+
+#: inc/crypterio/functions.php:562
+msgid "Token sale start date"
+msgstr "Fecha inicial de venta de tokens"
+
+#: inc/vc/modules/wave_roadmap.php:17 inc/vc/modules/token_structure.php:17
+msgid "Token Structure"
+msgstr "Estructura de tokens"
+
+#: inc/vc/modules/token_structure.php:8
+msgid "Token structure"
+msgstr "Estructura de tokens"
+
+#: inc/crypterio/functions.php:552
+msgid "Token Type"
+msgstr "Tipo de tokens"
+
+#: partials/ico_listing/parts/token_sale.php:4
+msgid "Token type"
+msgstr ""
+
+#: inc/visual_composer.php:295 inc/visual_composer.php:318
+msgid "Top"
+msgstr "Superior"
+
+#: functions.php:63
+msgid "Top Menu"
+msgstr "Menú superior"
+
+#: woocommerce/myaccount/my-orders.php:28
+#: woocommerce/checkout/review-order.php:31
+#: woocommerce/checkout/review-order.php:110 woocommerce/cart/cart.php:103
+#: woocommerce/cart/cart-totals.php:91 woocommerce/cart/cart-totals.php:92
+msgid "Total"
+msgstr "Total"
+
+#: woocommerce/cart/cart.php:36
+msgid "total"
+msgstr "total"
+
+#: inc/crypterio/functions.php:547 partials/ico_listing/parts/token_sale.php:8
+msgid "Total Tokens"
+msgstr "Total de tokens"
+
+#: inc/extras.php:1345 inc/customizer/registration.php:37
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: partials/news/parts/_share.php:12
+msgid "Tweet"
+msgstr "Tuit"
+
+#: inc/post_types-config.php:384 inc/extras.php:1326
+#: inc/visual_composer.php:673 inc/visual_composer.php:2618
+#: inc/customizer/registration.php:17
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/crypterio/functions.php:582
+msgid "Twitter account"
+msgstr "Cuenta de Twitter"
+
+#: inc/visual_composer.php:2419 inc/visual_composer.php:2462
+msgid "Two"
+msgstr "Dos"
+
+#: inc/visual_composer.php:176 inc/visual_composer.php:3075
+#: inc/tgm/tgm-plugin-activation.php:2457
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/visual_composer.php:179
+msgid "Type 1"
+msgstr "Tipo 1"
+
+#: inc/visual_composer.php:180
+msgid "Type 2"
+msgstr "Tipo 2"
+
+#: inc/customizer/registration.php:62
+msgid "Typography"
+msgstr "Tipografía"
+
+#: inc/customizer/controls/font-weight.php:28
+msgid "Ultra Bold"
+msgstr "Ultranegrita"
+
+#: inc/customizer/controls/font-weight.php:29
+msgid "Ultra Bold Italic"
+msgstr "Ultranegrita cursiva"
+
+#: inc/customizer/controls/font-weight.php:12
+msgid "Ultra Light"
+msgstr "Ultra Light"
+
+#: inc/customizer/controls/font-weight.php:13
+msgid "Ultra Light Italic"
+msgstr "Ultra Light cursiva"
+
+#: partials/vc_parts/ico_grid/live.php:129
+#, php-format
+msgid "Until %s"
+msgstr "Hasta %s"
+
+#: inc/crypterio/functions.php:434 partials/ico_listing/parts/related.php:4
+msgid "Upcoming"
+msgstr "Próximamente"
+
+#: inc/visual_composer.php:2003
+msgid "Upcoming Events"
+msgstr "Próximos eventos"
+
+#: taxonomy-stm_ico_listing_category.php:60 archive-stm_ico_listing.php:64
+msgid "Upcoming ICO"
+msgstr "Próximo ICO"
+
+#: inc/tgm/tgm-plugin-activation.php:2628
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/tgm/tgm-plugin-activation.php:2293
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/tgm-plugin-activation.php:2234
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: inc/tgm/tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Actualización requerida"
+
+#: woocommerce/cart/shipping-calculator.php:98
+msgid "Update Totals"
+msgstr "Total de actualizaciones"
+
+#: woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr "Total de actualizaciones"
+
+#: inc/tgm/tgm-plugin-activation.php:3382
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/tgm-plugin-activation.php:2589
+msgid "Upgrade message from the plugin author:"
+msgstr "Actualizar mensaje desde el autor del plugin:"
+
+#: partials/vc_parts/ico_countdown/contract.php:62
+msgid "Upload"
+msgstr "Cargar"
+
+#: inc/customizer/controls/text-transform.php:14
+msgid "Uppercase"
+msgstr "Mayúscula"
+
+#: inc/crypterio/graph.php:80
+msgid "USD chart border color"
+msgstr "Color del borde de la gráfica USD"
+
+#: inc/crypterio/graph.php:74
+msgid "USD chart fill color"
+msgstr "Color de relleno de la gráfica USD"
+
+#: inc/crypterio/graph.php:60
+msgid "USD price decimals number"
+msgstr "Número de decimales del precio USD"
+
+#: woocommerce/global/form-login.php:34
+msgid "Username or email"
+msgstr "Usuario o dirección de correo electrónico"
+
+#: inc/post_types-config.php:46 inc/visual_composer.php:1807
+#: inc/customizer/registration.php:268 inc/customizer/registration.php:279
+msgid "Vacancies"
+msgstr "Vacantes"
+
+#: inc/post_types-config.php:45 inc/customizer/registration.php:274
+msgid "Vacancy"
+msgstr "Vacante"
+
+#: inc/visual_composer.php:2701
+msgid "Vacancy Bottom"
+msgstr "Vacante inferior"
+
+#: inc/visual_composer.php:2482 inc/vc/modules/token_structure.php:21
+#: inc/vc/modules/token_structure.php:33
+msgid "Value"
+msgstr "Valor"
+
+#: inc/visual_composer.php:2406 inc/visual_composer.php:2449
+msgid "Values"
+msgstr "Valores"
+
+#: inc/post_types-config.php:79 inc/customizer/registration.php:996
+#: inc/customizer/registration.php:1045 inc/customizer/registration.php:1086
+msgid "VC Sidebar"
+msgstr "Barra lateral VC"
+
+#: inc/post_types-config.php:80 inc/customizer/registration.php:980
+#: inc/customizer/registration.php:1029 inc/customizer/registration.php:1070
+msgid "VC Sidebars"
+msgstr "Barras laterales VC"
+
+#: inc/tgm/tgm-plugin-activation.php:2461
+msgid "Version"
+msgstr "Versión"
+
+#: inc/visual_composer.php:930
+msgid "Vertical Middle Align"
+msgstr "Alineación vertical al medio"
+
+#: inc/visual_composer.php:222
+msgid "Video Height"
+msgstr "Altura de vídeo"
+
+#: inc/admin/product_registration/screens/support.php:67
+msgid "Video Tutorials"
+msgstr "Tutoriales en vídeo"
+
+#: inc/post_types-config.php:291
+msgid "Video URL (embed)"
+msgstr "URL de vídeo (incrustada)"
+
+#: inc/visual_composer.php:213
+msgid "Video Width"
+msgstr "Anchura de vídeo"
+
+#: woocommerce/myaccount/my-orders.php:88
+msgid "View"
+msgstr "Ver"
+
+#: partials/vc_parts/ico_grid/live.php:155
+#, php-format
+msgid "View all %s active ICO"
+msgstr ""
+
+#: partials/vc_parts/ico_grid/finished.php:145
+#, php-format
+msgid "View all %s ended ICO"
+msgstr ""
+
+#: partials/vc_parts/ico_grid/upcoming.php:146
+#, php-format
+msgid "View all %s upcoming ICO"
+msgstr ""
+
+#: vc_templates/stm_staff_list.php:141 vc_templates/stm_staff_list.php:144
+msgid "view profile"
+msgstr "ver perfil"
+
+#: inc/visual_composer.php:2747 inc/visual_composer.php:2757
+msgid "View Style"
+msgstr "Ver estilo"
+
+#: inc/visual_composer.php:1594
+msgid "Viewport Position (%)"
+msgstr "Posición de ventana de visualización (5)"
+
+#: inc/post_types-config.php:287
+msgid "Views"
+msgstr "Vistas"
+
+#: inc/extras.php:1329 inc/customizer/registration.php:20
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/admin/product_registration/screens/support.php:90
+msgid "Visit Our Forum"
+msgstr "Visitar nuestro foro"
+
+#: inc/admin/product_registration/screens/system_status.php:277
+msgid "Visit plugin homepage"
+msgstr "Visitar la página de inicio de plugins"
+
+#: vc_templates/stm_partner.php:61
+msgid "visit website"
+msgstr "visitar sitio web"
+
+#: inc/extras.php:1349 inc/customizer/registration.php:40
+msgid "Vk"
+msgstr "Vk"
+
+#: inc/admin/white_list/templates/i18n.php:7
+msgid "Wallet"
+msgstr "Monedero"
+
+#: inc/vc/modules/ico_countdown.php:247
+msgid "Wallet description"
+msgstr "Descripción de monedero"
+
+#: inc/admin/product_registration/screens/support.php:73
+msgid "Watch Videos"
+msgstr "Mirar vídeos"
+
+#: inc/vc/modules/wave_roadmap.php:8
+msgid "Wave Roadmap"
+msgstr "Hoja de ruta de Wave"
+
+#: inc/admin/product_registration/screens/support.php:33
+msgid ""
+"We offer excellent support through our advanced ticket system. Make sure to "
+"register your purchase first to access our support services and other "
+"resources."
+msgstr ""
+"Ofrecemos un servicio de ayuda excelente gracias a nuestro avanzado sistema "
+"de tickets. Asegúrese de registrar su compra antes de acceder a nuestros "
+"servicios de ayuda y demás recursos."
+
+#: inc/admin/product_registration/screens/support.php:70
+#, php-format
+msgid ""
+"We recommend you to watch video tutorials before you start the theme "
+"customization. Our video tutorials can teach you the different aspects of "
+"using %s."
+msgstr ""
+"Le recomendamos ver tutoriales en vídeo antes de comenzar a personalizar el "
+"tema. Nuestros tutoriales pueden enseñarle diferentes aspectos de %s."
+
+#: inc/extras.php:147 inc/visual_composer.php:2602
+#: vc_templates/stm_portfolio_information.php:43
+#: partials/ico_listing/parts/ico_date_and_image.php:43
+msgid "Website"
+msgstr "Sitio web"
+
+#: vc_templates/stm_crypto_charts.php:50
+msgid "week"
+msgstr "semana"
+
+#: inc/extras.php:1346 inc/customizer/registration.php:38
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: inc/admin/product_registration/screens/system_status.php:36
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "Si WordPress Multisitio está habilitado o no."
+
+#: inc/post_types-config.php:13
+msgid "White list"
+msgstr "Whitelist"
+
+#: partials/ico_listing/parts/token_sale.php:10
+msgid "Whitelist"
+msgstr ""
+
+#: inc/crypterio/functions.php:644
+#: partials/ico_listing/parts/ico_date_and_image.php:51
+msgid "Whitepaper"
+msgstr "Documento técnico"
+
+#: inc/vc/modules/ico_countdown.php:65
+msgid "Whitepaper link"
+msgstr "Enlace a documento técnico"
+
+#: inc/crypterio/functions.php:629
+msgid "Who cant participate"
+msgstr "Quién no puede participar"
+
+#: inc/post_types-config.php:430
+msgid "Wide"
+msgstr "Ancho"
+
+#: inc/visual_composer.php:2022
+msgid "Widget"
+msgstr "Widget"
+
+#: inc/crypterio/graph.php:54 inc/customizer/registration.php:88
+#: inc/customizer/registration.php:555
+msgid "Width"
+msgstr "Anchura"
+
+#: inc/visual_composer.php:168
+msgid "Width & Responsiveness"
+msgstr "Anchura & grado de respuesta"
+
+#: inc/visual_composer.php:2386
+msgid "Width (px)"
+msgstr "Anchura (px)"
+
+#: inc/admin/product_registration/screens/system_status.php:11
+#: inc/admin/product_registration/screens/system_status.php:15
+msgid "WordPress Environment"
+msgstr "Entorno WordPress"
+
+#: inc/tgm/tgm-plugin-activation.php:2193
+msgid "WordPress Repository"
+msgstr "Registro de WordPress"
+
+#: inc/customizer/registration.php:990 inc/customizer/registration.php:1039
+#: inc/customizer/registration.php:1080
+msgid "Wordpress Sidebar"
+msgstr "Barra lateral de Wordpress"
+
+#: inc/customizer/registration.php:979 inc/customizer/registration.php:1028
+#: inc/customizer/registration.php:1069
+msgid "Wordpress Sidebars"
+msgstr "Barras laterales de Wordpress"
+
+#: inc/post_types-config.php:61 inc/customizer/registration.php:338
+msgid "Work"
+msgstr "Trabajo"
+
+#: inc/post_types-config.php:62 inc/customizer/registration.php:332
+#: inc/customizer/registration.php:343
+msgid "Works"
+msgstr "Trabajos"
+
+#: inc/admin/product_registration/screens/system_status.php:57
+msgid "WP Debug Mode:"
+msgstr "Modo Debug WP:"
+
+#: inc/admin/product_registration/screens/system_status.php:40
+msgid "WP Memory Limit:"
+msgstr "Límite de memoria WP:"
+
+#: inc/admin/product_registration/screens/system_status.php:35
+msgid "WP Multisite:"
+msgstr "WP Multisitio:"
+
+#: inc/admin/product_registration/screens/system_status.php:30
+msgid "WP Version:"
+msgstr "Versión WP:"
+
+#: inc/visual_composer.php:2396
+msgid "X-axis values"
+msgstr "Valores eje X"
+
+#: inc/extras.php:1350 inc/customizer/registration.php:41
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/visual_composer.php:2434
+msgid "Y-axis values"
+msgstr "Valores eje Y"
+
+#: inc/extras.php:1336 inc/customizer/registration.php:27
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: inc/visual_composer.php:527
+msgid "Year"
+msgstr "Año"
+
+#: vc_templates/stm_crypto_charts.php:58
+msgid "year"
+msgstr "año"
+
+#: inc/visual_composer.php:147 inc/visual_composer.php:158
+#: inc/visual_composer.php:742 inc/visual_composer.php:1228
+#: inc/visual_composer.php:1251 inc/visual_composer.php:1406
+#: inc/visual_composer.php:1414 inc/visual_composer.php:1422
+#: inc/visual_composer.php:1619 inc/visual_composer.php:1627
+#: inc/visual_composer.php:1665 inc/visual_composer.php:1687
+#: inc/visual_composer.php:1697 inc/visual_composer.php:1891
+#: inc/visual_composer.php:1902 inc/visual_composer.php:2372
+#: inc/visual_composer.php:2558 inc/visual_composer.php:2674
+#: inc/visual_composer.php:2805 inc/vc/modules/wave_roadmap.php:48
+msgid "Yes"
+msgstr "Sí"
+
+#: partials/content-event-list-form.php:76
+msgid "You already has been joined the event."
+msgstr "Ya te has unido a este evento."
+
+#: woocommerce/myaccount/my-address.php:70
+msgid "You have not set up this type of address yet."
+msgstr "Aún no ha configurado este tipo de dirección."
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr "Debe estar registrado para comprar."
+
+#: inc/admin/product_registration/screens/startup.php:73
+msgid ""
+"You will see a green check mark for success, or a failure message if "
+"something went wrong. If it failed, please make sure you followed the steps "
+"above correctly."
+msgstr ""
+"Si es correcto, verá una marca de comprobación verde, o un mensaje de error "
+"si algo ha ido mal. Si ha habido un fallo, asegúrese de haber seguido los "
+"pasos de arriba correctamente."
+
+#: inc/extras.php:113
+msgid "Your comment is awaiting moderation."
+msgstr "Su comentario está pendiente de moderación."
+
+#: inc/admin/product_registration/screens/system_status.php:50
+msgid ""
+"Your current memory limit is sufficient, but if you need to import classic "
+"demo content, the required memory limit is <strong>256MB.</strong>"
+msgstr ""
+"El límite de memoria actual es suficiente, pero si necesita importar datos "
+"de prueba clásicos, el límite de memoria requerido es <strong>256MB.</strong>"
+
+#: inc/crypterio/functions.php:522
+msgid "Your E-mail"
+msgstr "Su dirección de correo eletrónico"
+
+#: inc/crypterio/functions.php:510
+msgid "Your name"
+msgstr "Su nombre"
+
+#: woocommerce/checkout/review-order.php:25
+msgid "your order"
+msgstr "su pedido"
+
+#: inc/extras.php:1343 inc/visual_composer.php:2633
+#: inc/customizer/registration.php:35
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/extras.php:1344 inc/customizer/registration.php:36
+msgid "Youtube Play"
+msgstr "Youtube Play"
+
+#: inc/admin/product_registration/screens/system_status.php:228
+msgid ""
+"ZipArchive is required for importing demos. They are used to import and "
+"export zip files specifically for sliders."
+msgstr ""
+"Se requiere ZipArchive para importar demos. Se usan para importar y exportar "
+"archivos zip, en concreto para diapositivas."
+
+#: inc/admin/product_registration/screens/system_status.php:227
+msgid "ZipArchive:"
+msgstr "ZipArchive:"
+
+#: inc/crypterio/functions.php:628 partials/ico_listing/parts/token_sale.php:12
+msgid "Сant participate"
+msgstr "No puede participar"
