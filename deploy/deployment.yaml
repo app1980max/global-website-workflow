@@ -1,0 +1,54 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: crypterio
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: crypterio
+  template:
+    metadata:
+      labels:
+        app: crypterio
+    spec:
+      containers:
+      - name: wordpress
+        image: registry.gitlab.com/virtapp-software/web-crypterio:main
+        resources: {}
+        ports:
+        - containerPort: 80
+        env:
+            - name: WORDPRESS_DB_HOST
+              value: kubedb
+            - name: WORDPRESS_DB_NAME
+              value: crypterio
+            - name: WORDPRESS_DB_USER
+              value: root
+            - name: WORDPRESS_DB_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: mysql-pass
+                  key: password
+      imagePullSecrets:
+      - name: gitlab-token-auth
+      restartPolicy: Always
+      nodeSelector: {}
+
+---
+
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: crypterio
+spec:
+  type: ClusterIP
+  ports:
+    - port: 80
+  selector:
+    app: crypterio
+
+
+
+    
