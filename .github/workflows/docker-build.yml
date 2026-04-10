@@ -7,12 +7,13 @@ on:
 
 env:
   IMAGE_NAME: ${{ secrets.DOCKERHUB_USERNAME }}/crypterio
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-    # 📥 Checkout
+    # 📥 Checkout code
     - name: Checkout
       uses: actions/checkout@v4
 
@@ -23,8 +24,8 @@ jobs:
         username: ${{ secrets.DOCKERHUB_USERNAME }}
         password: ${{ secrets.DOCKERHUB_TOKEN }}
 
-    # 🏗️ Build & Push image
-    - name: Build and Push
+    # 🏗️ Build & Push Docker image
+    - name: Build and Push Image
       run: |
         IMAGE_TAG=${{ github.sha }}
 
@@ -34,18 +35,22 @@ jobs:
         docker tag $IMAGE_NAME:$IMAGE_TAG $IMAGE_NAME:latest
         docker push $IMAGE_NAME:latest
 
+   
     # ⚙️ Setup kubeconfig
     - name: Set kubeconfig
       run: |
         mkdir -p ~/.kube
-        echo "${{ secrets.KUBE_CONFIG }}" > ~/.kube/config
+        echo "${{ secrets.KUBE_CONFIG }}" | base64 -d > ~/.kube/config
 
-    # 🚀 Deploy to K3s
-    - name: Deploy
+    # 🔍 Verify cluster connection
+    - name: Check cluster
+      run: |
+        kubectl get nodes
+
+    # 🚀 Apply Kubernetes manifests
+    - name: Apply Kubernetes Manifests
       run: |
         IMAGE_TAG=${{ github.sha }}
-
-        kubectl set image deployment/crypterio \
-          my-app=$IMAGE_NAME:$IMAGE_TAG --record
-
+        sed -i "s|IMAGE_PLACEHOLDER|${IMAGE_NAME}:${IMAGE_TAG}|g" deploy/deployment.yaml.yaml
+        kubectl apply -f deploy/deployment.yaml.yaml
         kubectl rollout status deployment/crypterio
