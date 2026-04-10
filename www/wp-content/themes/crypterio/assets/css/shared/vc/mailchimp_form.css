@@ -1,0 +1,107 @@
+@charset "UTF-8";
+.stm_mailchimp_form {
+  padding: 29px 50px 43px;
+  border-radius: 10px;
+  background-image: linear-gradient(to right, #0095ff 0%, #28efdb 100%);
+  box-shadow: 0px 10px 20px 0px rgba(20, 193, 237, 0.5);
+  color: #fff;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-align: end;
+      align-items: flex-end;
+  z-index: 2;
+  position: relative;
+}
+@media (max-width: 767px) {
+  .stm_mailchimp_form {
+    padding: 20px 25px 40px;
+  }
+}
+.stm_mailchimp_form .mailchimp_text {
+  -ms-flex: 0 0 60%;
+      flex: 0 0 60%;
+  max-width: 60%;
+  padding-left: 175px;
+  min-height: 130px;
+  position: relative;
+  padding-right: 15px;
+}
+.stm_mailchimp_form .mailchimp_text h3 {
+  font-size: 42px;
+  font-weight: 600;
+  letter-spacing: -0.84px;
+  color: #fff;
+}
+.stm_mailchimp_form .mailchimp_text .form_subtitle {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 36px;
+}
+.stm_mailchimp_form .mailchimp_text i {
+  font-size: 125px;
+  opacity: 0.5;
+  position: absolute;
+  top: 15px;
+  left: 0;
+}
+@media (max-width: 992px) {
+  .stm_mailchimp_form .mailchimp_text {
+    -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+    max-width: 100%;
+    padding-left: 80px;
+    padding-right: 0;
+    margin-bottom: 20px;
+  }
+  .stm_mailchimp_form .mailchimp_text i {
+    font-size: 70px;
+  }
+}
+@media (max-width: 767px) {
+  .stm_mailchimp_form .mailchimp_text {
+    padding: 0 !important;
+  }
+  .stm_mailchimp_form .mailchimp_text i {
+    position: relative;
+    top: auto;
+  }
+}
+.stm_mailchimp_form .mailchimp_content {
+  -ms-flex: 0 0 40%;
+      flex: 0 0 40%;
+  max-width: 40%;
+}
+.stm_mailchimp_form .mailchimp_content .stm_newsletter_form {
+  position: relative;
+}
+.stm_mailchimp_form .mailchimp_content .stm_newsletter_form input[type=email] {
+  border: none;
+  border-radius: 50px !important;
+  background-color: #fff;
+}
+.stm_mailchimp_form .mailchimp_content .stm_newsletter_form label {
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+.stm_mailchimp_form .mailchimp_content .stm_newsletter_form label i {
+  font-size: 7px;
+}
+.stm_mailchimp_form .mailchimp_content .stm_newsletter_form label i::before {
+  content: "";
+  color: #0095ff;
+}
+.stm_mailchimp_form .mailchimp_content .stm_newsletter_form #stm_newsletter_submit {
+  display: none;
+}
+@media (max-width: 992px) {
+  .stm_mailchimp_form .mailchimp_content {
+    -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+    max-width: 100%;
+  }
+}

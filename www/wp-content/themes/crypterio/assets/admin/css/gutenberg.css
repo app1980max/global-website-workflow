@@ -1,0 +1,197 @@
+@charset "UTF-8";
+#editor.block-editor__container .editor-styles-wrapper .wp-block {
+	max-width: 1200px;
+	font-family: "Open Sans";
+	color: #777;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 30px;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block[data-align=full] {
+	max-width: -webkit-fill-available;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block p {
+	color: #222;
+	margin: 0 0 15px;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block pre {
+	display: block;
+	padding: 9.5px;
+	margin: 0 0 10px;
+	font-size: 1em;
+	line-height: 1.42857143;
+	word-break: break-all;
+	word-wrap: break-word;
+	color: #333;
+	background-color: #f5f5f5;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block kbd {
+	padding: 2px 4px;
+	font-size: 90%;
+	color: #fff;
+	background-color: #333;
+	border-radius: 3px;
+	-webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
+	box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block address {
+	margin-bottom: 20px;
+	font-style: normal;
+	line-height: 1.42857143;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block a {
+	color: #ff3026;
+	text-decoration: none;
+	outline: 0 !important;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block a:hover {
+	text-decoration: underline;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block h1, #editor.block-editor__container .editor-styles-wrapper .wp-block .h1, #editor.block-editor__container .editor-styles-wrapper .wp-block h2, #editor.block-editor__container .editor-styles-wrapper .wp-block .h2, #editor.block-editor__container .editor-styles-wrapper .wp-block h3, #editor.block-editor__container .editor-styles-wrapper .wp-block .h3, #editor.block-editor__container .editor-styles-wrapper .wp-block h4, #editor.block-editor__container .editor-styles-wrapper .wp-block .h4, #editor.block-editor__container .editor-styles-wrapper .wp-block h5, #editor.block-editor__container .editor-styles-wrapper .wp-block .h5, #editor.block-editor__container .editor-styles-wrapper .wp-block h6, #editor.block-editor__container .editor-styles-wrapper .wp-block .h6, #editor.block-editor__container .editor-styles-wrapper .wp-block .top_nav .top_nav_wrapper > ul, #editor.block-editor__container .editor-styles-wrapper .wp-block .top_nav .icon_text strong, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_testimonials .item .testimonial-info .testimonial-text .name, #editor.block-editor__container .editor-styles-wrapper .wp-block .stats_counter .counter_title, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_contact .stm_contact_info .stm_contact_job, #editor.block-editor__container .editor-styles-wrapper .wp-block .vacancy_table_wr .vacancy_table thead th, #editor.block-editor__container .editor-styles-wrapper .wp-block .testimonials_carousel .testimonial .info .position, #editor.block-editor__container .editor-styles-wrapper .wp-block .testimonials_carousel .testimonial .info .company, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_gmap_wrapper .gmap_addresses .addresses .item .title, #editor.block-editor__container .editor-styles-wrapper .wp-block .company_history > ul > li .year, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_contacts_widget, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_works_wr.grid .stm_works .item .item_wr .title, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_works_wr.grid_with_filter .stm_works .item .info .title, #editor.block-editor__container .editor-styles-wrapper .wp-block body .vc_general.vc_btn3, #editor.block-editor__container .editor-styles-wrapper .wp-block .crypterio-rev-title, #editor.block-editor__container .editor-styles-wrapper .wp-block .crypterio-rev-title-2, #editor.block-editor__container .editor-styles-wrapper .wp-block .crypterio-rev-title-3, #editor.block-editor__container .editor-styles-wrapper .wp-block .crypterio-rev-text, #editor.block-editor__container .editor-styles-wrapper .wp-block body .vc_tta-container .vc_tta.vc_general.vc_tta-tabs.theme_style .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab a, #editor.block-editor__container .editor-styles-wrapper .wp-block strong, #editor.block-editor__container .editor-styles-wrapper .wp-block b, #editor.block-editor__container .editor-styles-wrapper .wp-block .button, #editor.block-editor__container .editor-styles-wrapper .wp-block .woocommerce a.button, #editor.block-editor__container .editor-styles-wrapper .wp-block .woocommerce button.button, #editor.block-editor__container .editor-styles-wrapper .wp-block .woocommerce input.button, #editor.block-editor__container .editor-styles-wrapper .wp-block .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, #editor.block-editor__container .editor-styles-wrapper .wp-block .woocommerce input.button.alt, #editor.block-editor__container .editor-styles-wrapper .wp-block .request_callback p, #editor.block-editor__container .editor-styles-wrapper .wp-block ul.comment-list .comment .comment-author, #editor.block-editor__container .editor-styles-wrapper .wp-block .page-numbers .page-numbers, #editor.block-editor__container .editor-styles-wrapper .wp-block #footer .footer_widgets .widget.widget_recent_entries ul li a, #editor.block-editor__container .editor-styles-wrapper .wp-block .default_widgets .widget.widget_nav_menu ul li, #editor.block-editor__container .editor-styles-wrapper .wp-block .default_widgets .widget.widget_categories ul li, #editor.block-editor__container .editor-styles-wrapper .wp-block .default_widgets .widget.widget_product_categories ul li, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_sidebar .widget.widget_nav_menu ul li, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_sidebar .widget.widget_categories ul li, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_sidebar .widget.widget_product_categories ul li, #editor.block-editor__container .editor-styles-wrapper .wp-block .shop_widgets .widget.widget_nav_menu ul li, #editor.block-editor__container .editor-styles-wrapper .wp-block .shop_widgets .widget.widget_categories ul li, #editor.block-editor__container .editor-styles-wrapper .wp-block .shop_widgets .widget.widget_product_categories ul li, #editor.block-editor__container .editor-styles-wrapper .wp-block .default_widgets .widget.widget_recent_entries ul li a, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_sidebar .widget.widget_recent_entries ul li a, #editor.block-editor__container .editor-styles-wrapper .wp-block .shop_widgets .widget.widget_recent_entries ul li a, #editor.block-editor__container .editor-styles-wrapper .wp-block .staff_bottom_wr .staff_bottom .infos .info, #editor.block-editor__container .editor-styles-wrapper .wp-block .woocommerce .widget_price_filter .price_slider_amount .button, #editor.block-editor__container .editor-styles-wrapper .wp-block .woocommerce ul.product_list_widget li .product-title, #editor.block-editor__container .editor-styles-wrapper .wp-block .woocommerce ul.products li.product .price, #editor.block-editor__container .editor-styles-wrapper .wp-block .woocommerce a.added_to_cart, #editor.block-editor__container .editor-styles-wrapper .wp-block .woocommerce div.product .woocommerce-tabs ul.tabs li a, #editor.block-editor__container .editor-styles-wrapper .wp-block .woocommerce div.product form.cart .variations label, #editor.block-editor__container .editor-styles-wrapper .wp-block .woocommerce table.shop_table th, #editor.block-editor__container .editor-styles-wrapper .wp-block .woocommerce-cart table.cart th.product-name a, #editor.block-editor__container .editor-styles-wrapper .wp-block .woocommerce-cart table.cart td.product-name a, #editor.block-editor__container .editor-styles-wrapper .wp-block .woocommerce-cart table.cart th .amount, #editor.block-editor__container .editor-styles-wrapper .wp-block .woocommerce-cart table.cart td .amount, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_services .item .item_wr .content .read_more, #editor.block-editor__container .editor-styles-wrapper .wp-block .staff_list ul li .staff_info .staff_department, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_partner.style_2 .stm_partner_content .position, #editor.block-editor__container .editor-styles-wrapper .wp-block .staff_carousel_item .staff_department, #editor.block-editor__container .editor-styles-wrapper .wp-block body.header_style_5 .header_top .info-text strong, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_services_tabs .services_categories ul li a, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_services_tabs .service_tab_item .service_name, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_services_tabs .service_tab_item .service_cost, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_works_wr.grid_2.style_1 .stm_works .item .item_wr .title, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_works_wr.grid_2.style_2 .stm_works .item .item_wr .title, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_works_wr.grid_with_filter.style_1 .stm_works .item .item_wr .title, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_works_wr.grid_with_filter.style_2 .stm_works .item .item_wr .title, #editor.block-editor__container .editor-styles-wrapper .wp-block body.header_style_7 .side_nav .main_menu_nav > li > a, #editor.block-editor__container .editor-styles-wrapper .wp-block body.header_style_7 .side_nav .main_menu_nav > li ul li a, #editor.block-editor__container .editor-styles-wrapper .wp-block body.header_style_5 .header_top .info-text b, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm-header__hb .stm-navigation, #editor.block-editor__container .editor-styles-wrapper .wp-block .stm_contacts_widget.style_4 {
+	font-family: Mukta Malar;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block .h1, #editor.block-editor__container .editor-styles-wrapper .wp-block .h2, #editor.block-editor__container .editor-styles-wrapper .wp-block .h3, #editor.block-editor__container .editor-styles-wrapper .wp-block .h4, #editor.block-editor__container .editor-styles-wrapper .wp-block .h5, #editor.block-editor__container .editor-styles-wrapper .wp-block .h6, #editor.block-editor__container .editor-styles-wrapper .wp-block h1, #editor.block-editor__container .editor-styles-wrapper .wp-block h2, #editor.block-editor__container .editor-styles-wrapper .wp-block h3, #editor.block-editor__container .editor-styles-wrapper .wp-block h4, #editor.block-editor__container .editor-styles-wrapper .wp-block h5, #editor.block-editor__container .editor-styles-wrapper .wp-block h6 {
+	font-family: Mukta Malar;
+	font-weight: 700;
+	color: #222;
+	padding: 0;
+	margin: 0 0 23px;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block h1 {
+	font-size: 54px !important;
+	fon-weight: 800;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block h2 {
+	margin-bottom: 23px;
+	font-size: 36px !important;
+	line-height: 45px;
+	padding: 10px 0 0;
+	font-size: 54px;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block h3 {
+	margin-bottom: 23px;
+	font-size: 28px !important;
+	line-height: 36px;
+	padding: 17px 0 0;
+	letter-spacing: -0.06em;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block h4 {
+	font-size: 20px !important;
+	font-weight: 700;
+	margin-bottom: 23px;
+	line-height: 28px;
+	padding: 23px 0 0;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block h5 {
+	margin: 0 0 10px;
+	font-size: 18px !important;
+	line-height: 22px;
+	padding: 15px 0 0;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block h6 {
+	font-size: 16px !important;
+	letter-spacing: -0.02em;
+	line-height: 20px;
+	padding: 31px 0 0;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block .h5, #editor.block-editor__container .editor-styles-wrapper .wp-block .h6, #editor.block-editor__container .editor-styles-wrapper .wp-block b, #editor.block-editor__container .editor-styles-wrapper .wp-block h5, #editor.block-editor__container .editor-styles-wrapper .wp-block h6, #editor.block-editor__container .editor-styles-wrapper .wp-block strong {
+	font-weight: 600;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block blockquote {
+	padding: 21px 30px 18px;
+	border-left: 5px solid #ffc40c;
+	background: #f2f2f2;
+	font-size: 16px;
+	color: #212121;
+	font-style: italic;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block blockquote p:last-child, #editor.block-editor__container .editor-styles-wrapper .wp-block blockquote ul:last-child, #editor.block-editor__container .editor-styles-wrapper .wp-block blockquote ol:last-child {
+	margin-bottom: 0;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block code, #editor.block-editor__container .editor-styles-wrapper .wp-block kbd, #editor.block-editor__container .editor-styles-wrapper .wp-block pre, #editor.block-editor__container .editor-styles-wrapper .wp-block samp {
+	font-family: monospace, monospace;
+	font-size: 1em;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block code {
+	padding: 2px 4px;
+	color: #c7254e;
+	background-color: #f9f2f4;
+	border-radius: 4px;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block ul:not(.wp-block-gallery) {
+	margin: 0 0 20px;
+	list-style: none;
+	padding: 0;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block ul:not(.wp-block-gallery) li {
+	position: relative;
+	padding: 0 0 0 26px;
+	margin: 0 0 14px;
+	line-height: 18px;
+	color: #222;
+	border: none;
+	font-size: 15px;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block ul:not(.wp-block-gallery) li ul {
+	margin: 10px 0;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block ul:not(.wp-block-gallery) li:before {
+	content: "";
+	font: normal normal normal 14px/1 FontAwesome;
+	text-rendering: auto;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-transform: translate(0, 0);
+	transform: translate(0, 0);
+	position: absolute;
+	left: 0;
+	top: 8px;
+	display: inline-block;
+	vertical-align: top;
+	font-size: 5px;
+	color: #ff3026;
+	-webkit-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block table {
+	width: 100%;
+	margin: 0 0 40px;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block table th {
+	padding: 10px;
+	border: 1px solid #e6e6e6;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block table td {
+	padding: 10px;
+	border: 1px solid #e6e6e6;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block dl {
+	margin: 0 0 40px;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block dt, #editor.block-editor__container .editor-styles-wrapper .wp-block dd {
+	line-height: 1.42857143;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block dt {
+	font-weight: bold;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block dd {
+	margin: 0 0 10px;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block ol {
+	list-style: decimal;
+	margin: 0 0 20px;
+	padding: 0;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block ol li {
+	margin: 0 0 10px;
+	border: none;
+	list-style: decimal;
+}
+#editor.block-editor__container .editor-styles-wrapper .wp-block ol li ol {
+	margin: 10px 0;
+	padding: 0 0 0 26px;
+}
