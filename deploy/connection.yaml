@@ -1,0 +1,26 @@
+apiVersion: v1
+kind: Endpoints
+metadata:
+  name: kubedb
+subsets:
+- addresses:
+  - ip: 172.16.100.22
+  ports:
+  - name: app
+    port: 30667
+    protocol: TCP
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: kubedb
+spec:
+  ports:
+  - name: app
+    port: 30667
+    protocol: TCP
+    targetPort: 30667
+  clusterIP: None
+  type: ClusterIP
