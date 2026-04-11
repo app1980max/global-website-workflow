@@ -4,6 +4,15 @@ on:
   push:
     branches:
       - main
+    paths:
+      - "deploy/**"
+      - "www/**"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "deploy/**"
+      - "www/**"
 
 env:
   IMAGE_NAME: ${{ secrets.DOCKERHUB_USERNAME }}/crypterio
