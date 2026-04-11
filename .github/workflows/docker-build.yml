@@ -2,38 +2,37 @@ name: Deploy to K3s
 
 on:
   push:
-    branches:
-      - main
-    paths:
-      - "deploy/**"
-      - "www/**"
-  pull_request:
-    branches:
-      - main
+    branches: [main]
     paths:
       - "deploy/**"
       - "www/**"
 
 env:
   IMAGE_NAME: ${{ secrets.DOCKERHUB_USERNAME }}/crypterio
+  NAMESPACE: default
+
+concurrency:
+  group: deploy-k3s
+  cancel-in-progress: true
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment: production  # 🔒 enable approval in GitHub UI
 
     steps:
-    # 📥 Checkout code
+    # 📥 Checkout
     - name: Checkout
       uses: actions/checkout@v4
 
-    # 🔐 Login to Docker Hub
+    # 🔐 Docker login
     - name: Login to Docker Hub
       uses: docker/login-action@v3
       with:
         username: ${{ secrets.DOCKERHUB_USERNAME }}
         password: ${{ secrets.DOCKERHUB_TOKEN }}
 
-    # 🏗️ Build & Push Docker image
+    # 🐳 Build & Push
     - name: Build and Push Image
       run: |
         IMAGE_TAG=${{ github.sha }}
@@ -44,41 +43,42 @@ jobs:
         docker tag $IMAGE_NAME:$IMAGE_TAG $IMAGE_NAME:latest
         docker push $IMAGE_NAME:latest
 
-    # ✅ Kubernetes steps MUST be here
+    # ☸️ Setup kubectl
     - name: Setup kubectl
       uses: azure/setup-kubectl@v4
-        
-    # ⚙️ Setup kubeconfig
+
     - name: Set kubeconfig
       run: |
         mkdir -p $HOME/.kube
         echo "${{ secrets.KUBE_CONFIG }}" > $HOME/.kube/config
-          
-    # 🔍 Verify cluster connection
-    - name: Check cluster
-      run: |
-        kubectl get nodes
 
-    # 🚀 Apply Kubernetes manifests
-    - name: Apply Kubernetes Manifests
+    # 🔍 Verify cluster
+    - name: Check cluster
+      run: kubectl get nodes
+
+    # 📦 Apply manifests (ONLY infra, no image logic)
+    - name: Apply base manifests
       run: |
-        kubectl apply -f deploy/deployment.yaml
-        
-    # 🔥 Better than sed: use kubectl set image
+        kubectl apply -n $NAMESPACE -f deploy/deployment.yaml
+
+    # 🚀 Deploy image
     - name: Deploy new version
       run: |
         IMAGE_TAG=${{ github.sha }}
-        kubectl set image deployment/crypterio \
-          crypterio=${IMAGE_NAME}:${IMAGE_TAG}
 
+        kubectl set image deployment/crypterio \
+          crypterio=${IMAGE_NAME}:${IMAGE_TAG} \
+          -n $NAMESPACE
+
+    # ⏳ Wait rollout
     - name: Wait for rollout
       run: |
-        kubectl rollout status deployment/crypterio
+        kubectl rollout status deployment/crypterio -n $NAMESPACE
 
-    # 🩺 Health check (optional but recommended)
-    - name: Health check
+    # ❗ Debug on failure
+    - name: Debug on failure
+      if: failure()
       run: |
-        sleep 10
-        kubectl get pods
-          
-    
+        kubectl get pods -n $NAMESPACE
+        kubectl describe deployment crypterio -n $NAMESPACE
+        
