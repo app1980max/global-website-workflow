@@ -35,12 +35,16 @@ jobs:
         docker tag $IMAGE_NAME:$IMAGE_TAG $IMAGE_NAME:latest
         docker push $IMAGE_NAME:latest
 
-   
+    # ✅ Kubernetes steps MUST be here
+    - name: Setup kubectl
+      uses: azure/setup-kubectl@v4
+        
     # ⚙️ Setup kubeconfig
     - name: Set kubeconfig
       run: |
-        mkdir -p ~/.kube
-        echo "${{ secrets.KUBE_CONFIG }}" | base64 -d > ~/.kube/config
+        mkdir -p $HOME/.kube
+        echo "${{ secrets.KUBE_CONFIG }}" > $HOME/.kube/config
+          
 
     # 🔍 Verify cluster connection
     - name: Check cluster
@@ -51,6 +55,6 @@ jobs:
     - name: Apply Kubernetes Manifests
       run: |
         IMAGE_TAG=${{ github.sha }}
-        sed -i "s|IMAGE_PLACEHOLDER|${IMAGE_NAME}:${IMAGE_TAG}|g" deploy/deployment.yaml.yaml
-        kubectl apply -f deploy/deployment.yaml.yaml
+        sed -i "s|IMAGE_PLACEHOLDER|${IMAGE_NAME}:${IMAGE_TAG}|g" deploy/deployment.yaml
+        kubectl apply -f deploy/deployment.yaml
         kubectl rollout status deployment/crypterio
