@@ -19,7 +19,7 @@ metadata:
 spec:
   ports:
   - name: app
-    port: 30667
+    port: 3306
     protocol: TCP
     targetPort: 3306
   clusterIP: None
