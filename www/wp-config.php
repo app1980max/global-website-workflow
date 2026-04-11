@@ -29,7 +29,7 @@ define( 'DB_USER', 'root' );
 define( 'DB_PASSWORD', 'fuko09phsurxho' );
 
 /** Database hostname */
-define( 'DB_HOST', '172.16.100.60' );
+define( 'DB_HOST', 'kubedb' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
