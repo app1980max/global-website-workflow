@@ -91,7 +91,7 @@ apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
   name: ingress-route-crypterio
-  namespace: default
+  namespace: vcluster-dev1
   annotations:
     nginx.ingress.kubernetes.io/affinity: "cookie"
     nginx.ingress.kubernetes.io/session-cookie-name: "route-crypterio"
@@ -113,6 +113,6 @@ spec:
             pathType: Prefix
             backend:
               service:
-                name: crypterio
+                name: crypterio-x-default-x-vcluster-dev1
                 port:
                   number: 80
