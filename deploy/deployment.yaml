@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: wordpress
-        image: registry.gitlab.com/virtapp-software/web-crypterio:main
+        image: virtapp/crypterio:latest
         resources: {}
         ports:
         - containerPort: 80
@@ -30,8 +30,6 @@ spec:
                 secretKeyRef:
                   name: mysql-pass
                   key: password
-      imagePullSecrets:
-      - name: gitlab-token-auth
       restartPolicy: Always
       nodeSelector: {}
 
