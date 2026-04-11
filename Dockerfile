@@ -1,4 +1,3 @@
-
 FROM ubuntu:latest
 MAINTAINER Dan Pupius <dan@pupi.us>
 
