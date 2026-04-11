@@ -1,4 +1,5 @@
-<img width="1048" height="646" alt="image" src="https://github.com/user-attachments/assets/59213162-5315-4f4b-ae36-8fd249eb1243" />
+<img width="1048" height="646" alt="image" src="https://github.com/user-attachments/assets/f6c5e6e8-e242-42f2-822c-fc0c00bb2554" />
+
 
 ## PHP | Wordpress Site 
 
