@@ -52,7 +52,7 @@ spec:
         app: crypterio
     spec:
       containers:
-      - name: wordpress
+      - name: crypterio
         image: virtapp/crypterio:latest
         resources: {}
         ports:
