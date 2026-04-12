@@ -26,13 +26,14 @@ ENV APACHE_PID_FILE /var/run/apache2.pid
 
 # Create app directory
 RUN mkdir -p /var/www/crypterio
+RUN rm -f /var/www/html/index.html
 
 # Set working directory
-WORKDIR /var/www/html
+WORKDIR /var/www/crypterio
 
 # Copy application files into crypterio
-#COPY ./www/ . 
-#RUN chown -R www-data:www-data /var/www/crypterio
+COPY ./www/ . 
+RUN chown -R www-data:www-data /var/www/crypterio
 
 # Copy Apache configs
 COPY apache-config.conf /etc/apache2/sites-enabled/000-default.conf
