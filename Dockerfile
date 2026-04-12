@@ -28,7 +28,7 @@ ENV APACHE_PID_FILE /var/run/apache2.pid
 RUN mkdir -p /var/www/crypterio
 
 # Set working directory
-WORKDIR /var/www/crypterio
+WORKDIR /var/www/html
 
 # Copy application files into crypterio
 COPY ./www/ . 
