@@ -31,8 +31,8 @@ RUN mkdir -p /var/www/crypterio
 WORKDIR /var/www/html
 
 # Copy application files into crypterio
-COPY ./www/ . 
-RUN chown -R www-data:www-data /var/www/crypterio
+#COPY ./www/ . 
+#RUN chown -R www-data:www-data /var/www/crypterio
 
 # Copy Apache configs
 COPY apache-config.conf /etc/apache2/sites-enabled/000-default.conf
