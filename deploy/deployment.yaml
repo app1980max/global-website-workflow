@@ -42,7 +42,7 @@ kind: Deployment
 metadata:
   name: crypterio
 spec:
-  replicas: 2
+  replicas: 3
   selector:
     matchLabels:
       app: crypterio
